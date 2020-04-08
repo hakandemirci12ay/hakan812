@@ -1,842 +1,587 @@
 #EXTM3U
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/n6gq2xN/TANITIM.png" tvg-name="TANITIM"  group-title="TUM KANALLAR",TANITIM
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043701
-
-#EXTINF:-1, tvg-id="epic-drama-tr.tr" tvg-logo="http://i.ibb.co/VmTkHMT/EPIC-DRAMA.png" tvg-name="EPIC DRAMA"  group-title="TUM KANALLAR",EPIC DRAMA
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043563
-
-#EXTINF:-1, tvg-id="FOX LIFE HD-TR" tvg-logo="http://i.ibb.co/WkDsVR4/FOXLIFE.png" tvg-name="FOXLIFE"  group-title="TUM KANALLAR",FOXLIFE
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043588
-
-#EXTINF:-1, tvg-id="FX HD-TR" tvg-logo="http://i.ibb.co/Z8WGPNK/FX.png" tvg-name="FX"  group-title="TUM KANALLAR",FX
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043577
-
-#EXTINF:-1, tvg-id="FOX CRIME HD-TR" tvg-logo="http://i.ibb.co/884njYg/FOXCRIME.png" tvg-name="FOXCRIME"  group-title="TUM KANALLAR",FOXCRIME
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043589
-
-#EXTINF:-1, tvg-id="beIN SERIES SCI-FI HD-TR" tvg-logo="http://i.ibb.co/wLvmh7t/be-IN-SERIES-SCI-FI.png" tvg-name="beIN SERIES SCI-FI"  group-title="TUM KANALLAR",beIN SERIES SCI-FI
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043722
-
-#EXTINF:-1, tvg-id="beIN SERIES COMEDY HD-TR" tvg-logo="http://i.ibb.co/ykGJGpt/be-IN-SERIES-COMEDY.png" tvg-name="beIN SERIES COMEDY"  group-title="TUM KANALLAR",beIN SERIES COMEDY
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043716
-
-#EXTINF:-1, tvg-id="beIN SERIES VICE HD-TR" tvg-logo="http://i.ibb.co/SPg67D0/be-IN-SERIES-VICE.png" tvg-name="beIN SERIES VICE"  group-title="TUM KANALLAR",beIN SERIES VICE
+#EXTINF:-1 tvg-logo="http://i.ibb.co/n6gq2xN/TANITIM.png"  group-title="TUM KANALLAR",TANITIM
+https://archive.org/serve/digiturkhayallerinedokun/Digiturk%20-%20Hayallerine%20Dokun.mp4
+#EXTINF:-1 tvg-id="epic-drama-tr.tr" tvg-logo="http://i.ibb.co/VmTkHMT/EPIC-DRAMA.png" group-title="TUM KANALLAR",EPIC DRAMA
+http://premium.mfreetv.com:80/hakdemir812/4114337aA/8293
+#EXTINF:-1 tvg-id="FOX LIFE HD-TR" tvg-logo="http://i.ibb.co/WkDsVR4/FOXLIFE.png" group-title="TUM KANALLAR",FOXLIFE
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/37458
+#EXTINF:-1 tvg-id="FX HD-TR" tvg-logo="http://i.ibb.co/Z8WGPNK/FX.png" group-title="TUM KANALLAR",FX
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/37460
+#EXTINF:-1 tvg-id="FOX CRIME HD-TR" tvg-logo="http://i.ibb.co/884njYg/FOXCRIME.png" group-title="TUM KANALLAR",FOXCRIME
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/37459
+#EXTINF:-1 tvg-id="beIN SERIES SCI-FI HD-TR" tvg-logo="http://i.ibb.co/wLvmh7t/be-IN-SERIES-SCI-FI.png" group-title="TUM KANALLAR",beIN SERIES SCI-FI
+http://pluskor.com:8080/hakandemirci81/06.06.2019/768
+#EXTINF:-1 tvg-id="beIN SERIES COMEDY HD-TR" tvg-logo="http://i.ibb.co/ykGJGpt/be-IN-SERIES-COMEDY.png" group-title="TUM KANALLAR",beIN SERIES COMEDY
+http://pluskor.com:8080/hakandemirci81/06.06.2019/6914
+#EXTINF:-1 tvg-id="beIN SERIES VICE HD-TR" tvg-logo="http://i.ibb.co/SPg67D0/be-IN-SERIES-VICE.png" group-title="TUM KANALLAR",beIN SERIES VICE
 http://api.mfreetv.com:80/hakdemir812/4114337aA/4588
-
-#EXTINF:-1, tvg-id="beIN SERIES DRAMA HD-TR" tvg-logo="http://i.ibb.co/3Fxhd99/be-IN-SERIES-DRAMA.png" tvg-name="beIN SERIES DRAMA"  group-title="TUM KANALLAR",beIN SERIES DRAMA
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043719
-
-#EXTINF:-1, tvg-id="Dizi Premium HD-TR" tvg-logo="http://i.ibb.co/fMBsgbM/DIZISMART-PREMIUM.png" tvg-name="DİZİSMART PREMIUM"  group-title="TUM KANALLAR",DİZİSMART PREMIUM
-http://644209.com:8080/hakandemirci81/06.06.2019/770
-
-#EXTINF:-1, tvg-id="Dizi Smart Max-TR" tvg-logo="http://i.ibb.co/W3jQJXS/DIZISMART-MAX.png" tvg-name="DİZİSMART MAX"  group-title="TUM KANALLAR",DİZİSMART MAX
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043575
-
-#EXTINF:-1, tvg-id="beIN MOVIES PREMIERE HD-TR" tvg-logo="http://i.ibb.co/YcB5g72/be-IN-MOVIES-PREMIERE.png" tvg-name="beIN MOVIES PREMIERE"  group-title="TUM KANALLAR",beIN MOVIES PREMIERE
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043758
-
-#EXTINF:-1, tvg-id="beIN MOVIES PREMIERE 2 HD-TR" tvg-logo="http://i.ibb.co/vhy5ftN/be-IN-MOVIES-PREMIERE-2.png" tvg-name="beIN MOVIES PREMIERE 2"  group-title="TUM KANALLAR",beIN MOVIES PREMIERE 2
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043757
-
-#EXTINF:-1, tvg-id="beIN MOVIES STARS HD-TR" tvg-logo="http://i.ibb.co/Pzfz3dt/be-IN-MOVIES-STARS.png" tvg-name="beIN MOVIES STARS"  group-title="TUM KANALLAR",beIN MOVIES STARS
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043718
-
-#EXTINF:-1, tvg-id="beIN MOVIES ACTION HD-TR" tvg-logo="http://i.ibb.co/FgDFPhk/be-IN-MOVIES-ACTION.png" tvg-name="beIN MOVIES ACTION"  group-title="TUM KANALLAR",beIN MOVIES ACTION
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043753
-
-#EXTINF:-1, tvg-id="beIN MOVIES ACTION 2 HD-TR" tvg-logo="http://i.ibb.co/BV8r3cc/be-IN-MOVIES-ACTION-2.png" tvg-name="beIN MOVIES ACTION 2"  group-title="TUM KANALLAR",beIN MOVIES ACTION 2
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043756
-
-#EXTINF:-1, tvg-id="beIN MOVIES FAMILY HD-TR" tvg-logo="http://i.ibb.co/Tggx8dZ/be-IN-MOVIES-FAMILY.png" tvg-name="beIN MOVIES FAMILY"  group-title="TUM KANALLAR",beIN MOVIES FAMILY
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043759
-
-#EXTINF:-1, tvg-id="beIN MOVIES TURK HD-TR" tvg-logo="http://i.ibb.co/vxK1CXP/be-IN-MOVIES-TURK.png" tvg-name="beIN MOVIES TURK"  group-title="TUM KANALLAR",beIN MOVIES TURK
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043717
-
-#EXTINF:-1, tvg-id="MovieSmart Premium HD-TR" tvg-logo="http://i.ibb.co/gSbRLZ5/MOVIESMART-PREMIUM.png" tvg-name="MOVIESMART PREMIUM"  group-title="TUM KANALLAR",MOVIESMART PREMIUM
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043558
-
-#EXTINF:-1, tvg-id="MovieSmart Premium 2 HD-TR" tvg-logo="http://i.ibb.co/pXCkgG7/MOVIESMART-PREMIUM-2.png" tvg-name="MOVIESMART PREMIUM 2"  group-title="TUM KANALLAR",MOVIESMART PREMIUM 2
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043561
-
-#EXTINF:-1, tvg-id="MovieSmart Platin HD-TR" tvg-logo="http://i.ibb.co/WzwPD3V/MOVIESMART-PLATIN.png" tvg-name="MOVIESMART PLATIN"  group-title="TUM KANALLAR",MOVIESMART PLATIN
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043556
-
-#EXTINF:-1, tvg-id="MovieSmart Platin 2 HD-TR" tvg-logo="http://i.ibb.co/Kxx7wjK/MOVIESMART-PLATIN-2.png" tvg-name="MOVIESMART PLATIN 2"  group-title="TUM KANALLAR",MOVIESMART PLATIN 2
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043555
-
-#EXTINF:-1, tvg-id="MovieSmart Gold HD-TR" tvg-logo="http://i.ibb.co/44R4DrB/MOVIESMART-GOLD.png" tvg-name="MOVIESMART GOLD"  group-title="TUM KANALLAR",MOVIESMART GOLD
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043557
-
-#EXTINF:-1, tvg-id="MovieSmart Action HD-TR" tvg-logo="http://i.ibb.co/kx4Kz4z/MOVIESMART-ACTION.png" tvg-name="MOVIESMART ACTION"  group-title="TUM KANALLAR",MOVIESMART ACTION
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043539
-
-#EXTINF:-1, tvg-id="MovieSmart Fest HD-TR" tvg-logo="http://i.ibb.co/b6RFMy1/MOVIESMART-FEST.png" tvg-name="MOVIESMART FEST"  group-title="TUM KANALLAR",MOVIESMART FEST
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043547
-
-#EXTINF:-1, tvg-id="MovieSmart Family HD-TR" tvg-logo="http://i.ibb.co/vJ3ZCMW/MOVIESMART-FAMILY.png" tvg-name="MOVIESMART FAMILY"  group-title="TUM KANALLAR",MOVIESMART FAMILY
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043537
-
-#EXTINF:-1, tvg-id="MovieSmart Classic HD-TR" tvg-logo="http://i.ibb.co/Lx0q8vq/MOVIESMART-CLASSIC.png" tvg-name="MOVIESMART CLASSIC"  group-title="TUM KANALLAR",MOVIESMART CLASSIC
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043538
-
-#EXTINF:-1, tvg-id="MovieSmart Türk HD-TR" tvg-logo="http://i.ibb.co/K7dZWgk/MOVIESMART-T-RK.png" tvg-name="MOVIESMART TÜRK"  group-title="TUM KANALLAR",MOVIESMART TÜRK
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043560
-
-#EXTINF:-1, tvg-id="SINEMA TV HD-TR" tvg-logo="http://i.ibb.co/bL15kbq/SINEMA-TV.png" tvg-name="SİNEMA TV"  group-title="TUM KANALLAR",SİNEMA TV
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043647
-
-#EXTINF:-1, tvg-id="sinema2.tr" tvg-logo="http://i.ibb.co/8s9Jq20/SINEMA-2.png" tvg-name="SİNEMA 2"  group-title="TUM KANALLAR",SİNEMA 2
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043635
-
-#EXTINF:-1, tvg-id="SINEMA TV AKSIYON HD-TR" tvg-logo="http://i.ibb.co/BBZ4HrH/SINEMA-AKSIYON.png" tvg-name="SİNEMA AKSİYON"  group-title="TUM KANALLAR",SİNEMA AKSİYON
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043643
-
-#EXTINF:-1, tvg-id="sinemaaksiyon2.tr" tvg-logo="http://i.ibb.co/PhMWXRy/SINEMA-AKSIYON-2.png" tvg-name="SİNEMA AKSİYON 2"  group-title="TUM KANALLAR",SİNEMA AKSİYON 2
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043646
-
-#EXTINF:-1, tvg-id="sinemayerli.tr" tvg-logo="http://i.ibb.co/tsJYvWN/SINEMA-YERLI.png" tvg-name="SİNEMA YERLİ"  group-title="TUM KANALLAR",SİNEMA YERLİ
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043638
-
-#EXTINF:-1, tvg-id="sinemayerli 2.tr" tvg-logo="http://i.ibb.co/k6BKfr3/SINEMA-YERLI-2.png" tvg-name="SİNEMA YERLİ 2"  group-title="TUM KANALLAR",SİNEMA YERLİ 2
-http://644209.com:8080/hakandemirci81/06.06.2019/29588
-
-#EXTINF:-1, tvg-id="sinemakomedi.tr" tvg-logo="http://i.ibb.co/HG96VN8/SINEMA-KOMEDI.png" tvg-name="SİNEMA KOMEDİ"  group-title="TUM KANALLAR",SİNEMA KOMEDİ
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043649
-
-#EXTINF:-1, tvg-id="sinemakomedi 2.tr" tvg-logo="http://i.ibb.co/5n5TX0F/SINEMA-KOMEDI-2.png" tvg-name="SİNEMA KOMEDİ 2"  group-title="TUM KANALLAR",SİNEMA KOMEDİ 2
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043648
-
-#EXTINF:-1, tvg-id="Sinema Tv Aile-TR" tvg-logo="http://i.ibb.co/bsQzRPH/SINEMA-AILE.png" tvg-name="SİNEMA AİLE"  group-title="TUM KANALLAR",SİNEMA AİLE
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043645
-
-#EXTINF:-1, tvg-id="sinemaaile 2.tr" tvg-logo="http://i.ibb.co/rdPp7CS/SINEMA-AILE-2.png" tvg-name="SİNEMA AİLE 2"  group-title="TUM KANALLAR",SİNEMA AİLE 2
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043644
-
-#EXTINF:-1, tvg-id="Sinema TV 1001-TR" tvg-logo="http://i.ibb.co/PTCQ2pr/SINEMA-1001.png" tvg-name="SİNEMA 1001"  group-title="TUM KANALLAR",SİNEMA 1001
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043626
-
-#EXTINF:-1, tvg-id="sinema1002.tr" tvg-logo="http://i.ibb.co/0t6pPmx/SINEMA-1002.png" tvg-name="SİNEMA 1002"  group-title="TUM KANALLAR",SİNEMA 1002
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043625
-
-#EXTINF:-1, tvg-id="beIN İZ HD-TR" tvg-logo="http://i.ibb.co/VSr8xXM/beIN-IZ.png" tvg-name="beIN İZ"  group-title="TUM KANALLAR",beIN İZ
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043713
-
-#EXTINF:-1, tvg-id="beIN GURME HD-TR" tvg-logo="http://i.ibb.co/fq9dyB4/be-IN-GURME.png" tvg-name="beIN GURME"  group-title="TUM KANALLAR",beIN GURME
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043755
-
-#EXTINF:-1, tvg-id="Filmbox Turkiye-TR" tvg-logo="http://i.ibb.co/kqMFxwB/FILMBOX.png" tvg-name="FILMBOX"  group-title="TUM KANALLAR",FILMBOX
-http://644209.com:8080/hakandemirci81/06.06.2019/87330
-
-#EXTINF:-1, tvg-id="FILMBOX ARTHOUSE" tvg-logo="https://i.ibb.co/PTYH7Xj/FILMBOX-ARTHOUSE.png" tvg-name="FILMBOX ARTHOUSE"  group-title="TUM KANALLAR",FILMBOX ARTHOUSE
-http://644209.com:8080/hakandemirci81/06.06.2019/92541
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/WVzPJRJ/FILMTIVI.png" tvg-name="FİLMTİVİ"  group-title="TUM KANALLAR",FİLMTİVİ
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043681
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/ZHz4rFj/UNIVERSAL-CHANNEL.png" tvg-name="UNIVERSAL CHANNEL"  group-title="TUM KANALLAR",UNIVERSAL CHANNEL
-http://644209.com:8080/hakandemirci81/06.06.2019/91629
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/s6WqKDd/FUNBOX-4-K.png" tvg-name="FUNBOX 4K"  group-title="TUM KANALLAR",FUNBOX 4K
-http://644209.com:8080/hakandemirci81/06.06.2019/92538
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/d5DZ7JM/TRT-4K.png" tvg-name="TRT 4K"  group-title="TUM KANALLAR",TRT 4K
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043677
-
-#EXTINF:-1, tvg-id="Showmax-TR" tvg-logo="http://i.ibb.co/6XKxxRB/SHOW-MAX.png" tvg-name="SHOW MAX"  group-title="TUM KANALLAR",SHOW MAX
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043689
-
-#EXTINF:-1, tvg-id="SHOW TV-TR" tvg-logo="http://i.ibb.co/d6TDsHY/SHOW-TV.png" tvg-name="SHOW TV"  group-title="TUM KANALLAR",SHOW TV
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043627
-
-#EXTINF:-1, tvg-id="TRT 1 HD-TR" tvg-logo="http://i.ibb.co/LRNpZbQ/TRT-1.png" tvg-name="TRT 1"  group-title="TUM KANALLAR",TRT 1
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043605
-
-#EXTINF:-1, tvg-id="KANAL D-TR" tvg-logo="http://i.ibb.co/FgsJ0WS/KANAL-D.png" tvg-name="KANAL D"  group-title="TUM KANALLAR",KANAL D
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043546
-
-#EXTINF:-1, tvg-id="ATV HD-TR" tvg-logo="http://i.ibb.co/Nr6W1RL/ATV.png" tvg-name="ATV"  group-title="TUM KANALLAR",ATV
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043761
-
-#EXTINF:-1, tvg-id="FOX-TR" tvg-logo="http://i.ibb.co/V9KxPmd/FOX-TV.png" tvg-name="FOX"  group-title="TUM KANALLAR",FOX
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043587
-
-#EXTINF:-1, tvg-id="STAR TV-TR" tvg-logo="http://i.ibb.co/ygz2wMx/STAR-TV.png" tvg-name="STAR"  group-title="TUM KANALLAR",STAR
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043642
-
-#EXTINF:-1, tvg-id="TV8-TR" tvg-logo="http://i.ibb.co/3pgFKnp/TV8.png" tvg-name="TV8"  group-title="TUM KANALLAR",TV8
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043616
-
-#EXTINF:-1, tvg-id="360 TV HD-TR" tvg-logo="http://i.ibb.co/Kq2LtDm/360.png" tvg-name="360"  group-title="TUM KANALLAR",360
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043745
-
-#EXTINF:-1, tvg-id="TLC-TR" tvg-logo="http://i.ibb.co/hDx2mWx/TLC.png" tvg-name="TLC"  group-title="TUM KANALLAR",TLC
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043600
-
-#EXTINF:-1, tvg-id="BLOOMBERG HT-TR" tvg-logo="http://i.ibb.co/sQzbMtm/BLOOMBERG-HT.png" tvg-name="BLOOMBERG HT"  group-title="TUM KANALLAR",BLOOMBERG HT
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043732
-
-#EXTINF:-1, tvg-id="A HABER-TR" tvg-logo="http://i.ibb.co/sKLmFy2/A-HABER.png" tvg-name="A HABER"  group-title="TUM KANALLAR",A HABER
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043748
-
-#EXTINF:-1, tvg-id="TRT HABER HD-TR" tvg-logo="http://i.ibb.co/NTJVfrg/TRT-HABER.png" tvg-name="TRT HABER"  group-title="TUM KANALLAR",TRT HABER
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043593
-
-#EXTINF:-1, tvg-id="KANAL 7-TR" tvg-logo="http://i.ibb.co/qxrJRK9/KANAL-7.png" tvg-name="KANAL 7"  group-title="TUM KANALLAR",KANAL 7
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043540
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/f8PvkdG/CINE5-TV.png" tvg-name="CINE5 TV"  group-title="TUM KANALLAR",CINE5 TV
-https://win1.yayin.com.tr/cine5/cine5/playlist.m3u8
-
-#EXTINF:-1, tvg-id="A2" tvg-logo="http://i.ibb.co/HnV43sj/A2.png" tvg-name="A2"  group-title="TUM KANALLAR",A2
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043740
-
-#EXTINF:-1, tvg-id="BEYAZ TV HD-TR" tvg-logo="http://i.ibb.co/JFjLFcD/BEYAZ-TV.png" tvg-name="BEYAZ TV"  group-title="TUM KANALLAR",BEYAZ TV
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043733
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/rGfsnNt/TV-100.png" tvg-name="TV 100"  group-title="TUM KANALLAR",TV 100
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043686
-
-#EXTINF:-1, tvg-id="ÜLKE TV-TR" tvg-logo="http://i.ibb.co/qMxs4Sy/ULKE-TV.png" tvg-name="ULKE TV"  group-title="TUM KANALLAR",ULKE TV
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043607
-
-#EXTINF:-1, tvg-id="TVNET HD-TR" tvg-logo="http://i.ibb.co/Sd7xdFc/TVNET.png" tvg-name="TVNET"  group-title="TUM KANALLAR",TVNET
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043617
-
-#EXTINF:-1, tvg-id="24 TV HD-TR" tvg-logo="http://i.ibb.co/Tm59DQJ/24.png" tvg-name="24"  group-title="TUM KANALLAR",24
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043747
-
-#EXTINF:-1, tvg-id="NTV-TR" tvg-logo="http://i.ibb.co/br8vg2m/NTV.png" tvg-name="NTV"  group-title="TUM KANALLAR",NTV
-http://api.mfreetv.com:80/hakdemir812/4114337aA/4703
-
-#EXTINF:-1, tvg-id="CNN TÜRK HD-TR" tvg-logo="http://i.ibb.co/dbKGBz8/CNN-TURK.png" tvg-name="CNN TURK"  group-title="TUM KANALLAR",CNN TURK
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043725
-
-#EXTINF:-1, tvg-id="A PARA-TR" tvg-logo="http://i.ibb.co/mRcY7S0/A-PARA.png" tvg-name="A PARA"  group-title="TUM KANALLAR",A PARA
+#EXTINF:-1 tvg-id="beIN SERIES DRAMA HD-TR" tvg-logo="http://i.ibb.co/3Fxhd99/be-IN-SERIES-DRAMA.png" group-title="TUM KANALLAR",beIN SERIES DRAMA
+http://pluskor.com:8080/hakandemirci81/06.06.2019/6903
+#EXTINF:-1 tvg-id="Dizi Premium HD-TR" tvg-logo="http://i.ibb.co/fMBsgbM/DIZISMART-PREMIUM.png" group-title="TUM KANALLAR",DİZİSMART PREMIUM
+http://pluskor.com:8080/hakandemirci81/06.06.2019/770
+#EXTINF:-1 tvg-id="Dizi Smart Max-TR" tvg-logo="http://i.ibb.co/W3jQJXS/DIZISMART-MAX.png" group-title="TUM KANALLAR",DİZİSMART MAX
+http://pluskor.com:8080/hakandemirci81/06.06.2019/722
+#EXTINF:-1 tvg-id="beIN MOVIES PREMIERE HD-TR" tvg-logo="http://i.ibb.co/YcB5g72/be-IN-MOVIES-PREMIERE.png" group-title="TUM KANALLAR",beIN MOVIES PREMIERE
+http://pluskor.com:8080/hakandemirci81/06.06.2019/1695
+#EXTINF:-1 tvg-id="beIN MOVIES PREMIERE 2 HD-TR" tvg-logo="http://i.ibb.co/vhy5ftN/be-IN-MOVIES-PREMIERE-2.png" group-title="TUM KANALLAR",beIN MOVIES PREMIERE 2
+http://pluskor.com:8080/hakandemirci81/06.06.2019/1696
+#EXTINF:-1 tvg-id="beIN MOVIES STARS HD-TR" tvg-logo="http://i.ibb.co/Pzfz3dt/be-IN-MOVIES-STARS.png" group-title="TUM KANALLAR",beIN MOVIES STARS
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/37415
+#EXTINF:-1 tvg-id="beIN MOVIES ACTION HD-TR" tvg-logo="http://i.ibb.co/FgDFPhk/be-IN-MOVIES-ACTION.png" group-title="TUM KANALLAR",beIN MOVIES ACTION
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/37419
+#EXTINF:-1 tvg-id="beIN MOVIES ACTION 2 HD-TR" tvg-logo="http://i.ibb.co/BV8r3cc/be-IN-MOVIES-ACTION-2.png" group-title="TUM KANALLAR",beIN MOVIES ACTION 2
+http://pluskor.com:8080/hakandemirci81/06.06.2019/1694
+#EXTINF:-1 tvg-id="beIN MOVIES FAMILY HD-TR" tvg-logo="http://i.ibb.co/Tggx8dZ/be-IN-MOVIES-FAMILY.png" group-title="TUM KANALLAR",beIN MOVIES FAMILY
+http://premium.mfreetv.com:80/hakdemir812/4114337aA/4594
+#EXTINF:-1 tvg-id="beIN MOVIES TURK HD-TR" tvg-logo="http://i.ibb.co/vxK1CXP/be-IN-MOVIES-TURK.png" group-title="TUM KANALLAR",beIN MOVIES TURK
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/37414
+#EXTINF:-1 tvg-id="MovieSmart Premium HD-TR" tvg-logo="http://i.ibb.co/gSbRLZ5/MOVIESMART-PREMIUM.png" group-title="TUM KANALLAR",MOVIESMART PREMIUM
+http://pluskor.com:8080/hakandemirci81/06.06.2019/757
+#EXTINF:-1 tvg-id="MovieSmart Premium 2 HD-TR" tvg-logo="http://i.ibb.co/pXCkgG7/MOVIESMART-PREMIUM-2.png" group-title="TUM KANALLAR",MOVIESMART PREMIUM 2
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/37430
+#EXTINF:-1 tvg-id="MovieSmart Platin HD-TR" tvg-logo="http://i.ibb.co/WzwPD3V/MOVIESMART-PLATIN.png" group-title="TUM KANALLAR",MOVIESMART PLATIN
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/37431
+#EXTINF:-1 tvg-id="MovieSmart Platin 2 HD-TR" tvg-logo="http://i.ibb.co/Kxx7wjK/MOVIESMART-PLATIN-2.png" group-title="TUM KANALLAR",MOVIESMART PLATIN 2
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/37432
+#EXTINF:-1 tvg-id="MovieSmart Gold HD-TR" tvg-logo="http://i.ibb.co/44R4DrB/MOVIESMART-GOLD.png" group-title="TUM KANALLAR",MOVIESMART GOLD
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/37435
+#EXTINF:-1 tvg-id="MovieSmart Action HD-TR" tvg-logo="http://i.ibb.co/kx4Kz4z/MOVIESMART-ACTION.png" group-title="TUM KANALLAR",MOVIESMART ACTION
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/37434
+#EXTINF:-1 tvg-id="MovieSmart Fest HD-TR" tvg-logo="http://i.ibb.co/b6RFMy1/MOVIESMART-FEST.png" group-title="TUM KANALLAR",MOVIESMART FEST
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/37427
+#EXTINF:-1 tvg-id="MovieSmart Family HD-TR" tvg-logo="http://i.ibb.co/vJ3ZCMW/MOVIESMART-FAMILY.png" group-title="TUM KANALLAR",MOVIESMART FAMILY
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/37433
+#EXTINF:-1 tvg-id="MovieSmart Classic HD-TR" tvg-logo="http://i.ibb.co/Lx0q8vq/MOVIESMART-CLASSIC.png" group-title="TUM KANALLAR",MOVIESMART CLASSIC
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/37436
+#EXTINF:-1 tvg-id="MovieSmart Türk HD-TR" tvg-logo="http://i.ibb.co/K7dZWgk/MOVIESMART-T-RK.png" group-title="TUM KANALLAR",MOVIESMART TÜRK
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/37428
+#EXTINF:-1 tvg-id="SINEMA TV HD-TR" tvg-logo="http://i.ibb.co/bL15kbq/SINEMA-TV.png" group-title="TUM KANALLAR",SİNEMA TV
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/46062
+#EXTINF:-1 tvg-id="sinema2.tr" tvg-logo="http://i.ibb.co/8s9Jq20/SINEMA-2.png" group-title="TUM KANALLAR",SİNEMA 2
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/46063
+#EXTINF:-1 tvg-id="SINEMA TV AKSIYON HD-TR" tvg-logo="http://i.ibb.co/BBZ4HrH/SINEMA-AKSIYON.png" group-title="TUM KANALLAR",SİNEMA AKSİYON
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/46066
+#EXTINF:-1 tvg-id="sinemaaksiyon2.tr" tvg-logo="http://i.ibb.co/PhMWXRy/SINEMA-AKSIYON-2.png" group-title="TUM KANALLAR",SİNEMA AKSİYON 2
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/46067
+#EXTINF:-1 tvg-id="sinemayerli.tr" tvg-logo="http://i.ibb.co/tsJYvWN/SINEMA-YERLI.png" group-title="TUM KANALLAR",SİNEMA YERLİ
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/46070
+#EXTINF:-1 tvg-id="sinemayerli 2.tr" tvg-logo="http://i.ibb.co/k6BKfr3/SINEMA-YERLI-2.png" group-title="TUM KANALLAR",SİNEMA YERLİ 2
+http://pluskor.com:8080/hakandemirci81/06.06.2019/29588
+#EXTINF:-1 tvg-id="sinemakomedi.tr" tvg-logo="http://i.ibb.co/HG96VN8/SINEMA-KOMEDI.png" group-title="TUM KANALLAR",SİNEMA KOMEDİ
+http://pluskor.com:8080/hakandemirci81/06.06.2019/28588
+#EXTINF:-1 tvg-id="sinemakomedi 2.tr" tvg-logo="http://i.ibb.co/5n5TX0F/SINEMA-KOMEDI-2.png" group-title="TUM KANALLAR",SİNEMA KOMEDİ 2
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/46069
+#EXTINF:-1 tvg-id="Sinema Tv Aile-TR" tvg-logo="http://i.ibb.co/bsQzRPH/SINEMA-AILE.png" group-title="TUM KANALLAR",SİNEMA AİLE
+http://premium.mfreetv.com:80/hakdemir812/4114337aA/4568
+#EXTINF:-1 tvg-id="sinemaaile 2.tr" tvg-logo="http://i.ibb.co/rdPp7CS/SINEMA-AILE-2.png" group-title="TUM KANALLAR",SİNEMA AİLE 2
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/46065
+#EXTINF:-1 tvg-id="Sinema TV 1001-TR" tvg-logo="http://i.ibb.co/PTCQ2pr/SINEMA-1001.png" group-title="TUM KANALLAR",SİNEMA 1001
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/46072
+#EXTINF:-1 tvg-id="sinema1002.tr" tvg-logo="http://i.ibb.co/0t6pPmx/SINEMA-1002.png" group-title="TUM KANALLAR",SİNEMA 1002
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/46073
+#EXTINF:-1 tvg-id="beIN İZ HD-TR" tvg-logo="http://i.ibb.co/VSr8xXM/beIN-IZ.png" group-title="TUM KANALLAR",beIN İZ
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/6010
+#EXTINF:-1 tvg-id="beIN GURME HD-TR" tvg-logo="http://i.ibb.co/fq9dyB4/be-IN-GURME.png" group-title="TUM KANALLAR",beIN GURME
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5930
+#EXTINF:-1 tvg-id="Filmbox Turkiye-TR" tvg-logo="http://i.ibb.co/kqMFxwB/FILMBOX.png" group-title="TUM KANALLAR",FILMBOX
+http://pluskor.com:8080/hakandemirci81/06.06.2019/84036
+#EXTINF:-1 tvg-id="FILMBOX ARTHOUSE" tvg-logo="https://i.ibb.co/PTYH7Xj/FILMBOX-ARTHOUSE.png" group-title="TUM KANALLAR",FILMBOX ARTHOUSE
+http://pluskor.com:8080/hakandemirci81/06.06.2019/88775
+#EXTINF:-1 tvg-logo="http://i.ibb.co/WVzPJRJ/FILMTIVI.png" group-title="TUM KANALLAR",FİLMTİVİ
+http://pluskor.com:8080/hakandemirci81/06.06.2019/1711
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZHz4rFj/UNIVERSAL-CHANNEL.png"  group-title="TUM KANALLAR",UNIVERSAL CHANNEL
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/6139
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s6WqKDd/FUNBOX-4-K.png" group-title="TUM KANALLAR",FUNBOX 4K
+http://pluskor.com:8080/hakandemirci81/06.06.2019/88772
+#EXTINF:-1 tvg-logo="http://i.ibb.co/d5DZ7JM/TRT-4K.png" group-title="TUM KANALLAR",TRT 4K
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/35082
+#EXTINF:-1 tvg-id="Showmax-TR" tvg-logo="http://i.ibb.co/6XKxxRB/SHOW-MAX.png" group-title="TUM KANALLAR",SHOW MAX
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5921
+#EXTINF:-1 tvg-id="SHOW TV-TR" tvg-logo="http://i.ibb.co/d6TDsHY/SHOW-TV.png" group-title="TUM KANALLAR",SHOW TV
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5945
+#EXTINF:-1 tvg-id="TRT 1 HD-TR" tvg-logo="http://i.ibb.co/LRNpZbQ/TRT-1.png" group-title="TUM KANALLAR",TRT 1
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5949
+#EXTINF:-1 tvg-id="KANAL D-TR" tvg-logo="http://i.ibb.co/FgsJ0WS/KANAL-D.png" group-title="TUM KANALLAR",KANAL D
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5941
+#EXTINF:-1 tvg-id="ATV HD-TR" tvg-logo="http://i.ibb.co/Nr6W1RL/ATV.png" group-title="TUM KANALLAR",ATV
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5947
+#EXTINF:-1 tvg-id="FOX-TR" tvg-logo="http://i.ibb.co/V9KxPmd/FOX-TV.png" group-title="TUM KANALLAR",FOX
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5939
+#EXTINF:-1 tvg-id="STAR TV-TR" tvg-logo="http://i.ibb.co/ygz2wMx/STAR-TV.png" group-title="TUM KANALLAR",STAR
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5943
+#EXTINF:-1 tvg-id="TV8-TR" tvg-logo="http://i.ibb.co/3pgFKnp/TV8.png" group-title="TUM KANALLAR",TV8
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5937
+#EXTINF:-1 tvg-id="360 TV HD-TR" tvg-logo="http://i.ibb.co/Kq2LtDm/360.png" group-title="TUM KANALLAR",360
+http://pluskor.com:8080/hakandemirci81/06.06.2019/7107
+#EXTINF:-1 tvg-id="TLC-TR" tvg-logo="http://i.ibb.co/hDx2mWx/TLC.png" group-title="TUM KANALLAR",TLC
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/15447
+#EXTINF:-1 tvg-id="BLOOMBERG HT-TR" tvg-logo="http://i.ibb.co/sQzbMtm/BLOOMBERG-HT.png" group-title="TUM KANALLAR",BLOOMBERG HT
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5864
+#EXTINF:-1 tvg-id="A HABER-TR" tvg-logo="http://i.ibb.co/sKLmFy2/A-HABER.png" group-title="TUM KANALLAR",A HABER
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5876
+#EXTINF:-1 tvg-id="TRT HABER HD-TR" tvg-logo="http://i.ibb.co/NTJVfrg/TRT-HABER.png" group-title="TUM KANALLAR",TRT HABER
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5870
+#EXTINF:-1 tvg-id="KANAL 7-TR" tvg-logo="http://i.ibb.co/qxrJRK9/KANAL-7.png" group-title="TUM KANALLAR",KANAL 7
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5935
+#EXTINF:-1 tvg-id="A2" tvg-logo="http://i.ibb.co/HnV43sj/A2.png" group-title="TUM KANALLAR",A2
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/27478
+#EXTINF:-1 tvg-id="BEYAZ TV HD-TR" tvg-logo="http://i.ibb.co/JFjLFcD/BEYAZ-TV.png" group-title="TUM KANALLAR",BEYAZ TV
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5933
+#EXTINF:-1 tvg-logo="http://i.ibb.co/rGfsnNt/TV-100.png" group-title="TUM KANALLAR",TV 100
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/35737
+#EXTINF:-1 tvg-id="ÜLKE TV-TR" tvg-logo="http://i.ibb.co/qMxs4Sy/ULKE-TV.png" group-title="TUM KANALLAR",ULKE TV
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5878
+#EXTINF:-1 tvg-id="TVNET HD-TR" tvg-logo="http://i.ibb.co/Sd7xdFc/TVNET.png" group-title="TUM KANALLAR",TVNET
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5882
+#EXTINF:-1 tvg-id="24 TV HD-TR" tvg-logo="http://i.ibb.co/Tm59DQJ/24.png" group-title="TUM KANALLAR",24
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5873
+#EXTINF:-1 tvg-id="NTV-TR" tvg-logo="http://i.ibb.co/br8vg2m/NTV.png" group-title="TUM KANALLAR",NTV
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5881
+#EXTINF:-1 tvg-id="CNN TÜRK HD-TR" tvg-logo="http://i.ibb.co/dbKGBz8/CNN-TURK.png" group-title="TUM KANALLAR",CNN TURK
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5872
+#EXTINF:-1 tvg-id="A PARA-TR" tvg-logo="http://i.ibb.co/mRcY7S0/A-PARA.png" group-title="TUM KANALLAR",A PARA
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/34211
-
-#EXTINF:-1, tvg-id="HABERTÜRK-TR" tvg-logo="http://i.ibb.co/5kPw9Rh/HABERTURK.png" tvg-name="HABERTURK"  group-title="TUM KANALLAR",HABERTURK
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043583
-
-#EXTINF:-1, tvg-id="TGRT HABER-TR" tvg-logo="http://i.ibb.co/N2jRT0M/TGRT-HABER.png" tvg-name="TGRT HABER"  group-title="TUM KANALLAR",TGRT HABER
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043640
-
-#EXTINF:-1, tvg-id="EKOTÜRK-TR" tvg-logo="http://i.ibb.co/BjFQtnF/EKOTURK.png" tvg-name="EKOTURK"  group-title="TUM KANALLAR",EKOTURK
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043564
-
-#EXTINF:-1, tvg-id="HABER GLOBAL HD-TR" tvg-logo="http://i.ibb.co/4PW59nG/HABER-GLOBAL.png" tvg-name="HABER GLOBAL"  group-title="TUM KANALLAR",HABER GLOBAL
+#EXTINF:-1 tvg-id="HABERTÜRK-TR" tvg-logo="http://i.ibb.co/5kPw9Rh/HABERTURK.png" group-title="TUM KANALLAR",HABERTURK
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5866
+#EXTINF:-1 tvg-id="TGRT HABER-TR" tvg-logo="http://i.ibb.co/N2jRT0M/TGRT-HABER.png" group-title="TUM KANALLAR",TGRT HABER
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5867
+#EXTINF:-1 tvg-id="EKOTÜRK-TR" tvg-logo="http://i.ibb.co/BjFQtnF/EKOTURK.png" group-title="TUM KANALLAR",EKOTURK
+http://pluskor.com:8080/hakandemirci81/06.06.2019/691
+#EXTINF:-1 tvg-id="HABER GLOBAL HD-TR" tvg-logo="http://i.ibb.co/4PW59nG/HABER-GLOBAL.png" group-title="TUM KANALLAR",HABER GLOBAL
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/28307
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/gMjkG0g/TELE-1.png" tvg-name="TELE 1"  group-title="TUM KANALLAR",TELE 1
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043696
-
-#EXTINF:-1, tvg-id="DMAX HD-TR" tvg-logo="http://i.ibb.co/GCRC9b9/DMAX.png" tvg-name="DMAX"  group-title="TUM KANALLAR",DMAX
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043729
-
-#EXTINF:-1, tvg-id="SEMERKAND TV HD-TR" tvg-logo="http://i.ibb.co/pZ6D4PH/SEMERKAND-TV.png" tvg-name="SEMERKAND TV"  group-title="TUM KANALLAR",SEMERKAND TV
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043624
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/MBGdkNB/DOST-TV.png" tvg-name="DOST TV"  group-title="TUM KANALLAR",DOST TV
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043656
-
-#EXTINF:-1, tvg-id="Halk Tv-TR" tvg-logo="http://i.ibb.co/Qntd9xv/HALK-TV.png" tvg-name="HALK TV"  group-title="TUM KANALLAR",HALK TV
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043582
-
-#EXTINF:-1, tvg-id="TEVE2 HD-TR" tvg-logo="http://i.ibb.co/JRkbS6X/TEVE2.png" tvg-name="TEVE2"  group-title="TUM KANALLAR",TEVE2
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043641
-
-#EXTINF:-1, tvg-id="EM TV-TR" tvg-logo="http://i.ibb.co/7KmS6mz/TV-EM.png" tvg-name="TVEM"  group-title="TUM KANALLAR",TVEM
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043614
-
-#EXTINF:-1, tvg-id="TV 8,5 HD-TR" tvg-logo="http://i.ibb.co/Ws4btfZ/TV8-5.png" tvg-name="TV8.5"  group-title="TUM KANALLAR",TV8.5
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043615
-
-#EXTINF:-1, tvg-id="24Kitchen-TR" tvg-logo="http://i.ibb.co/TbTRT1b/24-KITCHEN.png" tvg-name="24 KITCHEN"  group-title="TUM KANALLAR",24 KITCHEN
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043746
-
-#EXTINF:-1, tvg-id="ucankustv.tr" tvg-logo="http://i.ibb.co/2gHKxnZ/UCANKU-TV.png" tvg-name="UÇANKUŞ TV"  group-title="TUM KANALLAR",UÇANKUŞ TV
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043608
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/RSsBdzg/TRT-3.png" tvg-name="TRT 3"  group-title="TUM KANALLAR",TRT 3
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043590
-
-#EXTINF:-1, tvg-id="TRTAVAZ.tr" tvg-logo="http://i.ibb.co/8ssHtDC/TRT-AVAZ.png" tvg-name="TRT AVAZ"  group-title="TUM KANALLAR",TRT AVAZ
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043603
-
-#EXTINF:-1, tvg-id="TRTKurdi.tr" tvg-logo="http://i.ibb.co/YBxDczk/TRT-KURDI.png" tvg-name="TRT KURDI"  group-title="TUM KANALLAR",TRT KURDI
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043592
-
-#EXTINF:-1, tvg-id="TRT TÜRK-TR" tvg-logo="http://i.ibb.co/H7m7MRf/TRT-TURK.png" tvg-name="TRT TURK"  group-title="TUM KANALLAR",TRT TURK
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043597
-
-#EXTINF:-1, tvg-id="KRT TV-TR" tvg-logo="http://i.ibb.co/wLtwCrt/KRT-TV.png" tvg-name="KRT TV"  group-title="TUM KANALLAR",KRT TV
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043675
-
-#EXTINF:-1, tvg-id="TRT 2 HD-TR" tvg-logo="http://i.ibb.co/3CyfTFR/TRT-2.png" tvg-name="TRT 2"  group-title="TUM KANALLAR",TRT 2
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043680
-
-#EXTINF:-1, tvg-id="DİYANET TV-TR" tvg-logo="http://i.ibb.co/dM1dBzS/DIYANET-TV.png" tvg-name="DIYANET TV"  group-title="TUM KANALLAR",DIYANET TV
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043730
-
-#EXTINF:-1, tvg-id="EUROSPORT 1 HD-TR" tvg-logo="http://i.ibb.co/H465dxG/EUROSPORT-1.png" tvg-name="EUROSPORT 1"  group-title="TUM KANALLAR",EUROSPORT 1
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043565
-
-#EXTINF:-1, tvg-id="EUROSPORT 2 TR HD-TR" tvg-logo="http://i.ibb.co/QJCMB9b/EUROSPORT-2.png" tvg-name="EUROSPORT 2"  group-title="TUM KANALLAR",EUROSPORT 2
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043568
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/82fBh8s/EDGE-SPORT.png" tvg-name="EDGE SPORT"  group-title="TUM KANALLAR",EDGE SPORT
-http://644209.com:8080/hakandemirci81/06.06.2019/92093
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/vZn6fK4/EXTREME-SPORTS.png" tvg-name="EXTREME SPORTS"  group-title="TUM KANALLAR",EXTREME SPORTS
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043667
-
-#EXTINF:-1, tvg-id="FB TV HD-TR" tvg-logo="http://i.ibb.co/x3DSyyJ/FB-TV.png" tvg-name="FB TV"  group-title="TUM KANALLAR",FB TV
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043566
-
-#EXTINF:-1, tvg-id="GS TV HD-TR" tvg-logo="http://i.ibb.co/7R1mB7Y/GS-TV.png" tvg-name="GS TV"  group-title="TUM KANALLAR",GS TV
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043580
-
-#EXTINF:-1, tvg-id="beIN SPORTS 1-TR" tvg-logo="http://i.ibb.co/dQ3M3Fk/be-IN-SPORTS-1.png" tvg-name="beIN SPORTS 1"  group-title="TUM KANALLAR",beIN SPORTS 1
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043720
-
-#EXTINF:-1, tvg-id="beIN SPORTS 2-TR" tvg-logo="http://i.ibb.co/gjRb6Pj/be-IN-SPORTS-2.png" tvg-name="beIN SPORTS 2"  group-title="TUM KANALLAR",beIN SPORTS 2
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043711
-
-#EXTINF:-1, tvg-id="beIN SPORTS 3-TR" tvg-logo="http://i.ibb.co/N2W0JxX/be-IN-SPORTS-3.png" tvg-name="beIN SPORTS 3"  group-title="TUM KANALLAR",beIN SPORTS 3
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043710
-
-#EXTINF:-1, tvg-id="beIN SPORTS 4-TR" tvg-logo="http://i.ibb.co/tzY3Wx4/be-IN-SPORTS-4.png" tvg-name="beIN SPORTS 4"  group-title="TUM KANALLAR",beIN SPORTS 4
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043709
-
-#EXTINF:-1, tvg-id="beIN SPORTS MAX 1 HD-TR" tvg-logo="http://i.ibb.co/njh1h1K/be-IN-SPORTS-MAX-1.png" tvg-name="beIN SPORTS MAX 1"  group-title="TUM KANALLAR",beIN SPORTS MAX 1
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043715
-
-#EXTINF:-1, tvg-id="beIN SPORTS MAX 2 HD-TR" tvg-logo="http://i.ibb.co/LSVBkGm/be-IN-SPORTS-MAX-2.png" tvg-name="beIN SPORTS MAX 2"  group-title="TUM KANALLAR",beIN SPORTS MAX 2
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043714
-
-#EXTINF:-1, tvg-id="beIN SPORTS HABER HD-TR" tvg-logo="http://i.ibb.co/8sbLW6W/be-IN-SPORTS-HABER.png" tvg-name="beIN SPORTS HABER"  group-title="TUM KANALLAR",beIN SPORTS HABER
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043712
-
-#EXTINF:-1, tvg-id="SmartSpor1.tr" tvg-logo="http://i.ibb.co/BznFDj0/SPOR-SMART.png" tvg-name="SPOR SMART"  group-title="TUM KANALLAR",SPOR SMART
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043636
-
-#EXTINF:-1, tvg-id="S SPORT HD-TR" tvg-logo="http://i.ibb.co/gm5bfk9/S-SPORT.png" tvg-name="S SPORT"  group-title="TUM KANALLAR",S SPORT
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043657
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/7p9tRbL/S-SPORT-2.png" tvg-name="S SPORT 2"  group-title="TUM KANALLAR",S SPORT 2
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043658
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/Z8ZNH2t/MOTORVISION-TV.png" tvg-name="MOTORVISION TV"  group-title="TUM KANALLAR",MOTORVISION TV
-http://644209.com:8080/hakandemirci81/06.06.2019/80959
-
-#EXTINF:-1, tvg-id="NBA TV HD-TR" tvg-logo="http://i.ibb.co/dG3YrL8/NBA-TV.png" tvg-name="NBA TV"  group-title="TUM KANALLAR",NBA TV
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043554
-
-#EXTINF:-1, tvg-id="TivibuSpor1.tr" tvg-logo="http://i.ibb.co/84Z9ZBH/TIVIBU-SPOR.png" tvg-name="TİVİBU SPOR"  group-title="TUM KANALLAR",TİVİBU SPOR
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043619
-
-#EXTINF:-1, tvg-id="TivibuSpor2.tr" tvg-logo="http://i.ibb.co/PYTSkMd/TIVIBU-SPOR-2.png" tvg-name="TİVİBU SPOR 2"  group-title="TUM KANALLAR",TİVİBU SPOR 2
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043618
-
-#EXTINF:-1, tvg-id="TivibuSpor3.tr" tvg-logo="http://i.ibb.co/hmjw1cL/TIVIBU-SPOR-3.png" tvg-name="TİVİBU SPOR 3"  group-title="TUM KANALLAR",TİVİBU SPOR 3
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043609
-
-#EXTINF:-1, tvg-id="TRT SPOR HD-TR" tvg-logo="http://i.ibb.co/RhC7cBL/TRT-SPOR.png" tvg-name="TRT SPOR"  group-title="TUM KANALLAR",TRT SPOR
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043598
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/mvSBhdz/TRT-SPOR-2.png" tvg-name="TRT SPOR 2"  group-title="TUM KANALLAR",TRT SPOR 2
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043682
-
-#EXTINF:-1, tvg-id="A SPOR-TR" tvg-logo="http://i.ibb.co/0FFR37P/A-SPOR.png" tvg-name="A SPOR"  group-title="TUM KANALLAR",A SPOR
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043749
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/QjbyNmJ/T-A-Y-TV.png" tvg-name="T.A.Y TV"  group-title="TUM KANALLAR",T.A.Y TV
-http://644209.com:8080/hakandemirci81/06.06.2019/695
-
-#EXTINF:-1, tvg-id="TJK TV-TR" tvg-logo="http://i.ibb.co/4ZBGrW5/TJK-TV.png" tvg-name="TJK TV"  group-title="TUM KANALLAR",TJK TV
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043601
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/JFrBrh6/FUEL-TV.png" tvg-name="FUEL TV"  group-title="TUM KANALLAR",FUEL TV
+#EXTINF:-1 tvg-logo="http://i.ibb.co/gMjkG0g/TELE-1.png" group-title="TUM KANALLAR",TELE 1
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/15262
+#EXTINF:-1 tvg-id="DMAX HD-TR" tvg-logo="http://i.ibb.co/GCRC9b9/DMAX.png" group-title="TUM KANALLAR",DMAX
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5981
+#EXTINF:-1 tvg-id="SEMERKAND TV HD-TR" tvg-logo="http://i.ibb.co/pZ6D4PH/SEMERKAND-TV.png" group-title="TUM KANALLAR",SEMERKAND TV
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5887
+#EXTINF:-1 tvg-logo="http://i.ibb.co/MBGdkNB/DOST-TV.png" group-title="TUM KANALLAR",DOST TV
+http://pluskor.com:8080/hakandemirci81/06.06.2019/35326
+#EXTINF:-1 tvg-id="Halk Tv-TR" tvg-logo="http://i.ibb.co/Qntd9xv/HALK-TV.png" group-title="TUM KANALLAR",HALK TV
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/15261
+#EXTINF:-1 tvg-id="TEVE2 HD-TR" tvg-logo="http://i.ibb.co/JRkbS6X/TEVE2.png" group-title="TUM KANALLAR",TEVE2
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/27471
+#EXTINF:-1 tvg-id="EM TV-TR" tvg-logo="http://i.ibb.co/7KmS6mz/TV-EM.png" group-title="TUM KANALLAR",TVEM
+https://win1.yayin.com.tr/TVEM/TVEM/playlist.m3u8
+#EXTINF:-1 tvg-id="TV 8.5 HD-TR" tvg-logo="http://i.ibb.co/Ws4btfZ/TV8-5.png" group-title="TUM KANALLAR",TV8.5
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5985
+#EXTINF:-1 tvg-id="24Kitchen-TR" tvg-logo="http://i.ibb.co/TbTRT1b/24-KITCHEN.png" group-title="TUM KANALLAR",24 KITCHEN
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/35085
+#EXTINF:-1 tvg-id="ucankustv.tr" tvg-logo="http://i.ibb.co/2gHKxnZ/UCANKU-TV.png" group-title="TUM KANALLAR",UÇANKUŞ TV
+https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RSsBdzg/TRT-3.png" group-title="TUM KANALLAR",TRT 3
+https://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
+#EXTINF:-1 tvg-id="TRTAVAZ.tr" tvg-logo="http://i.ibb.co/8ssHtDC/TRT-AVAZ.png" group-title="TUM KANALLAR",TRT AVAZ
+http://tv-trtavaz.live.trt.com.tr/master_480.m3u8
+#EXTINF:-1 tvg-id="TRTKurdi.tr" tvg-logo="http://i.ibb.co/YBxDczk/TRT-KURDI.png" group-title="TUM KANALLAR",TRT KURDI
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/49737
+#EXTINF:-1 tvg-id="TRT TÜRK-TR" tvg-logo="http://i.ibb.co/H7m7MRf/TRT-TURK.png" group-title="TUM KANALLAR",TRT TURK
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5871
+#EXTINF:-1 tvg-id="KRT TV-TR" tvg-logo="http://i.ibb.co/wLtwCrt/KRT-TV.png" group-title="TUM KANALLAR",KRT TV
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/18717
+#EXTINF:-1 tvg-id="TRT 2 HD-TR" tvg-logo="http://i.ibb.co/3CyfTFR/TRT-2.png" group-title="TUM KANALLAR",TRT 2
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/34210
+#EXTINF:-1 tvg-id="DİYANET TV-TR" tvg-logo="http://i.ibb.co/dM1dBzS/DIYANET-TV.png" group-title="TUM KANALLAR",DIYANET TV
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5886
+#EXTINF:-1 tvg-id="EUROSPORT 1 HD-TR" tvg-logo="http://i.ibb.co/H465dxG/EUROSPORT-1.png" group-title="TUM KANALLAR",EUROSPORT 1
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5977
+#EXTINF:-1 tvg-id="EUROSPORT 2 TR HD-TR" tvg-logo="http://i.ibb.co/QJCMB9b/EUROSPORT-2.png" group-title="TUM KANALLAR",EUROSPORT 2
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5976
+#EXTINF:-1 tvg-logo="https://i.ibb.co/82fBh8s/EDGE-SPORT.png" group-title="TUM KANALLAR",EDGE SPORT
+http://pluskor.com:8080/hakandemirci81/06.06.2019/88631
+#EXTINF: -1 tvg-logo="http://i.ibb.co/vZn6fK4/EXTREME-SPORTS.png" group-title="TUM KANALLAR", EXTREME SPORTS
+http://pluskor.com:8080/hakandemirci81/06.06.2019/76526
+#EXTINF:-1 tvg-id="FB TV HD-TR" tvg-logo="http://i.ibb.co/x3DSyyJ/FB-TV.png" group-title="TUM KANALLAR",FB TV
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5988
+#EXTINF:-1 tvg-id="GS TV HD-TR" tvg-logo="http://i.ibb.co/7R1mB7Y/GS-TV.png" group-title="TUM KANALLAR",GS TV
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5989
+#EXTINF:-1 tvg-id="beIN SPORTS 1-TR" tvg-logo="http://i.ibb.co/dQ3M3Fk/be-IN-SPORTS-1.png" group-title="TUM KANALLAR",beIN SPORTS 1
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5955
+#EXTINF:-1 tvg-id="beIN SPORTS 2-TR" tvg-logo="http://i.ibb.co/gjRb6Pj/be-IN-SPORTS-2.png" group-title="TUM KANALLAR",beIN SPORTS 2
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5954
+#EXTINF:-1 tvg-id="beIN SPORTS 3-TR" tvg-logo="http://i.ibb.co/N2W0JxX/be-IN-SPORTS-3.png" group-title="TUM KANALLAR",beIN SPORTS 3
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/37508
+#EXTINF:-1 tvg-id="beIN SPORTS 4-TR" tvg-logo="http://i.ibb.co/tzY3Wx4/be-IN-SPORTS-4.png" group-title="TUM KANALLAR",beIN SPORTS 4
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5952
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 1 HD-TR" tvg-logo="http://i.ibb.co/njh1h1K/be-IN-SPORTS-MAX-1.png" group-title="TUM KANALLAR",beIN SPORTS MAX 1
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/7877
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 2 HD-TR" tvg-logo="http://i.ibb.co/LSVBkGm/be-IN-SPORTS-MAX-2.png" group-title="TUM KANALLAR",beIN SPORTS MAX 2
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/7933
+#EXTINF:-1 tvg-id="beIN SPORTS HABER HD-TR" tvg-logo="http://i.ibb.co/8sbLW6W/be-IN-SPORTS-HABER.png" group-title="TUM KANALLAR",beIN SPORTS HABER
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/9665
+#EXTINF:-1 tvg-id="SmartSpor1.tr" tvg-logo="http://i.ibb.co/BznFDj0/SPOR-SMART.png" group-title="TUM KANALLAR",SPOR SMART
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5967
+#EXTINF:-1 tvg-id="S SPORT HD-TR" tvg-logo="http://i.ibb.co/gm5bfk9/S-SPORT.png" group-title="TUM KANALLAR",S SPORT
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5982
+#EXTINF:-1 tvg-logo="http://i.ibb.co/7p9tRbL/S-SPORT-2.png" group-title="TUM KANALLAR",S SPORT 2
+http://pluskor.com:8080/hakandemirci81/06.06.2019/31421
+#EXTINF:-1 tvg-logo="http://i.ibb.co/Z8ZNH2t/MOTORVISION-TV.png" group-title="TUM KANALLAR",MOTORVISION TV
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/51348
+#EXTINF:-1 tvg-id="NBA TV HD-TR" tvg-logo="http://i.ibb.co/dG3YrL8/NBA-TV.png" group-title="TUM KANALLAR",NBA TV
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5984
+#EXTINF:-1 tvg-id="TivibuSpor1.tr" tvg-logo="http://i.ibb.co/84Z9ZBH/TIVIBU-SPOR.png" group-title="TUM KANALLAR",TİVİBU SPOR
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5975
+#EXTINF:-1 tvg-id="TivibuSpor2.tr" tvg-logo="http://i.ibb.co/PYTSkMd/TIVIBU-SPOR-2.png" group-title="TUM KANALLAR",TİVİBU SPOR 2
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5974
+#EXTINF:-1 tvg-id="TivibuSpor3.tr" tvg-logo="http://i.ibb.co/hmjw1cL/TIVIBU-SPOR-3.png" group-title="TUM KANALLAR",TİVİBU SPOR 3
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5973
+#EXTINF:-1 tvg-id="TRT SPOR HD-TR" tvg-logo="http://i.ibb.co/RhC7cBL/TRT-SPOR.png" group-title="TUM KANALLAR",TRT SPOR
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5979
+#EXTINF:-1 tvg-logo="http://i.ibb.co/mvSBhdz/TRT-SPOR-2.png" group-title="TUM KANALLAR",TRT SPOR 2
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/39003
+#EXTINF:-1 tvg-id="A SPOR-TR" tvg-logo="http://i.ibb.co/0FFR37P/A-SPOR.png" group-title="TUM KANALLAR",A SPOR
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5987
+#EXTINF:-1 tvg-logo="http://i.ibb.co/QjbyNmJ/T-A-Y-TV.png" group-title="TUM KANALLAR",T.A.Y TV
+http://pluskor.com:8080/hakandemirci81/06.06.2019/695
+#EXTINF:-1 tvg-id="TJK TV-TR" tvg-logo="http://i.ibb.co/4ZBGrW5/TJK-TV.png" group-title="TUM KANALLAR",TJK TV
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5918
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JFrBrh6/FUEL-TV.png" group-title="TUM KANALLAR",FUEL TV
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/51330
-
-#EXTINF:-1, tvg-id="SPORTS TV-TR" tvg-logo="http://i.ibb.co/bFg0Lfx/SPORTS-TV.png" tvg-name="SPORTS TV"  group-title="TUM KANALLAR",SPORTS TV
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043639
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/P1Z3qhk/TRACE-SPORTS-STARS.png" tvg-name="TRACE SPORT STARS"  group-title="TUM KANALLAR",TRACE SPORT STARS
-http://644209.com:8080/hakandemirci81/06.06.2019/81142
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/hcswySC/FAST-AND-FUN.png" tvg-name="FAST AND FUNBOX"  group-title="TUM KANALLAR",FAST AND FUNBOX
-http://644209.com:8080/hakandemirci81/06.06.2019/92539
-
-#EXTINF:-1, tvg-id="FightBox.tr" tvg-logo="http://i.ibb.co/7nP26Pd/FIGHTBOX.png" tvg-name="FIGHTBOX"  group-title="TUM KANALLAR",FIGHTBOX
-http://644209.com:8080/hakandemirci81/06.06.2019/92540
-
-#EXTINF:-1, tvg-id="TheFightNetwork.tr" tvg-logo="http://i.ibb.co/G7CYMZq/FIGHT-NETWORK.png" tvg-name="FIGHT NETWORK"  group-title="TUM KANALLAR",FIGHT NETWORK
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043576
-
-#EXTINF:-1, tvg-id="MCM POP" tvg-logo="https://i.ibb.co/RDkGmzB/MCM-POP.png" tvg-name="MCM POP"  group-title="TUM KANALLAR",MCM POP
-http://644209.com:8080/hakandemirci81/06.06.2019/80953
-
-#EXTINF:-1, tvg-id="MCM TOP" tvg-logo="https://i.ibb.co/RP0P5d9/MCM-TOP.png" tvg-name="MCM TOP"  group-title="TUM KANALLAR",MCM TOP
-http://644209.com:8080/hakandemirci81/06.06.2019/80954
-
-#EXTINF:-1, tvg-id="Mezzo.tr" tvg-logo="http://i.ibb.co/QdwLQJm/MEZZO.png" tvg-name="MEZZO"  group-title="TUM KANALLAR",MEZZO
-http://644209.com:8080/hakandemirci81/06.06.2019/80957
-
-#EXTINF:-1, tvg-id="VH1.tr" tvg-logo="http://i.ibb.co/fFTfGbB/VH1.png" tvg-name="VH-1"  group-title="TUM KANALLAR",VH-1
-http://644209.com:8080/hakandemirci81/06.06.2019/87449
-
-#EXTINF:-1, tvg-id="TRT MÜZİK-TR" tvg-logo="http://i.ibb.co/sJkRZSq/TRT-MUZIK.png" tvg-name="TRT MÜZİK"  group-title="TUM KANALLAR",TRT MÜZİK
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043595
-
-#EXTINF:-1, tvg-id="KralTV.tr" tvg-logo="http://i.ibb.co/0XVj5SR/KRAL-TV.png" tvg-name="KRAL TV"  group-title="TUM KANALLAR",KRAL TV
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043534
-
-#EXTINF:-1, tvg-id="KralPop.tr" tvg-logo="http://i.ibb.co/pKm12rc/KRAL-POP-TV.png" tvg-name="KRAL POP TV"  group-title="TUM KANALLAR",KRAL POP TV
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043535
-
-#EXTINF:-1, tvg-id="DREAM TV-TR" tvg-logo="http://i.ibb.co/cX1R1dH/DREAM-TV.png" tvg-name="DREAM TV"  group-title="TUM KANALLAR",DREAM TV
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043571
-
-#EXTINF:-1, tvg-id="Dream Türk-TR" tvg-logo="http://i.ibb.co/zGkM215/DREAM-TURK.png" tvg-name="DREAM TÜRK"  group-title="TUM KANALLAR",DREAM TÜRK
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043570
-
-#EXTINF:-1, tvg-id="NR1-TR" tvg-logo="http://i.ibb.co/xG4fDn3/NUMBER1-TV.png" tvg-name="NUMBER1 TV"  group-title="TUM KANALLAR",NUMBER1 TV
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043591
-
-#EXTINF:-1, tvg-id="NR1 Türk-TR" tvg-logo="http://i.ibb.co/QjM93vG/NUMBER1-TURK.png" tvg-name="NUMBER1 TÜRK"  group-title="TUM KANALLAR",NUMBER1 TÜRK
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043630
-
-#EXTINF:-1, tvg-id="POWER TV HD-TR" tvg-logo="http://i.ibb.co/s5636bz/POWER-TV.png" tvg-name="POWER TV"  group-title="TUM KANALLAR",POWER TV
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043628
-
-#EXTINF:-1, tvg-id="POWER TURK TV HD-TR" tvg-logo="http://i.ibb.co/k2mhZF7/POWERTURK-TV.png" tvg-name="POWERTURK TV"  group-title="TUM KANALLAR",POWERTURK TV
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043631
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/dPz2DvT/MILYON-TV.png" tvg-name="MILYON TV"  group-title="TUM KANALLAR",MILYON TV
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043663
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/0FZSFVt/STINGRAY-ICONCERTS.png" tvg-name="STINGRAY iCONCERTS"  group-title="TUM KANALLAR",STINGRAY iCONCERTS
-http://644209.com:8080/hakandemirci81/06.06.2019/85993
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/6rCFRTc/STINGRAY-CLASSICA.png" tvg-name="STINGRAY CLASSICA"  group-title="TUM KANALLAR",STINGRAY CLASSICA
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043695
-
-#EXTINF:-1, tvg-id="360 TUNE BOX" tvg-logo="https://i.ibb.co/1zCdLrZ/360-TUNE-BOX.png" tvg-name="360 TUNE BOX"  group-title="TUM KANALLAR",360 TUNE BOX
-http://644209.com:8080/hakandemirci81/06.06.2019/92543
-
-#EXTINF:-1, tvg-id="TraceUrban.tr" tvg-logo="http://i.ibb.co/ggXYS5R/TRACE-URBAN.png" tvg-name="TRACE URBAN"  group-title="TUM KANALLAR",TRACE URBAN
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043599
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/mN32t2Q/MTV.png" tvg-name="MTV"  group-title="TUM KANALLAR",MTV
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043697
-
-#EXTINF:-1, tvg-id="MTVLiveHD.tr" tvg-logo="http://i.ibb.co/kJ6J9sD/MTV-LIVE.png" tvg-name="MTV LIVE"  group-title="TUM KANALLAR",MTV LIVE
+#EXTINF:-1 tvg-id="SPORTS TV-TR" tvg-logo="http://i.ibb.co/bFg0Lfx/SPORTS-TV.png" group-title="TUM KANALLAR",SPORTS TV
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hcswySC/FAST-AND-FUN.png" group-title="TUM KANALLAR",FAST AND FUNBOX
+http://pluskor.com:8080/hakandemirci81/06.06.2019/88773
+#EXTINF:-1 tvg-id="FightBox.tr" tvg-logo="http://i.ibb.co/7nP26Pd/FIGHTBOX.png" group-title="TUM KANALLAR",FIGHTBOX
+http://pluskor.com:8080/hakandemirci81/06.06.2019/88774
+#EXTINF:-1 tvg-id="TheFightNetwork.tr" tvg-logo="http://i.ibb.co/G7CYMZq/FIGHT-NETWORK.png" group-title="TUM KANALLAR",FIGHT NETWORK
+http://pluskor.com:8080/hakandemirci81/06.06.2019/73356
+#EXTINF:-1 tvg-id="MCM TOP" tvg-logo="https://i.ibb.co/RP0P5d9/MCM-TOP.png" group-title="TUM KANALLAR",MCM TOP
+http://pluskor.com:8080/hakandemirci81/06.06.2019/76605
+#EXTINF:-1 tvg-id="Mezzo.tr" tvg-logo="http://i.ibb.co/QdwLQJm/MEZZO.png" group-title="TUM KANALLAR",MEZZO
+http://pluskor.com:8080/hakandemirci81/06.06.2019/76608
+#EXTINF:-1 tvg-id="VH1.tr" tvg-logo="http://i.ibb.co/fFTfGbB/VH1.png" group-title="TUM KANALLAR",VH-1
+http://pluskor.com:8080/hakandemirci81/06.06.2019/81920
+#EXTINF:-1 tvg-id="TRT MÜZİK-TR" tvg-logo="http://i.ibb.co/sJkRZSq/TRT-MUZIK.png" group-title="TUM KANALLAR",TRT MÜZİK
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/6084
+#EXTINF:-1 tvg-id="KralTV.tr" tvg-logo="http://i.ibb.co/0XVj5SR/KRAL-TV.png" group-title="TUM KANALLAR",KRAL TV
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/6086
+#EXTINF:-1 tvg-id="KralPop.tr" tvg-logo="http://i.ibb.co/pKm12rc/KRAL-POP-TV.png" group-title="TUM KANALLAR",KRAL POP TV
+http://premium.mfreetv.com:80/hakdemir812/4114337aA/4541
+#EXTINF:-1 tvg-id="DREAM TV-TR" tvg-logo="http://i.ibb.co/cX1R1dH/DREAM-TV.png" group-title="TUM KANALLAR",DREAM TV
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/6085
+#EXTINF:-1 tvg-id="Dream Türk-TR" tvg-logo="http://i.ibb.co/zGkM215/DREAM-TURK.png" group-title="TUM KANALLAR",DREAM TÜRK
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/6082
+#EXTINF:-1 tvg-id="NR1-TR" tvg-logo="http://i.ibb.co/xG4fDn3/NUMBER1-TV.png" group-title="TUM KANALLAR",NUMBER1 TV
+http://pluskor.com:8080/hakandemirci81/06.06.2019/589
+#EXTINF:-1 tvg-id="NR1 Türk-TR" tvg-logo="http://i.ibb.co/QjM93vG/NUMBER1-TURK.png" group-title="TUM KANALLAR",NUMBER1 TÜRK
+http://pluskor.com:8080/hakandemirci81/06.06.2019/590
+#EXTINF:-1 tvg-logo="https://i.ibb.co/drJJQr7/RADYO-TURKCE-POP.png" group-title="TUM KANALLAR",RADYO TURKCE POP
+http://37.247.98.8/stream/21/
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMmBLWW/RADYO-TURKCE-SLOW.png" group-title="TUM KANALLAR",RADYO TURKCE SLOW
+http://37.247.98.8/stream/27/
+#EXTINF:-1 tvg-id="POWER TV HD-TR" tvg-logo="http://i.ibb.co/s5636bz/POWER-TV.png" group-title="TUM KANALLAR",POWER TV
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/6083
+#EXTINF:-1 tvg-id="POWER TURK TV HD-TR" tvg-logo="http://i.ibb.co/k2mhZF7/POWERTURK-TV.png" group-title="TUM KANALLAR",POWERTURK TV
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/6081
+#EXTINF:-1 tvg-logo="http://i.ibb.co/dPz2DvT/MILYON-TV.png" group-title="TUM KANALLAR",MILYON TV
+http://milyontv.netmedya.net/hls/milyontv.m3u8
+#EXTINF:-1 tvg-id="360 TUNE BOX" tvg-logo="https://i.ibb.co/1zCdLrZ/360-TUNE-BOX.png"  group-title="TUM KANALLAR",360 TUNE BOX
+http://pluskor.com:8080/hakandemirci81/06.06.2019/88777
+#EXTINF:-1 tvg-id="TraceUrban.tr" tvg-logo="http://i.ibb.co/ggXYS5R/TRACE-URBAN.png" group-title="TUM KANALLAR",TRACE URBAN
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/18734
+#EXTINF:-1 tvg-logo="http://i.ibb.co/mN32t2Q/MTV.png" group-title="TUM KANALLAR",MTV
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/48780
+#EXTINF:-1 tvg-id="MTVLiveHD.tr" tvg-logo="http://i.ibb.co/kJ6J9sD/MTV-LIVE.png" group-title="TUM KANALLAR",MTV LIVE
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/50546
-
-#EXTINF:-1, tvg-id="MTVHits.tr" tvg-logo="http://i.ibb.co/6DP3xWf/MTV-HITS.png" tvg-name="MTV HITS"  group-title="TUM KANALLAR",MTV HITS
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043559
-
-#EXTINF:-1, tvg-id="E.tr" tvg-logo="http://i.ibb.co/4pyLV10/E-ENTERTAINMENT.png" tvg-name="E! ENTERTAINMENT"  group-title="TUM KANALLAR",E! ENTERTAINMENT
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043573
-
-#EXTINF:-1, tvg-id="FashionTV.tr" tvg-logo="http://i.ibb.co/pwnpr9b/FASHION-TV.png" tvg-name="FASHION TV"  group-title="TUM KANALLAR",FASHION TV
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043567
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/M7nbGLB/FASHIONBOX.png" tvg-name="FASHIONBOX"  group-title="TUM KANALLAR",FASHIONBOX
+#EXTINF:-1 tvg-id="MTVHits.tr" tvg-logo="http://i.ibb.co/6DP3xWf/MTV-HITS.png" group-title="TUM KANALLAR",MTV HITS
+http://pluskor.com:8080/hakandemirci81/06.06.2019/81889
+#EXTINF:-1 tvg-id="E.tr" tvg-logo="http://i.ibb.co/4pyLV10/E-ENTERTAINMENT.png" group-title="TUM KANALLAR",E! ENTERTAINMENT
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/48774
+#EXTINF:-1 tvg-id="FashionTV.tr" tvg-logo="http://i.ibb.co/pwnpr9b/FASHION-TV.png" group-title="TUM KANALLAR",FASHION TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2PmymdY/FASHION-ONE.png" group-title="TUM KANALLAR",FASHION ONE
+http://188.35.9.11:21031/udp/058v
+#EXTINF:-1 tvg-logo="http://i.ibb.co/M7nbGLB/FASHIONBOX.png" group-title="TUM KANALLAR",FASHIONBOX
 http://84.22.33.254/unicast.fashionbox/mpegts
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/py5grQQ/WORLD-FASHION.png" tvg-name="WORLD FASHION"  group-title="TUM KANALLAR",WORLD FASHION
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043653
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/SV51b6d/BBC-ENTERTAINMENT.png" tvg-name="BBC ENTERTAINMENT"  group-title="TUM KANALLAR",BBC ENTERTAINMENT
-http://37.28.211.0:9981/stream/channelid/322172268
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/pdP5JjF/ANT1.png" tvg-name="ANT1"  group-title="TUM KANALLAR",ANT1
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043705
-
-#EXTINF:-1, tvg-id="PRO7.tr" tvg-logo="http://i.ibb.co/RHt1CMc/PRO7.png" tvg-name="PRO7"  group-title="TUM KANALLAR",PRO7
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043634
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/jLvFhzF/RTL.png" tvg-name="RTL"  group-title="TUM KANALLAR",RTL
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043661
-
-#EXTINF:-1, tvg-id="RAIUNO.tr" tvg-logo="http://i.ibb.co/XyV7nY0/RAI-UNO.png" tvg-name="RAI 1"  group-title="TUM KANALLAR",RAI 1
+#EXTINF:-1 tvg-logo="http://i.ibb.co/py5grQQ/WORLD-FASHION.png" group-title="TUM KANALLAR",WORLD FASHION
+http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v3a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/pdP5JjF/ANT1.png" group-title="TUM KANALLAR",ANT1
+http://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_1500_av-p.m3u8
+#EXTINF:-1 tvg-id="PRO7.tr" tvg-logo="http://i.ibb.co/RHt1CMc/PRO7.png" group-title="TUM KANALLAR",PRO7
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/6172
+#EXTINF:-1 tvg-logo="http://i.ibb.co/jLvFhzF/RTL.png" group-title="TUM KANALLAR",RTL
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/6176
+#EXTINF:-1 tvg-id="RAIUNO.tr" tvg-logo="http://i.ibb.co/XyV7nY0/RAI-UNO.png" group-title="TUM KANALLAR",RAI 1
 http://84.22.33.254/unicast.rai1/mpegts
-
-#EXTINF:-1, tvg-id="TV5 MONDE-TR" tvg-logo="http://i.ibb.co/6g3KLfP/TV5MONDE.png" tvg-name="TV5MONDE"  group-title="TUM KANALLAR",TV5MONDE
+#EXTINF:-1 tvg-id="TV5 MONDE-TR" tvg-logo="http://i.ibb.co/6g3KLfP/TV5MONDE.png" group-title="TUM KANALLAR",TV5MONDE
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/48775
-
-#EXTINF:-1, tvg-id="TRT WORLD HD-TR" tvg-logo="http://i.ibb.co/VC73sv4/TRT-WORLD.png" tvg-name="TRT WORLD"  group-title="TUM KANALLAR",TRT WORLD
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043596
-
-#EXTINF:-1, tvg-id="rtrplaneta.tr" tvg-logo="http://i.ibb.co/3dqsG2v/RTR-PLANETA.png" tvg-name="RTR PLANETA"  group-title="TUM KANALLAR",RTR PLANETA
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043632
-
-#EXTINF:-1, tvg-id="turkmeneltv.tr" tvg-logo="http://i.ibb.co/9NTsgj3/TURKMENELI-TV.png" tvg-name="TÜRKMENELİ TV"  group-title="TUM KANALLAR",TÜRKMENELİ TV
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043620
-
-#EXTINF:-1, tvg-id="aztv1.tr" tvg-logo="http://i.ibb.co/ZNY9hQm/AZ-TV.png" tvg-name="AZTV"  group-title="TUM KANALLAR",AZTV
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043763
-
-#EXTINF:-1, tvg-id="kazakhtv.tr" tvg-logo="http://i.ibb.co/Rp7TqH1/KAZAKH-TV.png" tvg-name="KAZAKH TV"  group-title="TUM KANALLAR",KAZAKH TV
+#EXTINF:-1 tvg-id="TRT WORLD HD-TR" tvg-logo="http://i.ibb.co/VC73sv4/TRT-WORLD.png" group-title="TUM KANALLAR",TRT WORLD
+http://tv-trtworld.live.trt.com.tr/master_480.m3u8
+#EXTINF:-1 tvg-id="rtrplaneta.tr" tvg-logo="http://i.ibb.co/3dqsG2v/RTR-PLANETA.png" group-title="TUM KANALLAR",RTR PLANETA
+http://a3569457661-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-id="turkmeneltv.tr" tvg-logo="http://i.ibb.co/9NTsgj3/TURKMENELI-TV.png" group-title="TUM KANALLAR",TÜRKMENELİ TV
+http://116.203.71.169/hls/stream1.m3u8
+#EXTINF:-1 tvg-id="aztv1.tr" tvg-logo="http://i.ibb.co/ZNY9hQm/AZ-TV.png" group-title="TUM KANALLAR",AZTV
+http://streams.livetv.az/azerbaijan/aztv_stream2/chunks.m3u8
+#EXTINF:-1 tvg-id="kazakhtv.tr" tvg-logo="http://i.ibb.co/Rp7TqH1/KAZAKH-TV.png" group-title="TUM KANALLAR",KAZAKH TV
 https://kazakhtven.ultraiptv.com/live_en/playlist3/index.m3u8
-
-#EXTINF:-1, tvg-id="TRT ARABİ-TR" tvg-logo="http://i.ibb.co/k5SxQYS/TRT-ARABI.png" tvg-name="TRT ARABI"  group-title="TUM KANALLAR",TRT ARABI
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043604
-
-#EXTINF:-1, tvg-id="CNN.tr" tvg-logo="http://i.ibb.co/yXwYDT2/CNN-INTERNATIONAL.png" tvg-name="CNN INTERNATIONAL"  group-title="TUM KANALLAR",CNN INTERNATIONAL
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043726
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/mSr7HSf/CNBC.png" tvg-name="CNBC"  group-title="TUM KANALLAR",CNBC
+#EXTINF:-1 tvg-id="TRT ARABİ-TR" tvg-logo="http://i.ibb.co/k5SxQYS/TRT-ARABI.png" group-title="TUM KANALLAR",TRT ARABI
+http://tv-trtarabi.live.trt.com.tr/master_480.m3u8
+#EXTINF:-1 tvg-id="CNN.tr" tvg-logo="http://i.ibb.co/yXwYDT2/CNN-INTERNATIONAL.png" group-title="TUM KANALLAR",CNN INTERNATIONAL
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/51079
+#EXTINF:-1 tvg-logo="http://i.ibb.co/mSr7HSf/CNBC.png" group-title="TUM KANALLAR",CNBC
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/51081
-
-#EXTINF:-1, tvg-id="BBCWorldNews.tr" tvg-logo="http://i.ibb.co/BcZYgTw/BBC-WORLD-NEWS.png" tvg-name="BBC WORLD NEWS"  group-title="TUM KANALLAR",BBC WORLD NEWS
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043764
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/TTvHGvK/FOX-NEWS-CHANNEL.png" tvg-name="FOX NEWS CHANNEL"  group-title="TUM KANALLAR",FOX NEWS CHANNEL
+#EXTINF:-1 tvg-logo="http://i.ibb.co/BcZYgTw/BBC-WORLD-NEWS.png" group-title="TUM KANALLAR",BBC WORLD NEWS
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/TTvHGvK/FOX-NEWS-CHANNEL.png" group-title="TUM KANALLAR",FOX NEWS CHANNEL
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/51080
-
-#EXTINF:-1, tvg-id="BLOOMBERG TV-TR" tvg-logo="http://i.ibb.co/31XcQdt/BLOOMBERG-TV.png" tvg-name="BLOOMBERG TV"  group-title="TUM KANALLAR",BLOOMBERG TV
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043731
-
-#EXTINF:-1, tvg-id="Euronews.tr" tvg-logo="http://i.ibb.co/20zB3bB/EURONEWS.png" tvg-name="EURONEWS"  group-title="TUM KANALLAR",EURONEWS
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043562
-
-#EXTINF:-1, tvg-id="A News HD-TR" tvg-logo="http://i.ibb.co/t39bS2y/A-NEWS.png" tvg-name="A NEWS"  group-title="TUM KANALLAR",A NEWS
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043751
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/3RBjKMm/SKY-NEWS.png" tvg-name="SKY NEWS"  group-title="TUM KANALLAR",SKY NEWS
+#EXTINF:-1 tvg-id="BLOOMBERG TV-TR" tvg-logo="http://i.ibb.co/31XcQdt/BLOOMBERG-TV.png" group-title="TUM KANALLAR",BLOOMBERG TV
+http://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:-1 tvg-id="Euronews.tr" tvg-logo="http://i.ibb.co/20zB3bB/EURONEWS.png" group-title="TUM KANALLAR",EURONEWS
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/51082
+#EXTINF:-1 tvg-id="A News HD-TR" tvg-logo="http://i.ibb.co/t39bS2y/A-NEWS.png" group-title="TUM KANALLAR",A NEWS
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5951
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3RBjKMm/SKY-NEWS.png" group-title="TUM KANALLAR",SKY NEWS
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/51098
-
-#EXTINF:-1, tvg-id="NHK.tr" tvg-logo="http://i.ibb.co/93CVNGd/NHK-WORLD-JPN.png" tvg-name="NHK WORLD-JPN"  group-title="TUM KANALLAR",NHK WORLD-JPN
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043553
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/jHvJnPg/UA-TV.png" tvg-name="UA TV"  group-title="TUM KANALLAR",UA TV
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043684
-
-#EXTINF:-1, tvg-id="aljazeeraarabic.tr" tvg-logo="http://i.ibb.co/tc02MYv/ALJAZEERA-ARABIC.png" tvg-name="ALJAZEERA ARABIC"  group-title="TUM KANALLAR",ALJAZEERA ARABIC
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043744
-
-#EXTINF:-1, tvg-id="AlJazeeraInt.tr" tvg-logo="http://i.ibb.co/nw18rxd/ALJAZEERA-ENGLISH.png" tvg-name="ALJAZEERA ENGLISH"  group-title="TUM KANALLAR",ALJAZEERA ENGLISH
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043743
-
-#EXTINF:-1, tvg-id="deutschewelleen.tr" tvg-logo="http://i.ibb.co/4Z8wMr0/DW-TV-ENGLISH.png" tvg-name="DW-TV (ENGLISH)"  group-title="TUM KANALLAR",DW-TV (ENGLISH)
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043569
-
-#EXTINF:-1, tvg-id="deutschewellede.tr" tvg-logo="http://i.ibb.co/4Z8wMr0/DW-TV-ENGLISH.png" tvg-name="DW-TV (GERMAN)"  group-title="TUM KANALLAR",DW-TV (GERMAN)
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043572
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/ZTc1jVy/CHANNEL-ONE-RUSSIA.png" tvg-name="CHANNEL ONE RUSSIA"  group-title="TUM KANALLAR",CHANNEL ONE RUSSIA
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043666
-
-#EXTINF:-1, tvg-id="arirang.tr" tvg-logo="http://i.ibb.co/vJHr4T8/ARIRANG-TV.png" tvg-name="ARIRANG TV"  group-title="TUM KANALLAR",ARIRANG TV
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043762
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/vPtL4YX/CCTV-4.png" tvg-name="CCTV-4"  group-title="TUM KANALLAR",CCTV-4
+#EXTINF:-1 tvg-id="NHK.tr" tvg-logo="http://i.ibb.co/93CVNGd/NHK-WORLD-JPN.png" group-title="TUM KANALLAR",NHK WORLD-JPN
+http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/jHvJnPg/UA-TV.png" group-title="TUM KANALLAR",UA TV
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1 tvg-id="aljazeeraarabic.tr" tvg-logo="http://i.ibb.co/tc02MYv/ALJAZEERA-ARABIC.png" group-title="TUM KANALLAR",ALJAZEERA ARABIC
+https://live-hls-web-aja.getaj.net/AJA/05.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraInt.tr" tvg-logo="http://i.ibb.co/nw18rxd/ALJAZEERA-ENGLISH.png" group-title="TUM KANALLAR",ALJAZEERA ENGLISH
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="deutschewelleen.tr" tvg-logo="http://i.ibb.co/4Z8wMr0/DW-TV-ENGLISH.png" group-title="TUM KANALLAR",DW-TV (ENGLISH)
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:-1 tvg-id="deutschewellede.tr" tvg-logo="http://i.ibb.co/4Z8wMr0/DW-TV-ENGLISH.png" group-title="TUM KANALLAR",DW-TV (GERMAN)
+http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/ZTc1jVy/CHANNEL-ONE-RUSSIA.png" group-title="TUM KANALLAR",CHANNEL ONE RUSSIA
+http://188.35.9.11:11041/p
+#EXTINF:-1 tvg-id="arirang.tr" tvg-logo="http://i.ibb.co/vJHr4T8/ARIRANG-TV.png" group-title="TUM KANALLAR",ARIRANG TV
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vPtL4YX/CCTV-4.png" group-title="TUM KANALLAR",CCTV-4
 http://117.169.72.6:8080/ysten-businessmobile/live/cctv-4/1.m3u8
-
-#EXTINF:-1, tvg-id="cgtn.tr" tvg-logo="http://i.ibb.co/pwFZfMf/CGTN.png" tvg-name="CGTN"  group-title="TUM KANALLAR",CGTN
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043737
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/WGfmMNX/RAI-NEWS-24.png" tvg-name="RAI NEWS 24"  group-title="TUM KANALLAR",RAI NEWS 24
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043652
-
-#EXTINF:-1, tvg-id="russia24.tr" tvg-logo="http://i.ibb.co/wzMKqq3/RUSSIA-24.png" tvg-name="RUSSIA 24"  group-title="TUM KANALLAR",RUSSIA 24
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043623
-
-#EXTINF:-1, tvg-id="france24en.tr" tvg-logo="http://i.ibb.co/0J5MRfR/FRANCE-24-ENGLISH.png" tvg-name="FRANCE 24 ENGLISH"  group-title="TUM KANALLAR",FRANCE 24 ENGLISH
+#EXTINF:-1 tvg-id="cgtn.tr" tvg-logo="http://i.ibb.co/pwFZfMf/CGTN.png" group-title="TUM KANALLAR",CGTN
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/WGfmMNX/RAI-NEWS-24.png" group-title="TUM KANALLAR",RAI NEWS 24
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1200/chunklist.m3u8
+#EXTINF:-1 tvg-id="russia24.tr" tvg-logo="http://i.ibb.co/wzMKqq3/RUSSIA-24.png" group-title="TUM KANALLAR",RUSSIA 24
+http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
+#EXTINF:-1 tvg-id="france24en.tr" tvg-logo="http://i.ibb.co/0J5MRfR/FRANCE-24-ENGLISH.png" group-title="TUM KANALLAR",FRANCE 24 ENGLISH
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
-
-#EXTINF:-1, tvg-id="france24fr.tr" tvg-logo="http://i.ibb.co/0J5MRfR/FRANCE-24-ENGLISH.png" tvg-name="FRANCE 24 FRANÇAIS"  group-title="TUM KANALLAR",FRANCE 24 FRANÇAIS
+#EXTINF:-1 tvg-id="france24fr.tr" tvg-logo="http://i.ibb.co/0J5MRfR/FRANCE-24-ENGLISH.png" group-title="TUM KANALLAR",FRANCE 24 FRANÇAIS
 http://f24hls-i.akamaihd.net/hls/live/221146-b/F24_FR_HI_HLS/master_2000.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/Dp3BPc8/ALA-TOO-24.png" tvg-name="ALA TOO 24"  group-title="TUM KANALLAR",ALA TOO 24
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/Dp3BPc8/ALA-TOO-24.png" group-title="TUM KANALLAR",ALA TOO 24
 http://onlinetv.ktrk.kg:1935/live/myStream3/playlist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/nBV9sBb/MBC.png" tvg-name="MBC"  group-title="TUM KANALLAR",MBC
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043673
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/QcrKZrs/SAUDI-TV.png" tvg-name="SAUDI 1"  group-title="TUM KANALLAR",SAUDI 1
+#EXTINF:-1 tvg-logo="http://i.ibb.co/nBV9sBb/MBC.png" group-title="TUM KANALLAR",MBC
+http://livecdnh2.tvanywhere.ae/hls/mbc1/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QcrKZrs/SAUDI-TV.png" group-title="TUM KANALLAR",SAUDI 1
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/50794
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/RNwZzFf/AL-QURAN-AL-KAREEM.png" tvg-name="AL QURAN AL KAREEM"  group-title="TUM KANALLAR",AL QURAN AL KAREEM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RNwZzFf/AL-QURAN-AL-KAREEM.png" group-title="TUM KANALLAR",AL QURAN AL KAREEM
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/50790
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/RNzv7TF/AL-SUNNAH-AL-NABAWIYAH.png" tvg-name="AL SUNNAH AL NABAWIYAH"  group-title="TUM KANALLAR",AL SUNNAH AL NABAWIYAH
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RNzv7TF/AL-SUNNAH-AL-NABAWIYAH.png" group-title="TUM KANALLAR",AL SUNNAH AL NABAWIYAH
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/50793
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/qMNgs7F/SKY-NEWS-ARABIA.png" tvg-name="SKY NEWS ARABIA"  group-title="TUM KANALLAR",SKY NEWS ARABIA
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043691
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/xsK6BD3/TVE-INTERNACIONAL.png" tvg-name="TVE INTERNACIONAL"  group-title="TUM KANALLAR",TVE INTERNACIONAL
-http://37.28.211.0:9981/stream/channelid/185353897
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/Z2z6r9H/24-HORAS.png" tvg-name="24 HORAS"  group-title="TUM KANALLAR",24 HORAS
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043703
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/zGxkgh3/SAT1.png" tvg-name="SAT 1"  group-title="TUM KANALLAR",SAT 1
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043692
-
-#EXTINF:-1, tvg-id="automoto.tr" tvg-logo="http://i.ibb.co/ZzQkNjv/AUTOMOTO.png" tvg-name="AUTOMOTO"  group-title="TUM KANALLAR",AUTOMOTO
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043760
-
-#EXTINF:-1, tvg-id="animaux.tr" tvg-logo="http://i.ibb.co/R74PrGL/ANIMAUX.png" tvg-name="ANIMAUX"  group-title="TUM KANALLAR",ANIMAUX
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043752
-
-#EXTINF:-1, tvg-id="chasseetpeche.tr" tvg-logo="http://i.ibb.co/W2zn1yc/CHASSE-ET-PECHE.png" tvg-name="CHASSE & PECHE"  group-title="TUM KANALLAR",CHASSE & PECHE
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043735
-
-#EXTINF:-1, tvg-id="trek.tr" tvg-logo="http://i.ibb.co/VNsZWmX/TREK.png" tvg-name="TREK"  group-title="TUM KANALLAR",TREK
-http://644209.com:8080/hakandemirci81/06.06.2019/92544
-
-#EXTINF:-1, tvg-id="sciencevie.tr" tvg-logo="http://i.ibb.co/C9zPWTT/SCIENCE-VIE-TV.png" tvg-name="SCIENCE & VIE TV"  group-title="TUM KANALLAR",SCIENCE & VIE TV
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043621
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/syp62SR/NAUTICAL-CHANNEL.png" tvg-name="NAUTICAL CHANNEL"  group-title="TUM KANALLAR",NAUTICAL CHANNEL
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043690
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/TggPZLM/TRAVEL-CHANNEL.png" tvg-name="TRAVEL CHANNEL"  group-title="TUM KANALLAR",TRAVEL CHANNEL
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043679
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/NsY22r0/AV-TV.png" tvg-name="AV TV"  group-title="TUM KANALLAR",AV TV
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043704
-
-#EXTINF:-1, tvg-id="YABAN TV HD-TR" tvg-logo="http://i.ibb.co/bQHRsN7/YABAN-TV.png" tvg-name="YABAN TV"  group-title="TUM KANALLAR",YABAN TV
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043664
-
-#EXTINF:-1, tvg-id="TRT BELGESEL-TR" tvg-logo="http://i.ibb.co/G2P4sKP/TRT-BELGESEL.png" tvg-name="TRT BELGESEL"  group-title="TUM KANALLAR",TRT BELGESEL
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043594
-
-#EXTINF:-1, tvg-id="DISCOVERY CHANNEL HD-TR" tvg-logo="http://i.ibb.co/rGkK2FD/DISCOVERY-CHANNEL.png" tvg-name="DISCOVERY CHANNEL"  group-title="TUM KANALLAR",DISCOVERY CHANNEL
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043724
-
-#EXTINF:-1, tvg-id="ANIMAL PLANET-TR" tvg-logo="http://i.ibb.co/n0rB65T/ANIMAL-PLANET.png" tvg-name="ANIMAL PLANET"  group-title="TUM KANALLAR",ANIMAL PLANET
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043742
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/H2D4qPX/DISCOVERY-WORLD.png" tvg-name="DISCOVERY WORLD"  group-title="TUM KANALLAR",DISCOVERY WORLD
-http://644209.com:8080/hakandemirci81/06.06.2019/80415
-
-#EXTINF:-1, tvg-id="Discovery Science HD-TR" tvg-logo="http://i.ibb.co/2W5pXLX/DISCOVERY-SCIENCE.png" tvg-name="DISCOVERY SCIENCE"  group-title="TUM KANALLAR",DISCOVERY SCIENCE
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043727
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/hDGKjnd/DTX.png" tvg-name="DTX"  group-title="TUM KANALLAR",DTX
+#EXTINF:-1 tvg-logo="http://i.ibb.co/qMNgs7F/SKY-NEWS-ARABIA.png" group-title="TUM KANALLAR",SKY NEWS ARABIA
+http://stream.skynewsarabia.com/hls/sna_720.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/Z2z6r9H/24-HORAS.png" group-title="TUM KANALLAR",24 HORAS
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_0650_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/zGxkgh3/SAT1.png" group-title="TUM KANALLAR",SAT 1
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/6346
+#EXTINF:-1 tvg-id="automoto.tr" tvg-logo="http://i.ibb.co/ZzQkNjv/AUTOMOTO.png" group-title="TUM KANALLAR",AUTOMOTO
+http://644209.com:8080/hakandemirci81/06.06.2019/31667
+#EXTINF:-1 tvg-id="animaux.tr" tvg-logo="http://i.ibb.co/R74PrGL/ANIMAUX.png" group-title="TUM KANALLAR",ANIMAUX
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/27865
+#EXTINF:-1 tvg-id="chasseetpeche.tr" tvg-logo="http://i.ibb.co/W2zn1yc/CHASSE-ET-PECHE.png" group-title="TUM KANALLAR",CHASSE & PECHE
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/35084
+#EXTINF:-1 tvg-id="trek.tr" tvg-logo="http://i.ibb.co/VNsZWmX/TREK.png" group-title="TUM KANALLAR",TREK
+http://pluskor.com:8080/hakandemirci81/06.06.2019/88778
+#EXTINF:-1 tvg-id="sciencevie.tr" tvg-logo="http://i.ibb.co/C9zPWTT/SCIENCE-VIE-TV.png" group-title="TUM KANALLAR",SCIENCE & VIE TV
+http://pluskor.com:8080/hakandemirci81/06.06.2019/35529
+#EXTINF:-1 tvg-logo="http://i.ibb.co/syp62SR/NAUTICAL-CHANNEL.png" group-title="TUM KANALLAR",NAUTICAL CHANNEL
+http://pluskor.com:8080/hakandemirci81/06.06.2019/76628
+#EXTINF:-1 tvg-logo="http://i.ibb.co/TggPZLM/TRAVEL-CHANNEL.png" group-title="TUM KANALLAR",TRAVEL CHANNEL
+http://188.35.9.11:21031/udp/038m
+#EXTINF:-1 tvg-logo="http://i.ibb.co/NsY22r0/AV-TV.png" group-title="TUM KANALLAR",AV TV
+http://195.142.1.213:1935/avtv/avtv/chunklist.m3u8
+#EXTINF:-1 tvg-id="YABAN TV HD-TR" tvg-logo="http://i.ibb.co/bQHRsN7/YABAN-TV.png" group-title="TUM KANALLAR",YABAN TV
+https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
+#EXTINF:-1 tvg-id="TRT BELGESEL-TR" tvg-logo="http://i.ibb.co/G2P4sKP/TRT-BELGESEL.png" group-title="TUM KANALLAR",TRT BELGESEL
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/6007
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xDK129S/DISCOVERY-SHOWCASE.png" group-title="TUM KANALLAR",DISCOVERY SHOWCASE
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5995
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL HD-TR" tvg-logo="http://i.ibb.co/rGkK2FD/DISCOVERY-CHANNEL.png" group-title="TUM KANALLAR",DISCOVERY CHANNEL
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5997
+#EXTINF:-1 tvg-id="ANIMAL PLANET-TR" tvg-logo="http://i.ibb.co/n0rB65T/ANIMAL-PLANET.png" group-title="TUM KANALLAR",ANIMAL PLANET
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/6006
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H2D4qPX/DISCOVERY-WORLD.png" group-title="TUM KANALLAR",DISCOVERY WORLD
+http://pluskor.com:8080/hakandemirci81/06.06.2019/76066
+#EXTINF:-1 tvg-id="Discovery Science HD-TR" tvg-logo="http://i.ibb.co/2W5pXLX/DISCOVERY-SCIENCE.png" group-title="TUM KANALLAR",DISCOVERY SCIENCE
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5992
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hDGKjnd/DTX.png" group-title="TUM KANALLAR",DTX
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/11789
-
-#EXTINF:-1, tvg-id="IDX.tr" tvg-logo="http://i.ibb.co/vZD46pc/INVESTIGATION-DISCOVERY.png" tvg-name="INVESTIGATION DISCOVERY"  group-title="TUM KANALLAR",INVESTIGATION DISCOVERY
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043541
-
-#EXTINF:-1, tvg-id="NATIONAL GEOGRAPHIC-TR" tvg-logo="http://i.ibb.co/ww5J60c/NATIONAL-GEOGRAPHIC.png" tvg-name="NATIONAL GEOGRAPHIC"  group-title="TUM KANALLAR",NATIONAL GEOGRAPHIC
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043548
-
-#EXTINF:-1, tvg-id="NATIONAL GEOGRAPHIC WILD-TR" tvg-logo="http://i.ibb.co/qRbX1ds/NATIONAL-GEOGRAPHIC-WILD.png" tvg-name="NATIONAL GEOGRAPHIC WILD"  group-title="TUM KANALLAR",NATIONAL GEOGRAPHIC WILD
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043551
-
-#EXTINF:-1, tvg-id="NAT GEO PEOPLE HD-TR" tvg-logo="http://i.ibb.co/JQYDggw/NAT-GEO-PEOPLE.png" tvg-name="NAT GEO PEOPLE"  group-title="TUM KANALLAR",NAT GEO PEOPLE
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043549
-
-#EXTINF:-1, tvg-id="History HD-TR" tvg-logo="http://i.ibb.co/fH5Rb2W/HISTORY-CHANNEL.png" tvg-name="HISTORY CHANNEL"  group-title="TUM KANALLAR",HISTORY CHANNEL
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043542
-
-#EXTINF:-1, tvg-id="Outdoor.tr" tvg-logo="http://i.ibb.co/JHvrs07/OUTDOOR-CHANNEL.png" tvg-name="OUTDOOR"  group-title="TUM KANALLAR",OUTDOOR
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043629
-
-#EXTINF:-1, tvg-id="BBC EARTH HD-TR" tvg-logo="http://i.ibb.co/02T1b0z/BBC-EARTH.png" tvg-name="BBC EARTH"  group-title="TUM KANALLAR",BBC EARTH
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043766
-
-#EXTINF:-1, tvg-id="viasatexplore.tr" tvg-logo="http://i.ibb.co/qsFRQ9G/VIASAT-EXPLORE.png" tvg-name="VIASAT EXPLORE"  group-title="TUM KANALLAR",VIASAT EXPLORE
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043612
-
-#EXTINF:-1, tvg-id="Viasat History HD-TR" tvg-logo="http://i.ibb.co/0JCKHmm/VIASAT-HISTORY.png" tvg-name="VIASAT HISTORY"  group-title="TUM KANALLAR",VIASAT HISTORY
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043611
-
-#EXTINF:-1, tvg-id="Docubox.tr" tvg-logo="http://i.ibb.co/hZPf83f/DOCUBOX.png" tvg-name="DOCUBOX"  group-title="TUM KANALLAR",DOCUBOX
-http://644209.com:8080/hakandemirci81/06.06.2019/92537
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/4mdv588/LOVE-NATURE.png" tvg-name="LOVE NATURE"  group-title="TUM KANALLAR",LOVE NATURE
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043670
-
-#EXTINF:-1, tvg-id="cgtn9documentary.tr" tvg-logo="http://i.ibb.co/7JvG5WX/CGTN-DOCUMENTARY.png" tvg-name="CGTN DOCUMENTARY"  group-title="TUM KANALLAR",CGTN DOCUMENTARY
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043736
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/1dVXP2L/CRIME-INVESTIGATION.png" tvg-name="CRIME+INVESTIGATION"  group-title="TUM KANALLAR",CRIME+INVESTIGATION
+#EXTINF:-1 tvg-id="IDX.tr" tvg-logo="http://i.ibb.co/vZD46pc/INVESTIGATION-DISCOVERY.png" group-title="TUM KANALLAR",INVESTIGATION DISCOVERY
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/36089
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC-TR" tvg-logo="http://i.ibb.co/ww5J60c/NATIONAL-GEOGRAPHIC.png" group-title="TUM KANALLAR",NATIONAL GEOGRAPHIC
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/6002
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC WILD-TR" tvg-logo="http://i.ibb.co/qRbX1ds/NATIONAL-GEOGRAPHIC-WILD.png" group-title="TUM KANALLAR",NATIONAL GEOGRAPHIC WILD
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/6000
+#EXTINF:-1 tvg-id="NAT GEO PEOPLE HD-TR" tvg-logo="http://i.ibb.co/JQYDggw/NAT-GEO-PEOPLE.png" group-title="TUM KANALLAR",NAT GEO PEOPLE
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5998
+#EXTINF:-1 tvg-id="History HD-TR" tvg-logo="http://i.ibb.co/fH5Rb2W/HISTORY-CHANNEL.png" group-title="TUM KANALLAR",HISTORY CHANNEL
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/27732
+#EXTINF:-1 tvg-id="Outdoor.tr" tvg-logo="http://i.ibb.co/JHvrs07/OUTDOOR-CHANNEL.png"  group-title="TUM KANALLAR",OUTDOOR
+http://api.mfreetv.com:80/hakdemir812/4114337aA/8339
+#EXTINF:-1 tvg-id="BBC EARTH HD-TR" tvg-logo="http://i.ibb.co/02T1b0z/BBC-EARTH.png" group-title="TUM KANALLAR",BBC EARTH
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/27733
+#EXTINF:-1 tvg-id="viasatexplore.tr" tvg-logo="http://i.ibb.co/qsFRQ9G/VIASAT-EXPLORE.png" group-title="TUM KANALLAR",VIASAT EXPLORE
+http://api.mfreetv.com:80/hakdemir812/4114337aA/8292
+#EXTINF:-1 tvg-id="Viasat History HD-TR" tvg-logo="http://i.ibb.co/0JCKHmm/VIASAT-HISTORY.png"  group-title="TUM KANALLAR",VIASAT HISTORY
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/35719
+#EXTINF:-1 tvg-id="Docubox.tr" tvg-logo="http://i.ibb.co/hZPf83f/DOCUBOX.png" group-title="TUM KANALLAR",DOCUBOX
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/46529
+#EXTINF:-1 tvg-logo="http://i.ibb.co/4mdv588/LOVE-NATURE.png" group-title="TUM KANALLAR",LOVE NATURE
+http://api.mfreetv.com:80/hakdemir812/4114337aA/7746
+#EXTINF:-1 tvg-id="cgtn9documentary.tr" tvg-logo="http://i.ibb.co/7JvG5WX/CGTN-DOCUMENTARY.png"  group-title="TUM KANALLAR",CGTN DOCUMENTARY
+http://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1dVXP2L/CRIME-INVESTIGATION.png"  group-title="TUM KANALLAR",CRIME+INVESTIGATION
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/51094
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/xFVBjJ1/CBS-REALITY.png" tvg-name="CBS REALITY"  group-title="TUM KANALLAR",CBS REALITY
-http://644209.com:8080/hakandemirci81/06.06.2019/81291
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/LZNHxLg/WM-WOMAN-TV.png" tvg-name="WM WOMAN TV"  group-title="TUM KANALLAR",WM WOMAN TV
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043650
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/TKVcp5Q/ABAN-TV.png" tvg-name="ŞABAN TV"  group-title="TUM KANALLAR",ŞABAN TV
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043654
-
-#EXTINF:-1, tvg-id="KON TV-TR" tvg-logo="http://i.ibb.co/ZXjHWWV/KON-TV.png" tvg-name="KON TV"  group-title="TUM KANALLAR",KON TV
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043544
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/rvQRhc1/TV-4.png" tvg-name="TV 4"  group-title="TUM KANALLAR",TV 4
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043687
-
-#EXTINF:-1, tvg-id="KanalB.tr" tvg-logo="http://i.ibb.co/CwTbwWR/KANAL-B.png" tvg-name="KANAL B"  group-title="TUM KANALLAR",KANAL B
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043543
-
-#EXTINF:-1, tvg-id="ULUSAL KANAL-TR" tvg-logo="http://i.ibb.co/YhcKM2R/ULUSAL-KANAL.png" tvg-name="ULUSAL KANAL"  group-title="TUM KANALLAR",ULUSAL KANAL
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043610
-
-#EXTINF:-1, tvg-id="akittv.tr" tvg-logo="http://i.ibb.co/yWrNSxB/AKIT-TV.png" tvg-name="AKIT TV"  group-title="TUM KANALLAR",AKIT TV
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043739
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/ZVYMzR6/KANAL-3.png" tvg-name="KANAL 3"  group-title="TUM KANALLAR",KANAL 3
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043668
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/0qgCj5n/TGRT-BELGESEL.png" tvg-name="TGRT BELGESEL"  group-title="TUM KANALLAR",TGRT BELGESEL
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043698
-
-#EXTINF:-1, tvg-id="BENGU TURK-TR" tvg-logo="http://i.ibb.co/xzL6drV/BENGUTURK.png" tvg-name="BENGUTURK"  group-title="TUM KANALLAR",BENGUTURK
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043723
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/wSRfmHP/KANAL-23.png" tvg-name="KANAL 23"  group-title="TUM KANALLAR",KANAL 23
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xFVBjJ1/CBS-REALITY.png" group-title="TUM KANALLAR",CBS REALITY
+http://pluskor.com:8080/hakandemirci81/06.06.2019/76054
+#EXTINF:-1 tvg-logo="http://i.ibb.co/LZNHxLg/WM-WOMAN-TV.png" group-title="TUM KANALLAR",WM WOMAN TV
+http://s01.vpis.io/wmtv/wmtv.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/TKVcp5Q/ABAN-TV.png"  group-title="TUM KANALLAR",ŞABAN TV
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/33179
+#EXTINF:-1 tvg-id="KON TV-TR" tvg-logo="http://i.ibb.co/ZXjHWWV/KON-TV.png" group-title="TUM KANALLAR",KON TV
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/39020
+#EXTINF:-1 tvg-logo="http://i.ibb.co/rvQRhc1/TV-4.png"  group-title="TUM KANALLAR",TV 4
+http://mn-nl.mncdn.com/karamel/karamel/playlist.m3u8
+#EXTINF:-1 tvg-id="KanalB.tr" tvg-logo="http://i.ibb.co/CwTbwWR/KANAL-B.png" group-title="TUM KANALLAR",KANAL B
+http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
+#EXTINF:-1 tvg-id="ULUSAL KANAL-TR" tvg-logo="http://i.ibb.co/YhcKM2R/ULUSAL-KANAL.png" group-title="TUM KANALLAR",ULUSAL KANAL
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/7576
+#EXTINF:-1 tvg-id="akittv.tr" tvg-logo="http://i.ibb.co/yWrNSxB/AKIT-TV.png" group-title="TUM KANALLAR",AKIT TV
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/46081
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QCz6Gz6/TV5.png" group-title="TUM KANALLAR",TV5
+http://644209.com:8080/hakandemirci81/06.06.2019/35594
+#EXTINF:-1 tvg-logo="http://i.ibb.co/ZVYMzR6/KANAL-3.png" group-title="TUM KANALLAR",KANAL 3
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5926
+#EXTINF:-1 tvg-logo="http://i.ibb.co/0qgCj5n/TGRT-BELGESEL.png" group-title="TUM KANALLAR",TGRT BELGESEL
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/playlist.m3u8
+#EXTINF:-1 tvg-id="BENGU TURK-TR" tvg-logo="http://i.ibb.co/xzL6drV/BENGUTURK.png" group-title="TUM KANALLAR",BENGUTURK
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5865
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YyQmK9/LINE-TV.png" group-title="TUM KANALLAR",LINE TV
+https://broadcasttr.com:446/linetv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/wSRfmHP/KANAL-23.png" group-title="TUM KANALLAR",KANAL 23
 https://cdn13-kanal23.yayin.com.tr/kanal23/ngrp:kanal23/playlist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/S7RxvXf/SAT-7-TURK.png" tvg-name="SAT7 TURK"  group-title="TUM KANALLAR",SAT7 TURK
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043694
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/KGRm542/KARDELEN-TV.png" tvg-name="KARDELEN TV"  group-title="TUM KANALLAR",KARDELEN TV
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043651
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/2P0G8ck/KANAL-V.png" tvg-name="KANAL V"  group-title="TUM KANALLAR",KANAL V
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043655
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/dtT6r6z/ON-4.png" tvg-name="ON4 TV"  group-title="TUM KANALLAR",ON4 TV
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043660
-
-#EXTINF:-1, tvg-id="CEM TV-TR" tvg-logo="http://i.ibb.co/0CsSc3P/CEM-TV.png" tvg-name="CEM TV"  group-title="TUM KANALLAR",CEM TV
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043702
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/60F9pH4/MAVI-KARADENIZ.png" tvg-name="MAVI KARADENIZ"  group-title="TUM KANALLAR",MAVI KARADENIZ
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043678
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/RyR9QYm/VATAN.png" tvg-name="VATAN TV"  group-title="TUM KANALLAR",VATAN TV
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043671
-
-#EXTINF:-1, tvg-id="BRT 1-TR" tvg-logo="http://i.ibb.co/GxBXqpt/BRT-1.png" tvg-name="BRT 1"  group-title="TUM KANALLAR",BRT 1
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043734
-
-#EXTINF:-1, tvg-id="TRT ÇOCUK HD-TR" tvg-logo="http://i.ibb.co/dLfdB6j/TRT-COCUK.png" tvg-name="TRT ÇOCUK"  group-title="COCUK",TRT ÇOCUK
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043767
-
-#EXTINF:-1, tvg-id="SmartCocuk.tr" tvg-logo="http://i.ibb.co/D1FQv4x/COCUK-SMART.png" tvg-name="ÇOCUK SMART"  group-title="COCUK",ÇOCUK SMART
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043768
-
-#EXTINF:-1, tvg-id="BOOMERANG HD-TR" tvg-logo="http://i.ibb.co/dDz0cjy/BOOMERANG-TV.png" tvg-name="BOOMERANG TV"  group-title="COCUK",BOOMERANG TV
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043769
-
-#EXTINF:-1, tvg-id="CBEEBIES HD-TR" tvg-logo="http://i.ibb.co/48qhP00/BBC-CBEEBIES.png" tvg-name="BBC CBEEBIES"  group-title="COCUK",BBC CBEEBIES
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043770
-
-#EXTINF:-1, tvg-id="BABY TV-TR" tvg-logo="http://i.ibb.co/5rtXGHR/BABY-TV.png" tvg-name="BABY TV"  group-title="COCUK",BABY TV
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043771
-
-#EXTINF:-1, tvg-id="Disney Junior-TR" tvg-logo="http://i.ibb.co/4JywHc0/DISNEY-JUNIOR.png" tvg-name="DISNEY JUNIOR"  group-title="COCUK",DISNEY JUNIOR
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043772
-
-#EXTINF:-1, tvg-id="DISNEY CHANNEL-TR" tvg-logo="http://i.ibb.co/S0kP9jq/DISNEY-CHANNEL.png" tvg-name="DISNEY CHANNEL"  group-title="COCUK",DISNEY CHANNEL
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043773
-
-#EXTINF:-1, tvg-id="Disney XD-TR" tvg-logo="http://i.ibb.co/Y0fLnBH/DISNEY-XD.png" tvg-name="DISNEY XD"  group-title="COCUK",DISNEY XD
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043774
-
-#EXTINF:-1, tvg-id="ducktv.tr" tvg-logo="http://i.ibb.co/GVsRzb8/DUCK-TV.png" tvg-name="DUCK TV"  group-title="COCUK",DUCK TV
-http://644209.com:8080/hakandemirci81/06.06.2019/92536
-
-#EXTINF:-1, tvg-id="MinikaGO-TR" tvg-logo="http://i.ibb.co/GPPJPxs/MINIKA-GO.png" tvg-name="MİNİKA GO"  group-title="COCUK",MİNİKA GO
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043776
-
-#EXTINF:-1, tvg-id="Minika Çocuk-TR" tvg-logo="http://i.ibb.co/Yf71Rcy/MINIKA-COCUK.png" tvg-name="MİNİKA ÇOCUK"  group-title="COCUK",MİNİKA ÇOCUK
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043777
-
-#EXTINF:-1, tvg-id="Nickelodeon HD-TR" tvg-logo="http://i.ibb.co/Z1rvnkJ/NICKELODEON.png" tvg-name="NICKELODEON"  group-title="COCUK",NICKELODEON
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043778
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/dM9n8QT/NICKTOONS.png" tvg-name="NICKTOONS"  group-title="COCUK",NICKTOONS
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4685
-
-#EXTINF:-1, tvg-id="Nick Jr.-TR" tvg-logo="http://i.ibb.co/RCpFQsQ/NICK-JR.png" tvg-name="NICK JR."  group-title="COCUK",NICK JR.
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043780
-
-#EXTINF:-1, tvg-id="DA VINCI LEARNING HD-TR" tvg-logo="http://i.ibb.co/Mf3kMnc/DA-VINCI-LEARNING.png" tvg-name="DA VINCI LEARNING"  group-title="COCUK",DA VINCI LEARNING
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043781
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/gZH0sH4/ENGLISH-CLUB-TV.png" tvg-name="ENGLISH CLUB TV"  group-title="COCUK",ENGLISH CLUB TV
+#EXTINF:-1 tvg-logo="http://i.ibb.co/S7RxvXf/SAT-7-TURK.png" group-title="TUM KANALLAR",SAT7 TURK
+http://unirtmp.tulix.tv:1935/sat7turk/satturklive-web.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9474891/KANAL-FIRAT.png" group-title="TUM KANALLAR",KANAL FIRAT
+https://waw2.artiyerelmedya.net/kanalfirat/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/KGRm542/KARDELEN-TV.png" group-title="TUM KANALLAR",KARDELEN TV
+http://cdn1.streamencoding.com:1935/kardelen_live/HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/2P0G8ck/KANAL-V.png" group-title="TUM KANALLAR",KANAL V
+http://waw1.artiyerelmedya.net:1935/kanalv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5B1Vtxq/KOY-TV.png" group-title="TUM KANALLAR",KÖY TV
+https://59cba4d34b678.streamlock.net/canlitv/koytv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHXJZYf/CIFTCI-TV.png" group-title="TUM KANALLAR",ÇİFTÇİ TV
+https://59cba4d34b678.streamlock.net/canlitv/ciftcitv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wzvpMHN/KANAL-42.png" group-title="TUM KANALLAR",KANAL 42
+http://pluskor.com:8080/hakandemirci81/06.06.2019/88501
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ccBHjkz/TVDEN.png" group-title="TUM KANALLAR",TVDEN
+http://waw1.artiyerelmedya.net:1935/tvden/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/dtT6r6z/ON-4.png" group-title="TUM KANALLAR",ON4 TV
+http://yayin.netradyom.com:1935/live/on4/playist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6Hd0R62/TV-52.png" group-title="TUM KANALLAR",TV 52
+https://broadcasttr.com:446/tv52/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vvPPtgY/ASTV.png" group-title="TUM KANALLAR",AS TV
+https://59cba4d34b678.streamlock.net/canlitv/astv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/J2TKt2P/KANAL-26.png" group-title="TUM KANALLAR",KANAL 26
+http://waw1.artiyerelmedya.net:1935/kanal26/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFRzXzQ/TV-35.png" group-title="TUM KANALLAR",TV 35
+https://59cba4d34b678.streamlock.net/canlitv/tv35/playlist.m3u8
+#EXTINF:-1 tvg-id="CEM TV-TR" tvg-logo="http://i.ibb.co/0CsSc3P/CEM-TV.png" group-title="TUM KANALLAR",CEM TV
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5917
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yqQptyD/ALTA-TV.png" group-title="TUM KANALLAR",ALTAŞ TV
+https://broadcasttr.com:446/altastv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/60F9pH4/MAVI-KARADENIZ.png" group-title="TUM KANALLAR",MAVI KARADENIZ
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5908
+#EXTINF:-1 tvg-logo="http://i.ibb.co/RyR9QYm/VATAN.png" group-title="TUM KANALLAR",VATAN TV
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5914
+#EXTINF:-1 tvg-logo="https://i.ibb.co/98xLyzZ/RUMELI-TV.png" group-title="TUM KANALLAR",RUMELİ TV
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5910
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LtKxwwx/UZAY-HABER.png" group-title="TUM KANALLAR",UZAY HABER
+http://644209.com:8080/hakandemirci81/06.06.2019/804
+#EXTINF:-1 tvg-logo="https://i.ibb.co/92S65N2/KIBRIS-KANAL-T.png" group-title="TUM KANALLAR",KANAL T KIBRIS
+https://59cba4d34b678.streamlock.net/canlitv/kibriskanalt/playlist.m3u8
+#EXTINF:-1 tvg-id="BRT 1-TR" tvg-logo="http://i.ibb.co/GxBXqpt/BRT-1.png" group-title="TUM KANALLAR",BRT 1
+http://wms.brtk.net:1935/live/BRTHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3dr9B2f/EURO-D.png" group-title="TUM KANALLAR",EURO D
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5925
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zQMf9R3/EUROSTAR.png" group-title="TUM KANALLAR",EUROSTAR
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5924
+#EXTINF:-1 tvg-id="TRT ÇOCUK HD-TR" tvg-logo="http://i.ibb.co/dLfdB6j/TRT-COCUK.png" group-title="COCUK",TRT ÇOCUK
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/17185
+#EXTINF:-1 tvg-id="SmartCocuk.tr" tvg-logo="http://i.ibb.co/D1FQv4x/COCUK-SMART.png" group-title="COCUK",ÇOCUK SMART
+http://pluskor.com:8080/hakandemirci81/06.06.2019/723
+#EXTINF:-1 tvg-id="BOOMERANG HD-TR" tvg-logo="http://i.ibb.co/dDz0cjy/BOOMERANG-TV.png" group-title="COCUK",BOOMERANG TV
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/37534
+#EXTINF:-1 tvg-id="CBEEBIES HD-TR" tvg-logo="http://i.ibb.co/48qhP00/BBC-CBEEBIES.png" group-title="COCUK",BBC CBEEBIES
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/20997
+#EXTINF:-1 tvg-id="BABY TV-TR" tvg-logo="http://i.ibb.co/5rtXGHR/BABY-TV.png"group-title="COCUK",BABY TV
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/17188
+#EXTINF:-1 tvg-id="Disney Junior-TR" tvg-logo="http://i.ibb.co/4JywHc0/DISNEY-JUNIOR.png" group-title="COCUK",DISNEY JUNIOR
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/17162
+#EXTINF:-1 tvg-id="DISNEY CHANNEL-TR" tvg-logo="http://i.ibb.co/S0kP9jq/DISNEY-CHANNEL.png" group-title="COCUK",DISNEY CHANNEL
+http://premium.mfreetv.com:80/hakdemir812/4114337aA/4682
+#EXTINF:-1 tvg-id="Disney XD-TR" tvg-logo="http://i.ibb.co/Y0fLnBH/DISNEY-XD.png" group-title="COCUK",DISNEY XD
+http://premium.mfreetv.com:80/hakdemir812/4114337aA/4683
+#EXTINF:-1 tvg-id="ducktv.tr" tvg-logo="http://i.ibb.co/GVsRzb8/DUCK-TV.png" group-title="COCUK",DUCK TV
+http://pluskor.com:8080/hakandemirci81/06.06.2019/88770
+#EXTINF:-1 tvg-id="MinikaGO-TR" tvg-logo="http://i.ibb.co/GPPJPxs/MINIKA-GO.png" group-title="COCUK",MİNİKA GO
+http://pluskor.com:8080/hakandemirci81/06.06.2019/670
+#EXTINF:-1 tvg-id="Minika Çocuk-TR" tvg-logo="http://i.ibb.co/Yf71Rcy/MINIKA-COCUK.png" group-title="COCUK",MİNİKA ÇOCUK
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/17159
+#EXTINF:-1 tvg-id="Nickelodeon HD-TR" tvg-logo="http://i.ibb.co/Z1rvnkJ/NICKELODEON.png" group-title="COCUK",NICKELODEON
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/17156
+#EXTINF:-1 tvg-id="Nick Jr.-TR" tvg-logo="http://i.ibb.co/RCpFQsQ/NICK-JR.png" group-title="COCUK",NICK JR.
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/17187
+#EXTINF:-1 tvg-id="DA VINCI LEARNING HD-TR" tvg-logo="http://i.ibb.co/Mf3kMnc/DA-VINCI-LEARNING.png" group-title="COCUK",DA VINCI LEARNING
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/35083
+#EXTINF:-1 tvg-logo="http://i.ibb.co/gZH0sH4/ENGLISH-CLUB-TV.png" group-title="COCUK",ENGLISH CLUB TV
 http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/wC1hWZt/TRT-EBA-TV.png" tvg-name="TRT EBA TV ILKOKUL"  group-title="EGITIM",TRT EBA TV ILKOKUL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wC1hWZt/TRT-EBA-TV.png" group-title="EGITIM",TRT EBA TV ILKOKUL
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/48722
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/wC1hWZt/TRT-EBA-TV.png" tvg-name="TRT EBA TV ORTAOKUL"  group-title="EGITIM",TRT EBA TV ORTAOKUL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wC1hWZt/TRT-EBA-TV.png" group-title="EGITIM",TRT EBA TV ORTAOKUL
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/48723
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/wC1hWZt/TRT-EBA-TV.png" tvg-name="TRT EBA TV LISE"  group-title="EGITIM",TRT EBA TV LISE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wC1hWZt/TRT-EBA-TV.png" group-title="EGITIM",TRT EBA TV LISE
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/48724
-
-#EXTINF:-1, tvg-id="ALEMFM.tr" tvg-logo="http://i.ibb.co/qFTtcyd/ALEM-FM.png" tvg-name="ALEM FM"  group-title="RADYO",ALEM FM
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043783
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/mqpcB1d/SUPER-FM.png" tvg-name="SÜPER FM"  group-title="RADYO",SÜPER FM
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043784
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/Nr2rLdK/JOY-TURK.png" tvg-name="JOY TÜRK"  group-title="RADYO",JOY TÜRK
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043785
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/KGhLxgz/TRT-NAGME.png" tvg-name="TRT NAĞME"  group-title="RADYO",TRT NAĞME
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043786
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/WDp1YKx/TRT-TURKU.png" tvg-name="TRT TÜRKÜ"  group-title="RADYO",TRT TÜRKÜ
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043787
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/8YK5QpD/TRT-FM.png" tvg-name="TRT FM"  group-title="RADYO",TRT FM
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043788
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/pb1dGP3/TRT-RADYO-1.png" tvg-name="TRT RADYO 1"  group-title="RADYO",TRT RADYO 1
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043789
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/cFCgK42/TRT-RADYO-3.png" tvg-name="TRT RADYO 3"  group-title="RADYO",TRT RADYO 3
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043790
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/1XYtdRJ/POL-S-RADYOSU.png" tvg-name="POLİS RADYOSU"  group-title="RADYO",POLİS RADYOSU
+#EXTINF:-1 tvg-id="ALEMFM.tr" tvg-logo="http://i.ibb.co/qFTtcyd/ALEM-FM.png" group-title="RADYO",ALEM FM
+http://scturkmedya.radyotvonline.com/stream/80/
+#EXTINF:-1 tvg-logo="http://i.ibb.co/mqpcB1d/SUPER-FM.png"  group-title="RADYO",SÜPER FM
+http://pluskor.com:8080/hakandemirci81/06.06.2019/2118
+#EXTINF:-1 tvg-logo="http://i.ibb.co/Nr2rLdK/JOY-TURK.png" group-title="RADYO",JOY TÜRK
+http://pluskor.com:8080/hakandemirci81/06.06.2019/2121
+#EXTINF:-1 tvg-logo="http://i.ibb.co/KGhLxgz/TRT-NAGME.png" group-title="RADYO",TRT NAĞME
+https://radio-trtnagme.live.trt.com.tr/master_128.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/WDp1YKx/TRT-TURKU.png" group-title="RADYO",TRT TÜRKÜ
+https://radio-trtturku.live.trt.com.tr/master_128.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/8YK5QpD/TRT-FM.png" group-title="RADYO",TRT FM
+https://radio-trtfm.live.trt.com.tr/master_128.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/pb1dGP3/TRT-RADYO-1.png"  group-title="RADYO",TRT RADYO 1
+https://radio-trtradyo1.live.trt.com.tr/master_128.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/cFCgK42/TRT-RADYO-3.png" group-title="RADYO",TRT RADYO 3
+https://radio-trtradyo3.live.trt.com.tr/master_128.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/1XYtdRJ/POL-S-RADYOSU.png" group-title="RADYO",POLİS RADYOSU
 https://m.egm.gov.tr:8093/;
-
-#EXTINF:-1, tvg-id="BestFM.tr" tvg-logo="http://i.ibb.co/tBxQg5B/BEST-FM.png" tvg-name="BEST FM"  group-title="RADYO",BEST FM
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043792
-
-#EXTINF:-1, tvg-id="Kral Pop Radyo-TR" tvg-logo="http://i.ibb.co/4wkfQTH/KRAL-POP-RADYO.png" tvg-name="KRAL POP RADYO"  group-title="RADYO",KRAL POP RADYO
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043793
-
-#EXTINF:-1, tvg-id="SlowTurk.tr" tvg-logo="http://i.ibb.co/rHgYB6x/SLOW-TIRK.png" tvg-name="SLOW TÜRK"  group-title="RADYO",SLOW TÜRK
+#EXTINF:-1 tvg-id="BestFM.tr" tvg-logo="http://i.ibb.co/tBxQg5B/BEST-FM.png" group-title="RADYO",BEST FM
+http://37.247.100.100:80/best/bestfm.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Kral Pop Radyo-TR" tvg-logo="http://i.ibb.co/4wkfQTH/KRAL-POP-RADYO.png" group-title="RADYO",KRAL POP RADYO
+http://kralpopwmp.radyotvonline.com:80/;
+#EXTINF:-1 tvg-id="SlowTurk.tr" tvg-logo="http://i.ibb.co/rHgYB6x/SLOW-TIRK.png" group-title="RADYO",SLOW TÜRK
 https://radyo.duhnet.tv/slowturk
-
-#EXTINF:-1, tvg-id="ShowRadyo.tr" tvg-logo="http://i.ibb.co/yynXYwN/SHOW-RADYO.png" tvg-name="SHOW RADYO"  group-title="RADYO",SHOW RADYO
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043795
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/7kXPNf3/RADYO-D.png" tvg-name="RADYO D"  group-title="RADYO",RADYO D
+#EXTINF:-1 tvg-id="ShowRadyo.tr" tvg-logo="http://i.ibb.co/yynXYwN/SHOW-RADYO.png" group-title="RADYO",SHOW RADYO
+http://46.20.3.229/;
+#EXTINF:-1 tvg-logo="http://i.ibb.co/7kXPNf3/RADYO-D.png" group-title="RADYO",RADYO D
 https://radyo.duhnet.tv/radyod
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/whyg0wZ/RADYO-7.png" tvg-name="RADYO 7"  group-title="RADYO",RADYO 7
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043797
-
-#EXTINF:-1, tvg-id="Kral FM-TR" tvg-logo="http://i.ibb.co/n0Sg3wf/KRAL-FM.png" tvg-name="KRAL FM"  group-title="RADYO",KRAL FM
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043798
-
-#EXTINF:-1, tvg-id="RadyoViva.tr" tvg-logo="http://i.ibb.co/3zVhB71/RADYO-VIVA.png" tvg-name="RADYO VİVA"  group-title="RADYO",RADYO VİVA
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043799
-
-#EXTINF:-1, tvg-id="BabaRadyo.tr" tvg-logo="http://i.ibb.co/wSzhqDF/BABA-RADYO.png" tvg-name="BABA RADYO"  group-title="RADYO",BABA RADYO
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043800
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/VH0sfHN/METRO-FM.png" tvg-name="METRO FM"  group-title="RADYO",METRO FM
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043801
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.ibb.co/hyV9Ttq/VIRGIN-RADIO.png" tvg-name="VIRGIN RADIO"  group-title="RADYO",VIRGIN RADIO
-https://m3u-editor.com/serve/bb81e510-6c46-11ea-bef5-5f72960483ae/26043802
-
+#EXTINF:-1 tvg-logo="http://i.ibb.co/whyg0wZ/RADYO-7.png" group-title="RADYO",RADYO 7
+http://46.20.3.251/stream/169/
+#EXTINF:-1 tvg-id="Kral FM-TR" tvg-logo="http://i.ibb.co/n0Sg3wf/KRAL-FM.png" group-title="RADYO",KRAL FM
+http://kralwmp.radyotvonline.com:80/;
+#EXTINF:-1 tvg-id="RadyoViva.tr" tvg-logo="http://i.ibb.co/3zVhB71/RADYO-VIVA.png" group-title="RADYO",RADYO VİVA
+http://46.20.3.194:80/show/viva64/viva64/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/wSzhqDF/BABA-RADYO.png" group-title="RADYO",BABA RADYO
+http://37.247.100.100/best/babaradyo.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/VH0sfHN/METRO-FM.png" group-title="RADYO",METRO FM
+http://pluskor.com:8080/hakandemirci81/06.06.2019/2125
+#EXTINF:-1 tvg-logo="http://i.ibb.co/hyV9Ttq/VIRGIN-RADIO.png" group-title="RADYO",VIRGIN RADIO
+http://pluskor.com:8080/hakandemirci81/06.06.2019/2127
