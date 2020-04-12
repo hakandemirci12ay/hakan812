@@ -204,7 +204,7 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/37508
 #EXTINF:-1 tvg-id="beIN SPORTS 4-TR" tvg-logo="http://i.ibb.co/tzY3Wx4/be-IN-SPORTS-4.png" group-title="TUM KANALLAR",beIN SPORTS 4
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5952
 #EXTINF:-1 tvg-id="beIN SPORTS MAX 1 HD-TR" tvg-logo="http://i.ibb.co/njh1h1K/be-IN-SPORTS-MAX-1.png" group-title="TUM KANALLAR",beIN SPORTS MAX 1
-http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/7877
+http://premium.mfreetv.com:80/hakdemir812/4114337aA/4625
 #EXTINF:-1 tvg-id="beIN SPORTS MAX 2 HD-TR" tvg-logo="http://i.ibb.co/LSVBkGm/be-IN-SPORTS-MAX-2.png" group-title="TUM KANALLAR",beIN SPORTS MAX 2
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/7933
 #EXTINF:-1 tvg-id="beIN SPORTS HABER HD-TR" tvg-logo="http://i.ibb.co/8sbLW6W/be-IN-SPORTS-HABER.png" group-title="TUM KANALLAR",beIN SPORTS HABER
@@ -216,7 +216,7 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5982
 #EXTINF:-1 tvg-logo="http://i.ibb.co/7p9tRbL/S-SPORT-2.png" group-title="TUM KANALLAR",S SPORT 2
 http://pluskor.com:8080/hakandemirci81/06.06.2019/31421
 #EXTINF:-1 tvg-logo="http://i.ibb.co/Z8ZNH2t/MOTORVISION-TV.png" group-title="TUM KANALLAR",MOTORVISION TV
-http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/51348
+http://pluskor.com:8080/hakandemirci81/06.06.2019/88029
 #EXTINF:-1 tvg-id="NBA TV HD-TR" tvg-logo="http://i.ibb.co/dG3YrL8/NBA-TV.png" group-title="TUM KANALLAR",NBA TV
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5984
 #EXTINF:-1 tvg-id="TivibuSpor1.tr" tvg-logo="http://i.ibb.co/84Z9ZBH/TIVIBU-SPOR.png" group-title="TUM KANALLAR",TİVİBU SPOR
@@ -275,6 +275,8 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/6083
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/6081
 #EXTINF:-1 tvg-logo="http://i.ibb.co/dPz2DvT/MILYON-TV.png" group-title="TUM KANALLAR",MILYON TV
 http://milyontv.netmedya.net/hls/milyontv.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/0FZSFVt/STINGRAY-ICONCERTS.png" group-title="TUM KANALLAR", STINGRAY iCONCERTS
+http://pluskor.com:8080/hakandemirci81/06.06.2019/81874
 #EXTINF:-1 tvg-id="360 TUNE BOX" tvg-logo="https://i.ibb.co/1zCdLrZ/360-TUNE-BOX.png"  group-title="TUM KANALLAR",360 TUNE BOX
 http://pluskor.com:8080/hakandemirci81/06.06.2019/88777
 #EXTINF:-1 tvg-id="TraceUrban.tr" tvg-logo="http://i.ibb.co/ggXYS5R/TRACE-URBAN.png" group-title="TUM KANALLAR",TRACE URBAN
@@ -318,7 +320,7 @@ https://kazakhtven.ultraiptv.com/live_en/playlist3/index.m3u8
 #EXTINF:-1 tvg-id="TRT ARABİ-TR" tvg-logo="http://i.ibb.co/k5SxQYS/TRT-ARABI.png" group-title="TUM KANALLAR",TRT ARABI
 http://tv-trtarabi.live.trt.com.tr/master_480.m3u8
 #EXTINF:-1 tvg-id="CNN.tr" tvg-logo="http://i.ibb.co/yXwYDT2/CNN-INTERNATIONAL.png" group-title="TUM KANALLAR",CNN INTERNATIONAL
-http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/51079
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/51411
 #EXTINF:-1 tvg-logo="http://i.ibb.co/mSr7HSf/CNBC.png" group-title="TUM KANALLAR",CNBC
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/51081
 #EXTINF:-1 tvg-logo="http://i.ibb.co/BcZYgTw/BBC-WORLD-NEWS.png" group-title="TUM KANALLAR",BBC WORLD NEWS
@@ -328,7 +330,7 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/51080
 #EXTINF:-1 tvg-id="BLOOMBERG TV-TR" tvg-logo="http://i.ibb.co/31XcQdt/BLOOMBERG-TV.png" group-title="TUM KANALLAR",BLOOMBERG TV
 http://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:-1 tvg-id="Euronews.tr" tvg-logo="http://i.ibb.co/20zB3bB/EURONEWS.png" group-title="TUM KANALLAR",EURONEWS
-http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/51082
+http://pluskor.com:8080/hakandemirci81/06.06.2019/76522
 #EXTINF:-1 tvg-id="A News HD-TR" tvg-logo="http://i.ibb.co/t39bS2y/A-NEWS.png" group-title="TUM KANALLAR",A NEWS
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxHA/5951
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3RBjKMm/SKY-NEWS.png" group-title="TUM KANALLAR",SKY NEWS
