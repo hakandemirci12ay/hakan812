@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://i.ibb.co/n6gq2xN/TANITIM.png"  group-title="TUM KANALLAR",TANITIM
 https://archive.org/serve/digiturkhayallerinedokun/Digiturk%20-%20Hayallerine%20Dokun.mp4
-#EXTINF:-1 tvg-id="epic-drama-tr.tr" tvg-logo="http://i.ibb.co/VmTkHMT/EPIC-DRAMA.png" group-title="TUM KANALLAR",EPIC DRAMA
+#EXTINF:-1 tvg-logo="http://i.ibb.co/VmTkHMT/EPIC-DRAMA.png" group-title="TUM KANALLAR",EPIC DRAMA
 http://premium.mfreetv.com:80/hakdemir812/4114337aA/8293
 #EXTINF:-1 tvg-id="FOX LIFE HD-TR" tvg-logo="http://i.ibb.co/WkDsVR4/FOXLIFE.png" group-title="TUM KANALLAR",FOXLIFE
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/37458
@@ -516,7 +516,7 @@ http://premium.mfreetv.com:80/hakdemir812/4114337aA/4683
 #EXTINF:-1 tvg-id="ducktv.tr" tvg-logo="http://i.ibb.co/GVsRzb8/DUCK-TV.png" group-title="COCUK",DUCK TV
 http://pluskor.com:8080/hakandemirci81/06.06.2019/81850
 #EXTINF:-1 tvg-id="MinikaGO" tvg-logo="http://i.ibb.co/GPPJPxs/MINIKA-GO.png" group-title="COCUK",MİNİKA GO
-http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/17186
+http://premium.mfreetv.com:80/hakdemir812/4114337aA/4677
 #EXTINF:-1 tvg-id="Minika Çocuk-TR" tvg-logo="http://i.ibb.co/Yf71Rcy/MINIKA-COCUK.png" group-title="COCUK",MİNİKA ÇOCUK
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/17159
 #EXTINF:-1 tvg-id="Nickelodeon HD" tvg-logo="http://i.ibb.co/Z1rvnkJ/NICKELODEON.png" group-title="COCUK",NICKELODEON
