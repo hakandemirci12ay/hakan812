@@ -231,10 +231,10 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/5979
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/39003
 #EXTINF:-1 tvg-id="A Spor HD" tvg-logo="http://i.ibb.co/0FFR37P/A-SPOR.png" group-title="TUM KANALLAR",A SPOR
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/5987
+#EXTINF:-1 tvg-logo="http://i.ibb.co/QjbyNmJ/T-A-Y-TV.png" group-title="TUM KANALLAR",T.A.Y TV
+http://pluskor.com:8080/hakandemirci81/06.06.2019/695
 #EXTINF:-1 tvg-id="TJK TV-TR" tvg-logo="http://i.ibb.co/4ZBGrW5/TJK-TV.png" group-title="TUM KANALLAR",TJK TV
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/5918
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JFrBrh6/FUEL-TV.png" group-title="TUM KANALLAR",FUEL TV
-http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/51330
 #EXTINF:-1 tvg-id="Sports TV HD" tvg-logo="http://i.ibb.co/bFg0Lfx/SPORTS-TV.png" group-title="TUM KANALLAR",SPORTS TV
 http://pluskor.com:8080/hakandemirci81/06.06.2019/686
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hcswySC/FAST-AND-FUN.png" group-title="TUM KANALLAR",FAST AND FUNBOX
@@ -248,13 +248,13 @@ http://pluskor.com:8080/hakandemirci81/06.06.2019/76605
 #EXTINF:-1 tvg-id="Mezzo.tr" tvg-logo="http://i.ibb.co/QdwLQJm/MEZZO.png" group-title="TUM KANALLAR",MEZZO
 http://pluskor.com:8080/hakandemirci81/06.06.2019/76608
 #EXTINF:-1 tvg-id="VH1.tr" tvg-logo="http://i.ibb.co/fFTfGbB/VH1.png" group-title="TUM KANALLAR",VH-1
-http://pluskor.com:8080/hakandemirci81/06.06.2019/76605
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/51329
 #EXTINF:-1 tvg-id="TRT MÜZİK-TR" tvg-logo="http://i.ibb.co/sJkRZSq/TRT-MUZIK.png" group-title="TUM KANALLAR",TRT MÜZİK
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/6084
 #EXTINF:-1 tvg-id="KralTV.tr" tvg-logo="http://i.ibb.co/0XVj5SR/KRAL-TV.png" group-title="TUM KANALLAR",KRAL TV
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/6086
 #EXTINF:-1 tvg-id="KralPop.tr" tvg-logo="http://i.ibb.co/pKm12rc/KRAL-POP-TV.png" group-title="TUM KANALLAR",KRAL POP TV
-http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/6080
+http://premium.mfreetv.com:80/hakdemir812/4114337aA/4541
 #EXTINF:-1 tvg-id="DREAM TV" tvg-logo="http://i.ibb.co/cX1R1dH/DREAM-TV.png" group-title="TUM KANALLAR",DREAM TV
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/6085
 #EXTINF:-1 tvg-id="Dream Türk-TR" tvg-logo="http://i.ibb.co/zGkM215/DREAM-TURK.png" group-title="TUM KANALLAR",DREAM TÜRK
@@ -275,6 +275,8 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/6081
 http://milyontv.netmedya.net/hls/milyontv.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/0FZSFVt/STINGRAY-ICONCERTS.png" group-title="TUM KANALLAR",STINGRAY iCONCERTS
 http://pluskor.com:8080/hakandemirci81/06.06.2019/81874
+#EXTINF: -1 tvg-logo="http://i.ibb.co/6rCFRTc/STINGRAY-CLASSICA.png" group-title="TUM KANALLAR",STINGRAY CLASSICA
+http://pluskor.com:8080/hakandemirci81/06.06.2019/76047
 #EXTINF:-1 tvg-id="360 TUNE BOX" tvg-logo="https://i.ibb.co/1zCdLrZ/360-TUNE-BOX.png"  group-title="TUM KANALLAR",360 TUNE BOX
 http://pluskor.com:8080/hakandemirci81/06.06.2019/88777
 #EXTINF:-1 tvg-id="TRACE URBAN HD" tvg-logo="http://i.ibb.co/ggXYS5R/TRACE-URBAN.png" group-title="TUM KANALLAR",TRACE URBAN
@@ -286,7 +288,7 @@ http://pluskor.com:8080/hakandemirci81/06.06.2019/78320
 #EXTINF:-1 tvg-id="MTVHits.tr" tvg-logo="http://i.ibb.co/6DP3xWf/MTV-HITS.png" group-title="TUM KANALLAR",MTV HITS
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/48778
 #EXTINF:-1 tvg-id="E.tr" tvg-logo="http://i.ibb.co/4pyLV10/E-ENTERTAINMENT.png" group-title="TUM KANALLAR",E! ENTERTAINMENT
-http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/51075
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/48774
 #EXTINF:-1 tvg-id="FashionTV.tr" tvg-logo="http://i.ibb.co/pwnpr9b/FASHION-TV.png" group-title="TUM KANALLAR",FASHION TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2PmymdY/FASHION-ONE.png" group-title="TUM KANALLAR",FASHION ONE
