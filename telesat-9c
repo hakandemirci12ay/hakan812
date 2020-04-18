@@ -44,7 +44,7 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/37431
 #EXTINF:-1 tvg-id="MovieSmart Platin 2 HD-TR" tvg-logo="http://i.ibb.co/Kxx7wjK/MOVIESMART-PLATIN-2.png" group-title="TUM KANALLAR",MOVIESMART PLATIN 2
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/37432
 #EXTINF:-1 tvg-id="MovieSmart Gold HD-TR" tvg-logo="http://i.ibb.co/44R4DrB/MOVIESMART-GOLD.png" group-title="TUM KANALLAR",MOVIESMART GOLD
-http://pluskor.com:8080/hakandemirci81/06.06.2019/717
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/37435
 #EXTINF:-1 tvg-id="MovieSmart Action HD-TR" tvg-logo="http://i.ibb.co/kx4Kz4z/MOVIESMART-ACTION.png" group-title="TUM KANALLAR",MOVIESMART ACTION
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/37434
 #EXTINF:-1 tvg-id="MovieSmart Fest HD-TR" tvg-logo="http://i.ibb.co/b6RFMy1/MOVIESMART-FEST.png" group-title="TUM KANALLAR",MOVIESMART FEST
@@ -64,7 +64,7 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/46066
 #EXTINF:-1 tvg-id="SİNEMA AKSİYON 2 HD" tvg-logo="http://i.ibb.co/PhMWXRy/SINEMA-AKSIYON-2.png" group-title="TUM KANALLAR",SİNEMA AKSİYON 2
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/46067
 #EXTINF:-1 tvg-id="SİNEMA YERLİ" tvg-logo="http://i.ibb.co/tsJYvWN/SINEMA-YERLI.png" group-title="TUM KANALLAR",SİNEMA YERLİ
-http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/46070
+http://pluskor.com:8080/hakandemirci81/06.06.2019/13267
 #EXTINF:-1 tvg-id="SİNEMA YERLİ 2" tvg-logo="http://i.ibb.co/k6BKfr3/SINEMA-YERLI-2.png" group-title="TUM KANALLAR",SİNEMA YERLİ 2
 http://pluskor.com:8080/hakandemirci81/06.06.2019/29588
 #EXTINF:-1 tvg-id="SİNEMA KOMEDİ HD">" tvg-logo="http://i.ibb.co/HG96VN8/SINEMA-KOMEDI.png" group-title="TUM KANALLAR",SİNEMA KOMEDİ
@@ -166,7 +166,7 @@ https://win1.yayin.com.tr/TVEM/TVEM/playlist.m3u8
 #EXTINF:-1 tvg-id="TV8.5" tvg-logo="http://i.ibb.co/Ws4btfZ/TV8-5.png" group-title="TUM KANALLAR",TV8.5
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/5985
 #EXTINF:-1 tvg-id="24KITCHEN" tvg-logo="http://i.ibb.co/TbTRT1b/24-KITCHEN.png" group-title="TUM KANALLAR",24 KITCHEN
-http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/35085
+http://pluskor.com:8080/hakandemirci81/06.06.2019/19999
 #EXTINF:-1 tvg-id="ucankustv.tr" tvg-logo="http://i.ibb.co/2gHKxnZ/UCANKU-TV.png" group-title="TUM KANALLAR",UÇANKUŞ TV
 https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RSsBdzg/TRT-3.png" group-title="TUM KANALLAR",TRT 3
