@@ -36,7 +36,7 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/37418
 #EXTINF:-1 tvg-id="Moviemax Turk" tvg-logo="https://i.ibb.co/CW8n20C/be-IN-MOVIES-T-RK.png" group-title="TUM KANALLAR",beIN MOVIES TURK
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/37414
 #EXTINF:-1 tvg-id="MovieSmart Premium HD-TR" tvg-logo="http://i.ibb.co/gSbRLZ5/MOVIESMART-PREMIUM.png" group-title="TUM KANALLAR",MOVIESMART PREMIUM
-http://pluskor.com:8080/hakandemirci81/06.06.2019/757
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/37429
 #EXTINF:-1 tvg-id="MovieSmart Premium 2 HD-TR" tvg-logo="http://i.ibb.co/pXCkgG7/MOVIESMART-PREMIUM-2.png" group-title="TUM KANALLAR",MOVIESMART PREMIUM 2
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/37430
 #EXTINF:-1 tvg-id="MovieSmart Platin HD-TR" tvg-logo="http://i.ibb.co/WzwPD3V/MOVIESMART-PLATIN.png" group-title="TUM KANALLAR",MOVIESMART PLATIN
@@ -154,7 +154,7 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/15262
 #EXTINF:-1 tvg-id="NTV SPOR HD" tvg-logo="http://i.ibb.co/GCRC9b9/DMAX.png" group-title="TUM KANALLAR",DMAX
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/5981
 #EXTINF:-1 tvg-id="SEMERKAND TV HD-TR" tvg-logo="http://i.ibb.co/pZ6D4PH/SEMERKAND-TV.png" group-title="TUM KANALLAR",SEMERKAND TV
-http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/5887
+http://mtisvwurbfcyslive.mediatriple.net/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/MBGdkNB/DOST-TV.png" group-title="TUM KANALLAR",DOST TV
 http://pluskor.com:8080/hakandemirci81/06.06.2019/35326
 #EXTINF:-1 tvg-id="Halk TV" tvg-logo="http://i.ibb.co/Qntd9xv/HALK-TV.png" group-title="TUM KANALLAR",HALK TV
@@ -163,12 +163,12 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/15261
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/27471
 #EXTINF:-1 tvg-id="EM TV-TR" tvg-logo="http://i.ibb.co/7KmS6mz/TV-EM.png" group-title="TUM KANALLAR",TVEM
 https://win1.yayin.com.tr/TVEM/TVEM/playlist.m3u8
-#EXTINF:-1 tvg-id="TV8,5" tvg-logo="http://i.ibb.co/Ws4btfZ/TV8-5.png" group-title="TUM KANALLAR",TV8.5
+#EXTINF:-1 tvg-id="TV8.5" tvg-logo="http://i.ibb.co/Ws4btfZ/TV8-5.png" group-title="TUM KANALLAR",TV8.5
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/5985
 #EXTINF:-1 tvg-id="24KITCHEN" tvg-logo="http://i.ibb.co/TbTRT1b/24-KITCHEN.png" group-title="TUM KANALLAR",24 KITCHEN
 http://pluskor.com:8080/hakandemirci81/06.06.2019/19999
 #EXTINF:-1 tvg-id="ucankustv.tr" tvg-logo="http://i.ibb.co/2gHKxnZ/UCANKU-TV.png" group-title="TUM KANALLAR",UÇANKUŞ TV
-https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/27474
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RSsBdzg/TRT-3.png" group-title="TUM KANALLAR",TRT 3
 https://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
 #EXTINF:-1 tvg-id="TRTAVAZ.tr" tvg-logo="http://i.ibb.co/8ssHtDC/TRT-AVAZ.png" group-title="TUM KANALLAR",TRT AVAZ
@@ -190,7 +190,7 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/5976
 #EXTINF:-1 tvg-logo="https://i.ibb.co/82fBh8s/EDGE-SPORT.png" group-title="TUM KANALLAR",EDGE SPORT
 http://pluskor.com:8080/hakandemirci81/06.06.2019/88631
 #EXTINF: -1 tvg-logo="http://i.ibb.co/vZn6fK4/EXTREME-SPORTS.png" group-title="TUM KANALLAR",EXTREME SPORTS
-http://pluskor.com:8080/hakandemirci81/06.06.2019/76526
+http://pluskor.com:8080/hakandemirci81/06.06.2019/76081
 #EXTINF:-1 tvg-id="FB TV HD" tvg-logo="http://i.ibb.co/x3DSyyJ/FB-TV.png" group-title="TUM KANALLAR",FB TV
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/5988
 #EXTINF:-1 tvg-id="GS TV" tvg-logo="http://i.ibb.co/7R1mB7Y/GS-TV.png" group-title="TUM KANALLAR",GS TV
@@ -286,7 +286,7 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/49695
 #EXTINF:-1 tvg-id="MTVLiveHD.tr" tvg-logo="http://i.ibb.co/kJ6J9sD/MTV-LIVE.png" group-title="TUM KANALLAR",MTV LIVE
 http://pluskor.com:8080/hakandemirci81/06.06.2019/78320
 #EXTINF:-1 tvg-id="MTVHits.tr" tvg-logo="http://i.ibb.co/6DP3xWf/MTV-HITS.png" group-title="TUM KANALLAR",MTV HITS
-http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/48778
+http://pluskor.com:8080/hakandemirci81/06.06.2019/76619
 #EXTINF:-1 tvg-id="E.tr" tvg-logo="http://i.ibb.co/4pyLV10/E-ENTERTAINMENT.png" group-title="TUM KANALLAR",E! ENTERTAINMENT
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/48774
 #EXTINF:-1 tvg-id="FashionTV.tr" tvg-logo="http://i.ibb.co/pwnpr9b/FASHION-TV.png" group-title="TUM KANALLAR",FASHION TV
@@ -373,8 +373,6 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/50794
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/50790
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RNzv7TF/AL-SUNNAH-AL-NABAWIYAH.png" group-title="TUM KANALLAR",AL SUNNAH AL NABAWIYAH
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/50793
-#EXTINF:-1 tvg-logo="http://i.ibb.co/qMNgs7F/SKY-NEWS-ARABIA.png" group-title="TUM KANALLAR",SKY NEWS ARABIA
-https://stream.skynewsarabia.com/hls/sna_480.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/Z2z6r9H/24-HORAS.png" group-title="TUM KANALLAR",24 HORAS
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_0650_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/zGxkgh3/SAT1.png" group-title="TUM KANALLAR",SAT 1
@@ -410,13 +408,13 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/5992
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hDGKjnd/DTX.png" group-title="TUM KANALLAR",DTX
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/11789
 #EXTINF:-1 tvg-id="DISCOVERY ID" tvg-logo="http://i.ibb.co/vZD46pc/INVESTIGATION-DISCOVERY.png" group-title="TUM KANALLAR",INVESTIGATION DISCOVERY
-http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/36089
+http://premium.mfreetv.com:80/hakdemir812/4114337aA/8601
 #EXTINF:-1 tvg-id="National Geographic HD" tvg-logo="http://i.ibb.co/ww5J60c/NATIONAL-GEOGRAPHIC.png" group-title="TUM KANALLAR",NATIONAL GEOGRAPHIC
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/6002
 #EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-logo="http://i.ibb.co/qRbX1ds/NATIONAL-GEOGRAPHIC-WILD.png" group-title="TUM KANALLAR",NATIONAL GEOGRAPHIC WILD
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/6000
 #EXTINF:-1 tvg-id="Nat Geo People HD" tvg-logo="http://i.ibb.co/JQYDggw/NAT-GEO-PEOPLE.png" group-title="TUM KANALLAR",NAT GEO PEOPLE
-http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/5998
+http://pluskor.com:8080/hakandemirci81/06.06.2019/19556
 #EXTINF:-1 tvg-id="History HD" tvg-logo="http://i.ibb.co/fH5Rb2W/HISTORY-CHANNEL.png" group-title="TUM KANALLAR",HISTORY CHANNEL
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/27732
 #EXTINF:-1 tvg-id="Outdoor.tr" tvg-logo="http://i.ibb.co/JHvrs07/OUTDOOR-CHANNEL.png"  group-title="TUM KANALLAR",OUTDOOR
@@ -424,7 +422,7 @@ http://pluskor.com:8080/hakandemirci81/06.06.2019/21119
 #EXTINF:-1 tvg-id="BBC Earth HD" tvg-logo="http://i.ibb.co/02T1b0z/BBC-EARTH.png" group-title="TUM KANALLAR",BBC EARTH
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/27733
 #EXTINF:-1 tvg-id="VIASAT EXPLORE" tvg-logo="http://i.ibb.co/qsFRQ9G/VIASAT-EXPLORE.png" group-title="TUM KANALLAR",VIASAT EXPLORE
-http://pluskor.com:8080/hakandemirci81/06.06.2019/88630
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/46532
 #EXTINF:-1 tvg-id="VIASAT NATURE - HISTORY" tvg-logo="http://i.ibb.co/0JCKHmm/VIASAT-HISTORY.png"  group-title="TUM KANALLAR",VIASAT HISTORY
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/35719
 #EXTINF:-1 tvg-id="DOCUBOX" tvg-logo="http://i.ibb.co/hZPf83f/DOCUBOX.png" group-title="TUM KANALLAR",DOCUBOX
@@ -504,7 +502,7 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/37534
 #EXTINF:-1 tvg-id="CBEEBIES HD" tvg-logo="http://i.ibb.co/48qhP00/BBC-CBEEBIES.png" group-title="COCUK",BBC CBEEBIES
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/20997
 #EXTINF:-1 tvg-id="Baby TV" tvg-logo="http://i.ibb.co/5rtXGHR/BABY-TV.png"group-title="COCUK",BABY TV
-http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/17188
+http://premium.mfreetv.com:80/hakdemir812/4114337aA/4681
 #EXTINF:-1 tvg-id="Disney Junior" tvg-logo="http://i.ibb.co/4JywHc0/DISNEY-JUNIOR.png" group-title="COCUK",DISNEY JUNIOR
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/17162
 #EXTINF:-1 tvg-id="Disney Channel" tvg-logo="http://i.ibb.co/S0kP9jq/DISNEY-CHANNEL.png" group-title="COCUK",DISNEY CHANNEL
