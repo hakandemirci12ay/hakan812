@@ -213,3 +213,11 @@ http://premium.mfreetv.com:80/hakdemir812/4114337aA/4667
 http://api.mfreetv.com:80/hakdemir812/4114337aA/7746
 #EXTINF:-1 tvg-id="cgtn9documentary.tr" tvg-logo="http://i.ibb.co/7JvG5WX/CGTN-DOCUMENTARY.png" group-title="BELGESEL",CGTN DOCUMENTARY
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 tvg-id="TRT Çocuk" tvg-logo="http://i.ibb.co/dLfdB6j/TRT-COCUK.png" group-title="COCUK",TRT ÇOCUK
+http://premium.mfreetv.com:80/hakdemir812/4114337aA/4675
+#EXTINF:-1 tvg-id="CBEEBIES HD" tvg-logo="http://i.ibb.co/48qhP00/BBC-CBEEBIES.png" group-title="COCUK",BBC CBEEBIES
+http://premium.mfreetv.com:80/hakdemir812/4114337aA/4674
+#EXTINF:-1 tvg-id="Baby TV" tvg-logo="http://i.ibb.co/5rtXGHR/BABY-TV.png"group-title="COCUK",BABY TV
+http://premium.mfreetv.com:80/hakdemir812/4114337aA/4681
+#EXTINF:-1 tvg-id="Nick Jr." tvg-logo="http://i.ibb.co/RCpFQsQ/NICK-JR.png" group-title="COCUK",NICK JR.
+http://premium.mfreetv.com:80/hakdemir812/4114337aA/4684
