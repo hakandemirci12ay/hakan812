@@ -159,7 +159,7 @@ http://premium.mfreetv.com:80/hakdemir812/4114337aA/4647
 http://premium.mfreetv.com:80/hakdemir812/4114337aA/4626
 #EXTINF:-1 tvg-id="TRT Spor HD" tvg-logo="http://i.ibb.co/RhC7cBL/TRT-SPOR.png" group-title="SPOR",TRT SPOR
 http://premium.mfreetv.com:80/hakdemir812/4114337aA/7172
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/8338#EXTINF:-1 tvg-id="TJK TV-TR" tvg-logo="http://i.ibb.co/4ZBGrW5/TJK-TV.png" group-title="SPOR",TJK TV
+#EXTINF:-1 tvg-id="TJK TV-TR" tvg-logo="http://i.ibb.co/4ZBGrW5/TJK-TV.png" group-title="SPOR",TJK TV
 http://premium.mfreetv.com:80/hakdemir812/4114337aA/4605
 #EXTINF:-1 tvg-id="VH1.tr" tvg-logo="http://i.ibb.co/fFTfGbB/VH1.png" group-title="MÜZİK",VH-1
 http://premium.mfreetv.com:80/hakdemir812/4114337aA/4540
@@ -205,11 +205,11 @@ http://premium.mfreetv.com:80/hakdemir812/4114337aA/4656
 http://premium.mfreetv.com:80/hakdemir812/4114337aA/8339
 #EXTINF:-1 tvg-id="BBC Earth HD" tvg-logo="http://i.ibb.co/02T1b0z/BBC-EARTH.png" group-title="BELGESEL",BBC EARTH
 http://premium.mfreetv.com:80/hakdemir812/4114337aA/8338
-#EXTINF:-1 tvg-id="VIASAT EXPLORE" tvg-logo="http://i.ibb.co/qsFRQ9G/VIASAT-EXPLORE.png" group-title="BELGESEL",VIASAT http://premium.mfreetv.com:80/hakdemir812/4114337aA/8338
+#EXTINF:-1 tvg-id="VIASAT EXPLORE" tvg-logo="http://i.ibb.co/qsFRQ9G/VIASAT-EXPLORE.png" group-title="BELGESEL",VIASAT EXPLORE
 http://premium.mfreetv.com:80/hakdemir812/4114337aA/8292
 #EXTINF:-1 tvg-id="VIASAT NATURE - HISTORY" tvg-logo="http://i.ibb.co/0JCKHmm/VIASAT-HISTORY.png"  group-title="BELGESEL",VIASAT HISTORY
 http://premium.mfreetv.com:80/hakdemir812/4114337aA/4667
 #EXTINF:-1 tvg-logo="http://i.ibb.co/4mdv588/LOVE-NATURE.png" group-title="BELGESEL",LOVE NATURE
 http://api.mfreetv.com:80/hakdemir812/4114337aA/7746
-#EXTINF:-1 tvg-id="cgtn9documentary.tr" tvg-logo="http://i.ibb.co/7JvG5WX/CGTN-DOCUMENTARY.png"  group-title="BELGESEL",CGTN DOCUMENTARY
+#EXTINF:-1 tvg-id="cgtn9documentary.tr" tvg-logo="http://i.ibb.co/7JvG5WX/CGTN-DOCUMENTARY.png" group-title="BELGESEL",CGTN DOCUMENTARY
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
