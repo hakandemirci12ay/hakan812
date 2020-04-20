@@ -1,97 +1,95 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://i.ibb.co/n6gq2xN/TANITIM.png"  group-title="TUM KANALLAR",TANITIM
+#EXTINF:-1 tvg-logo="http://i.ibb.co/n6gq2xN/TANITIM.png",TANITIM
 https://archive.org/serve/digiturkhayallerinedokun/Digiturk%20-%20Hayallerine%20Dokun.mp4
-#EXTINF:-1 tvg-logo="http://i.ibb.co/VmTkHMT/EPIC-DRAMA.png" group-title="TUM KANALLAR",EPIC DRAMA
+#EXTINF:-1 tvg-logo="http://i.ibb.co/VmTkHMT/EPIC-DRAMA.png" group-title="DİZİ",EPIC DRAMA
 http://premium.mfreetv.com:80/hakdemir812/4114337aA/8293
-#EXTINF:-1 tvg-id="FOX LIFE HD" tvg-logo="http://i.ibb.co/WkDsVR4/FOXLIFE.png" group-title="TUM KANALLAR",FOXLIFE
+#EXTINF:-1 tvg-id="FOX LIFE HD" tvg-logo="http://i.ibb.co/WkDsVR4/FOXLIFE.png" group-title="DİZİ",FOXLIFE
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/37458
-#EXTINF:-1 tvg-id="FX HD" tvg-logo="http://i.ibb.co/Z8WGPNK/FX.png" group-title="TUM KANALLAR",FX
+#EXTINF:-1 tvg-id="FX HD" tvg-logo="http://i.ibb.co/Z8WGPNK/FX.png" group-title="DİZİ",FX
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/37460
-#EXTINF:-1 tvg-id="FOX CRIME HD" tvg-logo="http://i.ibb.co/884njYg/FOXCRIME.png" group-title="TUM KANALLAR",FOXCRIME
+#EXTINF:-1 tvg-id="FOX CRIME HD" tvg-logo="http://i.ibb.co/884njYg/FOXCRIME.png" group-title="DİZİ",FOXCRIME
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/37459
-#EXTINF:-1 tvg-id="Dizimax Sci-fi" tvg-logo="https://i.ibb.co/d4QMgwf/be-IN-SERIES-SCI-FI.png" group-title="TUM KANALLAR",beIN SERIES SCI-FI
+#EXTINF:-1 tvg-id="Dizimax Sci-fi" tvg-logo="https://i.ibb.co/d4QMgwf/be-IN-SERIES-SCI-FI.png" group-title="DİZİ",beIN SERIES SCI-FI
 http://pluskor.com:8080/hakandemirci81/06.06.2019/768
-#EXTINF:-1 tvg-id="Dizimax Comedy" tvg-logo="https://i.ibb.co/bz09Sjg/be-IN-SERIES-COMEDY.png" group-title="TUM KANALLAR",beIN SERIES COMEDY
+#EXTINF:-1 tvg-id="Dizimax Comedy" tvg-logo="https://i.ibb.co/bz09Sjg/be-IN-SERIES-COMEDY.png" group-title="DİZİ",beIN SERIES COMEDY
 http://pluskor.com:8080/hakandemirci81/06.06.2019/6914
-#EXTINF:-1 tvg-id="Dizimax Vice" tvg-logo="https://i.ibb.co/j62V8pM/be-IN-SERIES-VICE.png" group-title="TUM KANALLAR",beIN SERIES VICE
+#EXTINF:-1 tvg-id="Dizimax Vice" tvg-logo="https://i.ibb.co/j62V8pM/be-IN-SERIES-VICE.png" group-title="DİZİ",beIN SERIES VICE
 http://api.mfreetv.com:80/hakdemir812/4114337aA/4588
-#EXTINF:-1 tvg-id="Dizimax Drama" tvg-logo="https://i.ibb.co/kSX0WNM/be-IN-SERIES-DRAMA.png" group-title="TUM KANALLAR",beIN SERIES DRAMA
+#EXTINF:-1 tvg-id="Dizimax Drama" tvg-logo="https://i.ibb.co/kSX0WNM/be-IN-SERIES-DRAMA.png" group-title="DİZİ",beIN SERIES DRAMA
 http://pluskor.com:8080/hakandemirci81/06.06.2019/6903
-#EXTINF:-1 tvg-id="Dizi Premium HD-TR" tvg-logo="http://i.ibb.co/fMBsgbM/DIZISMART-PREMIUM.png" group-title="TUM KANALLAR",DİZİSMART PREMIUM
+#EXTINF:-1 tvg-id="Dizi Premium HD-TR" tvg-logo="http://i.ibb.co/fMBsgbM/DIZISMART-PREMIUM.png" group-title="DİZİ",DİZİSMART PREMIUM
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/37461
-#EXTINF:-1 tvg-id="Dizi Smart Max-TR" tvg-logo="http://i.ibb.co/W3jQJXS/DIZISMART-MAX.png" group-title="TUM KANALLAR",DİZİSMART MAX
+#EXTINF:-1 tvg-id="Dizi Smart Max-TR" tvg-logo="http://i.ibb.co/W3jQJXS/DIZISMART-MAX.png" group-title="DİZİ",DİZİSMART MAX
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/35718
-#EXTINF:-1 tvg-id="Moviemax Premier" tvg-logo="https://i.ibb.co/3mRRxxM/be-IN-MOVIES-PREMIERE.png" group-title="TUM KANALLAR",beIN MOVIES PREMIERE
+#EXTINF:-1 tvg-id="Moviemax Premier" tvg-logo="https://i.ibb.co/3mRRxxM/be-IN-MOVIES-PREMIERE.png" group-title="SİNEMA",beIN MOVIES PREMIERE
 http://pluskor.com:8080/hakandemirci81/06.06.2019/1695
-#EXTINF:-1 tvg-id="Moviemax Premier 2" tvg-logo="https://i.ibb.co/hXZLW2R/be-IN-MOVIES-PREMIERE-2.png" group-title="TUM KANALLAR",beIN MOVIES PREMIERE 2
+#EXTINF:-1 tvg-id="Moviemax Premier 2" tvg-logo="https://i.ibb.co/hXZLW2R/be-IN-MOVIES-PREMIERE-2.png" group-title="SİNEMA",beIN MOVIES PREMIERE 2
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/37417
-#EXTINF:-1 tvg-id="Moviemax Stars" tvg-logo="https://i.ibb.co/5TrCZKz/be-IN-MOVIES-STARS.png" group-title="TUM KANALLAR",beIN MOVIES STARS
+#EXTINF:-1 tvg-id="Moviemax Stars" tvg-logo="https://i.ibb.co/5TrCZKz/be-IN-MOVIES-STARS.png" group-title="SİNEMA",beIN MOVIES STARS
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/37415
-#EXTINF:-1 tvg-id="Moviemax Action" tvg-logo="https://i.ibb.co/0MhshK1/be-IN-MOVIES-ACTION.png" group-title="TUM KANALLAR",beIN MOVIES ACTION
+#EXTINF:-1 tvg-id="Moviemax Action" tvg-logo="https://i.ibb.co/0MhshK1/be-IN-MOVIES-ACTION.png" group-title="SİNEMA",beIN MOVIES ACTION
 http://pluskor.com:8080/hakandemirci81/06.06.2019/1697
-#EXTINF:-1 tvg-id="Moviemax Action 2" tvg-logo="https://i.ibb.co/x8SG5Fg/be-IN-MOVIES-ACTION-2.png" group-title="TUM KANALLAR",beIN MOVIES ACTION 2
+#EXTINF:-1 tvg-id="Moviemax Action 2" tvg-logo="https://i.ibb.co/x8SG5Fg/be-IN-MOVIES-ACTION-2.png" group-title="SİNEMA",beIN MOVIES ACTION 2
 http://pluskor.com:8080/hakandemirci81/06.06.2019/1694
-#EXTINF:-1 tvg-id="Moviemax Family" tvg-logo="https://i.ibb.co/jr5PKT1/be-IN-MOVIES-FAMILY.png" group-title="TUM KANALLAR",beIN MOVIES FAMILY
+#EXTINF:-1 tvg-id="Moviemax Family" tvg-logo="https://i.ibb.co/jr5PKT1/be-IN-MOVIES-FAMILY.png" group-title="SİNEMA",beIN MOVIES FAMILY
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/37418
-#EXTINF:-1 tvg-id="Moviemax Turk" tvg-logo="https://i.ibb.co/CW8n20C/be-IN-MOVIES-T-RK.png" group-title="TUM KANALLAR",beIN MOVIES TURK
+#EXTINF:-1 tvg-id="Moviemax Turk" tvg-logo="https://i.ibb.co/CW8n20C/be-IN-MOVIES-T-RK.png" group-title="SİNEMA",beIN MOVIES TURK
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/37414
-#EXTINF:-1 tvg-id="MovieSmart Premium HD-TR" tvg-logo="http://i.ibb.co/gSbRLZ5/MOVIESMART-PREMIUM.png" group-title="TUM KANALLAR",MOVIESMART PREMIUM
+#EXTINF:-1 tvg-id="MovieSmart Premium HD-TR" tvg-logo="http://i.ibb.co/gSbRLZ5/MOVIESMART-PREMIUM.png" group-title="SİNEMA",MOVIESMART PREMIUM
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/37429
-#EXTINF:-1 tvg-id="MovieSmart Premium 2 HD-TR" tvg-logo="http://i.ibb.co/pXCkgG7/MOVIESMART-PREMIUM-2.png" group-title="TUM KANALLAR",MOVIESMART PREMIUM 2
+#EXTINF:-1 tvg-id="MovieSmart Premium 2 HD-TR" tvg-logo="http://i.ibb.co/pXCkgG7/MOVIESMART-PREMIUM-2.png" group-title="SİNEMA",MOVIESMART PREMIUM 2
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/37430
-#EXTINF:-1 tvg-id="MovieSmart Platin HD-TR" tvg-logo="http://i.ibb.co/WzwPD3V/MOVIESMART-PLATIN.png" group-title="TUM KANALLAR",MOVIESMART PLATIN
+#EXTINF:-1 tvg-id="MovieSmart Platin HD-TR" tvg-logo="http://i.ibb.co/WzwPD3V/MOVIESMART-PLATIN.png" group-title="SİNEMA",MOVIESMART PLATIN
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/37431
-#EXTINF:-1 tvg-id="MovieSmart Platin 2 HD-TR" tvg-logo="http://i.ibb.co/Kxx7wjK/MOVIESMART-PLATIN-2.png" group-title="TUM KANALLAR",MOVIESMART PLATIN 2
+#EXTINF:-1 tvg-id="MovieSmart Platin 2 HD-TR" tvg-logo="http://i.ibb.co/Kxx7wjK/MOVIESMART-PLATIN-2.png" group-title="SİNEMA",MOVIESMART PLATIN 2
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/37432
-#EXTINF:-1 tvg-id="MovieSmart Gold HD-TR" tvg-logo="http://i.ibb.co/44R4DrB/MOVIESMART-GOLD.png" group-title="TUM KANALLAR",MOVIESMART GOLD
+#EXTINF:-1 tvg-id="MovieSmart Gold HD-TR" tvg-logo="http://i.ibb.co/44R4DrB/MOVIESMART-GOLD.png" group-title="SİNEMA",MOVIESMART GOLD
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/37435
-#EXTINF:-1 tvg-id="MovieSmart Action HD-TR" tvg-logo="http://i.ibb.co/kx4Kz4z/MOVIESMART-ACTION.png" group-title="TUM KANALLAR",MOVIESMART ACTION
+#EXTINF:-1 tvg-id="MovieSmart Action HD-TR" tvg-logo="http://i.ibb.co/kx4Kz4z/MOVIESMART-ACTION.png" group-title="SİNEMA",MOVIESMART ACTION
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/37434
-#EXTINF:-1 tvg-id="MovieSmart Fest HD-TR" tvg-logo="http://i.ibb.co/b6RFMy1/MOVIESMART-FEST.png" group-title="TUM KANALLAR",MOVIESMART FEST
+#EXTINF:-1 tvg-id="MovieSmart Fest HD-TR" tvg-logo="http://i.ibb.co/b6RFMy1/MOVIESMART-FEST.png" group-title="SİNEMA",MOVIESMART FEST
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/37427
-#EXTINF:-1 tvg-id="MovieSmart Family HD-TR" tvg-logo="http://i.ibb.co/vJ3ZCMW/MOVIESMART-FAMILY.png" group-title="TUM KANALLAR",MOVIESMART FAMILY
+#EXTINF:-1 tvg-id="MovieSmart Family HD-TR" tvg-logo="http://i.ibb.co/vJ3ZCMW/MOVIESMART-FAMILY.png" group-title="SİNEMA",MOVIESMART FAMILY
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/37433
-#EXTINF:-1 tvg-id="MovieSmart Classic HD-TR" tvg-logo="http://i.ibb.co/Lx0q8vq/MOVIESMART-CLASSIC.png" group-title="TUM KANALLAR",MOVIESMART CLASSIC
+#EXTINF:-1 tvg-id="MovieSmart Classic HD-TR" tvg-logo="http://i.ibb.co/Lx0q8vq/MOVIESMART-CLASSIC.png" group-title="SİNEMA",MOVIESMART CLASSIC
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/37436
-#EXTINF:-1 tvg-id="MovieSmart Türk HD-TR" tvg-logo="http://i.ibb.co/K7dZWgk/MOVIESMART-T-RK.png" group-title="TUM KANALLAR",MOVIESMART TÜRK
+#EXTINF:-1 tvg-id="MovieSmart Türk HD-TR" tvg-logo="http://i.ibb.co/K7dZWgk/MOVIESMART-T-RK.png" group-title="SİNEMA",MOVIESMART TÜRK
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/37428
-#EXTINF:-1 tvg-id="SİNEMA TV HD" tvg-logo="http://i.ibb.co/bL15kbq/SINEMA-TV.png" group-title="TUM KANALLAR",SİNEMA TV
+#EXTINF:-1 tvg-id="SİNEMA TV HD" tvg-logo="http://i.ibb.co/bL15kbq/SINEMA-TV.png" group-title="SİNEMA",SİNEMA TV
 http://premium.mfreetv.com:80/hakdemir812/4114337aA/4572
-#EXTINF:-1 tvg-id="SİNEMA 2 HD" tvg-logo="http://i.ibb.co/8s9Jq20/SINEMA-2.png" group-title="TUM KANALLAR",SİNEMA 2
+#EXTINF:-1 tvg-id="SİNEMA 2 HD" tvg-logo="http://i.ibb.co/8s9Jq20/SINEMA-2.png" group-title="SİNEMA",SİNEMA 2
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/46063
-#EXTINF:-1 tvg-id="SİNEMA AKSİYON HD" tvg-logo="http://i.ibb.co/BBZ4HrH/SINEMA-AKSIYON.png" group-title="TUM KANALLAR",SİNEMA AKSİYON
+#EXTINF:-1 tvg-id="SİNEMA AKSİYON HD" tvg-logo="http://i.ibb.co/BBZ4HrH/SINEMA-AKSIYON.png" group-title="SİNEMA",SİNEMA AKSİYON
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/46066
-#EXTINF:-1 tvg-id="SİNEMA AKSİYON 2 HD" tvg-logo="http://i.ibb.co/PhMWXRy/SINEMA-AKSIYON-2.png" group-title="TUM KANALLAR",SİNEMA AKSİYON 2
+#EXTINF:-1 tvg-id="SİNEMA AKSİYON 2 HD" tvg-logo="http://i.ibb.co/PhMWXRy/SINEMA-AKSIYON-2.png" group-title="SİNEMA",SİNEMA AKSİYON 2
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/46067
-#EXTINF:-1 tvg-id="SİNEMA YERLİ" tvg-logo="http://i.ibb.co/tsJYvWN/SINEMA-YERLI.png" group-title="TUM KANALLAR",SİNEMA YERLİ
+#EXTINF:-1 tvg-id="SİNEMA YERLİ" tvg-logo="http://i.ibb.co/tsJYvWN/SINEMA-YERLI.png" group-title="SİNEMA",SİNEMA YERLİ
 http://pluskor.com:8080/hakandemirci81/06.06.2019/13267
-#EXTINF:-1 tvg-id="SİNEMA YERLİ 2" tvg-logo="http://i.ibb.co/k6BKfr3/SINEMA-YERLI-2.png" group-title="TUM KANALLAR",SİNEMA YERLİ 2
+#EXTINF:-1 tvg-id="SİNEMA YERLİ 2" tvg-logo="http://i.ibb.co/k6BKfr3/SINEMA-YERLI-2.png" group-title="SİNEMA",SİNEMA YERLİ 2
 http://pluskor.com:8080/hakandemirci81/06.06.2019/29588
-#EXTINF:-1 tvg-id="SİNEMA KOMEDİ HD">" tvg-logo="http://i.ibb.co/HG96VN8/SINEMA-KOMEDI.png" group-title="TUM KANALLAR",SİNEMA KOMEDİ
+#EXTINF:-1 tvg-id="SİNEMA KOMEDİ HD">" tvg-logo="http://i.ibb.co/HG96VN8/SINEMA-KOMEDI.png" group-title="SİNEMA",SİNEMA KOMEDİ
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/46068
-#EXTINF:-1 tvg-id="SİNEMA KOMEDİ 2 HD">" tvg-logo="http://i.ibb.co/5n5TX0F/SINEMA-KOMEDI-2.png" group-title="TUM KANALLAR",SİNEMA KOMEDİ 2
+#EXTINF:-1 tvg-id="SİNEMA KOMEDİ 2 HD">" tvg-logo="http://i.ibb.co/5n5TX0F/SINEMA-KOMEDI-2.png" group-title="SİNEMA",SİNEMA KOMEDİ 2
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/46069
-#EXTINF:-1 tvg-id="SİNEMA AİLE HD" tvg-logo="http://i.ibb.co/bsQzRPH/SINEMA-AILE.png" group-title="TUM KANALLAR",SİNEMA AİLE
+#EXTINF:-1 tvg-id="SİNEMA AİLE HD" tvg-logo="http://i.ibb.co/bsQzRPH/SINEMA-AILE.png" group-title="SİNEMA",SİNEMA AİLE
 http://premium.mfreetv.com:80/hakdemir812/4114337aA/4568
-#EXTINF:-1 tvg-id="SİNEMA AİLE 2 HD" tvg-logo="http://i.ibb.co/rdPp7CS/SINEMA-AILE-2.png" group-title="TUM KANALLAR",SİNEMA AİLE 2
+#EXTINF:-1 tvg-id="SİNEMA AİLE 2 HD" tvg-logo="http://i.ibb.co/rdPp7CS/SINEMA-AILE-2.png" group-title="SİNEMA",SİNEMA AİLE 2
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/46065
-#EXTINF:-1 tvg-id="SİNEMA 1001 HD" tvg-logo="http://i.ibb.co/PTCQ2pr/SINEMA-1001.png" group-title="TUM KANALLAR",SİNEMA 1001
+#EXTINF:-1 tvg-id="SİNEMA 1001 HD" tvg-logo="http://i.ibb.co/PTCQ2pr/SINEMA-1001.png" group-title="SİNEMA",SİNEMA 1001
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/46072
-#EXTINF:-1 tvg-id="SİNEMA 1002" tvg-logo="http://i.ibb.co/0t6pPmx/SINEMA-1002.png" group-title="TUM KANALLAR",SİNEMA 1002
+#EXTINF:-1 tvg-id="SİNEMA 1002" tvg-logo="http://i.ibb.co/0t6pPmx/SINEMA-1002.png" group-title="SİNEMA",SİNEMA 1002
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/46073
-#EXTINF:-1 tvg-id="İZ HD" tvg-logo="https://i.ibb.co/NCr2Y5D/beIN-Z.png" group-title="TUM KANALLAR",beIN İZ
+#EXTINF:-1 tvg-id="İZ HD" tvg-logo="https://i.ibb.co/NCr2Y5D/beIN-Z.png" group-title="BELGESEL",beIN İZ
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/6010
-#EXTINF:-1 tvg-id="Turkmax Gurme HD" tvg-logo="https://i.ibb.co/k5Lr29h/be-IN-GURME.png" group-title="TUM KANALLAR",beIN GURME
+#EXTINF:-1 tvg-id="Turkmax Gurme HD" tvg-logo="https://i.ibb.co/k5Lr29h/be-IN-GURME.png" group-title="YAŞAM",beIN GURME
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/5930
-#EXTINF:-1 tvg-id="Filmbox Turkiye-TR" tvg-logo="http://i.ibb.co/kqMFxwB/FILMBOX.png" group-title="TUM KANALLAR",FILMBOX
+#EXTINF:-1 tvg-id="Filmbox Turkiye-TR" tvg-logo="http://i.ibb.co/kqMFxwB/FILMBOX.png" group-title="SİNEMA",FILMBOX
 http://pluskor.com:8080/hakandemirci81/06.06.2019/84036
-#EXTINF:-1 tvg-id="FILMBOX ARTHOUSE" tvg-logo="https://i.ibb.co/PTYH7Xj/FILMBOX-ARTHOUSE.png" group-title="TUM KANALLAR",FILMBOX ARTHOUSE
+#EXTINF:-1 tvg-id="FILMBOX ARTHOUSE" tvg-logo="https://i.ibb.co/PTYH7Xj/FILMBOX-ARTHOUSE.png" group-title="SİMEMA",FILMBOX ARTHOUSE
 http://pluskor.com:8080/hakandemirci81/06.06.2019/88775
-#EXTINF:-1 tvg-logo="http://i.ibb.co/WVzPJRJ/FILMTIVI.png" group-title="TUM KANALLAR",FİLMTİVİ
+#EXTINF:-1 tvg-logo="http://i.ibb.co/WVzPJRJ/FILMTIVI.png" group-title="SİNEMA",FİLMTİVİ
 http://pluskor.com:8080/hakandemirci81/06.06.2019/1711
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZHz4rFj/UNIVERSAL-CHANNEL.png"  group-title="TUM KANALLAR",UNIVERSAL CHANNEL
-http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/27523
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s6WqKDd/FUNBOX-4-K.png" group-title="TUM KANALLAR",FUNBOX 4K
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s6WqKDd/FUNBOX-4-K.png" group-title="ULTRA HD",FUNBOX 4K
 http://pluskor.com:8080/hakandemirci81/06.06.2019/88772
 #EXTINF:-1 tvg-logo="http://i.ibb.co/d5DZ7JM/TRT-4K.png" group-title="TUM KANALLAR",TRT 4K
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/35082
