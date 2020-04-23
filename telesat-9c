@@ -68,7 +68,7 @@ http://pluskor.com:8080/hakandemirci81/06.06.2019/13267
 #EXTINF:-1 tvg-id="SİNEMA YERLİ 2" tvg-logo="http://i.ibb.co/k6BKfr3/SINEMA-YERLI-2.png" group-title="SİNEMA",SİNEMA YERLİ 2
 http://pluskor.com:8080/hakandemirci81/06.06.2019/29588
 #EXTINF:-1 tvg-id="SİNEMA KOMEDİ HD">" tvg-logo="http://i.ibb.co/HG96VN8/SINEMA-KOMEDI.png" group-title="SİNEMA",SİNEMA KOMEDİ
-http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/46068
+http://pluskor.com:8080/hakandemirci81/06.06.2019/28588
 #EXTINF:-1 tvg-id="SİNEMA KOMEDİ 2 HD">" tvg-logo="http://i.ibb.co/5n5TX0F/SINEMA-KOMEDI-2.png" group-title="SİNEMA",SİNEMA KOMEDİ 2
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/46069
 #EXTINF:-1 tvg-id="SİNEMA AİLE HD" tvg-logo="http://i.ibb.co/bsQzRPH/SINEMA-AILE.png" group-title="SİNEMA",SİNEMA AİLE
@@ -152,7 +152,7 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/15262
 #EXTINF:-1 tvg-id="NTV SPOR HD" tvg-logo="http://i.ibb.co/GCRC9b9/DMAX.png" group-title="ULUSAL",DMAX
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/5981
 #EXTINF:-1 tvg-id="SEMERKAND TV HD-TR" tvg-logo="http://i.ibb.co/pZ6D4PH/SEMERKAND-TV.png" group-title="ULUSAL",SEMERKAND TV
-http://mtisvwurbfcyslive.mediatriple.net/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/5887
 #EXTINF:-1 tvg-logo="http://i.ibb.co/MBGdkNB/DOST-TV.png" group-title="ULUSAL",DOST TV
 http://pluskor.com:8080/hakandemirci81/06.06.2019/35326
 #EXTINF:-1 tvg-id="Halk TV" tvg-logo="http://i.ibb.co/Qntd9xv/HALK-TV.png" group-title="HABER",HALK TV
@@ -200,7 +200,7 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/5963
 #EXTINF:-1 tvg-id="beIN SPORTS HD 3" tvg-logo="https://i.ibb.co/2WfQjkW/be-IN-SPORTS-3.png" group-title="SPOR",beIN SPORTS 3
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/37506
 #EXTINF:-1 tvg-id="beIN SPORTS HD 4" tvg-logo="https://i.ibb.co/VmnJYbk/be-IN-SPORTS-4.png" group-title="SPOR",beIN SPORTS 4
-http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/5957
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/5952
 #EXTINF:-1 tvg-id="beIN SPORTS MAX 1 HD" tvg-logo="http://i.ibb.co/njh1h1K/be-IN-SPORTS-MAX-1.png" group-title="SPOR",beIN SPORTS MAX 1
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/7877
 #EXTINF:-1 tvg-id="beIN SPORTS MAX 2 HD" tvg-logo="http://i.ibb.co/LSVBkGm/be-IN-SPORTS-MAX-2.png" group-title="SPOR",beIN SPORTS MAX 2
@@ -256,7 +256,7 @@ http://premium.mfreetv.com:80/hakdemir812/4114337aA/4541
 #EXTINF:-1 tvg-id="DREAM TV" tvg-logo="http://i.ibb.co/cX1R1dH/DREAM-TV.png" group-title="MÜZİK",DREAM TV
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/6085
 #EXTINF:-1 tvg-id="Dream Türk-TR" tvg-logo="http://i.ibb.co/zGkM215/DREAM-TURK.png" group-title="MÜZİK",DREAM TÜRK
-http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/6082
+http://pluskor.com:8080/hakandemirci81/06.06.2019/12755
 #EXTINF:-1 tvg-id="NR1-TR" tvg-logo="http://i.ibb.co/xG4fDn3/NUMBER1-TV.png" group-title="MÜZİK",NUMBER1 TV
 http://pluskor.com:8080/hakandemirci81/06.06.2019/589
 #EXTINF:-1 tvg-id="NR1 Türk-TR" tvg-logo="http://i.ibb.co/QjM93vG/NUMBER1-TURK.png" group-title="MÜZİK",NUMBER1 TÜRK
@@ -285,12 +285,12 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/49695
 http://pluskor.com:8080/hakandemirci81/06.06.2019/78320
 #EXTINF:-1 tvg-id="MTVHits.tr" tvg-logo="http://i.ibb.co/6DP3xWf/MTV-HITS.png" group-title="MÜZİK",MTV HITS
 http://pluskor.com:8080/hakandemirci81/06.06.2019/76619
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cvdWrR9/INSIGHT-TV.png" group-title="YAŞAM",INSIGHT TV
+http://premium.mfreetv.com:80/hakdemir812/4114337aA/4654
 #EXTINF:-1 tvg-id="E.tr" tvg-logo="http://i.ibb.co/4pyLV10/E-ENTERTAINMENT.png" group-title="YAŞAM",E! ENTERTAINMENT
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/48774
 #EXTINF:-1 tvg-id="FashionTV.tr" tvg-logo="http://i.ibb.co/pwnpr9b/FASHION-TV.png" group-title="YAŞAM",FASHION TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2PmymdY/FASHION-ONE.png" group-title="YAŞAM",FASHION ONE
-http://188.35.9.11:21031/udp/058v
 #EXTINF:-1 tvg-logo="http://i.ibb.co/M7nbGLB/FASHIONBOX.png" group-title="YAŞAM",FASHIONBOX
 http://pluskor.com:8080/hakandemirci81/06.06.2019/609
 #EXTINF:-1 tvg-logo="http://i.ibb.co/py5grQQ/WORLD-FASHION.png" group-title="YAŞAM",WORLD FASHION
@@ -323,8 +323,6 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/51411
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/51081
 #EXTINF:-1 tvg-logo="http://i.ibb.co/BcZYgTw/BBC-WORLD-NEWS.png" group-title="ULUSLARARASI",BBC WORLD NEWS
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.ibb.co/TTvHGvK/FOX-NEWS-CHANNEL.png" group-title="ULUSLARARASI",FOX NEWS CHANNEL
-http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/51080
 #EXTINF:-1 tvg-id="BLOOMBERG TV-TR" tvg-logo="http://i.ibb.co/31XcQdt/BLOOMBERG-TV.png" group-title="ULUSLARARASI",BLOOMBERG TV
 http://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:-1 tvg-id="Euronews.tr" tvg-logo="http://i.ibb.co/20zB3bB/EURONEWS.png" group-title="ULUSLARARASI",EURONEWS
@@ -361,8 +359,6 @@ http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 #EXTINF:-1 tvg-id="france24fr.tr" tvg-logo="http://i.ibb.co/0J5MRfR/FRANCE-24-ENGLISH.png" group-title="ULUSLARARASI",FRANCE 24 FRANÇAIS
 http://f24hls-i.akamaihd.net/hls/live/221146-b/F24_FR_HI_HLS/master_2000.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/Dp3BPc8/ALA-TOO-24.png" group-title="ULUSLARARASI",ALA TOO 24
-http://onlinetv.ktrk.kg:1935/live/myStream3/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/nBV9sBb/MBC.png" group-title="ULUSLARARASI",MBC
 http://livecdnh2.tvanywhere.ae/hls/mbc1/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QcrKZrs/SAUDI-TV.png" group-title="ULUSLARARASI",SAUDI 1
@@ -376,19 +372,17 @@ http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_0650_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/zGxkgh3/SAT1.png" group-title="ULUSLARARASI",SAT 1
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/17962
 #EXTINF:-1 tvg-id="AUTOMOTO HD" tvg-logo="http://i.ibb.co/ZzQkNjv/AUTOMOTO.png" group-title="BELGESEL",AUTOMOTO
-http://644209.com:8080/hakandemirci81/06.06.2019/31667
+http://premium.mfreetv.com:80/hakdemir812/4114337aA/6273
 #EXTINF:-1 tvg-id="ANIMAUX" tvg-logo="http://i.ibb.co/R74PrGL/ANIMAUX.png" group-title="BELGESEL",ANIMAUX
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/27865
 #EXTINF:-1 tvg-id="CHASSE ET PECHE" tvg-logo="http://i.ibb.co/W2zn1yc/CHASSE-ET-PECHE.png" group-title="BELGESEL",CHASSE & PECHE
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/35084
 #EXTINF:-1 tvg-id="TREK HD" tvg-logo="http://i.ibb.co/VNsZWmX/TREK.png" group-title="BELGESEL",TREK
-http://pluskor.com:8080/hakandemirci81/06.06.2019/88778
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/46530
 #EXTINF:-1 tvg-id="SCIENCE & VIE HD" tvg-logo="http://i.ibb.co/C9zPWTT/SCIENCE-VIE-TV.png" group-title="BELGESEL",SCIENCE & VIE TV
-http://pluskor.com:8080/hakandemirci81/06.06.2019/35529
+http://premium.mfreetv.com:80/hakdemir812/4114337aA/6274
 #EXTINF:-1 tvg-logo="http://i.ibb.co/syp62SR/NAUTICAL-CHANNEL.png" group-title="BELGESEL",NAUTICAL CHANNEL
 http://pluskor.com:8080/hakandemirci81/06.06.2019/76628
-#EXTINF:-1 tvg-logo="http://i.ibb.co/TggPZLM/TRAVEL-CHANNEL.png" group-title="YAŞAM",TRAVEL CHANNEL
-http://188.35.9.11:21031/udp/038m
 #EXTINF:-1 tvg-logo="http://i.ibb.co/NsY22r0/AV-TV.png" group-title="BELGESEL",AV TV
 http://195.142.1.213:1935/avtv/avtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="Yaban TV" tvg-logo="http://i.ibb.co/bQHRsN7/YABAN-TV.png" group-title="BELGESEL",YABAN TV
@@ -406,7 +400,7 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/5992
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hDGKjnd/DTX.png" group-title="BELGESEL",DTX
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/11789
 #EXTINF:-1 tvg-id="DISCOVERY ID" tvg-logo="http://i.ibb.co/vZD46pc/INVESTIGATION-DISCOVERY.png" group-title="BELGESEL",INVESTIGATION DISCOVERY
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/8601
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/36089
 #EXTINF:-1 tvg-id="National Geographic HD" tvg-logo="http://i.ibb.co/ww5J60c/NATIONAL-GEOGRAPHIC.png" group-title="BELGESEL",NATIONAL GEOGRAPHIC
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/6002
 #EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-logo="http://i.ibb.co/qRbX1ds/NATIONAL-GEOGRAPHIC-WILD.png" group-title="BELGESEL",NATIONAL GEOGRAPHIC WILD
@@ -420,7 +414,7 @@ http://pluskor.com:8080/hakandemirci81/06.06.2019/21119
 #EXTINF:-1 tvg-id="BBC Earth HD" tvg-logo="http://i.ibb.co/02T1b0z/BBC-EARTH.png" group-title="BELGESEL",BBC EARTH
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/27733
 #EXTINF:-1 tvg-id="VIASAT EXPLORE" tvg-logo="http://i.ibb.co/qsFRQ9G/VIASAT-EXPLORE.png" group-title="BELGESEL",VIASAT EXPLORE
-http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/46532
+http://premium.mfreetv.com:80/hakdemir812/4114337aA/8292
 #EXTINF:-1 tvg-id="VIASAT NATURE - HISTORY" tvg-logo="http://i.ibb.co/0JCKHmm/VIASAT-HISTORY.png"  group-title="BELGESEL",VIASAT HISTORY
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/35719
 #EXTINF:-1 tvg-id="DOCUBOX" tvg-logo="http://i.ibb.co/hZPf83f/DOCUBOX.png" group-title="BELGESEL",DOCUBOX
@@ -469,8 +463,6 @@ https://59cba4d34b678.streamlock.net/canlitv/koytv/playlist.m3u8
 https://59cba4d34b678.streamlock.net/canlitv/ciftcitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wzvpMHN/KANAL-42.png" group-title="YEREL",KANAL 42
 http://pluskor.com:8080/hakandemirci81/06.06.2019/88501
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ccBHjkz/TVDEN.png" group-title="YEREL",TVDEN
-http://waw1.artiyerelmedya.net:1935/tvden/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/dtT6r6z/ON-4.png" group-title="YEREL",ON4 TV
 http://yayin.netradyom.com:1935/live/on4/playist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6Hd0R62/TV-52.png" group-title="YEREL",TV 52
