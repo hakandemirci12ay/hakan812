@@ -252,8 +252,8 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/6084
 #EXTINF:-1 tvg-id="KralTV.tr" tvg-logo="http://i.ibb.co/0XVj5SR/KRAL-TV.png" group-title="MÜZİK",KRAL TV
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/6086
 #EXTINF:-1 tvg-id="KralPop.tr" tvg-logo="http://i.ibb.co/pKm12rc/KRAL-POP-TV.png" group-title="MÜZİK",KRAL POP TV
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4541
-#EXTINF:-1 tvg-id="DREAM TV" tvg-logo="http://i.ibb.co/cX1R1dH/DREAM-TV.png" group-title="MÜZİK",DREAM TV
+https://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+K#EXTINF:-1 tvg-id="DREAM TV" tvg-logo="http://i.ibb.co/cX1R1dH/DREAM-TV.png" group-title="MÜZİK",DREAM TV
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/6085
 #EXTINF:-1 tvg-id="Dream Türk-TR" tvg-logo="http://i.ibb.co/zGkM215/DREAM-TURK.png" group-title="MÜZİK",DREAM TÜRK
 http://pluskor.com:8080/hakandemirci81/06.06.2019/12755
@@ -268,7 +268,7 @@ http://37.247.98.8/stream/27/
 #EXTINF:-1 tvg-id="POWER TV HD" tvg-logo="http://i.ibb.co/s5636bz/POWER-TV.png" group-title="MÜZİK",POWER TV
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/6083
 #EXTINF:-1 tvg-id="POWER TURK TV HD-TR" tvg-logo="http://i.ibb.co/k2mhZF7/POWERTURK-TV.png" group-title="MÜZİK",POWERTURK TV
-http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/6081
+https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/dPz2DvT/MILYON-TV.png" group-title="MÜZİK",MILYON TV
 http://milyontv.netmedya.net/hls/milyontv.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/0FZSFVt/STINGRAY-ICONCERTS.png" group-title="MÜZİK",STINGRAY iCONCERTS
@@ -281,10 +281,6 @@ http://pluskor.com:8080/hakandemirci81/06.06.2019/88777
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/18734
 #EXTINF:-1 tvg-logo="http://i.ibb.co/mN32t2Q/MTV.png" group-title="YAŞAM",MTV
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/49695
-#EXTINF:-1 tvg-id="MTVLiveHD.tr" tvg-logo="http://i.ibb.co/kJ6J9sD/MTV-LIVE.png" group-title="MÜZİK",MTV LIVE
-http://pluskor.com:8080/hakandemirci81/06.06.2019/78320
-#EXTINF:-1 tvg-id="MTVHits.tr" tvg-logo="http://i.ibb.co/6DP3xWf/MTV-HITS.png" group-title="MÜZİK",MTV HITS
-http://pluskor.com:8080/hakandemirci81/06.06.2019/76619
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cvdWrR9/INSIGHT-TV.png" group-title="YAŞAM",INSIGHT TV
 http://premium.mfreetv.com:80/hakdemir812/4114337aA/4654
 #EXTINF:-1 tvg-id="E.tr" tvg-logo="http://i.ibb.co/4pyLV10/E-ENTERTAINMENT.png" group-title="YAŞAM",E! ENTERTAINMENT
