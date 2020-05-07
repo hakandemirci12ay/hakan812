@@ -113,6 +113,8 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/5936
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/5928
 #EXTINF:-1 tvg-id="TLC HD" tvg-logo="http://i.ibb.co/hDx2mWx/TLC.png" group-title="ULUSAL",TLC
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/15447
+#EXTINF:-1 tvg-id="TLC HD" tvg-logo="https://i.ibb.co/T2syzLb/KANAL-6.png" group-title="ULUSAL",KANAL 6
+https://5be5d840359c6.streamlock.net/kanal6tv/kanal6tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Bloomberg HT HD" tvg-logo="http://i.ibb.co/sQzbMtm/BLOOMBERG-HT.png" group-title="HABER",BLOOMBERG HT
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/5864
 #EXTINF:-1 tvg-id="A Haber HD" tvg-logo="http://i.ibb.co/sKLmFy2/A-HABER.png" group-title="HABER",A HABER
