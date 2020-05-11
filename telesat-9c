@@ -5,7 +5,7 @@ https://archive.org/serve/digiturkhayallerinedokun/Digiturk%20-%20Hayallerine%20
 http://premium.mfreetv.com:80/hakdemir812/4114337aA/8293
 #EXTINF:-1 tvg-id="FOX LIFE HD" tvg-logo="http://i.ibb.co/WkDsVR4/FOXLIFE.png" group-title="DİZİ",FOXLIFE
 http://premium.mfreetv.com:80/hakdemir812/4114337aA/4585
-EXTINF:-1 tvg-id="FX HD" tvg-logo="http://i.ibb.co/Z8WGPNK/FX.png" group-title="DİZİ",FX
+#EXTINF:-1 tvg-id="FX HD" tvg-logo="http://i.ibb.co/Z8WGPNK/FX.png" group-title="DİZİ",FX
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/37460
 #EXTINF:-1 tvg-id="FOX CRIME HD" tvg-logo="http://i.ibb.co/884njYg/FOXCRIME.png" group-title="DİZİ",FOXCRIME
 http://premium.mfreetv.com:80/hakdemir812/4114337aA/4586
