@@ -466,13 +466,13 @@ http://wms.brtk.net:1935/live/BRTHD/playlist.m3u8
 #EXTINF:-1 tvg-id="TRT Çocuk" tvg-logo="http://i.ibb.co/dLfdB6j/TRT-COCUK.png" group-title="COCUK",TRT ÇOCUK
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/17185
 #EXTINF:-1 tvg-id="SmartCocuk.tr" tvg-logo="http://i.ibb.co/D1FQv4x/COCUK-SMART.png" group-title="COCUK",ÇOCUK SMART
-http://pluskor.com:8080/hakandemirci81/06.06.2019/723
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/53747
 #EXTINF:-1 tvg-id="Boomerang HD" tvg-logo="http://i.ibb.co/dDz0cjy/BOOMERANG-TV.png" group-title="COCUK",BOOMERANG TV
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/37534
 #EXTINF:-1 tvg-id="CBEEBIES HD" tvg-logo="http://i.ibb.co/48qhP00/BBC-CBEEBIES.png" group-title="COCUK",BBC CBEEBIES
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/20997
 #EXTINF:-1 tvg-id="Baby TV" tvg-logo="http://i.ibb.co/5rtXGHR/BABY-TV.png"group-title="COCUK",BABY TV
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4681
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/17188
 #EXTINF:-1 tvg-id="Disney Junior" tvg-logo="http://i.ibb.co/4JywHc0/DISNEY-JUNIOR.png" group-title="COCUK",DISNEY JUNIOR
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/17162
 #EXTINF:-1 tvg-id="Disney Channel" tvg-logo="http://i.ibb.co/S0kP9jq/DISNEY-CHANNEL.png" group-title="COCUK",DISNEY CHANNEL
@@ -490,17 +490,17 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/17156
 #EXTINF:-1 tvg-id="Nickelodeon HD" tvg-logo="https://i.ibb.co/dM9n8QT/NICKTOONS.png" group-title="COCUK",NICKTOONS
 http://alfa4iptv.net:8080/u425684x12ay1/dtjzf27042020/379
 #EXTINF:-1 tvg-id="Nick Jr." tvg-logo="http://i.ibb.co/RCpFQsQ/NICK-JR.png" group-title="COCUK",NICK JR.
-http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/17187
+http://premium.mfreetv.com:80/hakdemir812/4114337aA/4684
 #EXTINF:-1 tvg-id="Da Vinci" tvg-logo="http://i.ibb.co/Mf3kMnc/DA-VINCI-LEARNING.png" group-title="COCUK",DA VINCI LEARNING
-http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/35083
+http://premium.mfreetv.com:80/hakdemir812/4114337aA/4650
 #EXTINF:-1 tvg-logo="http://i.ibb.co/gZH0sH4/ENGLISH-CLUB-TV.png" group-title="COCUK",ENGLISH CLUB TV
 http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wC1hWZt/TRT-EBA-TV.png" group-title="EGITIM",TRT EBA TV ILKOKUL
-http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/48722
+https://tv-e-okul00.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wC1hWZt/TRT-EBA-TV.png" group-title="EGITIM",TRT EBA TV ORTAOKUL
-http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/48723
+https://tv-e-okul01.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wC1hWZt/TRT-EBA-TV.png" group-title="EGITIM",TRT EBA TV LISE
-http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/48724
+https://tv-e-okul02.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="ALEMFM.tr" tvg-logo="http://i.ibb.co/qFTtcyd/ALEM-FM.png" group-title="RADYO",ALEM FM
 http://scturkmedya.radyotvonline.com/stream/80/
 #EXTINF:-1 tvg-logo="http://i.ibb.co/mqpcB1d/SUPER-FM.png"  group-title="RADYO",SÜPER FM
@@ -517,8 +517,6 @@ https://radio-trtfm.live.trt.com.tr/master_128.m3u8
 https://radio-trtradyo1.live.trt.com.tr/master_128.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/cFCgK42/TRT-RADYO-3.png" group-title="RADYO",TRT RADYO 3
 https://radio-trtradyo3.live.trt.com.tr/master_128.m3u8
-#EXTINF:-1 tvg-logo="http://i.ibb.co/1XYtdRJ/POL-S-RADYOSU.png" group-title="RADYO",POLİS RADYOSU
-https://m.egm.gov.tr:8093/;
 #EXTINF:-1 tvg-id="BestFM.tr" tvg-logo="http://i.ibb.co/tBxQg5B/BEST-FM.png" group-title="RADYO",BEST FM
 http://37.247.100.100:80/best/bestfm.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Kral Pop Radyo-TR" tvg-logo="http://i.ibb.co/4wkfQTH/KRAL-POP-RADYO.png" group-title="RADYO",KRAL POP RADYO
