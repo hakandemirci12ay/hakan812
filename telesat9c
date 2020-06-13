@@ -186,7 +186,7 @@ http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/5977
 #EXTINF:-1 tvg-id="EUROSPORT 2 HD" tvg-logo="http://i.ibb.co/QJCMB9b/EUROSPORT-2.png" group-title="SPOR",EUROSPORT 2
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/5976
 #EXTINF:-1 tvg-logo="https://i.ibb.co/82fBh8s/EDGE-SPORT.png" group-title="SPOR",EDGE SPORT
-http://pluskor.com:8080/hakandemirci81/06.06.2019/76077
+http://pluskor.com:8080/hakandemirci81/06.06.2019/88631
 #EXTINF: -1 tvg-logo="http://i.ibb.co/vZn6fK4/EXTREME-SPORTS.png" group-title="SPOR",EXTREME SPORTS
 http://pluskor.com:8080/hakandemirci81/06.06.2019/76081
 #EXTINF:-1 tvg-id="FB TV HD" tvg-logo="http://i.ibb.co/x3DSyyJ/FB-TV.png" group-title="SPOR",FB TV
@@ -244,9 +244,9 @@ http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/53548
 #EXTINF:-1 tvg-logo="http://i.ibb.co/G7CYMZq/FIGHT-NETWORK.png" group-title="SPOR",FIGHT NETWORK
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/53547
 #EXTINF:-1 tvg-id="MCM TOP" tvg-logo="https://i.ibb.co/RP0P5d9/MCM-TOP.png" group-title="MÜZİK",MCM TOP
-http://pluskor.com:8080/hakandemirci81/06.06.2019/76604
+http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/48779
 #EXTINF:-1 tvg-id="Mezzo.tr" tvg-logo="http://i.ibb.co/QdwLQJm/MEZZO.png" group-title="MÜZİK",MEZZO
-http://pluskor.com:8080/hakandemirci81/06.06.2019/76608
+http://pluskor.com:8080/hakandemirci81/06.06.2019/76154
 #EXTINF:-1 tvg-id="VH1.tr" tvg-logo="http://i.ibb.co/fFTfGbB/VH1.png" group-title="MÜZİK",VH-1
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/51329
 #EXTINF:-1 tvg-id="TRT MÜZİK-TR" tvg-logo="http://i.ibb.co/sJkRZSq/TRT-MUZIK.png" group-title="MÜZİK",TRT MÜZİK
@@ -263,6 +263,12 @@ http://premium.mfreetv.com:80/hakdemir812/4114337aA/4552
 http://premium.mfreetv.com:80/hakdemir812/4114337aA/4548
 #EXTINF:-1 tvg-id="NR1 Türk-TR" tvg-logo="http://i.ibb.co/QjM93vG/NUMBER1-TURK.png" group-title="MÜZİK",NUMBER1 TÜRK
 http://premium.mfreetv.com:80/hakdemir812/4114337aA/4545
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zJ6QbSQ/NR1-DANCE.png" group-title="MÜZİK",NUMBER1 DANCE
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dm5Wc1L/NR1-ASK.png" group-title="MÜZİK",NUMBER1 AŞK
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/44tNYjH/NR1-DAMAR.png" group-title="MÜZİK",NUMBER1 DAMAR
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/drJJQr7/RADYO-TURKCE-POP.png" group-title="RADYO",RADYO TURKCE POP
 http://37.247.98.8/stream/21/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMmBLWW/RADYO-TURKCE-SLOW.png" group-title="RADYO",RADYO TURKCE SLOW
