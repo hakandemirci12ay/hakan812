@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://i.ibb.co/n6gq2xN/TANITIM.png",TANITIM
-https://archive.org/serve/digiturkhayallerinedokun/Digiturk%20-%20Hayallerine%20Dokun.mp4
+#EXTINF:-1 tvg-logo="http://i.ibb.co/n6gq2xN/TANITIM.png",TELESAT PROMO
+http://premium.mfreetv.com:80/hakdemir812/4114337aA/4738
 #EXTINF:-1 tvg-logo="http://i.ibb.co/VmTkHMT/EPIC-DRAMA.png" group-title="DİZİ",EPIC DRAMA
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/53549
 #EXTINF:-1 tvg-id="FOX LIFE HD" tvg-logo="http://i.ibb.co/WkDsVR4/FOXLIFE.png" group-title="DİZİ",FOXLIFE
@@ -90,7 +90,7 @@ http://pluskor.com:8080/hakandemirci81/06.06.2019/1711
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s6WqKDd/FUNBOX-4-K.png" group-title="ULTRA HD",FUNBOX 4K
 http://pluskor.com:8080/hakandemirci81/06.06.2019/88772
 #EXTINF:-1 tvg-logo="http://i.ibb.co/d5DZ7JM/TRT-4K.png" group-title="ULTRA HD",TRT 4K
-http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/35082
+http://pluskor.com:8080/hakandemirci81/06.06.2019/21769
 #EXTINF:-1 tvg-id="Showmax-TR" tvg-logo="http://i.ibb.co/6XKxxRB/SHOW-MAX.png" group-title="YAŞAM",SHOW MAX
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/5921
 #EXTINF:-1 tvg-id="Show TV HD" tvg-logo="http://i.ibb.co/d6TDsHY/SHOW-TV.png" group-title="ULUSAL",SHOW TV
@@ -130,7 +130,7 @@ http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/5878
 #EXTINF:-1 tvg-id="TVNET HD" tvg-logo="http://i.ibb.co/Sd7xdFc/TVNET.png" group-title="HABER",TVNET
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/5882
 #EXTINF:-1 tvg-id="24" tvg-logo="http://i.ibb.co/Tm59DQJ/24.png" group-title="HABER",24
-http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/5873
+http://premium.mfreetv.com:80/hakdemir812/4114337aA/4702
 #EXTINF:-1 tvg-id="NTV HD" tvg-logo="http://i.ibb.co/br8vg2m/NTV.png" group-title="HABER",NTV
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/5881
 #EXTINF:-1 tvg-id="CNN TÜRK HD" tvg-logo="http://i.ibb.co/dbKGBz8/CNN-TURK.png" group-title="HABER",CNN TURK
@@ -142,7 +142,7 @@ http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/5866
 #EXTINF:-1 tvg-id="TGRT Haber HD" tvg-logo="http://i.ibb.co/N2jRT0M/TGRT-HABER.png" group-title="HABER",TGRT HABER
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/5867
 #EXTINF:-1 tvg-id="EKOTÜRK TV HD" tvg-logo="http://i.ibb.co/BjFQtnF/EKOTURK.png" group-title="HABER",EKOTURK
-http://pluskor.com:8080/hakandemirci81/06.06.2019/691
+http://premium.mfreetv.com:80/hakdemir812/4114337aA/4689
 #EXTINF:-1 tvg-id="HABER GLOBAL HD-TR" tvg-logo="http://i.ibb.co/4PW59nG/HABER-GLOBAL.png" group-title="HABER",HABER GLOBAL
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/28307
 #EXTINF:-1 tvg-id="TELE 1 HD" tvg-logo="http://i.ibb.co/gMjkG0g/TELE-1.png" group-title="ULUSAL",TELE 1
