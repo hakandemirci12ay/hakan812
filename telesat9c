@@ -91,6 +91,8 @@ http://pluskor.com:8080/hakandemirci81/06.06.2019/1711
 http://pluskor.com:8080/hakandemirci81/06.06.2019/88772
 #EXTINF:-1 tvg-logo="http://i.ibb.co/d5DZ7JM/TRT-4K.png" group-title="ULTRA HD",TRT 4K
 http://pluskor.com:8080/hakandemirci81/06.06.2019/21769
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gJLPpxC/FIL-TV.png" group-title="SİNEMA",FIL TV
+http://live01-fbx.vucos.net/live/filtv_480p/playlist.m3u8
 #EXTINF:-1 tvg-id="Showmax-TR" tvg-logo="http://i.ibb.co/6XKxxRB/SHOW-MAX.png" group-title="YAŞAM",SHOW MAX
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/5921
 #EXTINF:-1 tvg-id="Show TV HD" tvg-logo="http://i.ibb.co/d6TDsHY/SHOW-TV.png" group-title="ULUSAL",SHOW TV
@@ -495,6 +497,8 @@ http://premium.mfreetv.com:80/hakdemir812/4114337aA/4684
 http://premium.mfreetv.com:80/hakdemir812/4114337aA/4650
 #EXTINF:-1 tvg-logo="http://i.ibb.co/gZH0sH4/ENGLISH-CLUB-TV.png" group-title="COCUK",ENGLISH CLUB TV
 http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MNLH5Vw/GAMETOON.png" group-title="COCUK",GAMETOON
+http://live02-fbx.vucos.net/live/gametoon_480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wC1hWZt/TRT-EBA-TV.png" group-title="EGITIM",TRT EBA TV ILKOKUL
 https://tv-e-okul00.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wC1hWZt/TRT-EBA-TV.png" group-title="EGITIM",TRT EBA TV ORTAOKUL
