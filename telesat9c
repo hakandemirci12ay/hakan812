@@ -207,7 +207,7 @@ http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/7877
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/7933
 #EXTINF:-1 tvg-id="beIN SPORTS HABER HD" tvg-logo="https://i.ibb.co/wRXXgnh/be-IN-SPORTS-HABER.png" group-title="SPOR",beIN SPORTS HABER
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/9665
-#EXTINF:-1 tvg-id="SmartSpor1.tr" tvg-logo="http://i.ibb.co/BznFDj0/SPOR-SMART.png" group-title="SPOR",SPOR SMART
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-logo="http://i.ibb.co/BznFDj0/SPOR-SMART.png" group-title="SPOR",SPOR SMART
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/5967
 #EXTINF:-1 tvg-id="S SPORT HD" tvg-logo="http://i.ibb.co/gm5bfk9/S-SPORT.png" group-title="SPOR",S SPORT
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/5982
@@ -473,7 +473,7 @@ https://waw2.artiyerelmedya.net/egetv/bant1/playlist.m3u8
 http://wms.brtk.net:1935/live/BRTHD/playlist.m3u8
 #EXTINF:-1 tvg-id="TRT Çocuk" tvg-logo="http://i.ibb.co/dLfdB6j/TRT-COCUK.png" group-title="COCUK",TRT ÇOCUK
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/17185
-#EXTINF:-1 tvg-id="SmartCocuk.tr" tvg-logo="http://i.ibb.co/D1FQv4x/COCUK-SMART.png" group-title="COCUK",ÇOCUK SMART
+#EXTINF:-1 tvg-id="smartcocuk.tr" tvg-logo="http://i.ibb.co/D1FQv4x/COCUK-SMART.png" group-title="COCUK",ÇOCUK SMART
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/53747
 #EXTINF:-1 tvg-id="Boomerang HD" tvg-logo="http://i.ibb.co/dDz0cjy/BOOMERANG-TV.png" group-title="COCUK",BOOMERANG TV
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/37534
