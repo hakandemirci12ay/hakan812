@@ -1,71 +1,71 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://i.ibb.co/n6gq2xN/TANITIM.png",TELESAT PROMO
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4738
+http://pluskor.com:8080/hakandemirci81/06.06.2019/1893
 #EXTINF:-1 tvg-logo="http://i.ibb.co/VmTkHMT/EPIC-DRAMA.png" group-title="DİZİ",EPIC DRAMA
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/53549
-#EXTINF:-1 tvg-id="FOX LIFE HD" tvg-logo="http://i.ibb.co/WkDsVR4/FOXLIFE.png" group-title="DİZİ",FOXLIFE
+#EXTINF:-1 tvg-id="foxlife.tr" tvg-logo="http://i.ibb.co/WkDsVR4/FOXLIFE.png" group-title="DİZİ",FOXLIFE
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/37458
-#EXTINF:-1 tvg-id="FX HD" tvg-logo="http://i.ibb.co/Z8WGPNK/FX.png" group-title="DİZİ",FX
+#EXTINF:-1 tvg-id="fxnetwork.tr" tvg-logo="http://i.ibb.co/Z8WGPNK/FX.png" group-title="DİZİ",FX
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/37460
-#EXTINF:-1 tvg-id="FOX CRIME HD" tvg-logo="http://i.ibb.co/884njYg/FOXCRIME.png" group-title="DİZİ",FOXCRIME
+#EXTINF:-1 tvg-id="foxcrime.tr" tvg-logo="http://i.ibb.co/884njYg/FOXCRIME.png" group-title="DİZİ",FOXCRIME
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/37459
-#EXTINF:-1 tvg-id="Dizimax Sci-fi" tvg-logo="http://i.ibb.co/d4QMgwf/be-IN-SERIES-SCI-FI.png" group-title="DİZİ",beIN SERIES SCI-FI
+#EXTINF:-1 tvg-id="beinscifi.tr" tvg-logo="http://i.ibb.co/d4QMgwf/be-IN-SERIES-SCI-FI.png" group-title="DİZİ",beIN SERIES SCI-FI
 http://pluskor.com:8080/hakandemirci81/06.06.2019/768
-#EXTINF:-1 tvg-id="Dizimax Comedy" tvg-logo="http://i.ibb.co/bz09Sjg/be-IN-SERIES-COMEDY.png" group-title="DİZİ",beIN SERIES COMEDY
+#EXTINF:-1 tvg-id="beincomedy.tr" tvg-logo="http://i.ibb.co/bz09Sjg/be-IN-SERIES-COMEDY.png" group-title="DİZİ",beIN SERIES COMEDY
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/37412
-#EXTINF:-1 tvg-id="Dizimax Vice" tvg-logo="http://i.ibb.co/j62V8pM/be-IN-SERIES-VICE.png" group-title="DİZİ",beIN SERIES VICE
+#EXTINF:-1 tvg-id="beinvice.tr" tvg-logo="http://i.ibb.co/j62V8pM/be-IN-SERIES-VICE.png" group-title="DİZİ",beIN SERIES VICE
 http://pluskor.com:8080/hakandemirci81/06.06.2019/6902
-#EXTINF:-1 tvg-id="Dizimax Drama" tvg-logo="http://i.ibb.co/kSX0WNM/be-IN-SERIES-DRAMA.png" group-title="DİZİ",beIN SERIES DRAMA
+#EXTINF:-1 tvg-id="beindrama.tr" tvg-logo="http://i.ibb.co/kSX0WNM/be-IN-SERIES-DRAMA.png" group-title="DİZİ",beIN SERIES DRAMA
 http://pluskor.com:8080/hakandemirci81/06.06.2019/6903
-#EXTINF:-1 tvg-id="Dizi Premium HD-TR" tvg-logo="http://i.ibb.co/fMBsgbM/DIZISMART-PREMIUM.png" group-title="DİZİ",DİZİSMART PREMIUM
+#EXTINF:-1 tvg-id="dsmpremium.tr" tvg-logo="http://i.ibb.co/fMBsgbM/DIZISMART-PREMIUM.png" group-title="DİZİ",DİZİSMART PREMIUM
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/37461
-#EXTINF:-1 tvg-id="Dizi Smart Max-TR" tvg-logo="http://i.ibb.co/W3jQJXS/DIZISMART-MAX.png" group-title="DİZİ",DİZİSMART MAX
+#EXTINF:-1 tvg-id="dsmbox.tr" tvg-logo="http://i.ibb.co/W3jQJXS/DIZISMART-MAX.png" group-title="DİZİ",DİZİSMART MAX
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/35718
-#EXTINF:-1 tvg-id="Moviemax Premier" tvg-logo="http://i.ibb.co/3mRRxxM/be-IN-MOVIES-PREMIERE.png" group-title="SİNEMA",beIN MOVIES PREMIERE
+#EXTINF:-1 tvg-id="beinmprem.tr" tvg-logo="http://i.ibb.co/3mRRxxM/be-IN-MOVIES-PREMIERE.png" group-title="SİNEMA",beIN MOVIES PREMIERE
 http://pluskor.com:8080/hakandemirci81/06.06.2019/1695
-#EXTINF:-1 tvg-id="Moviemax Premier 2" tvg-logo="http://i.ibb.co/hXZLW2R/be-IN-MOVIES-PREMIERE-2.png" group-title="SİNEMA",beIN MOVIES PREMIERE 2
+#EXTINF:-1 tvg-id="beinmprem2.tr" tvg-logo="http://i.ibb.co/hXZLW2R/be-IN-MOVIES-PREMIERE-2.png" group-title="SİNEMA",beIN MOVIES PREMIERE 2
 http://pluskor.com:8080/hakandemirci81/06.06.2019/1696
-#EXTINF:-1 tvg-id="Moviemax Stars" tvg-logo="http://i.ibb.co/5TrCZKz/be-IN-MOVIES-STARS.png" group-title="SİNEMA",beIN MOVIES STARS
+#EXTINF:-1 tvg-id="beinmstars.tr" tvg-logo="http://i.ibb.co/5TrCZKz/be-IN-MOVIES-STARS.png" group-title="SİNEMA",beIN MOVIES STARS
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/37415
-#EXTINF:-1 tvg-id="Moviemax Action" tvg-logo="http://i.ibb.co/0MhshK1/be-IN-MOVIES-ACTION.png" group-title="SİNEMA",beIN MOVIES ACTION
+#EXTINF:-1 tvg-id="beinmaction.tr" tvg-logo="http://i.ibb.co/0MhshK1/be-IN-MOVIES-ACTION.png" group-title="SİNEMA",beIN MOVIES ACTION
 http://pluskor.com:8080/hakandemirci81/06.06.2019/1697
-#EXTINF:-1 tvg-id="Moviemax Action 2" tvg-logo="http://i.ibb.co/x8SG5Fg/be-IN-MOVIES-ACTION-2.png" group-title="SİNEMA",beIN MOVIES ACTION 2
+#EXTINF:-1 tvg-id="beinmaction2.tr" tvg-logo="http://i.ibb.co/x8SG5Fg/be-IN-MOVIES-ACTION-2.png" group-title="SİNEMA",beIN MOVIES ACTION 2
 http://pluskor.com:8080/hakandemirci81/06.06.2019/1694
-#EXTINF:-1 tvg-id="Moviemax Family" tvg-logo="http://i.ibb.co/jr5PKT1/be-IN-MOVIES-FAMILY.png" group-title="SİNEMA",beIN MOVIES FAMILY
+#EXTINF:-1 tvg-id="beinmfamily.tr" tvg-logo="http://i.ibb.co/jr5PKT1/be-IN-MOVIES-FAMILY.png" group-title="SİNEMA",beIN MOVIES FAMILY
 http://pluskor.com:8080/hakandemirci81/06.06.2019/1693
-#EXTINF:-1 tvg-id="Moviemax Turk" tvg-logo="http://i.ibb.co/CW8n20C/be-IN-MOVIES-T-RK.png" group-title="SİNEMA",beIN MOVIES TURK
+#EXTINF:-1 tvg-id="beinmturk.tr" tvg-logo="http://i.ibb.co/CW8n20C/be-IN-MOVIES-T-RK.png" group-title="SİNEMA",beIN MOVIES TURK
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/37414
-#EXTINF:-1 tvg-id="MovieSmart Premium HD-TR" tvg-logo="http://i.ibb.co/gSbRLZ5/MOVIESMART-PREMIUM.png" group-title="SİNEMA",MOVIESMART PREMIUM
+#EXTINF:-1 tvg-id="msmpremium.tr" tvg-logo="http://i.ibb.co/gSbRLZ5/MOVIESMART-PREMIUM.png" group-title="SİNEMA",MOVIESMART PREMIUM
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/37429
-#EXTINF:-1 tvg-id="MovieSmart Premium 2 HD-TR" tvg-logo="http://i.ibb.co/pXCkgG7/MOVIESMART-PREMIUM-2.png" group-title="SİNEMA",MOVIESMART PREMIUM 2
+#EXTINF:-1 tvg-id="msmpremium2.tr" tvg-logo="http://i.ibb.co/pXCkgG7/MOVIESMART-PREMIUM-2.png" group-title="SİNEMA",MOVIESMART PREMIUM 2
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/37430
-#EXTINF:-1 tvg-id="MovieSmart Platin HD-TR" tvg-logo="http://i.ibb.co/WzwPD3V/MOVIESMART-PLATIN.png" group-title="SİNEMA",MOVIESMART PLATIN
+#EXTINF:-1 tvg-id="msmplatin.tr" tvg-logo="http://i.ibb.co/WzwPD3V/MOVIESMART-PLATIN.png" group-title="SİNEMA",MOVIESMART PLATIN
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/37431
-#EXTINF:-1 tvg-id="MovieSmart Platin 2 HD-TR" tvg-logo="http://i.ibb.co/Kxx7wjK/MOVIESMART-PLATIN-2.png" group-title="SİNEMA",MOVIESMART PLATIN 2
+#EXTINF:-1 tvg-id="msmplatin2.tr" tvg-logo="http://i.ibb.co/Kxx7wjK/MOVIESMART-PLATIN-2.png" group-title="SİNEMA",MOVIESMART PLATIN 2
 http://pluskor.com:8080/hakandemirci81/06.06.2019/773
-#EXTINF:-1 tvg-id="MovieSmart Gold HD-TR" tvg-logo="http://i.ibb.co/44R4DrB/MOVIESMART-GOLD.png" group-title="SİNEMA",MOVIESMART GOLD
+#EXTINF:-1 tvg-id="msmgold.tr" tvg-logo="http://i.ibb.co/44R4DrB/MOVIESMART-GOLD.png" group-title="SİNEMA",MOVIESMART GOLD
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/37435
-#EXTINF:-1 tvg-id="MovieSmart Action HD-TR" tvg-logo="http://i.ibb.co/kx4Kz4z/MOVIESMART-ACTION.png" group-title="SİNEMA",MOVIESMART ACTION
+#EXTINF:-1 tvg-id="msmaction.tr" tvg-logo="http://i.ibb.co/kx4Kz4z/MOVIESMART-ACTION.png" group-title="SİNEMA",MOVIESMART ACTION
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/37434
-#EXTINF:-1 tvg-id="MovieSmart Fest HD-TR" tvg-logo="http://i.ibb.co/b6RFMy1/MOVIESMART-FEST.png" group-title="SİNEMA",MOVIESMART FEST
+#EXTINF:-1 tvg-id="msmfest.tr" tvg-logo="http://i.ibb.co/b6RFMy1/MOVIESMART-FEST.png" group-title="SİNEMA",MOVIESMART FEST
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/37427
-#EXTINF:-1 tvg-id="MovieSmart Family HD-TR" tvg-logo="http://i.ibb.co/vJ3ZCMW/MOVIESMART-FAMILY.png" group-title="SİNEMA",MOVIESMART FAMILY
+#EXTINF:-1 tvg-id="msmfamily.tr" tvg-logo="http://i.ibb.co/vJ3ZCMW/MOVIESMART-FAMILY.png" group-title="SİNEMA",MOVIESMART FAMILY
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/37433
-#EXTINF:-1 tvg-id="MovieSmart Classic HD-TR" tvg-logo="http://i.ibb.co/Lx0q8vq/MOVIESMART-CLASSIC.png" group-title="SİNEMA",MOVIESMART CLASSIC
+#EXTINF:-1 tvg-id="msmclassic.tr" tvg-logo="http://i.ibb.co/Lx0q8vq/MOVIESMART-CLASSIC.png" group-title="SİNEMA",MOVIESMART CLASSIC
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/37436
-#EXTINF:-1 tvg-id="MovieSmart Türk HD-TR" tvg-logo="http://i.ibb.co/K7dZWgk/MOVIESMART-T-RK.png" group-title="SİNEMA",MOVIESMART TÜRK
+#EXTINF:-1 tvg-id="msmturk.tr" tvg-logo="http://i.ibb.co/K7dZWgk/MOVIESMART-T-RK.png" group-title="SİNEMA",MOVIESMART TÜRK
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/37428
-#EXTINF:-1 tvg-id="SİNEMA TV HD" tvg-logo="http://i.ibb.co/bL15kbq/SINEMA-TV.png" group-title="SİNEMA",SİNEMA TV
+#EXTINF:-1 tvg-id="sinematv.tr" tvg-logo="http://i.ibb.co/bL15kbq/SINEMA-TV.png" group-title="SİNEMA",SİNEMA TV
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/46062
-#EXTINF:-1 tvg-id="SİNEMA 2 HD" tvg-logo="http://i.ibb.co/8s9Jq20/SINEMA-2.png" group-title="SİNEMA",SİNEMA 2
+#EXTINF:-1 tvg-id="sinematv2.tr" tvg-logo="http://i.ibb.co/8s9Jq20/SINEMA-2.png" group-title="SİNEMA",SİNEMA 2
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/46063
-#EXTINF:-1 tvg-id="SİNEMA AKSİYON HD" tvg-logo="http://i.ibb.co/BBZ4HrH/SINEMA-AKSIYON.png" group-title="SİNEMA",SİNEMA AKSİYON
+#EXTINF:-1 tvg-id="sinemaaksiyon.tr" tvg-logo="http://i.ibb.co/BBZ4HrH/SINEMA-AKSIYON.png" group-title="SİNEMA",SİNEMA AKSİYON
 http://pluskor.com:8080/hakandemirci81/06.06.2019/6925
-#EXTINF:-1 tvg-id="SİNEMA AKSİYON 2 HD" tvg-logo="http://i.ibb.co/PhMWXRy/SINEMA-AKSIYON-2.png" group-title="SİNEMA",SİNEMA AKSİYON 2
-http://pluskor.com:8080/hakandemirci81/06.06.2019/52908
-#EXTINF:-1 tvg-id="SİNEMA YERLİ" tvg-logo="http://i.ibb.co/tsJYvWN/SINEMA-YERLI.png" group-title="SİNEMA",SİNEMA YERLİ
+#EXTINF:-1 tvg-id="sinemaaksiyon2.tr" tvg-logo="http://i.ibb.co/PhMWXRy/SINEMA-AKSIYON-2.png" group-title="SİNEMA",SİNEMA AKSİYON 2
+http://pluskor.com:8080/hakandemirci81/r6.06.2019/52908
+#EXTINF:-1 tvg-id="sinemayerli.tr" tvg-logo="http://i.ibb.co/tsJYvWN/SINEMA-YERLI.png" group-title="SİNEMA",SİNEMA YERLİ
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/46070
-#EXTINF:-1 tvg-id="SİNEMA YERLİ 2" tvg-logo="http://i.ibb.co/k6BKfr3/SINEMA-YERLI-2.png" group-title="SİNEMA",SİNEMA YERLİ 2
+#EXTINF:-1 tvg-id="sinemayerli2.tr" tvg-logo="http://i.ibb.co/k6BKfr3/SINEMA-YERLI-2.png" group-title="SİNEMA",SİNEMA YERLİ 2
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/46071
 #EXTINF:-1 tvg-id="SİNEMA KOMEDİ HD">" tvg-logo="http://i.ibb.co/HG96VN8/SINEMA-KOMEDI.png" group-title="SİNEMA",SİNEMA KOMEDİ
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/46068
