@@ -205,11 +205,11 @@ http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/5952
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/7877
 #EXTINF:-1 tvg-id="beinsportsmax2" tvg-logo=""http://i.ibb.co/LSVBkGm/be-IN-SPORTS-MAX-2.png" group-title="SPOR",beIN SPORTS MAX 2
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/7933
-#EXTINF:-1 tvg-id="beIN SPORTS HABER HD" tvg-logo="https://i.ibb.co/wRXXgnh/be-IN-SPORTS-HABER.png" group-title="SPOR",beIN SPORTS HABER
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-logo="https://i.ibb.co/wRXXgnh/be-IN-SPORTS-HABER.png" group-title="SPOR",beIN SPORTS HABER
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/9665
 #EXTINF:-1 tvg-id="smartspor.tr" tvg-logo="http://i.ibb.co/BznFDj0/SPOR-SMART.png" group-title="SPOR",SPOR SMART
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/5967
-#EXTINF:-1 tvg-id="S SPORT HD" tvg-logo="http://i.ibb.co/gm5bfk9/S-SPORT.png" group-title="SPOR",S SPORT
+#EXTINF:-1 tvg-id="ssport.tr" tvg-logo="http://i.ibb.co/gm5bfk9/S-SPORT.png" group-title="SPOR",S SPORT
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/5982
 #EXTINF:-1 tvg-logo="http://i.ibb.co/7p9tRbL/S-SPORT-2.png" group-title="SPOR",S SPORT 2
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/36884
@@ -217,7 +217,7 @@ http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/36884
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/51330
 #EXTINF:-1 tvg-logo="http://i.ibb.co/Z8ZNH2t/MOTORVISION-TV.png" group-title="SPOR",MOTORVISION TV
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/51348
-#EXTINF:-1 tvg-id="NBA TV" tvg-logo="http://i.ibb.co/dG3YrL8/NBA-TV.png" group-title="SPOR",NBA TV
+#EXTINF:-1 tvg-id="nbatv.tr" tvg-logo="http://i.ibb.co/dG3YrL8/NBA-TV.png" group-title="SPOR",NBA TV
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/5984
 #EXTINF:-1 tvg-id="TivibuSpor1.tr" tvg-logo="http://i.ibb.co/84Z9ZBH/TIVIBU-SPOR.png" group-title="SPOR",TİVİBU SPOR
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/5975
@@ -225,16 +225,16 @@ http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/5975
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/5974
 #EXTINF:-1 tvg-id="TivibuSpor3.tr" tvg-logo="http://i.ibb.co/hmjw1cL/TIVIBU-SPOR-3.png" group-title="SPOR",TİVİBU SPOR 3
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/5973
-#EXTINF:-1 tvg-id="TRT Spor HD" tvg-logo="http://i.ibb.co/RhC7cBL/TRT-SPOR.png" group-title="SPOR",TRT SPOR
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-logo="http://i.ibb.co/RhC7cBL/TRT-SPOR.png" group-title="SPOR",TRT SPOR
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/5979
-#EXTINF:-1 tvg-logo="http://i.ibb.co/mvSBhdz/TRT-SPOR-2.png" group-title="SPOR",TRT SPOR 2
+#EXTINF:-1 tvg-id="trtspor2.tr" tvg-logo="http://i.ibb.co/mvSBhdz/TRT-SPOR-2.png" group-title="SPOR",TRT SPOR 2
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/39003
-#EXTINF:-1 tvg-id="A Spor HD" tvg-logo="http://i.ibb.co/0FFR37P/A-SPOR.png" group-title="SPOR",A SPOR
+#EXTINF:-1 tvg-id="aspor.tr" tvg-logo="http://i.ibb.co/0FFR37P/A-SPOR.png" group-title="SPOR",A SPOR
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/5987
 #EXTINF:-1 tvg-logo="http://i.ibb.co/QjbyNmJ/T-A-Y-TV.png" group-title="SPOR",T.A.Y TV
 http://pluskor.com:8080/hakandemirci81/06.06.2019/695
 #EXTINF:-1 tvg-id="TJK TV-TR" tvg-logo="http://i.ibb.co/4ZBGrW5/TJK-TV.png" group-title="SPOR",TJK TV
-http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/5918
+https://tjktv-live.tjk.org/tjktv_480p.m3u8
 #EXTINF:-1 tvg-id="Sports TV HD" tvg-logo="http://i.ibb.co/bFg0Lfx/SPORTS-TV.png" group-title="SPOR",SPORTS TV
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/5978
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hcswySC/FAST-AND-FUN.png" group-title="SPOR",FAST AND FUNBOX
@@ -244,12 +244,12 @@ http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/53548
 #EXTINF:-1 tvg-logo="http://i.ibb.co/G7CYMZq/FIGHT-NETWORK.png" group-title="SPOR",FIGHT NETWORK
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/53547
 #EXTINF:-1 tvg-id="MCM TOP" tvg-logo="https://i.ibb.co/RP0P5d9/MCM-TOP.png" group-title="MÜZİK",MCM TOP
-http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/48779
-#EXTINF:-1 tvg-id="Mezzo.tr" tvg-logo="http://i.ibb.co/QdwLQJm/MEZZO.png" group-title="MÜZİK",MEZZO
+http://pluskor.com:8080/hakandemirci81/06.06.2019/76605
+#EXTINF:-1 tvg-id="mezzo.fr" tvg-logo="http://i.ibb.co/QdwLQJm/MEZZO.png" group-title="MÜZİK",MEZZO
 http://pluskor.com:8080/hakandemirci81/06.06.2019/76154
 #EXTINF:-1 tvg-id="VH1.tr" tvg-logo="http://i.ibb.co/fFTfGbB/VH1.png" group-title="MÜZİK",VH-1
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/51329
-#EXTINF:-1 tvg-id="TRT MÜZİK-TR" tvg-logo="http://i.ibb.co/sJkRZSq/TRT-MUZIK.png" group-title="MÜZİK",TRT MÜZİK
+#EXTINF:-1 tvg-id="trtmuzik.tr" tvg-logo="http://i.ibb.co/sJkRZSq/TRT-MUZIK.png" group-title="MÜZİK",TRT MÜZİK
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/6084
 #EXTINF:-1 tvg-id="KralTV.tr" tvg-logo="http://i.ibb.co/0XVj5SR/KRAL-TV.png" group-title="MÜZİK",KRAL TV
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/6086
@@ -259,9 +259,9 @@ http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/6080
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/6085
 #EXTINF:-1 tvg-id="Dream Türk-TR" tvg-logo="http://i.ibb.co/zGkM215/DREAM-TURK.png" group-title="MÜZİK",DREAM TÜRK
 http://premium.mfreetv.com:80/hakdemir812/4114337aA/4552
-#EXTINF:-1 tvg-id="NR1-TR" tvg-logo="http://i.ibb.co/xG4fDn3/NUMBER1-TV.png" group-title="MÜZİK",NUMBER1 TV
+#EXTINF:-1 tvg-id="nr1.tr" tvg-logo="http://i.ibb.co/xG4fDn3/NUMBER1-TV.png" group-title="MÜZİK",NUMBER1 TV
 http://premium.mfreetv.com:80/hakdemir812/4114337aA/4548
-#EXTINF:-1 tvg-id="NR1 Türk-TR" tvg-logo="http://i.ibb.co/QjM93vG/NUMBER1-TURK.png" group-title="MÜZİK",NUMBER1 TÜRK
+#EXTINF:-1 tvg-id="nr1tr.tr" tvg-logo="="http://i.ibb.co/QjM93vG/NUMBER1-TURK.png" group-title="MÜZİK",NUMBER1 TÜRK
 http://premium.mfreetv.com:80/hakdemir812/4114337aA/4545
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zJ6QbSQ/NR1-DANCE.png" group-title="MÜZİK",NUMBER1 DANCE
 https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/playlist.m3u8
