@@ -279,9 +279,11 @@ http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/6083
 https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/dPz2DvT/MILYON-TV.png" group-title="MÜZİK",MILYON TV
 http://milyontv.netmedya.net/hls/milyontv.m3u8
-#EXTINF: -1 tvg-logo="https://i.ibb.co/0FZSFVt/STINGRAY-ICONCERTS.png" group-title="MÜZİK",STINGRAY iCONCERTS
+#EXTINF:-1 tvg-id="rfmtv.fr" tvg-logo="https://i.ibb.co/D44Sbg2/RFM-TV.png" group-title="MÜZİK",RFM TV
+http://pluskor.com:8080/hakandemirci81/06.06.2019/76700
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0FZSFVt/STINGRAY-ICONCERTS.png" group-title="MÜZİK",STINGRAY iCONCERTS
 http://pluskor.com:8080/hakandemirci81/06.06.2019/81874
-#EXTINF: -1 tvg-logo="http://i.ibb.co/6rCFRTc/STINGRAY-CLASSICA.png" group-title="MÜZİK",STINGRAY CLASSICA
+#EXTINF:-1 tvg-id="brava.fr" tvg-logo="http://i.ibb.co/6rCFRTc/STINGRAY-CLASSICA.png" group-title="MÜZİK",STINGRAY CLASSICA
 http://pluskor.com:8080/hakandemirci81/06.06.2019/76047
 #EXTINF:-1 tvg-id="360 TUNE BOX" tvg-logo="https://i.ibb.co/1zCdLrZ/360-TUNE-BOX.png"  group-title="MÜZİK",360 TUNE BOX
 http://pluskor.com:8080/hakandemirci81/06.06.2019/88777
@@ -289,7 +291,7 @@ http://pluskor.com:8080/hakandemirci81/06.06.2019/88777
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/18734
 #EXTINF:-1 tvg-logo="http://i.ibb.co/mN32t2Q/MTV.png" group-title="YAŞAM",MTV
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/48780
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cvdWrR9/INSIGHT-TV.png" group-title="YAŞAM",INSIGHT TV
+#EXTINF:-1 tvg-id="insight.tr" tvg-logo="https://i.ibb.co/cvdWrR9/INSIGHT-TV.png" group-title="YAŞAM",INSIGHT TV
 http://premium.mfreetv.com:80/hakdemir812/4114337aA/4654
 #EXTINF:-1 tvg-id="E.tr" tvg-logo="http://i.ibb.co/4pyLV10/E-ENTERTAINMENT.png" group-title="YAŞAM",E! ENTERTAINMENT
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/51075
@@ -319,7 +321,7 @@ http://streams.livetv.az/azerbaijan/aztv_stream2/chunks.m3u8
 https://kazakhtven.ultraiptv.com/live_en/playlist3/index.m3u8
 #EXTINF:-1 tvg-id="TRT ARABİ-TR" tvg-logo="http://i.ibb.co/k5SxQYS/TRT-ARABI.png" group-title="ULUSLARARASI",TRT ARABI
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="CNN.tr" tvg-logo="http://i.ibb.co/yXwYDT2/CNN-INTERNATIONAL.png" group-title="ULUSLARARASI",CNN INTERNATIONAL
+#EXTINF:-1 tvg-id="cnnint.tr" tvg-logo="http://i.ibb.co/yXwYDT2/CNN-INTERNATIONAL.png" group-title="ULUSLARARASI",CNN INTERNATIONAL
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/51411
 #EXTINF:-1 tvg-logo="http://i.ibb.co/mSr7HSf/CNBC.png" group-title="ULUSLARARASI",CNBC
 http://portal.germanyservers.co:8000/yGWkOoeqHo/8ds512ds/51081
