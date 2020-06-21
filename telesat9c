@@ -209,6 +209,8 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/7933
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/9665
 #EXTINF:-1 tvg-id="smartspor.tr" tvg-logo="http://i.ibb.co/BznFDj0/SPOR-SMART.png" group-title="SPOR",SPOR SMART
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/5967
+#EXTINF:-1 tvg-logo="https://i.ibb.co/swPNTJP/SPOR-SMART-2.png" group-title="SPOR",SPOR SMART 2
+http://premium.mfreetv.com:80/hakdemir812/4114337aA/8306
 #EXTINF:-1 tvg-id="ssport.tr" tvg-logo="http://i.ibb.co/gm5bfk9/S-SPORT.png" group-title="SPOR",S SPORT
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/5982
 #EXTINF:-1 tvg-logo="http://i.ibb.co/7p9tRbL/S-SPORT-2.png" group-title="SPOR",S SPORT 2
