@@ -1,0 +1,8 @@
+<div class="player"><object type="application/x-shockwave-flash" id="player" data="https://www.hlsplayer.net/player/grindplayer/GrindPlayer.swf" 
+style="visibility: visible;" width="640" height="360">
+<param name="allowfullscreen" value="true">
+<param name="allowscriptaccess" value="always">
+<param name="wmode" value="opaque">
+<param name="flashvars" value="autoPlay=true&src=http://live02-fbx.vucos.net/live/foxtvhd.stream_480p/playlist.m3u8
+&plugin_hls=https://www.hlsplayer.net/player/grindplayer/flashlsOSMF.swf&scaleMode=stretch&streamType=live">
+</object></div>
