@@ -260,8 +260,8 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/6080
 #EXTINF:-1 tvg-id="DREAM TV" tvg-logo="http://i.ibb.co/cX1R1dH/DREAM-TV.png" group-title="MÜZİK",DREAM TV
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/6085
 #EXTINF:-1 tvg-id="Dream Türk-TR" tvg-logo="http://i.ibb.co/zGkM215/DREAM-TURK.png" group-title="MÜZİK",DREAM TÜRK
-http://premium.mfreetv.com:80/hakdemir812/4114337ahttp://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/6A/4552
-#F:-1 tvg-id="nr1.tr" tvg-logo="http://i.ibb.co/xG4fDn3/NUMBER1-TV.png" group-title="MÜZİK",NUMBER1 TV
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/6082
+#EXTINF:-1 tvg-id="nr1.tr" tvg-logo="http://i.ibb.co/xG4fDn3/NUMBER1-TV.png" group-title="MÜZİK",NUMBER1 TV
 http://premium.mfreetv.com:80/hakdemir812/4114337aA/4548
 #EXTINF:-1 tvg-id="nr1tr.tr" tvg-logo="http://i.ibb.co/QjM93vG/NUMBER1-TURK.png" group-title="MÜZİK",NUMBER1 TÜRK
 http://premium.mfreetv.com:80/hakdemir812/4114337aA/4545
@@ -278,11 +278,9 @@ http://37.247.98.8/stream/27/
 #EXTINF:-1 tvg-id="POWER TV HD" tvg-logo="http://i.ibb.co/s5636bz/POWER-TV.png" group-title="MÜZİK",POWER TV
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/6083
 #EXTINF:-1 tvg-id="POWER TURK TV HD-TR" tvg-logo="http://i.ibb.co/k2mhZF7/POWERTURK-TV.png" group-title="MÜZİK",POWERTURK TV
-http://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/playlist.m3u8
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/6081
 #EXTINF:-1 tvg-logo="http://i.ibb.co/dPz2DvT/MILYON-TV.png" group-title="MÜZİK",MILYON TV
 http://milyontv.netmedya.net/hls/milyontv.m3u8
-#EXTINF:-1 tvg-id="rfmtv.fr" tvg-logo="http://i.ibb.co/D44Sbg2/RFM-TV.png" group-title="MÜZİK",RFM TV
-http://pluskor.com:8080/hakandemirci81/06.06.2019/76700
 #EXTINF:-1 tvg-logo="http://i.ibb.co/0FZSFVt/STINGRAY-ICONCERTS.png" group-title="MÜZİK",STINGRAY iCONCERTS
 http://pluskor.com:8080/hakandemirci81/06.06.2019/81874
 #EXTINF:-1 tvg-id="brava.fr" tvg-logo="http://i.ibb.co/6rCFRTc/STINGRAY-CLASSICA.png" group-title="MÜZİK",STINGRAY CLASSICA
@@ -293,6 +291,8 @@ http://pluskor.com:8080/hakandemirci81/06.06.2019/88777
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/18734
 #EXTINF:-1 tvg-logo="http://i.ibb.co/mN32t2Q/MTV.png" group-title="YAŞAM",MTV
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/48780
+#EXTINF:-1 tvg-logo="http://i.ibb.co/JpjWggN/MTV-HITS.png" group-title="MÜZİK",MTV HITS
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/48778
 #EXTINF:-1 tvg-id="insight.tr" tvg-logo="http://i.ibb.co/cvdWrR9/INSIGHT-TV.png" group-title="YAŞAM",INSIGHT TV
 http://premium.mfreetv.com:80/hakdemir812/4114337aA/4654
 #EXTINF:-1 tvg-id="E.tr" tvg-logo="http://i.ibb.co/4pyLV10/E-ENTERTAINMENT.png" group-title="YAŞAM",E! ENTERTAINMENT
@@ -317,6 +317,8 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/48775
 http://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="rtrplaneta.tr" tvg-logo="http://i.ibb.co/3dqsG2v/RTR-PLANETA.png" group-title="ULUSLARARASI",RTR PLANETA
 http://a3569457661-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yRdJpV7/TURKMENELI-TV.png" group-title="ULUSLARARASI",TÜRKMENELİ TV
+http://116.203.71.169/hls/stream1.m3u8
 #EXTINF:-1 tvg-id="aztv1.tr" tvg-logo="http://i.ibb.co/ZNY9hQm/AZ-TV.png" group-title="ULUSLARARASI",AZTV
 http://streams.livetv.az/azerbaijan/aztv_stream2/chunks.m3u8
 #EXTINF:-1 tvg-id="kazakhtv.tr" tvg-logo="http://i.ibb.co/Rp7TqH1/KAZAKH-TV.png" group-title="ULUSLARARASI",KAZAKH TV
@@ -329,6 +331,8 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/51411
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/51081
 #EXTINF:-1 tvg-id="bbcworld.tr" tvg-logo="http://i.ibb.co/BcZYgTw/BBC-WORLD-NEWS.png" group-title="ULUSLARARASI",BBC WORLD NEWS
 http://live01-fbx.vucos.net/live/bbcworldnews_480p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yYW2MW0/FOX-NEWS-CHANNEL.png" group-title="ULUSLARARASI",FOX NEWS CHANNEL
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/51412
 #EXTINF:-1 tvg-id="BLOOMBERG TV-TR" tvg-logo="http://i.ibb.co/31XcQdt/BLOOMBERG-TV.png" group-title="ULUSLARARASI",BLOOMBERG TV
 http://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:-1 tvg-id="Euronews.tr" tvg-logo="http://i.ibb.co/20zB3bB/EURONEWS.png" group-title="ULUSLARARASI",EURONEWS
@@ -350,7 +354,7 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 #EXTINF:-1 tvg-id="deutschewellede.tr" tvg-logo="http://i.ibb.co/4Z8wMr0/DW-TV-ENGLISH.png" group-title="ULUSLARARASI",DW-TV (GERMAN)
 http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/ZTc1jVy/CHANNEL-ONE-RUSSIA.png" group-title="ULUSLARARASI",CHANNEL ONE RUSSIA
-http://188.35.9.11:11041/p
+http://persik.by/stream/808/284814/8.m3u8
 #EXTINF:-1 tvg-id="arirang.tr" tvg-logo="http://i.ibb.co/vJHr4T8/ARIRANG-TV.png" group-title="ULUSLARARASI",ARIRANG TV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/vPtL4YX/CCTV-4.png" group-title="ULUSLARARASI",CCTV-4
