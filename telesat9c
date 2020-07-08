@@ -396,7 +396,7 @@ http://pluskor.com:8080/hakandemirci81/06.06.2019/76628
 #EXTINF:-1 tvg-logo="http://i.ibb.co/NsY22r0/AV-TV.png" group-title="BELGESEL",AV TV
 http://195.142.1.213:1935/avtv/avtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="Yaban TV" tvg-logo="http://i.ibb.co/bQHRsN7/YABAN-TV.png" group-title="BELGESEL",YABAN TV
-http://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/6008
 #EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-logo="http://i.ibb.co/G2P4sKP/TRT-BELGESEL.png" group-title="BELGESEL",TRT BELGESEL
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/6007
 #EXTINF:-1 tvg-id="discoverychannel.tr" tvg-logo="http://i.ibb.co/rGkK2FD/DISCOVERY-CHANNEL.png" group-title="BELGESEL",DISCOVERY CHANNEL
@@ -441,8 +441,12 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/7576
 http://akittv-live.ercdn.net/akittv/akittv_360p.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/QCz6Gz6/TV5.png" group-title="YEREL",TV5
 http://644209.com:8080/hakandemirci81/06.06.2019/35594
+#EXTINF:-1 tvg-logo="http://i.ibb.co/sbq7jpk/KANAL-3.png" group-title="YEREL",KANAL 3
+http://waw2.artiyerelmedya.net/kanal3/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="tgrtbelgesel.tr" tvg-logo="http://i.ibb.co/0qgCj5n/TGRT-BELGESEL.png" group-title="ULUSAL",TGRT BELGESEL
 http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/nz5C6YX/KADIRGA-TV.png" group-title="YEREL",KADIRGA TV
+http://alfa4iptv.net:8080/u425684x12ay1/dtjzf27042020/358
 #EXTINF:-1 tvg-id="BENGU TURK-TR" tvg-logo="http://i.ibb.co/xzL6drV/BENGUTURK.png" group-title="YEREL",BENGUTURK
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/5865
 #EXTINF:-1 tvg-logo="http://i.ibb.co/3YyQmK9/LINE-TV.png" group-title="YEREL",LINE TV
@@ -457,28 +461,48 @@ http://waw2.artiyerelmedya.net/kanalfirat/bant1/playlist.m3u8
 http://cdn1.streamencoding.com:1935/kardelen_live/HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/2P0G8ck/KANAL-V.png" group-title="YEREL",KANAL V
 http://waw1.artiyerelmedya.net:1935/kanalv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/8BmHzMQ/KOY-TV.png" group-title="YEREL",KÖY TV
+http://59cba4d34b678.streamlock.net/canlitv/koytv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/hHXJZYf/CIFTCI-TV.png" group-title="TARIM",ÇİFTÇİ TV
-http://59cba4d34b678.streamlock.net/canlitv/ciftcitv/playlist.m3u8
+http://broadcasttr.com:446/ciftcitv/smil:ciftcitv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/wzvpMHN/KANAL-42.png" group-title="YEREL",KANAL 42
 http://pluskor.com:8080/hakandemirci81/06.06.2019/88501
+#EXTINF:-1 tvg-logo="http://i.ibb.co/B2HWKq6/AKILLI-TV.png" group-title="YEREL",AKILLI TV
+http://alfa4iptv.net:8080/u425684x12ay1/dtjzf27042020/73
+#EXTINF:-1 tvg-logo="http://i.ibb.co/9b5Q7sg/TVDEN.png" group-title="YEREL",TVDEN
+http://canli.tvden.com.tr/hls/live.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/dtT6r6z/ON-4.png" group-title="YEREL",ON4 TV
 http://yayin.netradyom.com:1935/live/on4/playist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/6Hd0R62/TV-52.png" group-title="YEREL",TV 52
-http://broadcasttr.com:446/tv52/bant1/playlist.m3u8
+http://broadcasttr.com:446/tv52/smil:tv52.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/vvPPtgY/ASTV.png" group-title="YEREL",AS TV
 http://waw2.artiyerelmedya.net/astv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/J2TKt2P/KANAL-26.png" group-title="YEREL",KANAL 26
 http://waw1.artiyerelmedya.net:1935/kanal26/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/yF9KFMc/TV-35.png" group-title="YEREL",TV 35
+http://59cba4d34b678.streamlock.net/canlitv/tv35/playlist.m3u8
 #EXTINF:-1 tvg-id="CEM TV-TR" tvg-logo="http://i.ibb.co/0CsSc3P/CEM-TV.png" group-title="YEREL",CEM TV
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/5917
 #EXTINF:-1 tvg-logo="http://i.ibb.co/yqQptyD/ALTA-TV.png" group-title="YEREL",ALTAŞ TV
-http://broadcasttr.com:446/altastv/bant1/playlist.m3u8
+http://broadcasttr.com:446/altastv/smil:altastv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/r47Vv15/MAVI-KARADENIZ.png" group-title="YEREL",MAVİ KARADENİZ
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/5908
+#EXTINF:-1 tvg-logo="http://i.ibb.co/x1mSnSk/VATAN.png" group-title="YEREL",VATAN
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/5914
+#EXTINF:-1 tvg-logo="http://i.ibb.co/7nMWVwq/RUMELI-TV.png" group-title="YEREL",RUMELİ TV
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/5910
 #EXTINF:-1 tvg-logo="http://i.ibb.co/LtKxwwx/UZAY-HABER.png" group-title="HABER",UZAY HABER
 http://644209.com:8080/hakandemirci81/06.06.2019/804
 #EXTINF:-1 tvg-logo="http://i.ibb.co/zVktfvq/EGE-TV.png" group-title="YEREL",EGE TV
 http://waw2.artiyerelmedya.net/egetv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="BRT 1-TR" tvg-logo="http://i.ibb.co/GxBXqpt/BRT-1.png" group-title="YEREL",BRT 1
 http://wms.brtk.net:1935/live/BRTHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/8NqZMWT/TGRT-EU.png" group-title="YEREL",TGRT EU
+http://canli.ensonhaber.com/tr/tgrteu/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/RgjYWDP/EURO-D.png" group-title="YEREL",EURO D
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/5925
+#EXTINF:-1 tvg-logo="http://i.ibb.co/DGgyxKd/EUROSTAR.png" group-title="YEREL",EUROSTAR
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/5924
 #EXTINF:-1 tvg-id="trtcocuk.tr" tvg-logo="http://i.ibb.co/dLfdB6j/TRT-COCUK.png" group-title="COCUK",TRT ÇOCUK
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/17185
 #EXTINF:-1 tvg-id="smartcocuk.tr" tvg-logo="http://i.ibb.co/D1FQv4x/COCUK-SMART.png" group-title="COCUK",ÇOCUK SMART
