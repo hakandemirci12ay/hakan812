@@ -174,7 +174,7 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/5871
 #EXTINF:-1 tvg-id="KRT TV-TR" tvg-logo="http://i.ibb.co/wLtwCrt/KRT-TV.png" group-title="ULUSAL",KRT TV
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/18717
 #EXTINF:-1 tvg-id="trt2.tr tvg-logo="http://i.ibb.co/3CyfTFR/TRT-2.png" group-title="ULUSAL",TRT 2
-http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/34210
+http://premium.mfreetv.com:80/hakdemir812/4114337aA/4705
 #EXTINF:-1 tvg-id="Diyanet TV HD" tvg-logo="http://i.ibb.co/dM1dBzS/DIYANET-TV.png" group-title="ULUSAL",DIYANET TV
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/5886
 #EXTINF:-1 tvg-id="eurosport1.tr" tvg-logo="http://i.ibb.co/H465dxG/EUROSPORT-1.png" group-title="SPOR",EUROSPORT 1
@@ -184,7 +184,7 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/5976
 #EXTINF:-1 tvg-id="fbtv.tr" tvg-logo="http://i.ibb.co/x3DSyyJ/FB-TV.png" group-title="SPOR",FB TV
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/5988
 #EXTINF:-1 tvg-id="gstv.tr" tvg-logo="http://i.ibb.co/7R1mB7Y/GS-TV.png" group-title="SPOR",GS TV
-http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/5989
+http://premium.mfreetv.com:80/hakdemir812/4114337aA/4609
 #EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="http://i.ibb.co/7pzdTtp/be-IN-SPORTS-1.png" group-title="SPOR",beIN SPORTS 1
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/36498
 #EXTINF:-1 tvg-id="beinsports2.tr" tvg-logo="http://i.ibb.co/ByD0Xjg/be-IN-SPORTS-2.png" group-title="SPOR",beIN SPORTS 2
@@ -278,13 +278,13 @@ https://imedi-tv.cdn.xsg.ge/360tunebox/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TRACE URBAN HD" tvg-logo="http://i.ibb.co/ggXYS5R/TRACE-URBAN.png" group-title="MÜZİK",TRACE URBAN
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/18734
 #EXTINF:-1 tvg-logo="http://i.ibb.co/mN32t2Q/MTV.png" group-title="YAŞAM",MTV
-http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/48780
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/JpjWggN/MTV-HITS.png" group-title="MÜZİK",MTV HITS
 http://vs-msk-02.tv.ti.ru:80/dtv/id210_NBN_SG--MTVHits/03/plst.m3u8
 #EXTINF:-1 tvg-id="insight.tr" tvg-logo="http://i.ibb.co/cvdWrR9/INSIGHT-TV.png" group-title="YAŞAM",INSIGHT TV
 http://premium.mfreetv.com:80/hakdemir812/4114337aA/4654
 #EXTINF:-1 tvg-id="E.tr" tvg-logo="http://i.ibb.co/4pyLV10/E-ENTERTAINMENT.png" group-title="YAŞAM",E! ENTERTAINMENT
-http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/51075
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/48774
 #EXTINF:-1 tvg-id="FashionTV.tr" tvg-logo="http://i.ibb.co/pwnpr9b/FASHION-TV.png" group-title="YAŞAM",FASHION TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/py5grQQ/WORLD-FASHION.png" group-title="YAŞAM",WORLD FASHION
