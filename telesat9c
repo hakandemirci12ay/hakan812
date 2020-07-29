@@ -492,7 +492,7 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/20997
 #EXTINF:-1 tvg-id="babytv.tr" tvg-logo="http://i.ibb.co/5rtXGHR/BABY-TV.png"group-title="COCUK",BABY TV
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/17188
 #EXTINF:-1 tvg-id="disneyjr.tr" tvg-logo="http://i.ibb.co/4JywHc0/DISNEY-JUNIOR.png" group-title="COCUK",DISNEY JUNIOR
-http://alfa4iptv.net:8080/u425684x12ay1/dtjzf27042020/169
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/17162
 #EXTINF:-1 tvg-id="disney.tr" tvg-logo="http://i.ibb.co/S0kP9jq/DISNEY-CHANNEL.png" group-title="COCUK",DISNEY CHANNEL
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/17181
 #EXTINF:-1 tvg-id="disneyxd.tr" tvg-logo="http://i.ibb.co/Y0fLnBH/DISNEY-XD.png" group-title="COCUK",DISNEY XD
@@ -524,7 +524,7 @@ http://scturkmedya.radyotvonline.com/stream/80/
 #EXTINF:-1 tvg-logo="http://i.ibb.co/mqpcB1d/SUPER-FM.png"  group-title="RADYO",SÜPER FM
 http://17733.live.streamtheworld.com/SUPER_FM.mp3
 #EXTINF:-1 tvg-logo="http://i.ibb.co/Nr2rLdK/JOY-TURK.png" group-title="RADYO",JOY TÜRK
-http://pluskor.com:8080/hakandemirci81/06.06.2019/2121
+https://18463.live.streamtheworld.com/JOY_TURKAAC.aac
 #EXTINF:-1 tvg-logo="http://i.ibb.co/KGhLxgz/TRT-NAGME.png" group-title="RADYO",TRT NAĞME
 http://radio-trtnagme.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/WDp1YKx/TRT-TURKU.png" group-title="RADYO",TRT TÜRKÜ
@@ -554,6 +554,6 @@ http://46.20.3.194:80/show/viva64/viva64/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/wSzhqDF/BABA-RADYO.png" group-title="RADYO",BABA RADYO
 http://37.247.100.100/best/babaradyo.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/VH0sfHN/METRO-FM.png" group-title="RADYO",METRO FM
-http://pluskor.com:8080/hakandemirci81/06.06.2019/2125
+https://18463.live.streamtheworld.com/METRO_FM128AAC.aac
 #EXTINF:-1 tvg-logo="http://i.ibb.co/hyV9Ttq/VIRGIN-RADIO.png" group-title="RADYO",VIRGIN RADIO
-http://pluskor.com:8080/hakandemirci81/06.06.2019/2127
+https://17703.live.streamtheworld.com/VIRGIN_RADIOAAC.aac
