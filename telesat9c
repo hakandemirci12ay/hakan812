@@ -78,7 +78,7 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/46065
 #EXTINF:-1 tvg-id="sinema1001.tr" tvg-logo="http://i.ibb.co/PTCQ2pr/SINEMA-1001.png" group-title="SİNEMA",SİNEMA 1001
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/46072
 #EXTINF:-1 tvg-id="sinema1002.tr" tvg-logo="http://i.ibb.co/0t6pPmx/SINEMA-1002.png" group-title="SİNEMA",SİNEMA 1002
-http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/46073
+http://alfa4iptv.net:8080/u425684x12ay1/dtjzf27042020/104
 #EXTINF:-1 tvg-id="beiniz.tr" tvg-logo="http://i.ibb.co/NCr2Y5D/beIN-Z.png" group-title="BELGESEL",beIN İZ
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/6010
 #EXTINF:-1 tvg-id="beingurme.tr" tvg-logo="http://i.ibb.co/k5Lr29h/be-IN-GURME.png" group-title="YAŞAM",beIN GURME
@@ -156,7 +156,7 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/15261
 #EXTINF:-1 tvg-id="tv2.tr" tvg-logo="http://i.ibb.co/JRkbS6X/TEVE2.png" group-title="ULUSAL",TEVE2
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/27471
 #EXTINF:-1 tvg-id="EM TV-TR" tvg-logo="http://i.ibb.co/7KmS6mz/TV-EM.png" group-title="ULUSAL",TVEM
-http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/39199
+https://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8
 #EXTINF:-1 tvg-id="tv85.tr" tvg-logo="http://i.ibb.co/Ws4btfZ/TV8-5.png" group-title="ULUSAL",TV8.5
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/5985
 #EXTINF:-1 tvg-id="24kitchen.tr" tvg-logo="http://i.ibb.co/TbTRT1b/24-KITCHEN.png" group-title="YAŞAM",24 KITCHEN
@@ -174,7 +174,7 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/5871
 #EXTINF:-1 tvg-id="KRT TV-TR" tvg-logo="http://i.ibb.co/wLtwCrt/KRT-TV.png" group-title="ULUSAL",KRT TV
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/18717
 #EXTINF:-1 tvg-id="trt2.tr tvg-logo="http://i.ibb.co/3CyfTFR/TRT-2.png" group-title="ULUSAL",TRT 2
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4705
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/34210
 #EXTINF:-1 tvg-id="Diyanet TV HD" tvg-logo="http://i.ibb.co/dM1dBzS/DIYANET-TV.png" group-title="ULUSAL",DIYANET TV
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/5886
 #EXTINF:-1 tvg-id="eurosport1.tr" tvg-logo="http://i.ibb.co/H465dxG/EUROSPORT-1.png" group-title="SPOR",EUROSPORT 1
@@ -302,7 +302,7 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/48775
 #EXTINF:-1 tvg-id="TRT World HD" tvg-logo="http://i.ibb.co/VC73sv4/TRT-WORLD.png" group-title="ULUSLARARASI",TRT WORLD
 http://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="rtrplaneta.tr" tvg-logo="http://i.ibb.co/3dqsG2v/RTR-PLANETA.png" group-title="ULUSLARARASI",RTR PLANETA
-http://a3569457661-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+https://s26881.cdn.ngenix.net/live/smil:rtrp.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yRdJpV7/TURKMENELI-TV.png" group-title="ULUSLARARASI",TÜRKMENELİ TV
 http://116.203.71.169/hls/stream1.m3u8
 #EXTINF:-1 tvg-id="aztv1.tr" tvg-logo="http://i.ibb.co/ZNY9hQm/AZ-TV.png" group-title="ULUSLARARASI",AZTV
