@@ -280,7 +280,7 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/18734
 #EXTINF:-1 tvg-logo="http://i.ibb.co/mN32t2Q/MTV.png" group-title="YAŞAM",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/JpjWggN/MTV-HITS.png" group-title="MÜZİK",MTV HITS
-http://vs-msk-02.tv.ti.ru:80/dtv/id210_NBN_SG--MTVHits/03/plst.m3u8
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/48778
 #EXTINF:-1 tvg-id="insight.tr" tvg-logo="http://i.ibb.co/cvdWrR9/INSIGHT-TV.png" group-title="YAŞAM",INSIGHT TV
 http://premium.mfreetv.com:80/hakdemir812/4114337aA/4654
 #EXTINF:-1 tvg-id="E.tr" tvg-logo="http://i.ibb.co/4pyLV10/E-ENTERTAINMENT.png" group-title="YAŞAM",E! ENTERTAINMENT
@@ -340,7 +340,7 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 #EXTINF:-1 tvg-id="deutschewellede.tr" tvg-logo="http://i.ibb.co/4Z8wMr0/DW-TV-ENGLISH.png" group-title="ULUSLARARASI",DW-TV (GERMAN)
 http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/ZTc1jVy/CHANNEL-ONE-RUSSIA.png" group-title="ULUSLARARASI",CHANNEL ONE RUSSIA
-http://persik.by/stream/808/284814/8.m3u8
+https://edge-1192-ch-gv.filmon.com/live/1735.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="arirang.tr" tvg-logo="http://i.ibb.co/vJHr4T8/ARIRANG-TV.png" group-title="ULUSLARARASI",ARIRANG TV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/vPtL4YX/CCTV-4.png" group-title="ULUSLARARASI",CCTV-4
@@ -377,8 +377,6 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/35084
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/46530
 #EXTINF:-1 tvg-id="sciencevie.tr" tvg-logo="http://i.ibb.co/C9zPWTT/SCIENCE-VIE-TV.png" group-title="BELGESEL",SCIENCE & VIE TV
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/53543
-#EXTINF:-1 tvg-logo="http://i.ibb.co/NsY22r0/AV-TV.png" group-title="BELGESEL",AV TV
-http://195.142.1.213:1935/avtv/avtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="Yaban TV" tvg-logo="http://i.ibb.co/bQHRsN7/YABAN-TV.png" group-title="BELGESEL",YABAN TV
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/6008
 #EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-logo="http://i.ibb.co/G2P4sKP/TRT-BELGESEL.png" group-title="BELGESEL",TRT BELGESEL
