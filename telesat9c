@@ -10,13 +10,13 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/37460
 #EXTINF:-1 tvg-id="foxcrime.tr" tvg-logo="http://i.ibb.co/884njYg/FOXCRIME.png" group-title="DİZİ",FOXCRIME
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/37459
 #EXTINF:-1 tvg-id="beinscifi.tr" tvg-logo="http://i.ibb.co/d4QMgwf/be-IN-SERIES-SCI-FI.png" group-title="DİZİ",beIN SERIES SCI-FI
-http://alfa4iptv.net:8080/u425684x12ay1/dtjzf27042020/91
+http://premium.mfreetv.com:80/hakdemir812/4114337aA/4589
 #EXTINF:-1 tvg-id="beincomedy.tr" tvg-logo="http://i.ibb.co/bz09Sjg/be-IN-SERIES-COMEDY.png" group-title="DİZİ",beIN SERIES COMEDY
-http://alfa4iptv.net:8080/u425684x12ay1/dtjzf27042020/93
+http://premium.mfreetv.com:80/hakdemir812/4114337aA/4591
 #EXTINF:-1 tvg-id="beinvice.tr" tvg-logo="http://i.ibb.co/j62V8pM/be-IN-SERIES-VICE.png" group-title="DİZİ",beIN SERIES VICE
-http://alfa4iptv.net:8080/u425684x12ay1/dtjzf27042020/92
+http://premium.mfreetv.com:80/hakdemir812/4114337aA/4588
 #EXTINF:-1 tvg-id="beindrama.tr" tvg-logo="http://i.ibb.co/kSX0WNM/be-IN-SERIES-DRAMA.png" group-title="DİZİ",beIN SERIES DRAMA
-http://alfa4iptv.net:8080/u425684x12ay1/dtjzf27042020/94
+http://premium.mfreetv.com:80/hakdemir812/4114337aA/4590
 #EXTINF:-1 tvg-id="dsmpremium.tr" tvg-logo="http://i.ibb.co/fMBsgbM/DIZISMART-PREMIUM.png" group-title="DİZİ",DİZİSMART PREMIUM
 http://alfa4iptv.net:8080/u425684x12ay1/dtjzf27042020/102
 #EXTINF:-1 tvg-id="dsmbox.tr" tvg-logo="http://i.ibb.co/W3jQJXS/DIZISMART-MAX.png" group-title="DİZİ",DİZİSMART MAX
@@ -26,7 +26,7 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/37416
 #EXTINF:-1 tvg-id="beinmprem2.tr" tvg-logo="http://i.ibb.co/hXZLW2R/be-IN-MOVIES-PREMIERE-2.png" group-title="SİNEMA",beIN MOVIES PREMIERE 2
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/37417
 #EXTINF:-1 tvg-id="beinmstars.tr" tvg-logo="http://i.ibb.co/5TrCZKz/be-IN-MOVIES-STARS.png" group-title="SİNEMA",beIN MOVIES STARS
-http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/37415
+http://premium.mfreetv.com:80/hakdemir812/4114337aA/4593
 #EXTINF:-1 tvg-id="beinmaction.tr" tvg-logo="http://i.ibb.co/0MhshK1/be-IN-MOVIES-ACTION.png" group-title="SİNEMA",beIN MOVIES ACTION
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/37419
 #EXTINF:-1 tvg-id="beinmaction2.tr" tvg-logo="http://i.ibb.co/x8SG5Fg/be-IN-MOVIES-ACTION-2.png" group-title="SİNEMA",beIN MOVIES ACTION 2
@@ -230,7 +230,7 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/36241
 #EXTINF:-1 tvg-id="TJK TV-TR" tvg-logo="http://i.ibb.co/4ZBGrW5/TJK-TV.png" group-title="SPOR",TJK TV
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/5918
 #EXTINF:-1 tvg-id="Sports TV HD" tvg-logo="http://i.ibb.co/bFg0Lfx/SPORTS-TV.png" group-title="SPOR",SPORTS TV
-http://94.46.195.170:9000/sportstv/live.m3u8
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/5978
 #EXTINF:-1 tvg-id="fastnfun.tr" tvg-logo="http://i.ibb.co/hcswySC/FAST-AND-FUN.png" group-title="SPOR",FAST AND FUNBOX
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/46531
 #EXTINF:-1 tvg-id="FightBox.tr" tvg-logo="http://i.ibb.co/7nP26Pd/FIGHTBOX.png" group-title="SPOR",FIGHTBOX
