@@ -307,7 +307,7 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/48775
 http://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="rtrplaneta.tr" tvg-logo="http://i.ibb.co/3dqsG2v/RTR-PLANETA.png" group-title="ULUSLARARASI",RTR PLANETA
 https://s26881.cdn.ngenix.net/live/smil:rtrp.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yRdJpV7/TURKMENELI-TV.png" group-title="ULUSLARARASI",TÜRKMENELİ TV
+#EXTINF:-1 tvg-logo="http://i.ibb.co/yRdJpV7/TURKMENELI-TV.png" group-title="ULUSLARARASI",TÜRKMENELİ TV
 http://116.203.71.169/hls/stream1.m3u8
 #EXTINF:-1 tvg-id="aztv1.tr" tvg-logo="http://i.ibb.co/ZNY9hQm/AZ-TV.png" group-title="ULUSLARARASI",AZTV
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/51469
@@ -321,7 +321,7 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/51411
 http://new.webplay.me:8080/Hul.khkn2233/Hul.khkn3322/44820
 #EXTINF:-1 tvg-id="bbcworld.tr" tvg-logo="http://i.ibb.co/BcZYgTw/BBC-WORLD-NEWS.png" group-title="ULUSLARARASI",BBC WORLD NEWS
 http://live01-fbx.vucos.net/live/bbcworldnews_480p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yYW2MW0/FOX-NEWS-CHANNEL.png" group-title="ULUSLARARASI",FOX NEWS CHANNEL
+#EXTINF:-1 tvg-logo="http://i.ibb.co/yYW2MW0/FOX-NEWS-CHANNEL.png" group-title="ULUSLARARASI",FOX NEWS CHANNEL
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/51412
 #EXTINF:-1 tvg-id="BLOOMBERG TV-TR" tvg-logo="http://i.ibb.co/31XcQdt/BLOOMBERG-TV.png" group-title="ULUSLARARASI",BLOOMBERG TV
 http://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
