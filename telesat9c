@@ -243,7 +243,7 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/53548
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/53547
 #EXTINF:-1 tvg-id="MCM TOP" tvg-logo="https://i.ibb.co/XkgSqBR/MCM-POP.png" group-title="MÜZİK",MCM POP
 http://new.webplay.me:8080/Hul.khkn2233/Hul.khkn3322/37689
-EXTINF:-1 tvg-id="MCM TOP" tvg-logo="http://i.ibb.co/RP0P5d9/MCM-TOP.png" group-title="MÜZİK",MCM TOP
+#EXTINF:-1 tvg-id="MCM TOP" tvg-logo="http://i.ibb.co/RP0P5d9/MCM-TOP.png" group-title="MÜZİK",MCM TOP
 http://178.217.72.66:80/225.201.2.79/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mezzo.fr" tvg-logo="http://i.ibb.co/QdwLQJm/MEZZO.png" group-title="MÜZİK",MEZZO
 https://imedi-tv.cdn.xsg.ge/mezzo/tracks-v1a1/mono.m3u8
@@ -391,7 +391,7 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/35084
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/46530
 #EXTINF:-1 tvg-id="sciencevie.tr" tvg-logo="http://i.ibb.co/C9zPWTT/SCIENCE-VIE-TV.png" group-title="BELGESEL",SCIENCE & VIE TV
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/53543
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kghQmKN/NAUTICAL-CHANNEL.png" group-title="BELGESEL",NATUTICAL CHANNEL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kghQmKN/NAUTICAL-CHANNEL.png" group-title="BELGESEL",NAUTICAL CHANNEL
 http://new.webplay.me:8080/Hul.khkn2233/Hul.khkn3322/37694
 #EXTINF:-1 tvg-id="Yaban TV" tvg-logo="http://i.ibb.co/bQHRsN7/YABAN-TV.png" group-title="BELGESEL",YABAN TV
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/6008
