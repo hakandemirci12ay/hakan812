@@ -9,6 +9,8 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/37458
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/37460
 #EXTINF:-1 tvg-id="foxcrime.tr" tvg-logo="http://i.ibb.co/884njYg/FOXCRIME.png" group-title="DİZİ",FOXCRIME
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/37459
+#EXTINF:-1 tvg-logo="http://i.ibb.co/6bn9Kds/BBC-FIRST.png" group-title="DİZİ",BBC FIRST
+http://new.webplay.me:8080/Hul.khkn2233/Hul.khkn3322/61662
 #EXTINF:-1 tvg-id="beinscifi.tr" tvg-logo="http://i.ibb.co/d4QMgwf/be-IN-SERIES-SCI-FI.png" group-title="DİZİ",beIN SERIES SCI-FI
 http://premium.mfreetv.com:80/hakdemir812/4114337aA/4589
 #EXTINF:-1 tvg-id="beincomedy.tr" tvg-logo="http://i.ibb.co/bz09Sjg/be-IN-SERIES-COMEDY.png" group-title="DİZİ",beIN SERIES COMEDY
@@ -249,8 +251,6 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/6084
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/6086
 #EXTINF:-1 tvg-id="KralPop.tr" tvg-logo="http://i.ibb.co/pKm12rc/KRAL-POP-TV.png" group-title="MÜZİK",KRAL POP TV
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/6080
-#EXTINF:-1 tvg-id="DREAM TV" tvg-logo="http://i.ibb.co/cX1R1dH/DREAM-TV.png" group-title="MÜZİK",DREAM TV
-http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/6085
 #EXTINF:-1 tvg-id="Dream Türk-TR" tvg-logo="http://i.ibb.co/zGkM215/DREAM-TURK.png" group-title="MÜZİK",DREAM TÜRK
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/6082
 #EXTINF:-1 tvg-id="nr1.tr" tvg-logo="http://i.ibb.co/xG4fDn3/NUMBER1-TV.png" group-title="MÜZİK",NUMBER1 TV
@@ -279,16 +279,20 @@ https://imedi-tv.cdn.xsg.ge/360tunebox/tracks-v1a1/mono.m3u8
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/18734
 #EXTINF:-1 tvg-logo="http://i.ibb.co/mN32t2Q/MTV.png" group-title="YAŞAM",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/hdMMZmG/MTV-LIVE-HD.png" group-title="MÜZİK",MTV LIVE
+http://new.webplay.me:8080/Hul.khkn2233/Hul.khkn3322/43772
 #EXTINF:-1 tvg-logo="http://i.ibb.co/JpjWggN/MTV-HITS.png" group-title="MÜZİK",MTV HITS
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/48778
 #EXTINF:-1 tvg-id="insight.tr" tvg-logo="http://i.ibb.co/cvdWrR9/INSIGHT-TV.png" group-title="YAŞAM",INSIGHT TV
 http://premium.mfreetv.com:80/hakdemir812/4114337aA/4654
 #EXTINF:-1 tvg-id="E.tr" tvg-logo="http://i.ibb.co/4pyLV10/E-ENTERTAINMENT.png" group-title="YAŞAM",E! ENTERTAINMENT
-http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/48774
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/15446
 #EXTINF:-1 tvg-id="FashionTV.tr" tvg-logo="http://i.ibb.co/pwnpr9b/FASHION-TV.png" group-title="YAŞAM",FASHION TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/py5grQQ/WORLD-FASHION.png" group-title="YAŞAM",WORLD FASHION
 http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v3a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/BVmfgP0/BBC-ENTERTAINMENT.png" group-title="YAŞAM",BBC ENTERTAINMENT
+http://new.webplay.me:8080/Hul.khkn2233/Hul.khkn3322/37791
 #EXTINF:-1 tvg-logo="http://i.ibb.co/pdP5JjF/ANT1.png" group-title="ULUSLARARASI",ANT1
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/51359
 #EXTINF:-1 tvg-id="PRO7.tr" tvg-logo="http://i.ibb.co/RHt1CMc/PRO7.png" group-title="ULUSLARARASI",PRO7
@@ -306,7 +310,7 @@ https://s26881.cdn.ngenix.net/live/smil:rtrp.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yRdJpV7/TURKMENELI-TV.png" group-title="ULUSLARARASI",TÜRKMENELİ TV
 http://116.203.71.169/hls/stream1.m3u8
 #EXTINF:-1 tvg-id="aztv1.tr" tvg-logo="http://i.ibb.co/ZNY9hQm/AZ-TV.png" group-title="ULUSLARARASI",AZTV
-http://streams.livetv.az/azerbaijan/aztv_stream2/chunks.m3u8
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/51469
 #EXTINF:-1 tvg-id="kazakhtv.tr" tvg-logo="http://i.ibb.co/Rp7TqH1/KAZAKH-TV.png" group-title="ULUSLARARASI",KAZAKH TV
 http://kazakhtven.ultraiptv.com/live_en/playlist3/index.m3u8
 #EXTINF:-1 tvg-id="TRT ARABİ-TR" tvg-logo="http://i.ibb.co/k5SxQYS/TRT-ARABI.png" group-title="ULUSLARARASI",TRT ARABI
@@ -314,7 +318,7 @@ http://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="cnnint.tr" tvg-logo="http://i.ibb.co/yXwYDT2/CNN-INTERNATIONAL.png" group-title="ULUSLARARASI",CNN INTERNATIONAL
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/51411
 #EXTINF:-1 tvg-logo="http://i.ibb.co/mSr7HSf/CNBC.png" group-title="ULUSLARARASI",CNBC
-http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/51081
+http://new.webplay.me:8080/Hul.khkn2233/Hul.khkn3322/44820
 #EXTINF:-1 tvg-id="bbcworld.tr" tvg-logo="http://i.ibb.co/BcZYgTw/BBC-WORLD-NEWS.png" group-title="ULUSLARARASI",BBC WORLD NEWS
 http://live01-fbx.vucos.net/live/bbcworldnews_480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yYW2MW0/FOX-NEWS-CHANNEL.png" group-title="ULUSLARARASI",FOX NEWS CHANNEL
@@ -473,6 +477,8 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/5914
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/5910
 #EXTINF:-1 tvg-logo="http://i.ibb.co/zVktfvq/EGE-TV.png" group-title="YEREL",EGE TV
 http://waw2.artiyerelmedya.net/egetv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/q0QhBTF/BRT-1.png" group-title="YEREL",BRT 1
+http://wms.brtk.net:1935/live/BRTHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/8NqZMWT/TGRT-EU.png" group-title="YEREL",TGRT EU
 http://canli.ensonhaber.com/tr/tgrteu/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/RgjYWDP/EURO-D.png" group-title="YEREL",EURO D
@@ -533,6 +539,8 @@ http://radio-trtfm.live.trt.com.tr/master.m3u8
 http://radio-trtradyo1.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/cFCgK42/TRT-RADYO-3.png" group-title="RADYO",TRT RADYO 3
 http://radio-trtradyo3.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/z77Kt3x/POL-S-RADYOSU.png" group-title="RADYO",POLİS RADYOSU
+https://m.egm.gov.tr:8093/;
 #EXTINF:-1 tvg-id="BestFM.tr" tvg-logo="http://i.ibb.co/tBxQg5B/BEST-FM.png" group-title="RADYO",BEST FM
 http://37.247.100.100:80/best/bestfm.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Kral Pop Radyo-TR" tvg-logo="http://i.ibb.co/4wkfQTH/KRAL-POP-RADYO.png" group-title="RADYO",KRAL POP RADYO
