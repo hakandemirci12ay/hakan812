@@ -285,6 +285,10 @@ https://imedi-tv.cdn.xsg.ge/360tunebox/tracks-v1a1/mono.m3u8
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/18734
 #EXTINF:-1 tvg-logo="http://i.ibb.co/9W7d4gG/STINGRAY-ICONCERTS.png" group-title="MÜZİK",STINGRAY ICONCERTS
 http://new.webplay.me:8080/Hul.khkn2233/Hul.khkn3322/43800
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DV4Yr6b/STINGRAY-CLASSICA.png" group-title="MÜZİK",STINGRAY CLASSICA
+http://new.webplay.me:8080/Hul.khkn2233/Hul.khkn3322/44006
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxvBTqd/STINGRAY-CMUSIC.png" group-title="MÜZİK",STINGRAY CMUSIC
+http://new.webplay.me:8080/Hul.khkn2233/Hul.khkn3322/37707
 #EXTINF:-1 tvg-logo="http://i.ibb.co/mN32t2Q/MTV.png" group-title="YAŞAM",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/hdMMZmG/MTV-LIVE-HD.png" group-title="MÜZİK",MTV LIVE
