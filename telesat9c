@@ -509,6 +509,8 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/56112
 http://waw2.artiyerelmedya.net/egetv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9Zdz5np/KANAL-T-KIBRIS.png" group-title="YEREL",KANAL T KIBRIS
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/56086
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j68qr5X/YEN-KOCAEL-TV.png" group-title="YEREL",YENİ KOCAELİ TV
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/55766
 #EXTINF:-1 tvg-id="BRT 1-TR" tvg-logo="http://i.ibb.co/q0QhBTF/BRT-1.png" group-title="YEREL",BRT 1
 http://wms.brtk.net:1935/live/BRTHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/8NqZMWT/TGRT-EU.png" group-title="YEREL",TGRT EU
