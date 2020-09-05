@@ -4,9 +4,9 @@ https://ia803005.us.archive.org/11/items/digiturkhayallerinedokun/Digiturk%20-%2
 #EXTINF:-1 tvg-logo="http://i.ibb.co/VmTkHMT/EPIC-DRAMA.png" group-title="DİZİ",EPIC DRAMA
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/53549
 #EXTINF:-1 tvg-id="867395e3e48390949a1d4621a2fcc2e4" tvg-logo="http://i.ibb.co/WkDsVR4/FOXLIFE.png" group-title="DİZİ",FOXLIFE
-http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/37458
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/55728
 #EXTINF:-1 tvg-id="56b3c5b84cc925569fa9212bb058e2c3" tvg-logo="http://i.ibb.co/Z8WGPNK/FX.png" group-title="DİZİ",FX
-http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/37460
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/55729
 #EXTINF:-1 tvg-id="412a979e103d2a4d2381b41482d68d12" tvg-logo="http://i.ibb.co/884njYg/FOXCRIME.png" group-title="DİZİ",FOXCRIME
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/37459
 #EXTINF:-1 tvg-logo="http://i.ibb.co/6bn9Kds/BBC-FIRST.png" group-title="DİZİ",BBC FIRST
@@ -91,6 +91,8 @@ http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/53550
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/35082
 #EXTINF:-1 tvg-logo="http://i.ibb.co/gJLPpxC/FIL-TV.png" group-title="SİNEMA",FIL TV
 http://live01-fbx.vucos.net/live/filtv_480p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9bCYzX7/STINGRAY-AMBIANCE.png" group-title="YASAM",STINGRAY AMBIANCE
+http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/56121
 #EXTINF:-1 tvg-id="Showmax-TR" tvg-logo="http://i.ibb.co/6XKxxRB/SHOW-MAX.png" group-title="YAŞAM",SHOW MAX
 http://portal.iptvsatis.org:8000/yGWkOoeqHo/4114337aA/5921
 #EXTINF:-1 tvg-id="42276ff076371d971c2179e21ab4aea1" tvg-logo="http://i.ibb.co/d6TDsHY/SHOW-TV.png" group-title="ULUSAL",SHOW TV
