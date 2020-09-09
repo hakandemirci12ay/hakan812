@@ -136,7 +136,7 @@ http://premium.mfreetv.com:80/hakdemir812/4114337aA/7180
 #EXTINF:-1 tvg-id="NTV SPOR HD" tvg-logo="http://i.ibb.co/GCRC9b9/DMAX.png" group-title="ULUSAL",DMAX
 http://premium.mfreetv.com:80/hakdemir812/4114337aA/8605
 #EXTINF:-1 tvg-id="Halk TV" tvg-logo="http://i.ibb.co/Qntd9xv/HALK-TV.png" group-title="HABER",HALK TV
-http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/15261
+http://premium.mfreetv.com:80/hakdemir812/4114337aA/4696
 #EXTINF:-1 tvg-id="Teve2" tvg-logo="http://i.ibb.co/JRkbS6X/TEVE2.png" group-title="ULUSAL",TEVE2
 http://premium.mfreetv.com:80/hakdemir812/4114337aA/8218
 #EXTINF:-1 tvg-id="24KITCHEN" tvg-logo="http://i.ibb.co/TbTRT1b/24-KITCHEN.png" group-title="YAŞAM",24 KITCHEN
@@ -175,12 +175,8 @@ http://premium.mfreetv.com:80/hakdemir812/4114337aA/6273
 http://premium.mfreetv.com:80/hakdemir812/4114337aA/6276
 #EXTINF:-1 tvg-id="CHASSE ET PECHE" tvg-logo="http://i.ibb.co/W2zn1yc/CHASSE-ET-PECHE.png" group-title="BELGESEL",CHASSE & PECHE
 http://premium.mfreetv.com:80/hakdemir812/4114337aA/6275
-#EXTINF:-1 tvg-id="TREK HD" tvg-logo="http://i.ibb.co/VNsZWmX/TREK.png" group-title="BELGESEL",TREK
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4661
 #EXTINF:-1 tvg-id="SCIENCE & VIE HD" tvg-logo="http://i.ibb.co/C9zPWTT/SCIENCE-VIE-TV.png" group-title="BELGESEL",SCIENCE & VIE TV
 http://premium.mfreetv.com:80/hakdemir812/4114337aA/6274
-#EXTINF:-1 tvg-logo="http://i.ibb.co/NsY22r0/AV-TV.png" group-title="BELGESEL",AV TV
-http://195.142.1.213:1935/avtv/avtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="Yaban TV" tvg-logo="http://i.ibb.co/bQHRsN7/YABAN-TV.png" group-title="BELGESEL",YABAN TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 #EXTINF:-1 tvg-id="TRT Belgesel HD" tvg-logo="http://i.ibb.co/G2P4sKP/TRT-BELGESEL.png" group-title="BELGESEL",TRT BELGESEL
