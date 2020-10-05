@@ -12,9 +12,9 @@ http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/55727
 #EXTINF:-1 tvg-logo="http://i.ibb.co/6bn9Kds/BBC-FIRST.png" group-title="DİZİ",BBC FIRST
 http://new.webplay.me:8080/Hul.khkn2233/Hul.khkn3322/61662
 #EXTINF:-1 tvg-id="14857b0a56a6f7f0e1ede6fa90926fec" tvg-logo="http://i.ibb.co/d4QMgwf/be-IN-SERIES-SCI-FI.png" group-title="DİZİ",beIN SERIES SCI-FI
-http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/37413
+http://new.webplay.me:8080/Hul.khkn2233/Hul.khkn3322/251
 #EXTINF:-1 tvg-id="c2c3901a10b2b8b113d552bd6931ef00" tvg-logo="http://i.ibb.co/bz09Sjg/be-IN-SERIES-COMEDY.png" group-title="DİZİ",beIN SERIES COMEDY
-http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/37412
+http://new.webplay.me:8080/Hul.khkn2233/Hul.khkn3322/249
 #EXTINF:-1 tvg-id="5dffe0f799cd2d97e4246715229f6fb5" tvg-logo="http://i.ibb.co/j62V8pM/be-IN-SERIES-VICE.png" group-title="DİZİ",beIN SERIES VICE
 http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/37410
 #EXTINF:-1 tvg-id="71ef794afa9755ca0eb69263d477671b" tvg-logo="http://i.ibb.co/kSX0WNM/be-IN-SERIES-DRAMA.png" group-title="DİZİ",beIN SERIES DRAMA
@@ -89,12 +89,8 @@ http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/56129
 http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/5930
 #EXTINF:-1 tvg-id="FILMBOX HD-TR" tvg-logo="http://i.ibb.co/kqMFxwB/FILMBOX.png" group-title="SİNEMA",FILMBOX
 http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/53550
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8sLnYNV/FILMBOX-ARTHOUSE.png" group-title="SİNEMA",FILMBOX ARTHOUSE
-http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/56967
 #EXTINF:-1 tvg-logo="http://i.ibb.co/d5DZ7JM/TRT-4K.png" group-title="ULTRA HD",TRT 4K
 http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/35082
-#EXTINF:-1 tvg-logo="http://i.ibb.co/gJLPpxC/FIL-TV.png" group-title="SİNEMA",FIL TV
-http://live01-fbx.vucos.net/live/filtv_480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9bCYzX7/STINGRAY-AMBIANCE.png" group-title="YASAM",STINGRAY AMBIANCE
 http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/56121
 #EXTINF:-1 tvg-id="Showmax-TR" tvg-logo="http://i.ibb.co/6XKxxRB/SHOW-MAX.png" group-title="YAŞAM",SHOW MAX
@@ -136,7 +132,7 @@ http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/5878
 #EXTINF:-1 tvg-id="TVNET HD-TR" tvg-logo="http://i.ibb.co/Sd7xdFc/TVNET.png" group-title="HABER",TVNET
 http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/5882
 #EXTINF:-1 tvg-id="be74bd5e2f2c64398cce57901ebf6e00" tvg-logo="http://i.ibb.co/Tm59DQJ/24.png" group-title="HABER",24
-http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/5873
+http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/58141
 #EXTINF:-1 tvg-id="aaf676458934f0eb6043793c3b61ce47" tvg-logo="http://i.ibb.co/br8vg2m/NTV.png" group-title="HABER",NTV
 http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/5881
 #EXTINF:-1 tvg-id="d44a789c5f0aac622f48102e9e4aef56" tvg-logo="http://i.ibb.co/dbKGBz8/CNN-TURK.png" group-title="HABER",CNN TURK
@@ -164,17 +160,15 @@ http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/15261
 #EXTINF:-1 tvg-id="5ca8b5ef1a4ddd51eb31fc8c613cd8e4" tvg-logo="http://i.ibb.co/JRkbS6X/TEVE2.png" group-title="ULUSAL",TEVE2
 http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/27471
 #EXTINF:-1 tvg-id="EM TV-TR" tvg-logo="http://i.ibb.co/7KmS6mz/TV-EM.png" group-title="ULUSAL",TVEM
-http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/39199
+https://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8
 #EXTINF:-1 tvg-id="0cfa80fa08ae4991430fb46610160e49" tvg-logo="http://i.ibb.co/Ws4btfZ/TV8-5.png" group-title="ULUSAL",TV8.5
 http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/5985
 #EXTINF:-1 tvg-id="08806800267dcabca71949f45d0a6fac" tvg-logo="http://i.ibb.co/TbTRT1b/24-KITCHEN.png" group-title="YAŞAM",24 KITCHEN
 http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/35085
 #EXTINF:-1 tvg-id="ucankustv.tr" tvg-logo="http://i.ibb.co/2gHKxnZ/UCANKU-TV.png" group-title="ULUSAL",UÇANKUŞ TV
 http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/27474
-#EXTINF:-1 tvg-logo="http://i.ibb.co/RSsBdzg/TRT-3.png" group-title="HABER",TRT 3
-http://alfa4iptv.net:8080/u425684x12ay1/dtjzf27042020/352
 #EXTINF:-1 tvg-id="ceedac0059d4d481aaab190a105bbb76" tvg-logo="http://i.ibb.co/8ssHtDC/TRT-AVAZ.png" group-title="ULUSAL",TRT AVAZ
-http://alfa4iptv.net:8080/u425684x12ay1/dtjzf27042020/157
+https://tv-trtavaz.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="3d79d2d1ca8714d5c1179585f74643c4" tvg-logo="http://i.ibb.co/YBxDczk/TRT-KURDI.png" group-title="ULUSLARARASI",TRT KURDI
 http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/56422
 #EXTINF:-1 tvg-id="bc1dad9ca650299949d6b4bfdb28162f" tvg-logo="http://i.ibb.co/H7m7MRf/TRT-TURK.png" group-title="ULUSAL",TRT TURK
@@ -189,8 +183,6 @@ http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/5886
 http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/5977
 #EXTINF:-1 tvg-id="EUROSPORT 2 TR HD-TR" tvg-logo="http://i.ibb.co/QJCMB9b/EUROSPORT-2.png" group-title="SPOR",EUROSPORT 2
 http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/5976
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kHrCXZR/GINX-ESPORTS-TV.png" group-title="SPOR",GINX ESPORTS TV
-http://new.webplay.me:8080/Hul.khkn2233/Hul.khkn3322/45004
 #EXTINF:-1 tvg-id="FB TV HD-TR" tvg-logo="http://i.ibb.co/x3DSyyJ/FB-TV.png" group-title="SPOR",FB TV
 http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/5988
 #EXTINF:-1 tvg-id="92860e560ea1cc4507c0ef6e67d6174d" tvg-logo="http://i.ibb.co/7R1mB7Y/GS-TV.png" group-title="SPOR",GS TV
@@ -273,8 +265,6 @@ http://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa8
 http://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/44tNYjH/NR1-DAMAR.png" group-title="MÜZİK",NUMBER1 DAMAR
 http://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9cvQq3j/TMB-TV.png" group-title="MÜZİK",TMB TV
-http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/55986
 #EXTINF:-1 tvg-logo="http://i.ibb.co/drJJQr7/RADYO-TURKCE-POP.png" group-title="RADYO",RADYO TURKCE POP
 http://37.247.98.8/stream/21/
 #EXTINF:-1 tvg-logo="http://i.ibb.co/tMmBLWW/RADYO-TURKCE-SLOW.png" group-title="RADYO",RADYO TURKCE SLOW
