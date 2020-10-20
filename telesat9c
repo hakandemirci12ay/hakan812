@@ -289,7 +289,7 @@ http://new.webplay.me:8080/Hul.khkn2233/Hul.khkn3322/39961
 http://new.webplay.me:8080/Hul.khkn2233/Hul.khkn3322/43877
 #EXTINF:-1 tvg-id="5d711970d69c13275fcee65fe6d7e48c" tvg-logo="http://i.ibb.co/VC73sv4/TRT-WORLD.png" group-title="ULUSLARARASI",TRT WORLD
 http://new.webplay.me:8080/Hul.khkn2233/Hul.khkn3322/312
-r#EXTINF:-1 tvg-id="rtrplaneta.tr" tvg-logo="http://i.ibb.co/3dqsG2v/RTR-PLANETA.png" group-title="ULUSLARARASI",RTR PLANETA
+#EXTINF:-1 tvg-id="rtrplaneta.tr" tvg-logo="http://i.ibb.co/3dqsG2v/RTR-PLANETA.png" group-title="ULUSLARARASI",RTR PLANETA
 https://s26881.cdn.ngenix.net/live/smil:rtrp.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/yRdJpV7/TURKMENELI-TV.png" group-title="ULUSLARARASI",TÜRKMENELİ TV
 http://116.203.71.169/hls/stream1.m3u8
