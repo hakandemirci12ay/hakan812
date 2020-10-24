@@ -148,7 +148,7 @@ http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/5981
 #EXTINF:-1 tvg-id="SEMERKAND TV HD-TR" tvg-logo="http://i.ibb.co/pZ6D4PH/SEMERKAND-TV.png" group-title="ULUSAL",SEMERKAND TV
 http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/5887
 #EXTINF:-1 tvg-logo="http://i.ibb.co/MBGdkNB/DOST-TV.png" group-title="ULUSAL",DOST TV
-http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/55764
+http://137.74.150.14:8080/permabil/DOSTtv/index.m3u8
 #EXTINF:-1 tvg-id="fe268ba9e5806fe9256055c594750d06" tvg-logo="http://i.ibb.co/Qntd9xv/HALK-TV.png" group-title="HABER",HALK TV
 http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/15261
 #EXTINF:-1 tvg-id="5ca8b5ef1a4ddd51eb31fc8c613cd8e4" tvg-logo="http://i.ibb.co/JRkbS6X/TEVE2.png" group-title="ULUSAL",TEVE2
@@ -306,7 +306,7 @@ http://116.203.71.169/hls/stream1.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/Fm25fFj/AZ-TV.png" group-title="ULUSLARARASI",AZTV
 http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/57724
 #EXTINF:-1 tvg-id="kazakhtv.tr" tvg-logo="http://i.ibb.co/Rp7TqH1/KAZAKH-TV.png" group-title="ULUSLARARASI",KAZAKH TV
-http://kazakhtven.ultraiptv.com/live_en/playlist3/index.m3u8
+https://kazakhtv.ultraiptv.com/kazakhtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TRT ARABİ-TR" tvg-logo="http://i.ibb.co/k5SxQYS/TRT-ARABI.png" group-title="ULUSLARARASI",TRT ARABI
 http://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="cnnint.tr" tvg-logo="http://i.ibb.co/yXwYDT2/CNN-INTERNATIONAL.png" group-title="ULUSLARARASI",CNN INTERNATIONAL
