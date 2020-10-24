@@ -413,6 +413,10 @@ http://new.webplay.me:8080/Hul.khkn2233/Hul.khkn3322/782
 http://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:-1 tvg-id="KanalB.tr" tvg-logo="http://i.ibb.co/CwTbwWR/KANAL-B.png" group-title="YEREL",KANAL B
 http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4Kg7bhM/MELTEM-TV.png" group-title="ULUSAL",MELTEM TV
+http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/55770
+#EXTINF:-1 tvg-logo="http://i.ibb.co/W6y9PnL/MESAJ-TV.png" group-title="ULUSAL",MESAJ TV
+https://waw2.artiyerelmedya.net/mesajtv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/X23sjfm/ULUSAL-KANAL.png" group-title="YEREL",ULUSAL KANAL
 http://iptvmasterlink.dyndns.org:5566/Entry/ulusalkanal_yeni.m3u8
 #EXTINF:-1 tvg-id="akittv.tr" tvg-logo="http://i.ibb.co/yWrNSxB/AKIT-TV.png" group-title="HABER",AKIT TV
