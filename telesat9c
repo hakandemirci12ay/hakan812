@@ -479,10 +479,18 @@ https://str01.antensiz.tv:25463/live/tv/tv/244.m3u8
 http://wms.brtk.net:1935/live/BRTHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/8NqZMWT/TGRT-EU.png" group-title="YEREL",TGRT EU
 http://canli.ensonhaber.com/tr/tgrteu/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/PF0ThbT/SHOW-T-RK.png" group-title="YEREL",SHOW TÜRK
+http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/5923
 #EXTINF:-1 tvg-id="Eurod-TR" tvg-logo="http://i.ibb.co/RgjYWDP/EURO-D.png" group-title="YEREL",EURO D
 http://new.webplay.me:8080/Hul.khkn2233/Hul.khkn3322/8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/N7Nmh1x/ATV-AVRUPA.png" group-title="YEREL",ATV AVRUPA
+http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/5922
 #EXTINF:-1 tvg-id="Euro Star-TR" tvg-logo="http://i.ibb.co/DGgyxKd/EUROSTAR.png" group-title="YEREL",EUROSTAR
 http://new.webplay.me:8080/Hul.khkn2233/Hul.khkn3322/11
+#EXTINF:-1 tvg-logo="http://i.ibb.co/3RHNyC7/KANAL-7-AVRUPA.png" group-title="YEREL",KANAL 7 AVRUPA
+http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/58577
+#EXTINF:-1 tvg-logo="http://i.ibb.co/7rB9S5t/TV8-INT.png" group-title="YEREL",TV8 INT
+https://str01.antensiz.tv:25463/live/tv/tv/282.m3u8
 #EXTINF:-1 tvg-id="129906a60f5e00ad3f2d79f240c2d6f5" tvg-logo="http://i.ibb.co/dLfdB6j/TRT-COCUK.png" group-title="COCUK",TRT ÇOCUK
 http://new.webplay.me:8080/Hul.khkn2233/Hul.khkn3322/186
 #EXTINF:-1 tvg-logo="http://i.ibb.co/xCWHHpP/COCUK-SMART.png" group-title="COCUK",ÇOCUK SMART
@@ -523,6 +531,8 @@ http://tv-e-okul02.live.trt.com.tr/master.m3u8
 http://scturkmedya.radyotvonline.com/stream/80/
 #EXTINF:-1 tvg-logo="http://i.ibb.co/mqpcB1d/SUPER-FM.png"  group-title="RADYO",SÜPER FM
 http://17733.live.streamtheworld.com/SUPER_FM.mp3
+#EXTINF:-1 tvg-logo="http://i.ibb.co/xL5gpp6/JOY-FM.png" group-title="RADYO",JOY FM
+https://17773.live.streamtheworld.com/JOY_FMAAC.aac
 #EXTINF:-1 tvg-logo="http://i.ibb.co/Nr2rLdK/JOY-TURK.png" group-title="RADYO",JOY TÜRK
 https://18463.live.streamtheworld.com/JOY_TURKAAC.aac
 #EXTINF:-1 tvg-logo="http://i.ibb.co/KGhLxgz/TRT-NAGME.png" group-title="RADYO",TRT NAĞME
@@ -535,10 +545,28 @@ http://radio-trtfm.live.trt.com.tr/master.m3u8
 http://radio-trtradyo1.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/cFCgK42/TRT-RADYO-3.png" group-title="RADYO",TRT RADYO 3
 http://radio-trtradyo3.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/bdpMT2Y/TRT-GAP-RADYOSU.png" group-title="RADYO",TRT GAP RADYOSU
+https://radio-trtgap.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/gyYC0JZ/TRT-KURD-RADYO.png" group-title="RADYO",TRT KURDİ RADYO
+https://radio-trtradyo6.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/PzBzyPM/TURKIYENIN-SESI-RADYOSU.png" group-title="RADYO",TÜRKİYE'NİN SESİ RADYOSU
+https://radio-trttsr.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/yPt5rNq/DIYANET-RADYO.png" group-title="RADYO",DİYANET RADYO
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1171d7d2a.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/cN4jG1n/TRT-NA-ME.png" group-title="RADYO",TRT NAĞME
+https://radio-trtnagme.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/7rRpGZC/TRT-T-RK.png" group-title="RADYO",TRT TÜRKÜ
+https://radio-trtturku.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/z77Kt3x/POL-S-RADYOSU.png" group-title="RADYO",POLİS RADYOSU
 https://m.egm.gov.tr:8093/;
+#EXTINF:-1 tvg-logo="http://i.ibb.co/YBV2pf6/CNN-TURK-RADYO.png" group-title="RADYO",CNN TURK RADYO
+https://radyo.duhnet.tv/cnnturk
 #EXTINF:-1 tvg-id="BestFM.tr" tvg-logo="http://i.ibb.co/tBxQg5B/BEST-FM.png" group-title="RADYO",BEST FM
 http://37.247.100.100:80/best/bestfm.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/fH4J3Ww/RADYO-ALATURKA.png" group-title="RADYO",RADYO ALATURKA
+http://stream.radyoalaturka.com.tr:9100/;
+#EXTINF:-1 tvg-logo="http://i.ibb.co/Z8dBm6s/ROCK-FM.png" group-title="RADYO",ROCK FM
+https://rockfm.rockfm.com.tr:9450/stream
 #EXTINF:-1 tvg-id="Kral Pop Radyo-TR" tvg-logo="http://i.ibb.co/4wkfQTH/KRAL-POP-RADYO.png" group-title="RADYO",KRAL POP RADYO
 http://kralpopwmp.radyotvonline.com:80/;
 #EXTINF:-1 tvg-id="SlowTurk.tr" tvg-logo="http://i.ibb.co/rHgYB6x/SLOW-TIRK.png" group-title="RADYO",SLOW TÜRK
@@ -547,6 +575,8 @@ https://radyo.duhnet.tv/slowturk
 http://46.20.3.229/;
 #EXTINF:-1 tvg-logo="http://i.ibb.co/7kXPNf3/RADYO-D.png" group-title="RADYO",RADYO D
 https://radyo.duhnet.tv/radyod
+#EXTINF:-1 tvg-logo="http://i.ibb.co/Wtd4Q1d/TGRT-FM.png" group-title="RADYO",TGRT FM
+https://5e6ab1e5b06a6.streamlock.net/tgrtfm_live/tgrtfm_yuksek/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/whyg0wZ/RADYO-7.png" group-title="RADYO",RADYO 7
 http://46.20.3.251/stream/169/
 #EXTINF:-1 tvg-id="Kral FM-TR" tvg-logo="http://i.ibb.co/n0Sg3wf/KRAL-FM.png" group-title="RADYO",KRAL FM
@@ -559,3 +589,19 @@ http://37.247.100.100/best/babaradyo.stream/playlist.m3u8
 https://18463.live.streamtheworld.com/METRO_FM128AAC.aac
 #EXTINF:-1 tvg-logo="http://i.ibb.co/hyV9Ttq/VIRGIN-RADIO.png" group-title="RADYO",VIRGIN RADIO
 https://17703.live.streamtheworld.com/VIRGIN_RADIOAAC.aac
+#EXTINF:-1 tvg-logo="http://i.ibb.co/tXj42Vs/NR1-FM.png" group-title="RADYO",NR1 FM
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2f95dcb16_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/CmXKkVp/NR1-TURK-FM.png" group-title="RADYO",NR1 TÜRK FM
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e30cf8d28e_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/nfX4b0R/POWER-FM.png" group-title="RADYO",POWER FM
+https://listen.powerapp.com.tr/powerfm/abr/powerfm/128/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/TqsZsbt/POWERTURK-FM.png" group-title="RADYO",POWERTÜRK FM
+https://listen.powerapp.com.tr/powerturk/abr/powerturk/128/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/VDr4khX/POWER-PLUS.png" group-title="RADYO",POWER PLUS
+https://listen.powerapp.com.tr/powerplus/abr/powerplus/128/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/jLQKF6d/RADYO-FENOMEN.png" group-title="RADYO",RADYO FENOMEN
+https://listen.radyofenomen.com/fenomen/128/icecast.audio
+#EXTINF:-1 tvg-logo="http://i.ibb.co/LdWRMwK/RADYO-EKSEN.png" group-title="RADYO",RADYO EKSEN
+http://eksenwmp.radyotvonline.com/;
+#EXTINF:-1 tvg-logo="http://i.ibb.co/jfDnBzx/RADYO-VOYAGE.png" group-title="RADYO",RADYO VOYAGE
+http://voyagewmp.radyotvonline.com/;
