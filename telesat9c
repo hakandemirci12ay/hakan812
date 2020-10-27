@@ -5,13 +5,13 @@ http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/53549
 http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/37458
 #EXTINF:-1 tvg-id="fx.tr" tvg-logo="http://i.ibb.co/Z8WGPNK/FX.png" group-title="DİZİ",FX
 http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/37460
-#EXTINF:-1 tvg-id="fox.crime.tr" tvg-logo="http://i.ibb.co/884njYg/FOXCRIME.png" group-title="DİZİ",FOXCRIME
+#EXTINF:-1 tvg-id="foxcrime.tr" tvg-logo="http://i.ibb.co/884njYg/FOXCRIME.png" group-title="DİZİ",FOXCRIME
 http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/37459
 #EXTINF:-1 tvg-logo="http://i.ibb.co/6bn9Kds/BBC-FIRST.png" group-title="DİZİ",BBC FIRST
 http://new.webplay.me:8080/Hul.khkn2233/Hul.khkn3322/61662
 #EXTINF:-1 tvg-id="bein.series.sci.fi.tr" tvg-logo="http://i.ibb.co/d4QMgwf/be-IN-SERIES-SCI-FI.png" group-title="DİZİ",beIN SERIES SCI-FI
 http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/37413
-#EXTINF:-1 tvg-id="DizimaxComedy.tr" tvg-logo="http://i.ibb.co/bz09Sjg/be-IN-SERIES-COMEDY.png" group-title="DİZİ",beIN SERIES COMEDY
+#EXTINF:-1 tvg-id="bein.series.comedy.tr" tvg-logo="http://i.ibb.co/bz09Sjg/be-IN-SERIES-COMEDY.png" group-title="DİZİ",beIN SERIES COMEDY
 http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/37412
 #EXTINF:-1 tvg-id="bein.series.vice.tr" tvg-logo="http://i.ibb.co/j62V8pM/be-IN-SERIES-VICE.png" group-title="DİZİ",beIN SERIES VICE
 http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/37410
@@ -45,7 +45,7 @@ http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/37431
 http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/37432
 #EXTINF:-1 tvg-id="moviesmart.gold.tr" tvg-logo="http://i.ibb.co/44R4DrB/MOVIESMART-GOLD.png" group-title="SİNEMA",MOVIESMART GOLD
 http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/37435
-#EXTINF:-1 tvg-id="MovieSmartAction.tr" tvg-logo="http://i.ibb.co/kx4Kz4z/MOVIESMART-ACTION.png" group-title="SİNEMA",MOVIESMART ACTION
+#EXTINF:-1 tvg-id="moviesmart.action.tr" tvg-logo="http://i.ibb.co/kx4Kz4z/MOVIESMART-ACTION.png" group-title="SİNEMA",MOVIESMART ACTION
 http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/37434
 #EXTINF:-1 tvg-id="moviesmart.fest.tr" tvg-logo="http://i.ibb.co/b6RFMy1/MOVIESMART-FEST.png" group-title="SİNEMA",MOVIESMART FEST
 http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/37427
