@@ -120,7 +120,7 @@ http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/5876
 #EXTINF:-1 tvg-id="TRTHaberHD.tr" tvg-logo="http://i.ibb.co/NTJVfrg/TRT-HABER.png" group-title="HABER",TRT HABER
 http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/5870
 #EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="http://i.ibb.co/qxrJRK9/KANAL-7.png" group-title="ULUSAL",KANAL 7
-http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/5935
+http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/58130
 #EXTINF:-1 tvg-logo="http://i.ibb.co/z7pPmww/CINE5-TV.png" group-title="ULUSAL",CINE5 TV
 http://new.webplay.me:8080/Hul.khkn2233/Hul.khkn3322/60079
 #EXTINF:-1 tvg-id="a2.tr" tvg-logo="http://i.ibb.co/HnV43sj/A2.png" group-title="ULUSAL",A2
@@ -294,7 +294,7 @@ http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/56268
 #EXTINF:-1 tvg-id="MTVLiveHD.tr" tvg-logo="http://i.ibb.co/hdMMZmG/MTV-LIVE-HD.png" group-title="MÜZİK",MTV LIVE
 http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/56342
 #EXTINF:-1 tvg-id="MTVHits.tr" tvg-logo="http://i.ibb.co/JpjWggN/MTV-HITS.png" group-title="MÜZİK",MTV HITS
-http://premium.mfreetv.com:443/hakdemir812/4114337aA/10784
+https://premium.mfreetv.com:443/hakdemir812/4114337aA/10784
 #EXTINF:-1 tvg-id="insight.tr" tvg-logo="http://i.ibb.co/cvdWrR9/INSIGHT-TV.png" group-title="YAŞAM",INSIGHT TV
 http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/56126
 #EXTINF:-1 tvg-id="E.tr" tvg-logo="http://i.ibb.co/4pyLV10/E-ENTERTAINMENT.png" group-title="YAŞAM",E! ENTERTAINMENT
@@ -302,7 +302,7 @@ http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/56384
 #EXTINF:-1 tvg-id="fashion.tr" tvg-logo="http://i.ibb.co/pwnpr9b/FASHION-TV.png" group-title="YAŞAM",FASHION TV
 http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/55808
 #EXTINF:-1 tvg-logo="http://i.ibb.co/sb8zzcs/FASHION-ONE.jpg" group-title="YAŞAM",FASHION ONE
-http//stream-06.ix7.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDIZz8Rc8MkGcVeNN-YCik5E)/dm/3/x67chk3/s/live-0.m3u8
+http://stream-06.ix7.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDIZz8Rc8MkGcVeNN-YCik5E)/dm/3/x67chk3/s/live-0.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/py5grQQ/WORLD-FASHION.png" group-title="YAŞAM",WORLD FASHION
 http://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_sdmid.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/BVmfgP0/BBC-ENTERTAINMENT.png" group-title="YAŞAM",BBC ENTERTAINMENT
@@ -328,7 +328,7 @@ http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/57724
 #EXTINF:-1 tvg-id="kazakhtv.tr" tvg-logo="http://i.ibb.co/Rp7TqH1/KAZAKH-TV.png" group-title="ULUSLARARASI",KAZAKH TV
 http://kazakhtv.ultraiptv.com/kazakhtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/ZhpY5GT/HAYAT-PLUS.png" group-title="ULUSLARARASI",HAYAT PLUS
-http://new.webplay.me:8080/Hul.khkn2233/Hul.khkn3322/68678
+http://dp.iptvport.com:7000/hfahqrjr/hfahqrjr/58305
 #EXTINF:-1 tvg-id="TRTAlArabiya.tr" tvg-logo="http://i.ibb.co/k5SxQYS/TRT-ARABI.png" group-title="ULUSLARARASI",TRT ARABI
 http://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="CNN.tr" tvg-logo="http://i.ibb.co/yXwYDT2/CNN-INTERNATIONAL.png" group-title="ULUSLARARASI",CNN INTERNATIONAL
@@ -502,7 +502,7 @@ http://tv.germanyservers.co:8000/yGWkOoeqHo/4114337aA/55775
 #EXTINF:-1 tvg-id="EgeTV.tr" tvg-logo="http://i.ibb.co/zVktfvq/EGE-TV.png" group-title="YEREL",EGE TV
 http://waw2.artiyerelmedya.net/egetv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="KIBRIS GENC TV-TR" tvg-logo="http://i.ibb.co/mR2NgXL/KIBRIS-GEN-TV.png" group-title="YEREL",KIBRIS GENÇ TV
-https://59cba4d34b678.streamlock.net/canlitv/kibrisgenctv/playlist.m3u8
+http://kuzeykibris.tv/m3u8/tv_genc.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/j6JzdDW/KANAL-T-KIBRIS.png" group-title="YEREL",KANAL T KIBRIS
 http://kuzeykibris.tv/m3u8/tv_kanalt.m3u8
 #EXTINF:-1 tvg-id="BRT 1-TR" tvg-logo="http://i.ibb.co/q0QhBTF/BRT-1.png" group-title="YEREL",BRT 1
