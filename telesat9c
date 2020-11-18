@@ -287,7 +287,7 @@ http://premium.germanyservers.co:8000/yGWkOoeqHo/sdcsdffs/56342
 https://premium.mfreetv.com:443/hakdemir812/4114337aA/10783
 #EXTINF:-1 tvg-id="Insight TV" tvg-logo="http://i.ibb.co/cvdWrR9/INSIGHT-TV.png" group-title="YAŞAM",INSIGHT TV
 http://premium.germanyservers.co:8000/yGWkOoeqHo/sdcsdffs/56126
-#EXTINF:-1 tvg-id="E.tr" tvg-logo="http://i.ibb.co/4pyLpremium0/E-ENTERTAINMENT.png" group-title="YAŞAM",E! ENTERTAINMENT
+#EXTINF:-1 tvg-id="E.tr" tvg-logo="http://i.ibb.co/4pyLV10/E-ENTERTAINMENT.png" group-title="YAŞAM",E! ENTERTAINMENT
 http://premium.germanyservers.co:8000/yGWkOoeqHo/sdcsdffs/56384
 #EXTINF:-1 tvg-id="Fashion TV HD" tvg-logo="http://i.ibb.co/pwnpr9b/FASHION-TV.png" group-title="YAŞAM",FASHION TV
 http://premium.germanyservers.co:8000/yGWkOoeqHo/sdcsdffs/55808
@@ -437,7 +437,7 @@ http://premium.germanyservers.co:8000/yGWkOoeqHo/sdcsdffs/5865
 https://broadcasttr.com:446/linetv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="RTV 23" tvg-logo="http://i.ibb.co/wSRfmHP/KANAL-23.png" group-title="YEREL",KANAL 23
 http://cdn13-kanal23.yayin.com.tr/kanal23/ngrp:kanal23/playlist.m3u8
-#EXTINF:-1 tvg-id="Sat 7 Türk" tvg-logo="http://i.ibb.co/premiumhPWTz/SAT-7-TURK.png" group-title="YEREL",SAT7 TÜRK
+#EXTINF:-1 tvg-id="Sat 7 Türk" tvg-logo="http://i.ibb.co/v1hPWTz/SAT-7-TURK.png" group-title="YEREL",SAT7 TÜRK
 https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="Kanal Fırat" tvg-logo="http://i.ibb.co/9474891/KANAL-FIRAT.png" group-title="YEREL",KANAL FIRAT
 http://waw2.artiyerelmedya.net/kanalfirat/bant1/playlist.m3u8
@@ -465,7 +465,7 @@ https://59cba4d34b678.streamlock.net/canlitv/tv35/playlist.m3u8
 http://premium.germanyservers.co:8000/yGWkOoeqHo/sdcsdffs/5917
 #EXTINF:-1 tvg-id="Altaş TV" tvg-logo="http://i.ibb.co/rMz0BtW/ALTAS-TV.png" group-title="YEREL",ALTAŞ TV
 http://stream.taksimbilisim.com:1935/altastv/bant1/chunklist.m3u8
-#EXTINF:-1 tvg-id="Mavi Karadeniz" tvg-logo="http://i.ibb.co/r47Vpremium5/MAVI-KARADENIZ.png" group-title="YEREL",MAVİ KARADENİZ
+#EXTINF:-1 tvg-id="Mavi Karadeniz" tvg-logo="http://i.ibb.co/r47Vv15/MAVI-KARADENIZ.png" group-title="YEREL",MAVİ KARADENİZ
 http://premium.germanyservers.co:8000/yGWkOoeqHo/sdcsdffs/5908
 #EXTINF:-1 tvg-id="Vatan TV" tvg-logo="http://i.ibb.co/x1mSnSk/VATAN.png" group-title="YEREL",VATAN
 http://premium.germanyservers.co:8000/yGWkOoeqHo/sdcsdffs/5914
@@ -563,7 +563,7 @@ https://radio-trtnagme.live.trt.com.tr/master.m3u8
 https://radio-trtturku.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/z77Kt3x/POL-S-RADYOSU.png" group-title="RADYO",POLİS RADYOSU
 https://m.egm.gov.tr:8093/;
-#EXTINF:-1 tvg-logo="http://i.ibb.co/YBpremiumpf6/CNN-TURK-RADYO.png" group-title="RADYO",CNN TURK RADYO
+#EXTINF:-1 tvg-logo="http://i.ibb.co/YBV2pf6/CNN-TURK-RADYO.png" group-title="RADYO",CNN TURK RADYO
 https://radyo.duhnet.tv/cnnturk
 #EXTINF:-1 tvg-id="BestFM.tr" tvg-logo="http://i.ibb.co/tBxQg5B/BEST-FM.png" group-title="RADYO",BEST FM
 http://37.247.100.100:80/best/bestfm.stream/playlist.m3u8
