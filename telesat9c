@@ -68,7 +68,7 @@ http://v4.germanyservers.co:8000/yGWkOoeqHo/sdcsdffs/46070
 #EXTINF:-1 tvg-id="Sinema Yerli 2" tvg-logo="http://i.ibb.co/9t6hvkV/SINEMA-YERLI-2.png" group-title="SİNEMA",SİNEMA YERLİ 2
 http://v4.germanyservers.co:8000/yGWkOoeqHo/sdcsdffs/46071
 #EXTINF:-1 tvg-id="Sinema Komedi" tvg-logo="http://i.ibb.co/HG96VN8/SINEMA-KOMEDI.png" group-title="SİNEMA",SİNEMA KOMEDİ
-http://premium.mfreetv.com:443/hakdemir812/4114337aA/4562
+https://premium.mfreetv.com:443/hakdemir812/4114337aA/4562
 #EXTINF:-1 tvg-id="Sinema Komedi 2" tvg-logo="http://i.ibb.co/wzrvvg3/SINEMA-KOMEDI-2.png" group-title="SİNEMA",SİNEMA KOMEDİ 2
 http://v4.germanyservers.co:8000/yGWkOoeqHo/sdcsdffs/46069
 #EXTINF:-1 tvg-id="Sinema Aile" tvg-logo="http://i.ibb.co/bsQzRPH/SINEMA-AILE.png" group-title="SİNEMA",SİNEMA AİLE
@@ -165,8 +165,6 @@ https://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8
 http://v4.germanyservers.co:8000/yGWkOoeqHo/sdcsdffs/5985
 #EXTINF:-1 tvg-id="24Kitchen" tvg-logo="http://i.ibb.co/TbTRT1b/24-KITCHEN.png" group-title="YAŞAM",24 KITCHEN
 http://v4.germanyservers.co:8000/yGWkOoeqHo/sdcsdffs/35085
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0B1YnFX/LUXE-TV.png" group-title="YAŞAM",24 KITCHEN
-https://premium.mfreetv.com:443/hakdemir812/4114337aA/24366
 #EXTINF:-1 tvg-id="Uçan Kuş TV" tvg-logo="http://i.ibb.co/2gHKxnZ/UCANKU-TV.png" group-title="ULUSAL",UÇANKUŞ TV
 http://v4.germanyservers.co:8000/yGWkOoeqHo/sdcsdffs/27474
 #EXTINF:-1 tvg-id="TRT AVAZ" tvg-logo="http://i.ibb.co/8ssHtDC/TRT-AVAZ.png" group-title="ULUSAL",TRT AVAZ
@@ -216,7 +214,7 @@ http://v4.germanyservers.co:8000/yGWkOoeqHo/sdcsdffs/36884
 #EXTINF:-1 tvg-logo="http://i.ibb.co/gRd38q9/FUEL-TV.png" group-title="SPOR",FUEL TV
 http://v4.germanyservers.co:8000/yGWkOoeqHo/sdcsdffs/57619
 #EXTINF:-1 tvg-logo="http://i.ibb.co/Z8ZNH2t/MOTORVISION-TV.png" group-title="SPOR",MOTORVISION TV
-http://v4.germanyservers.co:8000/yGWkOoeqHo/sdcsdffs/57637
+http://v4.germanyservers.co:8000/yGWkOoeqHo/sdcsdffs/56170
 #EXTINF:-1 tvg-id="nba.tr" tvg-logo="http://i.ibb.co/dG3YrL8/NBA-TV.png" group-title="SPOR",NBA TV
 http://v4.germanyservers.co:8000/yGWkOoeqHo/sdcsdffs/5984
 #EXTINF:-1 tvg-id="Tivibu Spor" tvg-logo="http://i.ibb.co/84Z9ZBH/TIVIBU-SPOR.png" group-title="SPOR",TİVİBU SPOR
@@ -243,12 +241,8 @@ http://v4.germanyservers.co:8000/yGWkOoeqHo/sdcsdffs/46531
 http://v4.germanyservers.co:8000/yGWkOoeqHo/sdcsdffs/58124
 #EXTINF:-1 tvg-id="Fight Network" tvg-logo="http://i.ibb.co/G7CYMZq/FIGHT-NETWORK.png" group-title="SPOR",FIGHT NETWORK
 http://v4.germanyservers.co:8000/yGWkOoeqHo/sdcsdffs/58119
-#EXTINF:-1 tvg-logo="http://i.ibb.co/nBpwqCn/MYZEN-TV.png" group-title="YAŞAM",MYZEN TV
-http://premium.mfreetv.com:443/hakdemir812/4114337aA/13097
 #EXTINF:-1 tvg-logo="http://i.ibb.co/3WvSMJZ/MCM-POP.png" group-title="MÜZİK",MCM POP
 http://v4.germanyservers.co:8000/yGWkOoeqHo/sdcsdffs/48779
-#EXTINF:-1 tvg-id="MCM Top HD" tvg-logo="http://i.ibb.co/yRTq5m0/MCM-TOP.png" group-title="MÜZİK",MCM TOP
-https://premium.mfreetv.com:443/hakdemir812/4114337aA/24654
 #EXTINF:-1 tvg-id="Mezzo HD" tvg-logo="http://i.ibb.co/QdwLQJm/MEZZO.png" group-title="MÜZİK",MEZZO
 http://v4.germanyservers.co:8000/yGWkOoeqHo/sdcsdffs/56345
 #EXTINF:-1 tvg-id="VH1" tvg-logo="http://i.ibb.co/fFTfGbB/VH1.png" group-title="MÜZİK",VH-1
