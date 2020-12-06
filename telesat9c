@@ -493,8 +493,12 @@ https://59cba4d34b678.streamlock.net/canlitv/tv35/playlist.m3u8
 http://premium.germanyservers.co:8000/yGWkOoeqHo/4114337aA/5917
 #EXTINF:-1 tvg-logo="http://i.ibb.co/rMz0BtW/ALTAS-TV.png" group-title="YEREL",ALTAŞ TV
 https://broadcasttr.com:446/altastv/smil:altastv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/SJk9wqJ/BEYKENT-TV.png" group-title="YEREL",BEYKENT TV
+https://beykenttv.arsivnet.net/P62039948/beykenttv/playlist.m3u8
 #EXTINF:-1 tvg-id="Mavi Karadeniz" tvg-logo="http://i.ibb.co/r47Vv15/MAVI-KARADENIZ.png" group-title="YEREL",MAVİ KARADENİZ
 http://premium.germanyservers.co:8000/yGWkOoeqHo/4114337aA/5908
+#EXTINF:-1 tvg-logo="http://i.ibb.co/x1mSnSk/VATAN.png" group-title="YEREL",VATAN
+http://iptvmasterlink.dyndns.org:5566/Entry/vatantv_yeni.m3u8
 #EXTINF:-1 tvg-id="Uzay TV" tvg-logo="http://i.ibb.co/fCB6V0j/UZAY-HABER.png" group-title="YEREL",UZAY HABER
 http://premium.germanyservers.co:8000/yGWkOoeqHo/4114337aA/55775
 #EXTINF:-1 tvg-id="Ege TV" tvg-logo="http://i.ibb.co/zVktfvq/EGE-TV.png" group-title="YEREL",EGE TV
