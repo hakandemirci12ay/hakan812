@@ -187,6 +187,8 @@ http://premium.germanyservers.co:8000/yGWkOoeqHo/4114337aA/5886
 http://premium.germanyservers.co:8000/yGWkOoeqHo/4114337aA/5977
 #EXTINF:-1 tvg-id="Eurosport 2 HD" tvg-logo="http://i.ibb.co/QJCMB9b/EUROSPORT-2.png" group-title="SPOR",EUROSPORT 2
 http://premium.germanyservers.co:8000/yGWkOoeqHo/4114337aA/5976
+#EXTINF:-1 tvg-logo="http://i.ibb.co/xhZQCWt/EDGE-SPORT.png" group-title="SPOR",EDGE SPORT
+https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/2jXjzdM/EXTREME-SPORTS.png" group-title="SPOR",EXTREME SPORTS
 http://premium.germanyservers.co:8000/yGWkOoeqHo/4114337aA/56360
 #EXTINF:-1 tvg-id="FB TV HD" tvg-logo="http://i.ibb.co/x3DSyyJ/FB-TV.png" group-title="SPOR",FB TV
