@@ -385,6 +385,8 @@ http://premium.germanyservers.co:8000/yGWkOoeqHo/4114337aA/56737
 http://premium.germanyservers.co:8000/yGWkOoeqHo/4114337aA/56734
 #EXTINF:-1 tvg-id="Saudi Sunnah TV" tvg-logo="http://i.ibb.co/RNzv7TF/AL-SUNNAH-AL-NABAWIYAH.png" group-title="ULUSLARARASI",AL SUNNAH AL NABAWIYAH
 http://premium.germanyservers.co:8000/yGWkOoeqHo/4114337aA/56736
+#EXTINF:-1 tvg-logo="http://i.ibb.co/Pzbzn69/TVE-INTERNACIONAL.png" group-title="ULUSLARARASI",TVE INTERNACIONAL
+http://live.playlig.com:8080/Hul.khkn2233/Hul.khkn3322/64006
 #EXTINF:-1 tvg-logo="http://i.ibb.co/Z2z6r9H/24-HORAS.png" group-title="ULUSLARARASI",24 HORAS
 http://premium.germanyservers.co:8000/yGWkOoeqHo/4114337aA/57263
 #EXTINF:-1 tvg-logo="http://i.ibb.co/zGxkgh3/SAT1.png" group-title="ULUSLARARASI",SAT 1
@@ -436,7 +438,7 @@ http://premium.germanyservers.co:8000/yGWkOoeqHo/4114337aA/53544
 #EXTINF:-1 tvg-id="CGTN DOCUMENTARY HD" tvg-logo="http://i.ibb.co/7JvG5WX/CGTN-DOCUMENTARY.png"  group-title="BELGESEL",CGTN DOCUMENTARY
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/vzLZ6p7/RTG-INT.png" group-title="BELGESEL",RTG INT
-http://mfe.cliptv.az/dash/RTG_HD.ism/playlist.mpd
+http://live.playlig.com:8080/Hul.khkn2233/Hul.khkn3322/72792
 #EXTINF:-1 tvg-id="KON TV" tvg-logo="http://i.ibb.co/ZXjHWWV/KON-TV.png" group-title="YEREL",KON TV
 https://59cba4d34b678.streamlock.net/live/kontv/playlist.m3u8
 #EXTINF:-1 tvg-id="TV4" tvg-logo="http://i.ibb.co/rvQRhc1/TV-4.png" group-title="YEREL",TV 4
