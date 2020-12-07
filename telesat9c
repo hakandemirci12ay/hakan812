@@ -521,13 +521,13 @@ https://59cba4d34b678.streamlock.net/live/kanal38/playlist.m3u8
 https://waw2.artiyerelmedya.net/tv41/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/jrtKfy1/KANAL-33.jpg" group-title="YEREL",KANAL 33
 https://broadcasttr.com:446/kanal33/smil:kanal33.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GT29mwj/ELMAS-67.jpg" group-title="YEREL",KANAL 33
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GT29mwj/ELMAS-67.jpg" group-title="YEREL",ELMAS 67
 https://5be5d840359c6.streamlock.net/elmas67tv/elmas67tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/MhtPfvQ/DRT-DEN-ZL.jpg" group-title="YEREL",DRT DENİZLİ
 https://broadcasttr.com:446/drt/smil:drt.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/g6JZVgZ/KAY-TV.jpg" group-title="YEREL",KAY TV
 https://waw2.artiyerelmedya.net/kaytv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.ibb.co/jkzz8FV/SUN-TV-MERS-N.png" group-title="YEREL",KAY TV
+#EXTINF:-1 tvg-logo="http://i.ibb.co/jkzz8FV/SUN-TV-MERS-N.png" group-title="YEREL",SUN TV MERSİN
 https://cdn-suntv.yayin.com.tr/suntv/suntv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/5GxMZRm/KANAL-Z.png" group-title="YEREL",KANAL Z
 https://waw2.artiyerelmedya.net/kanalz/bant1/playlist.m3u8
