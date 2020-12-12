@@ -50,7 +50,7 @@ http://premium.germanyservers.co:8000/yGWkOoeqHo/chkjhqrs/37434
 #EXTINF:-1 tvg-id="MovieSmart Fest" tvg-logo="http://i.ibb.co/b6RFMy1/MOVIESMART-FEST.png" group-title="SİNEMA",MOVIESMART FEST
 http://premium.germanyservers.co:8000/yGWkOoeqHo/chkjhqrs/37427
 #EXTINF:-1 tvg-id="MovieSmart Family" tvg-logo="http://i.ibb.co/vJ3ZCMW/MOVIESMART-FAMILY.png" group-title="SİNEMA",MOVIESMART FAMILY
-http://premium.germanyservers.co:8000/yGWkOoeqHo/chkjhqrs/37433
+http://premium.germanyservers.co:8000/yGWkOoeqHo/chkjhqrs/55749
 #EXTINF:-1 tvg-id="MovieSmart Classic" tvg-logo="http://i.ibb.co/Lx0q8vq/MOVIESMART-CLASSIC.png" group-title="SİNEMA",MOVIESMART CLASSIC
 http://premium.germanyservers.co:8000/yGWkOoeqHo/chkjhqrs/37436
 #EXTINF:-1 tvg-id="MovieSmart Türk" tvg-logo="http://i.ibb.co/K7dZWgk/MOVIESMART-T-RK.png" group-title="SİNEMA",MOVIESMART TÜRK
@@ -72,7 +72,7 @@ http://premium.germanyservers.co:8000/yGWkOoeqHo/chkjhqrs/55830
 #EXTINF:-1 tvg-id="Sinema Komedi 2" tvg-logo="http://i.ibb.co/wzrvvg3/SINEMA-KOMEDI-2.png" group-title="SİNEMA",SİNEMA KOMEDİ 2
 http://premium.germanyservers.co:8000/yGWkOoeqHo/chkjhqrs/46069
 #EXTINF:-1 tvg-id="Sinema Aile" tvg-logo="http://i.ibb.co/bsQzRPH/SINEMA-AILE.png" group-title="SİNEMA",SİNEMA AİLE
-http://premium.germanyservers.co:8000/yGWkOoeqHo/chkjhqrs/46064
+http://premium.germanyservers.co:8000/yGWkOoeqHo/chkjhqrs/55826
 #EXTINF:-1 tvg-id="Sinema Aile 2" tvg-logo="http://i.ibb.co/kBhj937/SINEMA-AILE-2.png" group-title="SİNEMA",SİNEMA AİLE 2
 http://premium.germanyservers.co:8000/yGWkOoeqHo/chkjhqrs/46065
 #EXTINF:-1 tvg-id="Sinema 1001" tvg-logo="http://i.ibb.co/PTCQ2pr/SINEMA-1001.png" group-title="SİNEMA",SİNEMA 1001
@@ -91,8 +91,6 @@ http://premium.germanyservers.co:8000/yGWkOoeqHo/chkjhqrs/53550
 http://premium.germanyservers.co:8000/yGWkOoeqHo/chkjhqrs/56478
 #EXTINF:-1 tvg-id="TRT 4K" tvg-logo="http://i.ibb.co/d5DZ7JM/TRT-4K.png" group-title="ULTRA HD",TRT 4K
 http://premium.germanyservers.co:8000/yGWkOoeqHo/chkjhqrs/35082
-#EXTINF:-1 tvg-id="Ambiance" tvg-logo="http://i.ibb.co/9bCYzX7/STINGRAY-AMBIANCE.png" group-title="MÜZİK",STINGRAY AMBIANCE
-http://premium.germanyservers.co:8000/yGWkOoeqHo/chkjhqrs/56121
 #EXTINF:-1 tvg-id="ShowMax" tvg-logo="http://i.ibb.co/6XKxxRB/SHOW-MAX.png" group-title="YAŞAM",SHOW MAX
 http://premium.germanyservers.co:8000/yGWkOoeqHo/chkjhqrs/5921
 #EXTINF:-1 tvg-id="Show TV HD" tvg-logo="http://i.ibb.co/d6TDsHY/SHOW-TV.png" group-title="ULUSAL",SHOW TV
@@ -130,7 +128,7 @@ http://premium.germanyservers.co:8000/yGWkOoeqHo/chkjhqrs/5933
 #EXTINF:-1 tvg-id="TV 100 HD" tvg-logo="http://i.ibb.co/rGfsnNt/TV-100.png" group-title="HABER",TV 100
 http://premium.germanyservers.co:8000/yGWkOoeqHo/chkjhqrs/35737
 #EXTINF:-1 tvg-id="Ülke TV HD" tvg-logo="http://i.ibb.co/qMxs4Sy/ULKE-TV.png" group-title="HABER",ULKE TV
-http://premium.germanyservers.co:8000/yGWkOoeqHo/chkjhqrs/27483
+http://premium.germanyservers.co:8000/yGWkOoeqHo/chkjhqrs/5878
 #EXTINF:-1 tvg-id="TVNET HD" tvg-logo="http://i.ibb.co/Sd7xdFc/TVNET.png" group-title="HABER",TVNET
 http://premium.germanyservers.co:8000/yGWkOoeqHo/chkjhqrs/5882
 #EXTINF:-1 tvg-id="KANAL 24 HD" tvg-logo="http://i.ibb.co/Tm59DQJ/24.png" group-title="HABER",24
@@ -167,8 +165,6 @@ https://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8
 http://premium.germanyservers.co:8000/yGWkOoeqHo/chkjhqrs/5985
 #EXTINF:-1 tvg-id="24Kitchen" tvg-logo="http://i.ibb.co/TbTRT1b/24-KITCHEN.png" group-title="YAŞAM",24 KITCHEN
 http://premium.germanyservers.co:8000/yGWkOoeqHo/chkjhqrs/35085
-#EXTINF:-1 tvg-id="Bizimev Tv" tvg-logo="http://i.ibb.co/vXdPcBX/BIZIMEV-TV.png" group-title="YAŞAM",BİZİMEV TV
-https://www.yilmaztv.com/oz/oz.php?channel=bizimev-tv&stream=1&id=14436&p=4d1bcbc76a262eaaf40998466b705c95&type=m3u8
 #EXTINF:-1 tvg-id="Uçan Kuş TV" tvg-logo="http://i.ibb.co/2gHKxnZ/UCANKU-TV.png" group-title="ULUSAL",UÇANKUŞ TV
 http://premium.germanyservers.co:8000/yGWkOoeqHo/chkjhqrs/27474
 #EXTINF:-1 tvg-logo="http://i.ibb.co/c6FZhrm/TRT-3.png" group-title="HABER",TRT 3
