@@ -165,6 +165,8 @@ https://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8
 http://premium.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/5985
 #EXTINF:-1 tvg-id="24Kitchen" tvg-logo="http://i.ibb.co/TbTRT1b/24-KITCHEN.png" group-title="YAŞAM",24 KITCHEN
 http://premium.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/35085
+#EXTINF:-1 tvg-logo="http://i.ibb.co/wsmgWWJ/BIZIMEV-TV.png" group-title="YAŞAM",BİZİMEV TV
+https://www.yilmaztv.com/oz/oz.php?channel=kadirga-tv&stream=1&id=14436&p=4d1bcbc76a262eaaf40998466b705c95&type=m3u8
 #EXTINF:-1 tvg-id="Uçan Kuş TV" tvg-logo="http://i.ibb.co/2gHKxnZ/UCANKU-TV.png" group-title="ULUSAL",UÇANKUŞ TV
 http://premium.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/27474
 #EXTINF:-1 tvg-logo="http://i.ibb.co/c6FZhrm/TRT-3.png" group-title="HABER",TRT 3
