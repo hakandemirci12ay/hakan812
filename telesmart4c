@@ -1,219 +1,119 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="FOX LIFE HD" tvg-logo="http://i.ibb.co/WkDsVR4/FOXLIFE.png" group-title="DİZİ",FOXLIFE
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4585
 #EXTINF:-1 tvg-id="FX HD" tvg-logo="http://i.ibb.co/Z8WGPNK/FX.png" group-title="DİZİ",FX
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4584
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/253
 #EXTINF:-1 tvg-id="FOX CRIME HD" tvg-logo="http://i.ibb.co/884njYg/FOXCRIME.png" group-title="DİZİ",FOXCRIME
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4586
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/255
 #EXTINF:-1 tvg-id="Dizimax Sci-fi" tvg-logo="https://i.ibb.co/d4QMgwf/be-IN-SERIES-SCI-FI.png" group-title="DİZİ",beIN SERIES SCI-FI
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4589
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/251
 #EXTINF:-1 tvg-id="Dizimax Comedy" tvg-logo="https://i.ibb.co/bz09Sjg/be-IN-SERIES-COMEDY.png" group-title="DİZİ",beIN SERIES COMEDY
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4591
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/249
 #EXTINF:-1 tvg-id="Dizimax Vice" tvg-logo="https://i.ibb.co/j62V8pM/be-IN-SERIES-VICE.png" group-title="DİZİ",beIN SERIES VICE
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4588
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/252
 #EXTINF:-1 tvg-id="Dizimax Drama" tvg-logo="https://i.ibb.co/kSX0WNM/be-IN-SERIES-DRAMA.png" group-title="DİZİ",beIN SERIES DRAMA
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4590
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/250
 #EXTINF:-1 tvg-id="Dizi Premium HD-TR" tvg-logo="http://i.ibb.co/fMBsgbM/DIZISMART-PREMIUM.png" group-title="DİZİ",DİZİSMART PREMIUM
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4581
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/3755
 #EXTINF:-1 tvg-id="Dizi Smart Max-TR" tvg-logo="http://i.ibb.co/W3jQJXS/DIZISMART-MAX.png" group-title="DİZİ",DİZİSMART MAX
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/8102
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/54925
 #EXTINF:-1 tvg-id="Moviemax Premier" tvg-logo="https://i.ibb.co/3mRRxxM/be-IN-MOVIES-PREMIERE.png" group-title="SİNEMA",beIN MOVIES PREMIERE
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4598
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/245
 #EXTINF:-1 tvg-id="Moviemax Premier 2" tvg-logo="https://i.ibb.co/hXZLW2R/be-IN-MOVIES-PREMIERE-2.png" group-title="SİNEMA",beIN MOVIES PREMIERE 2
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4597
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/246
 #EXTINF:-1 tvg-id="Moviemax Stars" tvg-logo="https://i.ibb.co/5TrCZKz/be-IN-MOVIES-STARS.png" group-title="SİNEMA",beIN MOVIES STARS
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4593
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/247
 #EXTINF:-1 tvg-id="Moviemax Action" tvg-logo="https://i.ibb.co/0MhshK1/be-IN-MOVIES-ACTION.png" group-title="SİNEMA",beIN MOVIES ACTION
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4596
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/242
 #EXTINF:-1 tvg-id="Moviemax Action 2" tvg-logo="https://i.ibb.co/x8SG5Fg/be-IN-MOVIES-ACTION-2.png" group-title="SİNEMA",beIN MOVIES ACTION 2
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4595
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/243
 #EXTINF:-1 tvg-id="Moviemax Family" tvg-logo="https://i.ibb.co/jr5PKT1/be-IN-MOVIES-FAMILY.png" group-title="SİNEMA",beIN MOVIES FAMILY
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4594
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/244
 #EXTINF:-1 tvg-id="Moviemax Turk" tvg-logo="https://i.ibb.co/CW8n20C/be-IN-MOVIES-T-RK.png" group-title="SİNEMA",beIN MOVIES TURK
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4592
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/248
 #EXTINF:-1 tvg-id="MovieSmart Premium HD-TR" tvg-logo="http://i.ibb.co/gSbRLZ5/MOVIESMART-PREMIUM.png" group-title="SİNEMA",MOVIESMART PREMIUM
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4583
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/294
 #EXTINF:-1 tvg-id="MovieSmart Premium 2 HD-TR" tvg-logo="http://i.ibb.co/pXCkgG7/MOVIESMART-PREMIUM-2.png" group-title="SİNEMA",MOVIESMART PREMIUM 2
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4582
-#EXTINF:-1 tvg-id="MovieSmart Platin HD-TR" tvg-logo="http://i.ibb.co/WzwPD3V/MOVIESMART-PLATIN.png" group-title="SİNEMA",MOVIESMART PLATIN
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4575
-#EXTINF:-1 tvg-id="MovieSmart Platin 2 HD-TR" tvg-logo="http://i.ibb.co/Kxx7wjK/MOVIESMART-PLATIN-2.png" group-title="SİNEMA",MOVIESMART PLATIN 2
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4574
-#EXTINF:-1 tvg-id="MovieSmart Gold HD-TR" tvg-logo="http://i.ibb.co/44R4DrB/MOVIESMART-GOLD.png" group-title="SİNEMA",MOVIESMART GOLD
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4576
-#EXTINF:-1 tvg-id="MovieSmart Action HD-TR" tvg-logo="http://i.ibb.co/kx4Kz4z/MOVIESMART-ACTION.png" group-title="SİNEMA",MOVIESMART ACTION
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4580
-#EXTINF:-1 tvg-id="MovieSmart Fest HD-TR" tvg-logo="http://i.ibb.co/b6RFMy1/MOVIESMART-FEST.png" group-title="SİNEMA",MOVIESMART FEST
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4577
-#EXTINF:-1 tvg-id="MovieSmart Family HD-TR" tvg-logo="http://i.ibb.co/vJ3ZCMW/MOVIESMART-FAMILY.png" group-title="SİNEMA",MOVIESMART FAMILY
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4578
-#EXTINF:-1 tvg-id="MovieSmart Classic HD-TR" tvg-logo="http://i.ibb.co/Lx0q8vq/MOVIESMART-CLASSIC.png" group-title="SİNEMA",MOVIESMART CLASSIC
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4579
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/54967
 #EXTINF:-1 tvg-id="MovieSmart Türk HD-TR" tvg-logo="http://i.ibb.co/K7dZWgk/MOVIESMART-T-RK.png" group-title="SİNEMA",MOVIESMART TÜRK
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4573
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/295
 #EXTINF:-1 tvg-id="SİNEMA TV HD" tvg-logo="http://i.ibb.co/bL15kbq/SINEMA-TV.png" group-title="SİNEMA",SİNEMA TV
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4572
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/3984
 #EXTINF:-1 tvg-id="SİNEMA 2 HD" tvg-logo="http://i.ibb.co/8s9Jq20/SINEMA-2.png" group-title="SİNEMA",SİNEMA 2
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/8268
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/80584
 #EXTINF:-1 tvg-id="SİNEMA AKSİYON HD" tvg-logo="http://i.ibb.co/BBZ4HrH/SINEMA-AKSIYON.png" group-title="SİNEMA",SİNEMA AKSİYON
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4570
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/3985
 #EXTINF:-1 tvg-id="SİNEMA AKSİYON 2 HD" tvg-logo="http://i.ibb.co/PhMWXRy/SINEMA-AKSIYON-2.png" group-title="SİNEMA",SİNEMA AKSİYON 2
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/8272
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/80585
 #EXTINF:-1 tvg-id="SİNEMA YERLİ" tvg-logo="http://i.ibb.co/tsJYvWN/SINEMA-YERLI.png" group-title="SİNEMA",SİNEMA YERLİ
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4564
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/73546
 #EXTINF:-1 tvg-id="SİNEMA YERLİ 2" tvg-logo="http://i.ibb.co/k6BKfr3/SINEMA-YERLI-2.png" group-title="SİNEMA",SİNEMA YERLİ 2
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/8273
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/79956
 #EXTINF:-1 tvg-id="SİNEMA KOMEDİ HD">" tvg-logo="http://i.ibb.co/HG96VN8/SINEMA-KOMEDI.png" group-title="SİNEMA",SİNEMA KOMEDİ
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4562
-#EXTINF:-1 tvg-id="SİNEMA KOMEDİ 2 HD">" tvg-logo="http://i.ibb.co/5n5TX0F/SINEMA-KOMEDI-2.png" group-title="SİNEMA",SİNEMA KOMEDİ 2
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/8270
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/3986
+EXTINF:-1 tvg-id="SİNEMA KOMEDİ 2 HD">" tvg-logo="http://i.ibb.co/5n5TX0F/SINEMA-KOMEDI-2.png" group-title="SİNEMA",SİNEMA KOMEDİ 2
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/80586
 #EXTINF:-1 tvg-id="SİNEMA AİLE HD" tvg-logo="http://i.ibb.co/bsQzRPH/SINEMA-AILE.png" group-title="SİNEMA",SİNEMA AİLE
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4568
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/46464
 #EXTINF:-1 tvg-id="SİNEMA AİLE 2 HD" tvg-logo="http://i.ibb.co/rdPp7CS/SINEMA-AILE-2.png" group-title="SİNEMA",SİNEMA AİLE 2
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/8269
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/79955
 #EXTINF:-1 tvg-id="SİNEMA 1001 HD" tvg-logo="http://i.ibb.co/PTCQ2pr/SINEMA-1001.png" group-title="SİNEMA",SİNEMA 1001
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4566
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/79957
 #EXTINF:-1 tvg-id="SİNEMA 1002" tvg-logo="http://i.ibb.co/0t6pPmx/SINEMA-1002.png" group-title="SİNEMA",SİNEMA 1002
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/8271
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/79954
 #EXTINF:-1 tvg-id="İZ HD" tvg-logo="https://i.ibb.co/NCr2Y5D/beIN-Z.png" group-title="BELGESEL",beIN İZ
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4657
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/330
 #EXTINF:-1 tvg-id="Turkmax Gurme HD" tvg-logo="https://i.ibb.co/k5Lr29h/be-IN-GURME.png" group-title="YAŞAM",beIN GURME
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4709
-#EXTINF:-1 tvg-logo="http://i.ibb.co/d5DZ7JM/TRT-4K.png" group-title="ULTRA HD",TRT 4K
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/6278
-#EXTINF:-1 tvg-id="Show TV HD" tvg-logo="http://i.ibb.co/d6TDsHY/SHOW-TV.png" group-title="ULUSAL",SHOW TV
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4727
-#EXTINF:-1 tvg-id="TRT1 HD" tvg-logo="http://i.ibb.co/LRNpZbQ/TRT-1.png" group-title="ULUSAL",TRT 1
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4735
-#EXTINF:-1 tvg-id="Kanal D HD" tvg-logo="http://i.ibb.co/FgsJ0WS/KANAL-D.png" group-title="ULUSAL",KANAL D
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4733
-#EXTINF:-1 tvg-id="ATV HD" tvg-logo="http://i.ibb.co/Nr6W1RL/ATV.png" group-title="ULUSAL",ATV
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4729
-#EXTINF:-1 tvg-id="FOX HD" tvg-logo="http://i.ibb.co/V9KxPmd/FOX-TV.png" group-title="ULUSAL",FOX
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4725
-#EXTINF:-1 tvg-id="Star TV HD" tvg-logo="http://i.ibb.co/ygz2wMx/STAR-TV.png" group-title="ULUSAL",STAR
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4731
-#EXTINF:-1 tvg-id="TV8 HD" tvg-logo="http://i.ibb.co/3pgFKnp/TV8.png" group-title="ULUSAL",TV8
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4723
-#EXTINF:-1 tvg-id="360 HD" tvg-logo="http://i.ibb.co/Kq2LtDm/360.png" group-title="ULUSAL",360
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4706
-#EXTINF:-1 tvg-id="TLC HD" tvg-logo="http://i.ibb.co/hDx2mWx/TLC.png" group-title="ULUSAL",TLC
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4710
-#EXTINF:-1 tvg-id="Bloomberg HT HD" tvg-logo="http://i.ibb.co/sQzbMtm/BLOOMBERG-HT.png" group-title="HABER",BLOOMBERG HT
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4699
-#EXTINF:-1 tvg-id="A Haber HD" tvg-logo="http://i.ibb.co/sKLmFy2/A-HABER.png" group-title="HABER",A HABER
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4698
-#EXTINF:-1 tvg-id="TRT Haber HD" tvg-logo="http://i.ibb.co/NTJVfrg/TRT-HABER.png" group-title="HABER",TRT HABER
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4704
-#EXTINF:-1 tvg-id="KANAL 7 HD" tvg-logo="http://i.ibb.co/qxrJRK9/KANAL-7.png" group-title="ULUSAL",KANAL 7
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/8217
-#EXTINF:-1 tvg-id="A2 HD" tvg-logo="http://i.ibb.co/HnV43sj/A2.png" group-title="ULUSAL",A2
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4714
-#EXTINF:-1 tvg-id="BEYAZ TV HD" tvg-logo="http://i.ibb.co/JFjLFcD/BEYAZ-TV.png" group-title="ULUSAL",BEYAZ TV
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4719
-#EXTINF:-1 tvg-id="TV 100 HD" tvg-logo="http://i.ibb.co/rGfsnNt/TV-100.png" group-title="HABER",TV 100
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4697
-#EXTINF:-1 tvg-id="Ülke TV" tvg-logo="http://i.ibb.co/qMxs4Sy/ULKE-TV.png" group-title="HABER",ULKE TV
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4690
-#EXTINF:-1 tvg-id="TVNET HD" tvg-logo="http://i.ibb.co/Sd7xdFc/TVNET.png" group-title="HABER",TVNET
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4691
-#EXTINF:-1 tvg-id="24" tvg-logo="http://i.ibb.co/Tm59DQJ/24.png" group-title="HABER",24
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4702
-#EXTINF:-1 tvg-id="NTV HD" tvg-logo="http://i.ibb.co/br8vg2m/NTV.png" group-title="HABER",NTV
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4703
-#EXTINF:-1 tvg-id="CNN TÜRK HD" tvg-logo="http://i.ibb.co/dbKGBz8/CNN-TURK.png" group-title="HABER",CNN TURK
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4701
-#EXTINF:-1 tvg-id="HABERTÜRK HD" tvg-logo="http://i.ibb.co/5kPw9Rh/HABERTURK.png" group-title="HABER",HABERTURK
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4700
-#EXTINF:-1 tvg-id="TGRT Haber HD" tvg-logo="http://i.ibb.co/N2jRT0M/TGRT-HABER.png" group-title="HABER",TGRT HABER
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4693
-#EXTINF:-1 tvg-id="EKOTÜRK TV HD" tvg-logo="http://i.ibb.co/BjFQtnF/EKOTURK.png" group-title="HABER",EKOTURK
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4689
-#EXTINF:-1 tvg-id="HABER GLOBAL HD-TR" tvg-logo="http://i.ibb.co/4PW59nG/HABER-GLOBAL.png" group-title="HABER",HABER GLOBAL
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4695
-#EXTINF:-1 tvg-id="TELE 1 HD" tvg-logo="http://i.ibb.co/gMjkG0g/TELE-1.png" group-title="ULUSAL",TELE 1
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/7180
-#EXTINF:-1 tvg-id="NTV SPOR HD" tvg-logo="http://i.ibb.co/GCRC9b9/DMAX.png" group-title="ULUSAL",DMAX
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/8605
-#EXTINF:-1 tvg-id="Halk TV" tvg-logo="http://i.ibb.co/Qntd9xv/HALK-TV.png" group-title="HABER",HALK TV
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4696
-#EXTINF:-1 tvg-id="Teve2" tvg-logo="http://i.ibb.co/JRkbS6X/TEVE2.png" group-title="ULUSAL",TEVE2
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/8218
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/31
 #EXTINF:-1 tvg-id="24KITCHEN" tvg-logo="http://i.ibb.co/TbTRT1b/24-KITCHEN.png" group-title="YAŞAM",24 KITCHEN
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4708
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RSsBdzg/TRT-3.png" group-title="HABER",TRT 3
-https://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
-#EXTINF:-1 tvg-id="TRTAVAZ.tr" tvg-logo="http://i.ibb.co/8ssHtDC/TRT-AVAZ.png" group-title="ULUSAL",TRT AVAZ
-http://tv-trtavaz.live.trt.com.tr/master_480.m3u8
-#EXTINF:-1 tvg-id="TRT 2 HD" tvg-logo="http://i.ibb.co/3CyfTFR/TRT-2.png" group-title="ULUSAL",TRT 2
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4705
-#EXTINF:-1 tvg-id="Diyanet TV HD" tvg-logo="http://i.ibb.co/dM1dBzS/DIYANET-TV.png" group-title="ULUSAL",DIYANET TV
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/8304
-#EXTINF:-1 tvg-id="FB TV HD" tvg-logo="http://i.ibb.co/x3DSyyJ/FB-TV.png" group-title="SPOR",FB TV
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4608
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/79105
 #EXTINF:-1 tvg-id="GS TV" tvg-logo="http://i.ibb.co/7R1mB7Y/GS-TV.png" group-title="SPOR",GS TV
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4609
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/222
 #EXTINF:-1 tvg-id="beIN SPORTS HD 1" tvg-logo="https://i.ibb.co/7pzdTtp/be-IN-SPORTS-1.png" group-title="SPOR",beIN SPORTS 1
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4647
-#EXTINF:-1 tvg-id="beIN SPORTS HABER HD" tvg-logo="https://i.ibb.co/wRXXgnh/be-IN-SPORTS-HABER.png" group-title="SPOR",beIN SPORTS HABER
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4626
-#EXTINF:-1 tvg-id="TRT Spor HD" tvg-logo="http://i.ibb.co/RhC7cBL/TRT-SPOR.png" group-title="SPOR",TRT SPOR
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/7172
-#EXTINF:-1 tvg-id="TJK TV-TR" tvg-logo="http://i.ibb.co/4ZBGrW5/TJK-TV.png" group-title="SPOR",TJK TV
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4605
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/78744
 #EXTINF:-1 tvg-id="VH1.tr" tvg-logo="http://i.ibb.co/fFTfGbB/VH1.png" group-title="MÜZİK",VH-1
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4540
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/76191
 #EXTINF:-1 tvg-id="MTVLiveHD.tr" tvg-logo="http://i.ibb.co/kJ6J9sD/MTV-LIVE.png" group-title="MÜZİK",MTV LIVE
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4543
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/80004
 #EXTINF:-1 tvg-id="MTVHits.tr" tvg-logo="http://i.ibb.co/6DP3xWf/MTV-HITS.png" group-title="MÜZİK",MTV HITS
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4539
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/79818
 #EXTINF:-1 tvg-id="FashionTV.tr" tvg-logo="http://i.ibb.co/pwnpr9b/FASHION-TV.png" group-title="YAŞAM",FASHION TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AUTOMOTO HD" tvg-logo="http://i.ibb.co/ZzQkNjv/AUTOMOTO.png" group-title="BELGESEL",AUTOMOTO
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/6273
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/17828
 #EXTINF:-1 tvg-id="ANIMAUX" tvg-logo="http://i.ibb.co/R74PrGL/ANIMAUX.png" group-title="BELGESEL",ANIMAUX
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/6276
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/3762
 #EXTINF:-1 tvg-id="CHASSE ET PECHE" tvg-logo="http://i.ibb.co/W2zn1yc/CHASSE-ET-PECHE.png" group-title="BELGESEL",CHASSE & PECHE
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/6275
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/3761
 #EXTINF:-1 tvg-id="SCIENCE & VIE HD" tvg-logo="http://i.ibb.co/C9zPWTT/SCIENCE-VIE-TV.png" group-title="BELGESEL",SCIENCE & VIE TV
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/6274
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/327
 #EXTINF:-1 tvg-id="Yaban TV" tvg-logo="http://i.ibb.co/bQHRsN7/YABAN-TV.png" group-title="BELGESEL",YABAN TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
-#EXTINF:-1 tvg-id="TRT Belgesel HD" tvg-logo="http://i.ibb.co/G2P4sKP/TRT-BELGESEL.png" group-title="BELGESEL",TRT BELGESEL
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/8090
 #EXTINF:-1 tvg-id="Discovery Channel HD" tvg-logo="http://i.ibb.co/rGkK2FD/DISCOVERY-CHANNEL.png" group-title="BELGESEL",DISCOVERY CHANNEL
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4669
-#EXTINF:-1 tvg-id="ANIMAL PLANET HD" tvg-logo="http://i.ibb.co/n0rB65T/ANIMAL-PLANET.png" group-title="BELGESEL",ANIMAL PLANET
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4664
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/76383
 #EXTINF:-1 tvg-id="Discovery Science" tvg-logo="http://i.ibb.co/2W5pXLX/DISCOVERY-SCIENCE.png" group-title="BELGESEL",DISCOVERY SCIENCE
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4668
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/76382
 #EXTINF:-1 tvg-id="DISCOVERY ID" tvg-logo="http://i.ibb.co/vZD46pc/INVESTIGATION-DISCOVERY.png" group-title="BELGESEL",INVESTIGATION DISCOVERY
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4655
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/76384
 #EXTINF:-1 tvg-id="National Geographic HD" tvg-logo="http://i.ibb.co/ww5J60c/NATIONAL-GEOGRAPHIC.png" group-title="BELGESEL",NATIONAL GEOGRAPHIC
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4663
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/76386
 #EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-logo="http://i.ibb.co/qRbX1ds/NATIONAL-GEOGRAPHIC-WILD.png" group-title="BELGESEL",NATIONAL GEOGRAPHIC WILD
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/6277
-#EXTINF:-1 tvg-id="Nat Geo People HD" tvg-logo="http://i.ibb.co/JQYDggw/NAT-GEO-PEOPLE.png" group-title="BELGESEL",NAT GEO PEOPLE
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/8305
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/76385
 #EXTINF:-1 tvg-id="History HD" tvg-logo="http://i.ibb.co/fH5Rb2W/HISTORY-CHANNEL.png" group-title="BELGESEL",HISTORY CHANNEL
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4656
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/76381
 #EXTINF:-1 tvg-id="Outdoor.tr" tvg-logo="http://i.ibb.co/JHvrs07/OUTDOOR-CHANNEL.png"  group-title="BELGESEL",OUTDOOR
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/8339
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/54922
 #EXTINF:-1 tvg-id="BBC Earth HD" tvg-logo="http://i.ibb.co/02T1b0z/BBC-EARTH.png" group-title="BELGESEL",BBC EARTH
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/8338
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/76388
 #EXTINF:-1 tvg-id="VIASAT EXPLORE" tvg-logo="http://i.ibb.co/qsFRQ9G/VIASAT-EXPLORE.png" group-title="BELGESEL",VIASAT EXPLORE
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/8292
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/3763
 #EXTINF:-1 tvg-id="VIASAT NATURE - HISTORY" tvg-logo="http://i.ibb.co/0JCKHmm/VIASAT-HISTORY.png"  group-title="BELGESEL",VIASAT HISTORY
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4667
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/326
 #EXTINF:-1 tvg-logo="http://i.ibb.co/4mdv588/LOVE-NATURE.png" group-title="BELGESEL",LOVE NATURE
-http://api.mfreetv.com:80/hakdemir812/4114337aA/7746
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/54921
 #EXTINF:-1 tvg-id="cgtn9documentary.tr" tvg-logo="http://i.ibb.co/7JvG5WX/CGTN-DOCUMENTARY.png" group-title="BELGESEL",CGTN DOCUMENTARY
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1 tvg-id="TRT Çocuk" tvg-logo="http://i.ibb.co/dLfdB6j/TRT-COCUK.png" group-title="COCUK",TRT ÇOCUK
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4675
 #EXTINF:-1 tvg-id="CBEEBIES HD" tvg-logo="http://i.ibb.co/48qhP00/BBC-CBEEBIES.png" group-title="COCUK",BBC CBEEBIES
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4674
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/3759
 #EXTINF:-1 tvg-id="Baby TV" tvg-logo="http://i.ibb.co/5rtXGHR/BABY-TV.png"group-title="COCUK",BABY TV
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4681
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/356
 #EXTINF:-1 tvg-id="Nick Jr." tvg-logo="http://i.ibb.co/RCpFQsQ/NICK-JR.png" group-title="COCUK",NICK JR.
-http://premium.mfreetv.com:80/hakdemir812/4114337aA/4684
+http://pro.panelxui.com:8080/Hul.khkn2233/Hul.khkn3322/363
