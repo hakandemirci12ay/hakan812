@@ -1,12 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Epic Drama" tvg-logo="http://i.ibb.co/VmTkHMT/EPIC-DRAMA.png" group-title="DİZİ",EPIC DRAMA
-http://live.playlig.com:8080/Hul.khkn2233/Hul.khkn3322/61661
-#EXTINF:-1 tvg-id="FOXLIFE" tvg-logo="http://i.ibb.co/WkDsVR4/FOXLIFE.png" group-title="DİZİ",FOXLIFE
-http://v10.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/37458
+http://premium3.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/53549
 #EXTINF:-1 tvg-id="FX" tvg-logo="http://i.ibb.co/Z8WGPNK/FX.png" group-title="DİZİ",FX
-http://v10.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/37460
+http://premium3.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/37460
 #EXTINF:-1 tvg-id="FOXCRIME" tvg-logo="http://i.ibb.co/884njYg/FOXCRIME.png" group-title="DİZİ",FOXCRIME
-http://v10.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/37459
+http://premium3.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/37459
 #EXTINF:-1 tvg-id="BBC First" tvg-logo="http://i.ibb.co/6bn9Kds/BBC-FIRST.png" group-title="DİZİ",BBC FIRST
 http://live.playlig.com:8080/Hul.khkn2233/Hul.khkn3322/61662
 #EXTINF:-1 tvg-id="beIN SERIES SCI-FI HD" tvg-logo="http://i.ibb.co/d4QMgwf/be-IN-SERIES-SCI-FI.png" group-title="DİZİ",beIN SERIES SCI-FI
