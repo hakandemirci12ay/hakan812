@@ -421,6 +421,8 @@ http://premium3.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/46529
 http://premium3.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/53544
 #EXTINF:-1 tvg-id="CGTN DOCUMENTARY HD" tvg-logo="http://i.ibb.co/7JvG5WX/CGTN-DOCUMENTARY.png"  group-title="BELGESEL",CGTN DOCUMENTARY
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2hvx6zN/BBN-T-RK.png" group-title="ULUSAL",BBN TÜRK
+https://www.youtube.com/embed/vth-peCg7lg?autoplay=1
 #EXTINF:-1 tvg-id="KON TV" tvg-logo="http://i.ibb.co/ZXjHWWV/KON-TV.png" group-title="YEREL",KON TV
 https://59cba4d34b678.streamlock.net/live/kontv/playlist.m3u8
 #EXTINF:-1 tvg-id="TV4" tvg-logo="http://i.ibb.co/rvQRhc1/TV-4.png" group-title="YEREL",TV 4
