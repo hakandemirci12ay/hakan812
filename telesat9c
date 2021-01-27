@@ -195,7 +195,7 @@ http://premium3.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/7933
 http://premium3.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/9665
 #EXTINF:-1 tvg-id="Spor Smart" tvg-logo="http://i.ibb.co/BznFDj0/SPOR-SMART.png" group-title="SPOR",SPOR SMART
 http://premium3.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/5967
-#EXTINF:-1 tvg-id="SPOR SMART 2" tvg-logo="http://i.ibb.co/swPNTJP/SPOR-SMART-2.png" group-title="SPOR",SPOR SMART 2
+#EXTINF:-1 tvg-id="SPOR SMART 2" tvg-logo="http://i.ibb.co/M5C7Wfp/SPOR-SMART-2.png" group-title="SPOR",SPOR SMART 2
 http://premium3.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/54521
 #EXTINF:-1 tvg-id="S Sport" tvg-logo="http://i.ibb.co/gm5bfk9/S-SPORT.png" group-title="SPOR",S SPORT
 http://premium3.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/5982
@@ -421,8 +421,6 @@ http://premium3.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/46529
 http://premium3.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/53544
 #EXTINF:-1 tvg-id="CGTN DOCUMENTARY HD" tvg-logo="http://i.ibb.co/7JvG5WX/CGTN-DOCUMENTARY.png"  group-title="BELGESEL",CGTN DOCUMENTARY
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2hvx6zN/BBN-T-RK.png" group-title="ULUSAL",BBN TÜRK
-https://www.youtube.com/embed/vth-peCg7lg?autoplay=1
 #EXTINF:-1 tvg-id="KON TV" tvg-logo="http://i.ibb.co/ZXjHWWV/KON-TV.png" group-title="YEREL",KON TV
 https://59cba4d34b678.streamlock.net/live/kontv/playlist.m3u8
 #EXTINF:-1 tvg-id="TV4" tvg-logo="http://i.ibb.co/rvQRhc1/TV-4.png" group-title="YEREL",TV 4
@@ -463,12 +461,16 @@ http://waw1.artiyerelmedya.net:1935/kanalv/bant1/playlist.m3u8
 https://59cba4d34b678.streamlock.net/canlitv/koytv/playlist.m3u8
 #EXTINF:-1 tvg-id="Çifçi TV" tvg-logo="http://i.ibb.co/hHXJZYf/CIFTCI-TV.png" group-title="TARIM",ÇİFTÇİ TV
 https://waw2.artiyerelmedya.net/ciftcitv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/PcFfYft/AGRO-TV.png" group-title="TARIM",AGRO TV
+https://www.yilmaztv.com/oz/oz.php?channel=agro-tv&stream=1&id=12559&p=50c7e7fea5fe6d6ad2baf196aa45f067&type=m3u8
 #EXTINF:-1 tvg-id="Kanal 42" tvg-logo="https://i.ibb.co/60Z5WpV/KANAL-42.png" group-title="YEREL",KANAL 42
 https://www.yilmaztv.com/oz/oz.php?channel=kanal-42&stream=1&id=14436&p=4d1bcbc76a262eaaf40998466b705c95&type=m3u8
 #EXTINF:-1 tvg-id="TARIM TV" tvg-id=tvg-logo="http://i.ibb.co/kSTYFF4/TARIM-TV.png" group-title="TARIM",TARIM TV
 https://usd.nocvp.com/asset/7Gx7kEbk/playlist.m3u8
 #EXTINF:-1 tvg-id="AKILLI TV" tvg-logo="http://i.ibb.co/0DmbgQL/AKILLI-TV.png" group-title="YEREL",AKILLI TV
 https://stream41.radyotelekom.com.tr/stream/m3u8/a5a7e883a71429fe9e605bb5d25d6185/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/p0WbZx4/YILDIZ-TV-EN.png" group-title="YEREL",YILDIZ TV EN
+http://v52.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/52915
 #EXTINF:-1 tvg-id="TV Den" tvg-logo="http://i.ibb.co/nRSH1FW/TVDEN.png" group-title="YEREL",TVDEN
 https://canli.tvden.com.tr/hls/live.m3u8
 #EXTINF:-1 tvg-id="On4" tvg-logo="http://i.ibb.co/dtT6r6z/ON-4.png" group-title="YEREL",ON4 TV
