@@ -71,6 +71,8 @@ http://premium3.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/6010
 http://premium3.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/5930
 #EXTINF:-1 tvg-id="FilmBox" tvg-logo="http://i.ibb.co/kqMFxwB/FILMBOX.png" group-title="SİNEMA",FILMBOX
 http://premium3.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/55759
+#EXTINF:-1 tvg-id="FILMBOX ARTHOUSE" tvg-logo="http://i.ibb.co/B6hV1BK/FILMBOX-ARTHOUSE.png" group-title="SİNEMA",FILMBOX ARTHOUSE
+http://87.207.71.147:4000/play/a04g/index.m3u8
 #EXTINF:-1 tvg-id="FILMBOX EXTRA HD" tvg-logo="http://i.ibb.co/m4XmJf6/FILMBOX-EXTRA.png" group-title="SİNEMA",FILMBOX EXTRA
 http://pro.panelxui.com:8080/Khkn2233/FSKKB05cMz/80138
 #EXTINF:-1 tvg-id="TRT 4K" tvg-logo="http://i.ibb.co/d5DZ7JM/TRT-4K.png" group-title="ULTRA HD",TRT 4K
@@ -175,6 +177,8 @@ http://premium3.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/5976
 https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/2jXjzdM/EXTREME-SPORTS.png" group-title="SPOR",EXTREME SPORTS
 http://premium3.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/56360
+#EXTINF:-1 tvg-logo="http://i.ibb.co/0frfgzd/GINX-ESPORTS-TV.png" group-title="SPOR",GINX ESPORTS TV
+http://87.207.71.147:4000/play/a03e/index.m3u8
 #EXTINF:-1 tvg-id="FB TV HD" tvg-logo="http://i.ibb.co/x3DSyyJ/FB-TV.png" group-title="SPOR",FB TV
 http://premium3.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/5988
 #EXTINF:-1 tvg-id="GS TV HD" tvg-logo="http://i.ibb.co/7R1mB7Y/GS-TV.png" group-title="SPOR",GS TV
@@ -220,7 +224,7 @@ http://premium3.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/39003
 #EXTINF:-1 tvg-id="A Spor HD" tvg-logo="http://i.ibb.co/0FFR37P/A-SPOR.png" group-title="SPOR",A SPOR
 http://premium3.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/5987
 #EXTINF:-1 tvg-id="TAY TV" tvg-logo="http://i.ibb.co/QjbyNmJ/T-A-Y-TV.png" group-title="SPOR",T.A.Y TV
-http://premium3.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/36241
+http://pro.panelxui.com:8080/Khkn2233/FSKKB05cMz/223
 #EXTINF:-1 tvg-id="TJK TV" tvg-logo="http://i.ibb.co/4ZBGrW5/TJK-TV.png" group-title="SPOR",TJK TV
 http://premium3.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/5918
 #EXTINF:-1 tvg-id="SPORTS TV" tvg-logo="http://i.ibb.co/bFg0Lfx/SPORTS-TV.png" group-title="SPOR",SPORTS TV
@@ -286,7 +290,7 @@ http://premium3.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/55808
 #EXTINF:-1 tvg-logo="http://i.ibb.co/py5grQQ/WORLD-FASHION.png" group-title="YAŞAM",WORLD FASHION
 http://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_sdmid.m3u8
 #EXTINF:-1 tvg-id="BBC Entertainment" tvg-logo="http://i.ibb.co/BVmfgP0/BBC-ENTERTAINMENT.png" group-title="ULUSLARARASI",BBC ENTERTAINMENT
-http://pro.panelxui.com:8080/Khkn2233/FSKKB05cMz/76119
+http://185.236.229.43:8000/play/a06s
 #EXTINF:-1 tvg-logo="http://i.ibb.co/ZLd4M9z/ANT1.png" group-title="ULUSLARARASI",ANT1
 http://premium3.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/64748
 #EXTINF:-1 tvg-id="PRO7.tr" tvg-logo="http://i.ibb.co/RHt1CMc/PRO7.png" group-title="ULUSLARARASI",PRO7
@@ -372,7 +376,7 @@ http://premium3.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/56734
 #EXTINF:-1 tvg-id="Saudi Sunnah TV" tvg-logo="http://i.ibb.co/RNzv7TF/AL-SUNNAH-AL-NABAWIYAH.png" group-title="ULUSLARARASI",AL SUNNAH AL NABAWIYAH
 http://premium3.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/56736
 #EXTINF:-1 tvg-logo="http://i.ibb.co/Pzbzn69/TVE-INTERNACIONAL.png" group-title="ULUSLARARASI",TVE INTERNACIONAL
-http://pro.panelxui.com:8080/Khkn2233/FSKKB05cMz/76188
+http://190.13.162.66:8081/play/a021
 #EXTINF:-1 tvg-logo="http://i.ibb.co/Z2z6r9H/24-HORAS.png" group-title="ULUSLARARASI",24 HORAS
 http://premium3.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/57263
 #EXTINF:-1 tvg-logo="http://i.ibb.co/zGxkgh3/SAT1.png" group-title="ULUSLARARASI",SAT 1
@@ -571,6 +575,8 @@ http://premium3.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/17156
 http://premium3.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/17187
 #EXTINF:-1 tvg-id="Da Vinci" tvg-logo="http://i.ibb.co/Mf3kMnc/DA-VINCI-LEARNING.png" group-title="COCUK",DA VINCI LEARNING
 http://premium3.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/55818
+#EXTINF:-1 tvg-logo="http://i.ibb.co/WzKz0dp/GAMETOON.png" group-title="COCUK",GAMETOON
+http://87.207.71.147:4000/play/a03s/index.m3u8
 #EXTINF:-1 tvg-id="TRT EBATV İLKOKUL HD" tvg-logo="http://i.ibb.co/wC1hWZt/TRT-EBA-TV.png" group-title="EGITIM",TRT EBA TV ILKOKUL
 http://tv-e-okul00.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT EBATV ORTAOKUL HD" tvg-logo="http://i.ibb.co/wC1hWZt/TRT-EBA-TV.png" group-title="EGITIM",TRT EBA TV ORTAOKUL
