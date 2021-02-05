@@ -629,7 +629,7 @@ https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
 https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/7g00P2C/SHARJAH-TV.png" group-title="YABANCI",SHARJAH TV
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.ibb.co/7g00P2C/SHARJAH-TV.png" group-title="YABANCI",SHARQIYA TV
+#EXTINF:-1 tvg-logo="http://i.ibb.co/MCjPmzD/SHARQIYA-TV.png" group-title="YABANCI",SHARQIYA TV
 http://ns8.indexforce.com:1935/home/mystream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/QmB7M66/MEKAMELEEN-TV.png" group-title="YABANCI",MEKAMELEEN TV
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist.m3u8
