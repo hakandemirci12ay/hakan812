@@ -605,16 +605,32 @@ http://premium4.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/57544
 http://premium4.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/57545
 #EXTINF:-1 tvg-logo="http://i.ibb.co/9YvB1KY/ESKA-TV.png" group-title="YABANCI",ESKA TV
 http://premium4.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/57050
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pWH7Cgw/POLONIA-1.png" group-title="YABANCI",POLONIA 1
+http://87.207.71.147:4000/play/a00j/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/mqKvx9Z/TELE-5.png" group-title="YABANCI",TELE 5
+http://87.207.71.147:4000/play/a078/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/QbYP19t/TVP-POLONIA.png" group-title="YABANCI",TVP POLONIA
+http://87.207.71.147:4000/play/a049/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/T4Mch1x/4-FUN-DANCE.png" group-title="YABANCI",4FUN DANCE
+http://87.207.71.147:4000/play/a03f/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/qYPxXdy/4FUN-TV.png" group-title="YABANCI",4FUN TV
+http://87.207.71.147:4000/play/a01g/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/tXKWctm/STARS-TV.png" group-title="YABANCI",STARS TV
+http://87.207.71.147:4000/play/a05r/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/BZwzpbP/RUDAW.png" group-title="YABANCI",RUDAW TV
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/3sprNG3/GUNAZ-TV.png" group-title="YABANCI",GUNAZ TV
 http://premium4.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/57734
+#EXTINF:-1 tvg-logo="http://i.ibb.co/jvmLKf3/VOA-EU.png" group-title="YABANCI",VOA EU
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/ZmvpGYs/MANOTO.png" group-title="YABANCI",MANOTO
 https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/1r6MYMp/SAT7-TURK.png" group-title="YABANCI",SAT7 PARS
 https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/7g00P2C/SHARJAH-TV.png" group-title="YABANCI",SHARJAH TV
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/7g00P2C/SHARJAH-TV.png" group-title="YABANCI",SHARQIYA TV
+http://ns8.indexforce.com:1935/home/mystream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/QmB7M66/MEKAMELEEN-TV.png" group-title="YABANCI",MEKAMELEEN TV
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/ZH0VCZ3/AL-MAYADEEN.png" group-title="YABANCI",AL MAYADEEN
