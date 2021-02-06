@@ -300,7 +300,7 @@ http://premium5.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/6176
 #EXTINF:-1 tvg-id="RAI UNO" tvg-logo="http://i.ibb.co/XyV7nY0/RAI-UNO.png" group-title="ULUSLARARASI",RAI 1
 http://premium5.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/57542
 #EXTINF:-1 tvg-id="TV5 Monde Europe" tvg-logo="http://i.ibb.co/6g3KLfP/TV5MONDE.png" group-title="ULUSLARARASI",TV5MONDE
-http://premium5.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/48935
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_4.m3u8
 #EXTINF:-1 tvg-id="TRT World HD" tvg-logo="http://i.ibb.co/VC73sv4/TRT-WORLD.png" group-title="ULUSLARARASI",TRT WORLD
 http://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="RTR PLANETA" tvg-logo="http://i.ibb.co/3dqsG2v/RTR-PLANETA.png" group-title="ULUSLARARASI",RTR PLANETA
@@ -381,6 +381,8 @@ http://190.13.162.66:8081/play/a021
 http://premium5.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/57263
 #EXTINF:-1 tvg-logo="http://i.ibb.co/zGxkgh3/SAT1.png" group-title="ULUSLARARASI",SAT 1
 http://premium5.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/6346
+#EXTINF:-1 tvg-logo="http://i.ibb.co/647Pwrb/CAROUSEL-INTERNATIONAL.png" group-title="ULUSLARARASI",CAROUSEL TV
+http://194.106.98.71:9206
 #EXTINF:-1 tvg-id="AUTOMOTO HD" tvg-logo="http://i.ibb.co/ZzQkNjv/AUTOMOTO.png" group-title="BELGESEL",AUTOMOTO
 http://premium5.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/53546
 #EXTINF:-1 tvg-id="ANIMAUX" tvg-logo="http://i.ibb.co/R74PrGL/ANIMAUX.png" group-title="BELGESEL",ANIMAUX
@@ -395,6 +397,8 @@ http://premium5.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/53543
 http://waw2.artiyerelmedya.net/avtv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="Yaban TV" tvg-logo="http://i.ibb.co/bQHRsN7/YABAN-TV.png" group-title="BELGESEL",YABAN TV
 http://premium5.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/6008
+#EXTINF:-1 tvg-id="HABİTAT TV" tvg-logo="http://i.ibb.co/Z6zdH7B/HABITAT-TV.png" group-title="BELGESEL",HABİTAT TV
+http://45.94.149.154:8000/play/a02n
 #EXTINF:-1 tvg-id="TRT Belgesel HD" tvg-logo="http://i.ibb.co/G2P4sKP/TRT-BELGESEL.png" group-title="BELGESEL",TRT BELGESEL
 http://premium5.germanyservers.co:8000/yGWkOoeqHo/tkuxmqtr/6007
 #EXTINF:-1 tvg-id="Discovery Channel HD" tvg-logo="http://i.ibb.co/rGkK2FD/DISCOVERY-CHANNEL.png" group-title="BELGESEL",DISCOVERY CHANNEL
