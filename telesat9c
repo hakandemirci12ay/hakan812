@@ -153,6 +153,8 @@ http://v700.germanyservers.online:8000/yGWkOoeqHo/gqkttjsd/5985
 http://v700.germanyservers.online:8000/yGWkOoeqHo/gqkttjsd/35085
 #EXTINF:-1 tvg-id="Bizimev TV" tvg-logo="http://i.ibb.co/wsmgWWJ/BIZIMEV-TV.png" group-title="YAŞAM",BİZİMEV TV
 https://www.yilmaztv.com/oz/oz.php?channel=bizimev-tv&stream=1&id=14436&p=4d1bcbc76a262eaaf40998466b705c95&type=m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/Yh7WdXH/MYZEN-TV.png" group-title="YAŞAM",MYZEN TV
+http://58.65.171.202:8000/play/1104/index.m3u8
 #EXTINF:-1 tvg-id="Uçan Kuş TV" tvg-logo="http://i.ibb.co/2gHKxnZ/UCANKU-TV.png" group-title="ULUSAL",UÇANKUŞ TV
 http://v700.germanyservers.online:8000/yGWkOoeqHo/gqkttjsd/27474
 #EXTINF:-1 tvg-id="TRT 3 - TRT Spor" tvg-logo="http://i.ibb.co/c6FZhrm/TRT-3.png" group-title="HABER",TRT 3
@@ -275,6 +277,8 @@ http://v700.germanyservers.online:8000/yGWkOoeqHo/gqkttjsd/6083
 http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8
 #EXTINF:-1 tvg-id="Milyon" tvg-logo="http://i.ibb.co/1Z1tV8v/MILYON-TV.png" group-title="MÜZİK",MİLYON TV
 https://milyontv-live.ercdn.net/milyontv/milyontv_720p.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/vQ4hRyX/STINGRAY-ICONCERTS.png" group-title="MÜZİK",STINGRAY ICONCERTS
+https://premium.mfreetv.com:443/hakdemir812/4114337aA/4546
 #EXTINF:-1 tvg-id="Trace Urban" tvg-logo="http://i.ibb.co/ggXYS5R/TRACE-URBAN.png" group-title="MÜZİK",TRACE URBAN
 http://v700.germanyservers.online:8000/yGWkOoeqHo/gqkttjsd/18734
 #EXTINF:-1 tvg-id="MTV.tr" tvg-logo="http://i.ibb.co/mN32t2Q/MTV.png" group-title="YAŞAM",MTV
