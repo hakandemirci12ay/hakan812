@@ -77,7 +77,9 @@ http://87.207.71.147:4000/play/a04g/index.m3u8
 http://pro.panelxui.com:8080/Khkn2233/FSKKB05cMz/83431
 #EXTINF:-1 tvg-id="TRT 4K" tvg-logo="http://i.ibb.co/d5DZ7JM/TRT-4K.png" group-title="ULTRA HD",TRT 4K
 http://v700.germanyservers.online:8000/yGWkOoeqHo/gqkttjsd/35082
-#EXTINF:-1 tvg-id="SHOW Max" tvg-logo="http://i.ibb.co/6XKxxRB/SHOW-MAX.png" group-title="YAŞAM",SHOW MAX
+#EXTINF:-1 tvg-logo="http://i.ibb.co/MnpKZxQ/STINGRAY-NATURE-ESCAPE.png" group-title="MÜZİK",STINGRAY NATURESCAPE
+http://212.174.106.70:8000/play/a035
+#EXTINF:-1 tvg-id="SHOW Max" tvg-logo="http://i.ibb.co/6XKxxRB/SHOW-MAX.png" group-title="ULUSAL",SHOW MAX
 http://iptvmasterlink.dyndns.org:5566/Entry/showmax_yeni.m3u8
 #EXTINF:-1 tvg-id="Show TV HD" tvg-logo="http://i.ibb.co/d6TDsHY/SHOW-TV.png" group-title="ULUSAL",SHOW TV
 http://v700.germanyservers.online:8000/yGWkOoeqHo/gqkttjsd/5945
