@@ -435,6 +435,8 @@ http://v700.germanyservers.online:8000/yGWkOoeqHo/gqkttjsd/46529
 http://v700.germanyservers.online:8000/yGWkOoeqHo/gqkttjsd/53544
 #EXTINF:-1 tvg-id="CGTN DOCUMENTARY HD" tvg-logo="http://i.ibb.co/7JvG5WX/CGTN-DOCUMENTARY.png"  group-title="BELGESEL",CGTN DOCUMENTARY
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 tvg-id="RTG INT" tvg-logo="http://i.ibb.co/7JvG5WX/CGTN-DOCUMENTARY.png"  group-title="BELGESEL",RTG INT
+https://strm.yandex.ru/kal/rtg/rtg0_169_480p.json/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="KON TV" tvg-logo="http://i.ibb.co/ZXjHWWV/KON-TV.png" group-title="YEREL",KON TV
 https://59cba4d34b678.streamlock.net/live/kontv/playlist.m3u8
 #EXTINF:-1 tvg-id="TV4" tvg-logo="http://i.ibb.co/rvQRhc1/TV-4.png" group-title="YEREL",TV 4
@@ -450,13 +452,13 @@ http://iptvmasterlink.dyndns.org:5566/Entry/ulusalkanal_yeni.m3u8
 #EXTINF:-1 tvg-id="Akit TV" tvg-logo="http://i.ibb.co/yWrNSxB/AKIT-TV.png" group-title="HABER",AKIT TV
 http://akittv-live.ercdn.net/akittv/akittv_360p.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/bNJZFGz/TV5.png" group-title="YEREL",TV5
-http://alfax620251.net:8080/u425684x12ay1/dtjzf27042020/67
+https://live-01.tvjetapp.com/ch-62/live.m3u8
 #EXTINF:-1 tvg-id="Kanal 3" tvg-logo="http://i.ibb.co/sbq7jpk/KANAL-3.png" group-title="YEREL",KANAL 3
 http://waw2.artiyerelmedya.net/kanal3/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="TGRT Belgesel" tvg-logo="http://i.ibb.co/0qgCj5n/TGRT-BELGESEL.png" group-title="ULUSAL",TGRT BELGESEL
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playist.m3u8
 #EXTINF:-1 tvg-id="KADIRGA TV" tvg-logo="https://i.ibb.co/LdcTQDK/KADIRGA-TV.png" group-title="YEREL",KADIRGA TV
-https://www.yilmaztv.com/oz/oz.php?channel=kadirga-tv&stream=1&id=14436&p=4d1bcbc76a262eaaf40998466b705c95&type=m3u8
+https://live-01.tvjetapp.com/ch-121/live.m3u8
 #EXTINF:-1 tvg-id="BENGÜ TÜRK" tvg-logo="http://i.ibb.co/xzL6drV/BENGUTURK.png" group-title="YEREL",BENGUTURK
 http://pro.panelxui.com:8080/Khkn2233/FSKKB05cMz/308
 #EXTINF:-1 tvg-id="Line TV" tvg-logo="http://i.ibb.co/3YyQmK9/LINE-TV.png" group-title="YEREL",LINE TV
@@ -501,6 +503,8 @@ https://59cba4d34b678.streamlock.net/canlitv/tv35/playlist.m3u8
 http://v700.germanyservers.online:8000/yGWkOoeqHo/gqkttjsd/5917
 #EXTINF:-1 tvg-id="Altaş TV" tvg-logo="http://i.ibb.co/rMz0BtW/ALTAS-TV.png" group-title="YEREL",ALTAŞ TV
 https://broadcasttr.com:446/altastv/smil:altastv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/SJk9wqJ/BEYKENT-TV.png" group-title="YEREL",BEYKENT TV
+https://live-01.tvjetapp.com/ch-157/live.m3u8
 #EXTINF:-1 tvg-id="Mavi Karadeniz" tvg-logo="http://i.ibb.co/r47Vv15/MAVI-KARADENIZ.png" group-title="YEREL",MAVİ KARADENİZ
 https://waw2.artiyerelmedya.net/mavikaradeniz/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="Vatan TV" tvg-logo="http://i.ibb.co/x1mSnSk/VATAN.png" group-title="YEREL",VATAN
@@ -518,7 +522,7 @@ https://59cba4d34b678.streamlock.net/canlitv/kibrisgenctv/playlist.m3u8
 #EXTINF:-1 tvg-id="KANAL T" tvg-logo="http://i.ibb.co/rc820gH/KANAL-T-KIBRIS.png" group-title="YEREL",KANAL T KIBRIS
 http://kuzeykibris.tv/m3u8/tv_kanalt.m3u8
 #EXTINF:-1 tvg-id="Yeni Kocaeli TV" tvg-logo="http://i.ibb.co/MhW9H5j/YEN-KOCAEL-TV.png" group-title="YEREL",YENİ KOCAELİ TV
-https://www.yilmaztv.com/oz/oz.php?channel=kocaeli-tv&stream=1&id=14436&p=4d1bcbc76a262eaaf40998466b705c95&type=m3u8
+https://live-01.tvjetapp.com/ch-74/live.m3u8
 #EXTINF:-1 tvg-id="BRT 1 HD" tvg-logo="http://i.ibb.co/q0QhBTF/BRT-1.png" group-title="YEREL",BRT 1
 http://wms.brtk.net:1935/live/BRTHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/TBMDMJ3/KENT-DEHA.png" group-title="YEREL",KENT DEHA
