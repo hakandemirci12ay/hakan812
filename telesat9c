@@ -160,7 +160,7 @@ http://58.65.171.202:8000/play/1104/index.m3u8
 #EXTINF:-1 tvg-id="Uçan Kuş TV" tvg-logo="http://i.ibb.co/2gHKxnZ/UCANKU-TV.png" group-title="ULUSAL",UÇANKUŞ TV
 http://v700.germanyservers.online:8000/yGWkOoeqHo/gqkttjsd/27474
 #EXTINF:-1 tvg-id="TRT 3 - TRT Spor" tvg-logo="http://i.ibb.co/c6FZhrm/TRT-3.png" group-title="HABER",TRT 3
-http://v700.germanyservers.online:8000/yGWkOoeqHo/gqkttjsd/52453
+https://meclistv-live.ercdn.net/meclistv/meclistv_576p.m3u8
 #EXTINF:-1 tvg-id="TRT AVAZ" tvg-logo="http://i.ibb.co/8ssHtDC/TRT-AVAZ.png" group-title="ULUSAL",TRT AVAZ
 http://tv-trtavaz.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT Kurdi" tvg-logo="http://i.ibb.co/YBxDczk/TRT-KURDI.png" group-title="ULUSLARARASI",TRT KURDI
@@ -298,8 +298,8 @@ http://v700.germanyservers.online:8000/yGWkOoeqHo/gqkttjsd/55808
 #EXTINF:-1 tvg-logo="http://i.ibb.co/py5grQQ/WORLD-FASHION.png" group-title="YAŞAM",WORLD FASHION
 http://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_sdmid.m3u8
 #EXTINF:-1 tvg-id="BBC Entertainment" tvg-logo="http://i.ibb.co/BVmfgP0/BBC-ENTERTAINMENT.png" group-title="ULUSLARARASI",BBC ENTERTAINMENT
-http://tv.iptvpl.itv.world:8080/jlsddy44ji/hjgkuyh87686yh/9548
-#EXTINF:-1 tvg-logo="http://i.ibb.co/ZLd4M9z/ANT1.png" group-title="ULUSLARARASI",ANT1
+http://media-kings.xyz:8080/tek1/tek1/31111
+EXTINF:-1 tvg-logo="http://i.ibb.co/ZLd4M9z/ANT1.png" group-title="ULUSLARARASI",ANT1
 http://v700.germanyservers.online:8000/yGWkOoeqHo/gqkttjsd/64748
 #EXTINF:-1 tvg-id="PRO7.tr" tvg-logo="http://i.ibb.co/RHt1CMc/PRO7.png" group-title="ULUSLARARASI",PRO7
 http://v700.germanyservers.online:8000/yGWkOoeqHo/gqkttjsd/6172
@@ -339,6 +339,8 @@ http://v700.germanyservers.online:8000/yGWkOoeqHo/gqkttjsd/5951
 http://v700.germanyservers.online:8000/yGWkOoeqHo/gqkttjsd/57365
 #EXTINF:-1 tvg-id="NHK World English" tvg-logo="http://i.ibb.co/93CVNGd/NHK-WORLD-JPN.png" group-title="ULUSLARARASI",NHK WORLD-JPN
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/7V8pKV3/KBS-WORLD.png" group-title="ULUSLARARASI",KBS WORLD
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/jHvJnPg/UA-TV.png" group-title="ULUSLARARASI",UA TV
 http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/fr1nVMH/ALA-TOO-24.png" group-title="ULUSLARARASI",ALA TOO 24
@@ -482,7 +484,7 @@ https://waw2.artiyerelmedya.net/ciftcitv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/PcFfYft/AGRO-TV.png" group-title="TARIM",AGRO TV
 https://www.yilmaztv.com/oz/oz.php?channel=agro-tv&stream=1&id=12559&p=50c7e7fea5fe6d6ad2baf196aa45f067&type=m3u8
 #EXTINF:-1 tvg-id="Kanal 42" tvg-logo="https://i.ibb.co/60Z5WpV/KANAL-42.png" group-title="YEREL",KANAL 42
-https://www.yilmaztv.com/oz/oz.php?channel=kanal-42&stream=1&id=14436&p=4d1bcbc76a262eaaf40998466b705c95&type=m3u8
+https://live-01.tvjetapp.com/ch-155/live.m3u8
 #EXTINF:-1 tvg-id="AKILLI TV" tvg-logo="http://i.ibb.co/0DmbgQL/AKILLI-TV.png" group-title="YEREL",AKILLI TV
 https://stream41.radyotelekom.com.tr/stream/m3u8/a5a7e883a71429fe9e605bb5d25d6185/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/p0WbZx4/YILDIZ-TV-EN.png" group-title="YEREL",YILDIZ TV EN
@@ -539,10 +541,12 @@ https://5be5d840359c6.streamlock.net/elmas67tv/elmas67tv/playlist.m3u8
 https://broadcasttr.com:446/drt/smil:drt.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/g6JZVgZ/KAY-TV.jpg" group-title="YEREL",KAY TV
 https://waw2.artiyerelmedya.net/kaytv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/jkzz8FV/SUN-TV-MERS-N.png" group-title="YEREL",SUN TV MERSİN
+https://tr.socialsmart.tv/suntv/bant1/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/5GxMZRm/KANAL-Z.png" group-title="YEREL",KANAL Z
 https://waw2.artiyerelmedya.net/kanalz/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/6FJbnTP/tv1.png" group-title="YEREL",TV1
-https://www.yilmaztv.com/oz/oz.php?channel=tv1-izle&stream=1&id=12559&p=50c7e7fea5fe6d6ad2baf196aa45f067&type=m3u8
+https://broadcasttr.com:446/tv1/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/yyT4nP8/olay-turk.png" group-title="YEREL",OLAY TÜRK
 https://waw2.artiyerelmedya.net/olayturk/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="TGRT EU" tvg-logo="http://i.ibb.co/8NqZMWT/TGRT-EU.png" group-title="YEREL",TGRT EU
