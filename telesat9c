@@ -247,8 +247,10 @@ http://v700.germanyservers.online:8000/yGWkOoeqHo/gqkttjsd/53547
 http://panelvip1.com:8080/uQvKDTnHc2/05511794920/39408
 #EXTINF:-1 tvg-id="İdman Azerbaycan" tvg-logo="http://i.ibb.co/DL7Bmqn/DMAN-TV.png" group-title="SPOR",IDMAN TV
 http://pro.panelxui.com:8080/Khkn2233/FSKKB05cMz/79561
-#EXTINF:-1 tvg-id="MCM Top HD" tvg-logo="http://i.ibb.co/t4YJM5B/MCM-TOP.png" group-title="MÜZİK",MCM TOP
+#EXTINF:-1 tvg-logo="http://i.ibb.co/YPVCWrW/MCM-POP.png" group-title="MÜZİK",MCM POP
 http://v700.germanyservers.online:8000/yGWkOoeqHo/gqkttjsd/48779
+#EXTINF:-1 tvg-id="MCM Top HD" tvg-logo="http://i.ibb.co/t4YJM5B/MCM-TOP.png" group-title="MÜZİK",MCM TOP
+http://panelvip1.com:8080/uQvKDTnHc2/05511794920/39146
 #EXTINF:-1 tvg-id="Mezzo HD" tvg-logo="http://i.ibb.co/QdwLQJm/MEZZO.png" group-title="MÜZİK",MEZZO
 http://v700.germanyservers.online:8000/yGWkOoeqHo/gqkttjsd/56345
 #EXTINF:-1 tvg-id="VH1" tvg-logo="http://i.ibb.co/fFTfGbB/VH1.png" group-title="MÜZİK",VH-1
@@ -305,6 +307,8 @@ http://v700.germanyservers.online:8000/yGWkOoeqHo/gqkttjsd/56126
 http://v700.germanyservers.online:8000/yGWkOoeqHo/gqkttjsd/56384
 #EXTINF:-1 tvg-id="Fashion TV HD" tvg-logo="http://i.ibb.co/pwnpr9b/FASHION-TV.png" group-title="YAŞAM",FASHION TV
 http://v700.germanyservers.online:8000/yGWkOoeqHo/gqkttjsd/55808
+#EXTINF:-1 tvg-logo="http://i.ibb.co/WVMQWXB/FTV-PARIS.png" group-title="YAŞAM",FTV PARIS
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/py5grQQ/WORLD-FASHION.png" group-title="YAŞAM",WORLD FASHION
 http://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_sdmid.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/fMnZTSD/SHORTS-TV.png" group-title="ULUSLARARASI",SHORTS TV
