@@ -555,7 +555,7 @@ https://waw2.artiyerelmedya.net/kanalz/bant1/playlist.m3u8
 https://broadcasttr.com:446/tv1/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/yyT4nP8/olay-turk.png" group-title="YEREL",OLAY TÜRK
 https://waw2.artiyerelmedya.net/olayturk/bant1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.ibb.co/ZXKSVjt/BRT-3.png" group-title="YEREL",OLAY TÜRK
+#EXTINF:-1 tvg-logo="http://i.ibb.co/ZXKSVjt/BRT-3.png" group-title="YEREL",BRT 3
 http://wms.brtk.net:1935/live/brt2/playlist.m3u8
 #EXTINF:-1 tvg-id="TGRT EU" tvg-logo="http://i.ibb.co/8NqZMWT/TGRT-EU.png" group-title="YEREL",TGRT EU
 http://v700.germanyservers.online:8000/yGWkOoeqHo/gqkttjsd/55774
