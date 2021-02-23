@@ -56,15 +56,15 @@ http://v700.germanyservers.online:8000/yGWkOoeqHo/gqkttjsd/46071
 #EXTINF:-1 tvg-id="Sinema Komedi" tvg-logo="http://i.ibb.co/WDQ1vcC/SINEMA-KOMEDI.png" group-title="SİNEMA",SİNEMA KOMEDİ
 http://v700.germanyservers.online:8000/yGWkOoeqHo/gqkttjsd/46068
 #EXTINF:-1 tvg-id="Sinema Komedi 2" tvg-logo="http://i.ibb.co/FzTdqKt/SINEMA-KOMEDI-2.png" group-title="SİNEMA",SİNEMA KOMEDİ 2
-http://v700.germanyservers.online:8000/yGWkOoeqHo/gqkttjsd/46069
+http://pro.panelxui.com:8080/Khkn2233/FSKKB05cMz/80586
 #EXTINF:-1 tvg-id="Sinema Aile" tvg-logo="http://i.ibb.co/LPZzcH7/SINEMA-AILE.png" group-title="SİNEMA",SİNEMA AİLE
 http://v700.germanyservers.online:8000/yGWkOoeqHo/gqkttjsd/46064
 #EXTINF:-1 tvg-id="Sinema Aile 2" tvg-logo="http://i.ibb.co/2MDyF3S/SINEMA-AILE-2.png" group-title="SİNEMA",SİNEMA AİLE 2
-http://v700.germanyservers.online:8000/yGWkOoeqHo/gqkttjsd/46065
+http://pro.panelxui.com:8080/Khkn2233/FSKKB05cMz/79955
 #EXTINF:-1 tvg-id="Sinema 1001" tvg-logo="http://i.ibb.co/2hSbfLs/SINEMA-1001.png" group-title="SİNEMA",SİNEMA 1001
 http://v700.germanyservers.online:8000/yGWkOoeqHo/gqkttjsd/46072
 #EXTINF:-1 tvg-id="Sinema 1002" tvg-logo="http://i.ibb.co/vdZFRRM/SINEMA-1002.png" group-title="SİNEMA",SİNEMA 1002
-http://v700.germanyservers.online:8000/yGWkOoeqHo/gqkttjsd/46073
+http://pro.panelxui.com:8080/Khkn2233/FSKKB05cMz/79954
 #EXTINF:-1 tvg-id="beIN İZ HD" tvg-logo="http://i.ibb.co/NCr2Y5D/beIN-Z.png" group-title="BELGESEL",beIN İZ
 http://v700.germanyservers.online:8000/yGWkOoeqHo/gqkttjsd/6010
 #EXTINF:-1 tvg-id="beIN GURME HD" tvg-logo="http://i.ibb.co/k5Lr29h/be-IN-GURME.png" group-title="YAŞAM",beIN GURME
@@ -450,7 +450,7 @@ http://pro.panelxui.com:8080/Khkn2233/FSKKB05cMz/74656
 #EXTINF:-1 tvg-id="Viasat History" tvg-logo="http://i.ibb.co/0JCKHmm/VIASAT-HISTORY.png"  group-title="BELGESEL",VIASAT HISTORY
 http://v700.germanyservers.online:8000/yGWkOoeqHo/gqkttjsd/35719
 #EXTINF:-1 tvg-id="DocuBox" tvg-logo="http://i.ibb.co/hZPf83f/DOCUBOX.png" group-title="BELGESEL",DOCUBOX
-http://v700.germanyservers.online:8000/yGWkOoeqHo/gqkttjsd/46529
+http://pro.panelxui.com:8080/Khkn2233/FSKKB05cMz/54927
 #EXTINF:-1 tvg-id="Love Nature" tvg-logo="http://i.ibb.co/4mdv588/LOVE-NATURE.png" group-title="BELGESEL",LOVE NATURE
 http://v700.germanyservers.online:8000/yGWkOoeqHo/gqkttjsd/53544
 #EXTINF:-1 tvg-id="CGTN DOCUMENTARY HD" tvg-logo="http://i.ibb.co/7JvG5WX/CGTN-DOCUMENTARY.png"  group-title="BELGESEL",CGTN DOCUMENTARY
@@ -757,7 +757,7 @@ http://v700.germanyservers.online:8000/yGWkOoeqHo/gqkttjsd/6158
 http://v700.germanyservers.online:8000/yGWkOoeqHo/gqkttjsd/57065
 #EXTINF:-1 tvg-logo="http://i.ibb.co/n8hB0vX/TRWAM.png" group-title="YABANCI",TRWAM
 https://trwamtv.live.e59-po.insyscd.net/cl01/out/u/trwam_3.m3u8
-EXTINF:-1 tvg-id="ALEMFM.tr" tvg-logo="http://i.ibb.co/qFTtcyd/ALEM-FM.png" group-title="RADYO",ALEM FM
+#EXTINF:-1 tvg-id="ALEMFM.tr" tvg-logo="http://i.ibb.co/qFTtcyd/ALEM-FM.png" group-title="RADYO",ALEM FM
 http://scturkmedya.radyotvonline.com/stream/80/
 #EXTINF:-1 tvg-logo="http://i.ibb.co/mqpcB1d/SUPER-FM.png" group-title="RADYO",SÜPER FM
 http://17733.live.streamtheworld.com/SUPER_FM.mp3
