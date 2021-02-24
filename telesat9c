@@ -430,7 +430,7 @@ http://v700.germanyservers.online:8000/yGWkOoeqHo/gqkttjsd/6008
 #EXTINF:-1 tvg-id="HABİTAT TV" tvg-logo="http://i.ibb.co/Z6zdH7B/HABITAT-TV.png" group-title="BELGESEL",HABİTAT TV
 http://45.94.149.154:8000/play/a02n
 #EXTINF:-1 tvg-id="TRT Belgesel HD" tvg-logo="http://i.ibb.co/G2P4sKP/TRT-BELGESEL.png" group-title="BELGESEL",TRT BELGESEL
-http://live-01.tvjetapp.com/ch-24/live.m3u8
+https://live-01.tvjetapp.com/ch-24/live.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel HD" tvg-logo="http://i.ibb.co/rGkK2FD/DISCOVERY-CHANNEL.png" group-title="BELGESEL",DISCOVERY CHANNEL
 http://v700.germanyservers.online:8000/yGWkOoeqHo/gqkttjsd/5997
 #EXTINF:-1 tvg-id="Discovery Science HD" tvg-logo="http://i.ibb.co/2W5pXLX/DISCOVERY-SCIENCE.png" group-title="BELGESEL",DISCOVERY SCIENCE
@@ -459,7 +459,7 @@ http://pro.panelxui.com:8080/Khkn2233/FSKKB05cMz/54927
 http://v700.germanyservers.online:8000/yGWkOoeqHo/gqkttjsd/53544
 #EXTINF:-1 tvg-id="CGTN DOCUMENTARY HD" tvg-logo="http://i.ibb.co/7JvG5WX/CGTN-DOCUMENTARY.png"  group-title="BELGESEL",CGTN DOCUMENTARY
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1 tvg-id="RTG INT" tvg-logo="http://i.ibb.co/7JvG5WX/CGTN-DOCUMENTARY.png"  group-title="BELGESEL",RTG INT
+#EXTINF:-1 tvg-id="RTG INT" tvg-logo="http://i.ibb.co/LNbnS0X/RTG-INT.png"  group-title="BELGESEL",RTG INT
 https://strm.yandex.ru/kal/rtg/rtg0_169_480p.json/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="KON TV" tvg-logo="http://i.ibb.co/ZXjHWWV/KON-TV.png" group-title="YEREL",KON TV
 https://live-01.tvjetapp.com/ch-88/live.m3u8
@@ -659,7 +659,7 @@ http://v700.germanyservers.online:8000/yGWkOoeqHo/gqkttjsd/57544
 http://v700.germanyservers.online:8000/yGWkOoeqHo/gqkttjsd/57545
 #EXTINF:-1 tvg-logo="http://i.ibb.co/4Rky1mq/RTP-INTERNACIONAL.png" group-title="YABANCI",RTP INTERNACIONAL
 http://panelvip1.com:8080/uQvKDTnHc2/05511794920/47213
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cbVnGt2/BVN.png" group-title="YABANCI",RTP INTERNACIONAL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cbVnGt2/BVN.png" group-title="YABANCI",BVN
 http://panelvip1.com:8080/uQvKDTnHc2/05511794920/40712
 #EXTINF:-1 tvg-logo="http://i.ibb.co/T4yzFrn/SURYOYO-SAT.png" group-title="YABANCI",SURYOYO SAT
 http://panelvip1.com:8080/uQvKDTnHc2/05511794920/46334
