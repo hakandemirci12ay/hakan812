@@ -20,17 +20,17 @@ http://v8.germanyservers.online:8000/yGWkOoeqHo/4114337aA/37461
 #EXTINF:-1 tvg-id="Dizi Smart Max" tvg-logo="http://i.ibb.co/W3jQJXS/DIZISMART-MAX.png" group-title="DİZİ",DİZİSMART MAX
 http://v8.germanyservers.online:8000/yGWkOoeqHo/4114337aA/35718
 #EXTINF:-1 tvg-id="beIN MOVIES PREMIERE HD" tvg-logo="http://i.ibb.co/3mRRxxM/be-IN-MOVIES-PREMIERE.png" group-title="SİNEMA",beIN MOVIES PREMIERE
-http://api.mfreetv.com:80/hakdemir812/4114337aA/4598
+http://api.mgoldtv.com:80/hakdemir812/4114337aA/4598
 #EXTINF:-1 tvg-id="beIN MOVIES PREMIERE 2 HD" tvg-logo="http://i.ibb.co/hXZLW2R/be-IN-MOVIES-PREMIERE-2.png" group-title="SİNEMA",beIN MOVIES PREMIERE 2
-http://api.mfreetv.com:80/hakdemir812/4114337aA/4597
+http://api.mgoldtv.com:80/hakdemir812/4114337aA/4597
 #EXTINF:-1 tvg-id="beIN MOVIES STARS HD" tvg-logo="http://i.ibb.co/5TrCZKz/be-IN-MOVIES-STARS.png" group-title="SİNEMA",beIN MOVIES STARS
-http://api.mfreetv.com:80/hakdemir812/4114337aA/4593
+http://api.mgoldtv.com:80/hakdemir812/4114337aA/4593
 #EXTINF:-1 tvg-id="beIN MOVIES ACTION HD" tvg-logo="http://i.ibb.co/0MhshK1/be-IN-MOVIES-ACTION.png" group-title="SİNEMA",beIN MOVIES ACTION
-http://api.mfreetv.com:80/hakdemir812/4114337aA/4596
+http://api.mgoldtv.com:80/hakdemir812/4114337aA/4596
 #EXTINF:-1 tvg-id="beIN MOVIES ACTION 2 HD" tvg-logo="http://i.ibb.co/x8SG5Fg/be-IN-MOVIES-ACTION-2.png" group-title="SİNEMA",beIN MOVIES ACTION 2
-http://api.mfreetv.com:80/hakdemir812/4114337aA/4595
+http://api.mgoldtv.com:80/hakdemir812/4114337aA/4595
 #EXTINF:-1 tvg-id="beIN MOVIES FAMILY HD" tvg-logo="http://i.ibb.co/jr5PKT1/be-IN-MOVIES-FAMILY.png" group-title="SİNEMA",beIN MOVIES FAMILY
-http://api.mfreetv.com:80/hakdemir812/4114337aA/4594
+http://api.mgoldtv.com:80/hakdemir812/4114337aA/4594
 #EXTINF:-1 tvg-id="beIN MOVIES TURK HD" tvg-logo="http://i.ibb.co/CW8n20C/be-IN-MOVIES-T-RK.png" group-title="SİNEMA",beIN MOVIES TURK
 http://v8.germanyservers.online:8000/yGWkOoeqHo/4114337aA/37414
 #EXTINF:-1 tvg-id="MovieSmart Premium" tvg-logo="http://i.ibb.co/gSbRLZ5/MOVIESMART-PREMIUM.png" group-title="SİNEMA",MOVIESMART PREMIUM
@@ -226,7 +226,7 @@ http://v8.germanyservers.online:8000/yGWkOoeqHo/4114337aA/5974
 #EXTINF:-1 tvg-id="Tivibu Spor 3" tvg-logo="http://i.ibb.co/hmjw1cL/TIVIBU-SPOR-3.png" group-title="SPOR",TİVİBU SPOR 3
 http://v8.germanyservers.online:8000/yGWkOoeqHo/4114337aA/5973
 #EXTINF:-1 tvg-id="Tivibu Spor 4" tvg-logo="http://i.ibb.co/FHrWZK3/TIVIBU-SPOR-4.png" group-title="SPOR",TİVİBU SPOR 4
-http://api.mfreetv.com:80/hakdemir812/4114337aA/4602
+http://api.mgoldtv.com:80/hakdemir812/4114337aA/4602
 #EXTINF:-1 tvg-id="TRT SPOR HD" tvg-logo="http://i.ibb.co/RhC7cBL/TRT-SPOR.png" group-title="SPOR",TRT SPOR
 https://live-01.tvjetapp.com/ch-23/live.m3u8
 #EXTINF:-1 tvg-id="TRT Spor 2 HD" tvg-logo="http://i.ibb.co/mvSBhdz/TRT-SPOR-2.png" group-title="SPOR",TRT SPOR 2
@@ -290,7 +290,7 @@ https://milyontv-live.ercdn.net/milyontv/milyontv_720p.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/k1YBLdN/RFM-TV.png" group-title="MÜZİK",RFM TV
 http://panelvip1.com:8080/uQvKDTnHc2/05511794920/39278
 #EXTINF:-1 tvg-logo="http://i.ibb.co/vQ4hRyX/STINGRAY-ICONCERTS.png" group-title="MÜZİK",STINGRAY ICONCERTS
-http://api.mfreetv.com:80/hakdemir812/4114337aA/4546
+http://api.mgoldtv.com:80/hakdemir812/4114337aA/4546
 #EXTINF:-1 tvg-logo="http://i.ibb.co/mqzB9D1/STINGRAY-CLASSICA.png" group-title="MÜZİK",STINGRAY CLASSICA
 http://panelvip1.com:8080/uQvKDTnHc2/05511794920/54162
 #EXTINF:-1 tvg-id="360 TUNE BOX" tvg-logo="http://i.ibb.co/f82RTSh/360-TUNE-BOX.png" group-title="MÜZİK",360 TUNE BOX
@@ -636,7 +636,7 @@ http://v8.germanyservers.online:8000/yGWkOoeqHo/4114337aA/37389
 #EXTINF:-1 tvg-id="beIN BOX OFFICE 2 HD" tvg-logo="http://i.ibb.co/Y8DFrGT/be-in-tr-box-office-02-hd.png" group-title="SALON",beIN BOX OFFICE 2
 http://v8.germanyservers.online:8000/yGWkOoeqHo/4114337aA/37390
 #EXTINF:-1 tvg-id="beIN BOX OFFICE 3 HD" tvg-logo="http://i.ibb.co/CnxfQhR/be-in-tr-box-office-03-hd.png" group-title="SALON",beIN BOX OFFICE 3
-http://api.mfreetv.com:80/hakdemir812/4114337aA/8408
+http://api.mgoldtv.com:80/hakdemir812/4114337aA/8408
 #EXTINF:-1 tvg-logo="http://i.ibb.co/LYQ7dKJ/PRESS-TV.png" group-title="YABANCI",PRESS TV
 https://live.presstv.com/liveprs/smil:liveprs/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/z83Kt2J/I24-NEWS-ENGLISH.png" group-title="YABANCI",I24NEWS ENGLISH
