@@ -474,7 +474,7 @@ http://v8.germanyservers.online:8000/yGWkOoeqHo/4114337aA/55770
 #EXTINF:-1 tvg-logo="http://i.ibb.co/W6y9PnL/MESAJ-TV.png" group-title="ULUSAL",MESAJ TV
 https://waw2.artiyerelmedya.net/mesajtv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="ULUSAL KANAL" tvg-logo="http://i.ibb.co/X23sjfm/ULUSAL-KANAL.png" group-title="YEREL",ULUSAL KANAL
-https://live-01.tvjetapp.com/ch-44/live.m3u8
+https://live-01.tvjetapp.com/ch-46/live.m3u8
 #EXTINF:-1 tvg-id="Akit TV" tvg-logo="http://i.ibb.co/yWrNSxB/AKIT-TV.png" group-title="HABER",AKIT TV
 http://akittv-live.ercdn.net/akittv/akittv_360p.m3u8
 #EXTINF:-1 tvg-id="Tv 5" tvg-logo="http://i.ibb.co/bNJZFGz/TV5.png" group-title="YEREL",TV5
