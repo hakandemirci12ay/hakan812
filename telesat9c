@@ -486,7 +486,7 @@ https://live-01.tvjetapp.com/ch-55/live.m3u8
 #EXTINF:-1 tvg-id="KADIRGA TV" tvg-logo="http://i.ibb.co/LdcTQDK/KADIRGA-TV.png" group-title="YEREL",KADIRGA TV
 https://live-01.tvjetapp.com/ch-121/live.m3u8
 #EXTINF:-1 tvg-id="BENGÜ TÜRK" tvg-logo="http://i.ibb.co/xzL6drV/BENGUTURK.png" group-title="YEREL",BENGUTURK
-https://live-01.tvjetapp.com/ch-44/live.m3u8
+https://live-01.tvjetapp.com/ch-48/live.m3u8
 #EXTINF:-1 tvg-id="Line TV" tvg-logo="http://i.ibb.co/3YyQmK9/LINE-TV.png" group-title="YEREL",LINE TV
 https://broadcasttr.com:446/linetv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="RTV 23" tvg-logo="http://i.ibb.co/wSRfmHP/KANAL-23.png" group-title="YEREL",KANAL 23
