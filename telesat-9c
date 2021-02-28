@@ -1,0 +1,91 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BBC First" tvg-logo="http://i.ibb.co/6bn9Kds/BBC-FIRST.png" group-title="KAYIT",BBC FIRST
+http://pro.panelxui.com:8080/Khkn2233/FSKKB05cMz/61662
+#EXTINF:-1 tvg-id="Dizi Smart Max" tvg-logo="http://i.ibb.co/W3jQJXS/DIZISMART-MAX.png" group-title="KAYIT",DİZİSMART MAX
+http://v8.germanyservers.online:8000/yGWkOoeqHo/4114337aA/35718
+#EXTINF:-1 tvg-id="beIN MOVIES TURK HD" tvg-logo="http://i.ibb.co/CW8n20C/be-IN-MOVIES-T-RK.png" group-title="KAYIT",beIN MOVIES TURK
+http://v8.germanyservers.online:8000/yGWkOoeqHo/4114337aA/37414
+#EXTINF:-1 tvg-id="MovieSmart Türk" tvg-logo="http://i.ibb.co/K7dZWgk/MOVIESMART-T-RK.png" group-title="SİNEMA",MOVIESMART TÜRK
+http://pro.panelxui.com:8080/Khkn2233/FSKKB05cMz/248
+#EXTINF:-1 tvg-id="SHOW Max" tvg-logo="http://i.ibb.co/6XKxxRB/SHOW-MAX.png" group-title="KAYIT",SHOW MAX
+https://live-01.tvjetapp.com/ch-50/live.m3u8
+#EXTINF:-1 tvg-id="Show TV HD" tvg-logo="http://i.ibb.co/d6TDsHY/SHOW-TV.png" group-title="KAYIT",SHOW TV
+https://live-01.tvjetapp.com/ch-11/live.m3u8
+#EXTINF:-1 tvg-id="TRT 1 HD" tvg-logo="http://i.ibb.co/gMVLBX3/TRT-1.png" group-title="KAYIT",TRT 1
+https://live-01.tvjetapp.com/ch-21/live.m3u8
+#EXTINF:-1 tvg-id="Kanal D HD" tvg-logo="http://i.ibb.co/FgsJ0WS/KANAL-D.png" group-title="KAYIT",KANAL D
+https://live-01.tvjetapp.com/ch-1/live.m3u8
+#EXTINF:-1 tvg-id="ATV HD" tvg-logo="http://i.ibb.co/Nr6W1RL/ATV.png" group-title="KAYIT",ATV
+https://live-01.tvjetapp.com/ch-14/live.m3u8
+#EXTINF:-1 tvg-id="FOX HD" tvg-logo="http://i.ibb.co/V9KxPmd/FOX-TV.png" group-title="KAYIT",FOX
+https://live-01.tvjetapp.com/ch-7/live.m3u8
+#EXTINF:-1 tvg-id="Star TV HD" tvg-logo="http://i.ibb.co/ygz2wMx/STAR-TV.png" group-title="KAYIT",STAR
+https://live-01.tvjetapp.com/ch-8/live.m3u8
+#EXTINF:-1 tvg-id="TV8 HD" tvg-logo="http://i.ibb.co/3pgFKnp/TV8.png" group-title="KAYIT",TV8
+https://live-01.tvjetapp.com/ch-5/live.m3u8
+#EXTINF:-1 tvg-id="360 HD" tvg-logo="http://i.ibb.co/Kq2LtDm/360.png" group-title="KAYIT",360
+https://live-01.tvjetapp.com/ch-49/live.m3u8
+#EXTINF:-1 tvg-id="TLC HD" tvg-logo="http://i.ibb.co/hDx2mWx/TLC.png" group-title="KAYIT",TLC
+https://live-01.tvjetapp.com/ch-33/live.m3u8
+#EXTINF:-1 tvg-id="Bloomberg HT HD" tvg-logo="http://i.ibb.co/sQzbMtm/BLOOMBERG-HT.png" group-title="KAYIT",BLOOMBERG HT
+https://live-01.tvjetapp.com/ch-13/live.m3u8
+#EXTINF:-1 tvg-id="A Haber HD" tvg-logo="http://i.ibb.co/sKLmFy2/A-HABER.png" group-title="KAYIT",A HABER
+https://live-01.tvjetapp.com/ch-15/live.m3u8
+#EXTINF:-1 tvg-id="TRT Haber HD" tvg-logo="http://i.ibb.co/Wz67V7T/TRT-HABER.png" group-title="KAYIT",TRT HABER
+https://live-01.tvjetapp.com/ch-22/live.m3u8
+#EXTINF:-1 tvg-id="KANAL 7 HD" tvg-logo="http://i.ibb.co/qxrJRK9/KANAL-7.png" group-title="KAYIT",KANAL 7
+https://live-01.tvjetapp.com/ch-6/live.m3u8
+#EXTINF:-1 tvg-id="A2 HD" tvg-logo="http://i.ibb.co/HnV43sj/A2.png" group-title="KAYIT",A2
+https://live-01.tvjetapp.com/ch-19/live.m3u8
+#EXTINF:-1 tvg-id="BEYAZ TV HD" tvg-logo="http://i.ibb.co/JFjLFcD/BEYAZ-TV.png" group-title="KAYIT",BEYAZ TV
+https://live-01.tvjetapp.com/ch-20/live.m3u8
+#EXTINF:-1 tvg-id="TV 100 HD" tvg-logo="http://i.ibb.co/rGfsnNt/TV-100.png" group-title="KAYIT",TV 100
+https://live-01.tvjetapp.com/ch-127/live.m3u8
+#EXTINF:-1 tvg-id="Ülke TV HD" tvg-logo="http://i.ibb.co/qMxs4Sy/ULKE-TV.png" group-title="KAYIT",ULKE TV
+https://live-01.tvjetapp.com/ch-29/live.m3u8
+#EXTINF:-1 tvg-id="TVNET HD" tvg-logo="http://i.ibb.co/Sd7xdFc/TVNET.png" group-title="KAYIT",TVNET
+https://live-01.tvjetapp.com/ch-60/live.m3u8
+#EXTINF:-1 tvg-id="KANAL 24 HD" tvg-logo="http://i.ibb.co/Tm59DQJ/24.png" group-title="KAYIT",24
+https://live-01.tvjetapp.com/ch-59/live.m3u8
+#EXTINF:-1 tvg-id="NTV HD" tvg-logo="http://i.ibb.co/br8vg2m/NTV.png" group-title="KAYIT",NTV
+https://live-01.tvjetapp.com/ch-9/live.m3u8
+#EXTINF:-1 tvg-id="CNN TÜRK HD" tvg-logo="http://i.ibb.co/dbKGBz8/CNN-TURK.png" group-title="KAYIT",CNN TURK
+https://live-01.tvjetapp.com/ch-2/live.m3u8
+#EXTINF:-1 tvg-id="A Para HD" tvg-logo="http://i.ibb.co/mRcY7S0/A-PARA.png" group-title="KAYIT",A PARA
+https://live-01.tvjetapp.com/ch-53/live.m3u8
+#EXTINF:-1 tvg-id="HABERTURK HD" tvg-logo="http://i.ibb.co/5kPw9Rh/HABERTURK.png" group-title="KAYIT",HABERTURK
+https://live-01.tvjetapp.com/ch-12/live.m3u8
+#EXTINF:-1 tvg-id="TGRT HABER" tvg-logo="http://i.ibb.co/N2jRT0M/TGRT-HABER.png" group-title="KAYIT",TGRT HABER
+https://live-01.tvjetapp.com/ch-56/live.m3u8
+#EXTINF:-1 tvg-id="EKOTÜRK TV HD" tvg-logo="http://i.ibb.co/GHYqtNP/EKOTURK.png group-title="KAYIT",EKOTÜRK
+https://live-01.tvjetapp.com/ch-111/live.m3u8
+#EXTINF:-1 tvg-id="HABER GLOBAL HD" tvg-logo="http://i.ibb.co/3hjFNFQ/HABER-GLOBAL.png" group-title="KAYIT",HABER GLOBAL
+https://live-01.tvjetapp.com/ch-36/live.m3u8
+#EXTINF:-1 tvg-id="TELE 1 HD" tvg-logo="http://i.ibb.co/gMjkG0g/TELE-1.png" group-title="KAYIT",TELE 1
+https://live-01.tvjetapp.com/ch-167/live.m3u8
+#EXTINF:-1 tvg-id="DMAX HD" tvg-logo="http://i.ibb.co/GCRC9b9/DMAX.png" group-title="KAYIT",DMAX
+https://live-01.tvjetapp.com/ch-10/live.m3u8
+#EXTINF:-1 tvg-id="SEMERKAND TV HD" tvg-logo="http://i.ibb.co/pZ6D4PH/SEMERKAND-TV.png" group-title="KAYIT",SEMERKAND TV
+https://live-01.tvjetapp.com/ch-57/live.m3u8
+#EXTINF:-1 tvg-id="Halk TV" tvg-logo="http://i.ibb.co/Qntd9xv/HALK-TV.png" group-title="KAYIT",HALK TV
+https://live-01.tvjetapp.com/ch-47/live.m3u8
+#EXTINF:-1 tvg-id="Teve2 HD" tvg-logo="http://i.ibb.co/JRkbS6X/TEVE2.png" group-title="KAYIT",TEVE2
+https://live-01.tvjetapp.com/ch-3/live.m3u8
+#EXTINF:-1 tvg-id="TV 8,5" tvg-logo="http://i.ibb.co/Ws4btfZ/TV8-5.png" group-title="KAYIT",TV8.5
+https://live-01.tvjetapp.com/ch-33/live.m3u8
+#EXTINF:-1 tvg-id="24Kitchen" tvg-logo="http://i.ibb.co/TbTRT1b/24-KITCHEN.png" group-title="YAŞAM",24 KITCHEN
+http://v8.germanyservers.online:8000/yGWkOoeqHo/4114337aA/55739
+#EXTINF:-1 tvg-id="Bizimev TV" tvg-logo="http://i.ibb.co/wsmgWWJ/BIZIMEV-TV.png" group-title="KAYIT",BİZİMEV TV
+https://www.yilmaztv.com/oz/oz.php?channel=bizimev-tv&stream=1&id=14436&p=4d1bcbc76a262eaaf40998466b705c95&type=m3u8
+#EXTINF:-1 tvg-id="Uçan Kuş TV" tvg-logo="http://i.ibb.co/2gHKxnZ/UCANKU-TV.png" group-title="KAYIT",UÇANKUŞ TV
+https://live-01.tvjetapp.com/ch-181/live.m3u8
+#EXTINF:-1 tvg-id="TRT 3 - TRT Spor" tvg-logo="http://i.ibb.co/c6FZhrm/TRT-3.png" group-title="KAYIT",TRT 3
+https://meclistv-live.ercdn.net/meclistv/meclistv_576p.m3u8
+#EXTINF:-1 tvg-id="TRT AVAZ" tvg-logo="http://i.ibb.co/8ssHtDC/TRT-AVAZ.png" group-title="KAYIT",TRT AVAZ
+https://live-01.tvjetapp.com/ch-31/live.m3u8
+#EXTINF:-1 tvg-id="KRT TV HD" tvg-logo="http://i.ibb.co/wLtwCrt/KRT-TV.png" group-title="KAYIT",KRT TV
+http://live1.krttv.com.tr/show/krttv_mobil/index.m3u8
+#EXTINF:-1 tvg-id="TRT 2 HD" tvg-logo="http://i.ibb.co/3CyfTFR/TRT-2.png" group-title="KAYIT",TRT 2
+http://v8.germanyservers.online:8000/yGWkOoeqHo/4114337aA/34210
+#EXTINF:-1 tvg-id="Diyanet TV HD" tvg-logo="http://i.ibb.co/dM1dBzS/DIYANET-TV.png" group-title="KAYIT",DIYANET TV
+https://live-01.tvjetapp.com/ch-67/live.m3u8
