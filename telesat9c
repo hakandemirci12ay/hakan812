@@ -52,7 +52,7 @@ http://pro.panelxui.com:8080/Khkn2233/FSKKB05cMz/80585
 #EXTINF:-1 tvg-id="Sinema Yerli" tvg-logo="http://i.ibb.co/KmQQR9d/SINEMA-YERLI.png" group-title="SİNEMA",SİNEMA YERLİ
 http://v8.germanyservers.online:8000/yGWkOoeqHo/4114337aA/46070
 #EXTINF:-1 tvg-id="Sinema Yerli 2" tvg-logo="http://i.ibb.co/JCWW1Zj/SINEMA-YERLI-2.png" group-title="SİNEMA",SİNEMA YERLİ 2
-http://v8.germanyservers.online:8000/yGWkOoeqHo/4114337aA/46071
+http://pro.panelxui.com:8080/Khkn2233/FSKKB05cMz/79956
 #EXTINF:-1 tvg-id="Sinema Komedi" tvg-logo="http://i.ibb.co/WDQ1vcC/SINEMA-KOMEDI.png" group-title="SİNEMA",SİNEMA KOMEDİ
 http://v8.germanyservers.online:8000/yGWkOoeqHo/4114337aA/46068
 #EXTINF:-1 tvg-id="Sinema Komedi 2" tvg-logo="http://i.ibb.co/FzTdqKt/SINEMA-KOMEDI-2.png" group-title="SİNEMA",SİNEMA KOMEDİ 2
@@ -429,7 +429,7 @@ http://v8.germanyservers.online:8000/yGWkOoeqHo/4114337aA/57355
 http://waw2.artiyerelmedya.net/avtv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="Yaban TV" tvg-logo="http://i.ibb.co/bQHRsN7/YABAN-TV.png" group-title="BELGESEL",YABAN TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
-#EXTINF:-1 tvg-id="HABİTAT TV" tvg-logo="http://i.ibb.co/Z6zdH7B/HABITAT-TV.png" group-title="BELGESEL",HABİTAT TV
+#EXTINF:-1 tvg-id="HABİTAT TV" tvg-logo="http://i.ibb.co/NySJ4Lj/HABITAT-TV.png" group-title="BELGESEL",HABİTAT TV
 http://45.94.149.154:8000/play/a02n
 #EXTINF:-1 tvg-id="TRT Belgesel HD" tvg-logo="http://i.ibb.co/G2P4sKP/TRT-BELGESEL.png" group-title="BELGESEL",TRT BELGESEL
 https://live-01.tvjetapp.com/ch-24/live.m3u8
@@ -526,7 +526,7 @@ http://panelvip1.com:8080/uQvKDTnHc2/05511794920/28285
 #EXTINF:-1 tvg-id="Kanal 35" tvg-logo="http://i.ibb.co/yF9KFMc/TV-35.png" group-title="YEREL",TV 35
 https://live-01.tvjetapp.com/ch-178/live.m3u8
 #EXTINF:-1 tvg-id="Cem Tv" tvg-logo="http://i.ibb.co/0CsSc3P/CEM-TV.png" group-title="YEREL",CEM TV
-https://live-01.tvjetapp.com/ch-44/live.m3u8
+https://live-01.tvjetapp.com/ch-45/live.m3u8
 #EXTINF:-1 tvg-id="Altaş TV" tvg-logo="http://i.ibb.co/rMz0BtW/ALTAS-TV.png" group-title="YEREL",ALTAŞ TV
 https://broadcasttr.com:446/altastv/smil:altastv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Beykent TV" tvg-logo="http://i.ibb.co/SJk9wqJ/BEYKENT-TV.png" group-title="YEREL",BEYKENT TV
@@ -590,7 +590,7 @@ http://pro.panelxui.com:8080/Khkn2233/FSKKB05cMz/4484
 #EXTINF:-1 tvg-logo="http://i.ibb.co/7rB9S5t/TV8-INT.png" group-title="YEREL",TV8 INT
 http://pro.panelxui.com:8080/Khkn2233/FSKKB05cMz/23
 #EXTINF:-1 tvg-id="TRT Çocuk" tvg-logo="http://i.ibb.co/dLfdB6j/TRT-COCUK.png" group-title="COCUK",TRT ÇOCUK
-https://live-01.tvjetapp.com/ch-29/live.m3u8
+https://live-01.tvjetapp.com/ch-30/live.m3u8
 #EXTINF:-1 tvg-id="Çocuk Smart" tvg-logo="http://i.ibb.co/xCWHHpP/COCUK-SMART.png" group-title="COCUK",ÇOCUK SMART
 http://v8.germanyservers.online:8000/yGWkOoeqHo/4114337aA/53747
 #EXTINF:-1 tvg-id="BOOMERANG HD" tvg-logo="http://i.ibb.co/dDz0cjy/BOOMERANG-TV.png" group-title="COCUK",BOOMERANG TV
