@@ -141,7 +141,7 @@ https://live-01.tvjetapp.com/ch-10/live.m3u8
 https://live-01.tvjetapp.com/ch-57/live.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/MBGdkNB/DOST-TV.png" group-title="ULUSAL",DOST TV
 https://live-01.tvjetapp.com/ch-75/live.m3u8
-#EXTINF:-1 tvg-id="ULUSAL KANAL" tvg-logo="http://i.ibb.co/X23sjfm/ULUSAL-KANAL.png" group-title="YEREL",ULUSAL KANAL
+#EXTINF:-1 tvg-id="ULUSAL KANAL" tvg-logo="http://i.ibb.co/X23sjfm/ULUSAL-KANAL.png" group-title="ULUSAL",ULUSAL KANAL
 https://live-01.tvjetapp.com/ch-46/live.m3u8
 #EXTINF:-1 tvg-id="Halk TV" tvg-logo="http://i.ibb.co/Qntd9xv/HALK-TV.png" group-title="HABER",HALK TV
 https://live-01.tvjetapp.com/ch-47/live.m3u8
@@ -534,7 +534,8 @@ https://live-01.tvjetapp.com/ch-157/live.m3u8
 #EXTINF:-1 tvg-id="Mavi Karadeniz" tvg-logo="http://i.ibb.co/r47Vv15/MAVI-KARADENIZ.png" group-title="YEREL",MAVİ KARADENİZ
 https://waw2.artiyerelmedya.net/mavikaradeniz/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="Vatan TV" tvg-logo="http://i.ibb.co/x1mSnSk/VATAN.png" group-title="YEREL",VATAN
-http://panelvip1.com:8080/uQvKDTnHc2/05511794920/34393#EXTINF:-1 tvg-id="Rumeli Tv" tvg-logo="http://i.ibb.co/JKbs7cF/RUMELI-TV.png" group-title="YEREL",RUMELİ TV
+http://panelvip1.com:8080/uQvKDTnHc2/05511794920/34393
+#EXTINF:-1 tvg-id="Rumeli Tv" tvg-logo="http://i.ibb.co/JKbs7cF/RUMELI-TV.png" group-title="YEREL",RUMELİ TV
 http://v8.germanyservers.online:8000/yGWkOoeqHo/4114337aA/5910
 #EXTINF:-1 tvg-id="Uzay TV" tvg-logo="http://i.ibb.co/fCB6V0j/UZAY-HABER.png" group-title="YEREL",UZAY HABER
 https://live-01.tvjetapp.com/ch-115/live.m3u8
