@@ -615,8 +615,6 @@ http://v6.germanyservers.org:8000/yGWkOoeqHo/4114337aA/17156
 http://v6.germanyservers.org:8000/yGWkOoeqHo/4114337aA/17187
 #EXTINF:-1 tvg-id="Da Vinci" tvg-logo="http://i.ibb.co/Mf3kMnc/DA-VINCI-LEARNING.png" group-title="COCUK",DA VINCI LEARNING
 http://v6.germanyservers.org:8000/yGWkOoeqHo/4114337aA/55818
-#EXTINF:-1 tvg-logo="http://i.ibb.co/WzKz0dp/GAMETOON.png" group-title="COCUK",GAMETOON
-http://87.207.71.147:4000/play/a03s/index.m3u8
 #EXTINF:-1 tvg-id="TRT EBATV İLKOKUL HD" tvg-logo="http://i.ibb.co/m4tLzkz/TRT-EBA-TV-ILKOKUL.png" group-title="EGITIM",TRT EBA TV ILKOKUL
 http://tv-e-okul00.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT EBATV ORTAOKUL HD" tvg-logo="http://i.ibb.co/KKpL0NG/TRT-EBA-TV-ORTAOKUL.png" group-title="EGITIM",TRT EBA TV ORTAOKUL
