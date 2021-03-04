@@ -72,7 +72,7 @@ http://v6.germanyservers.org:8000/yGWkOoeqHo/4114337aA/5930
 #EXTINF:-1 tvg-id="FilmBox" tvg-logo="http://i.ibb.co/kqMFxwB/FILMBOX.png" group-title="SİNEMA",FILMBOX
 http://v6.germanyservers.org:8000/yGWkOoeqHo/4114337aA/55759
 #EXTINF:-1 tvg-id="FILMBOX ARTHOUSE" tvg-logo="http://i.ibb.co/B6hV1BK/FILMBOX-ARTHOUSE.png" group-title="SİNEMA",FILMBOX ARTHOUSE
-http://87.207.71.147:4000/play/a04g/index.m3u8
+http://panelvip1.com:8080/uQvKDTnHc2/05511794920/46738
 #EXTINF:-1 tvg-id="FILMBOX EXTRA HD" tvg-logo="http://i.ibb.co/m4XmJf6/FILMBOX-EXTRA.png" group-title="SİNEMA",FILMBOX EXTRA
 http://panelvip1.com:8080/uQvKDTnHc2/05511794920/46739
 #EXTINF:-1 tvg-id="TRT 4K" tvg-logo="http://i.ibb.co/d5DZ7JM/TRT-4K.png" group-title="ULTRA HD",TRT 4K
@@ -184,7 +184,7 @@ https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/2jXjzdM/EXTREME-SPORTS.png" group-title="SPOR",EXTREME SPORTS
 http://v6.germanyservers.org:8000/yGWkOoeqHo/4114337aA/56360
 #EXTINF:-1 tvg-logo="http://i.ibb.co/0frfgzd/GINX-ESPORTS-TV.png" group-title="SPOR",GINX ESPORTS TV
-http://87.207.71.147:4000/play/a03e/index.m3u8
+http://panelvip1.com:8080/uQvKDTnHc2/05511794920/47119
 #EXTINF:-1 tvg-id="FB TV HD" tvg-logo="http://i.ibb.co/x3DSyyJ/FB-TV.png" group-title="SPOR",FB TV
 https://live-01.tvjetapp.com/ch-28/live.m3u8
 #EXTINF:-1 tvg-id="GS TV HD" tvg-logo="http://i.ibb.co/7R1mB7Y/GS-TV.png" group-title="SPOR",GS TV
@@ -308,7 +308,7 @@ http://v6.germanyservers.org:8000/yGWkOoeqHo/4114337aA/56384
 #EXTINF:-1 tvg-id="Fashion TV HD" tvg-logo="http://i.ibb.co/pwnpr9b/FASHION-TV.png" group-title="YAŞAM",FASHION TV
 http://v6.germanyservers.org:8000/yGWkOoeqHo/4114337aA/55808
 #EXTINF:-1 tvg-logo="http://i.ibb.co/WVMQWXB/FTV-PARIS.png" group-title="YAŞAM",FTV PARIS
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/py5grQQ/WORLD-FASHION.png" group-title="YAŞAM",WORLD FASHION
 http://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_sdmid.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/fMnZTSD/SHORTS-TV.png" group-title="ULUSLARARASI",SHORTS TV
@@ -376,7 +376,7 @@ http://panelvip1.com:8080/uQvKDTnHc2/05511794920/47879
 #EXTINF:-1 tvg-id="arirang.tr" tvg-logo="http://i.ibb.co/vJHr4T8/ARIRANG-TV.png" group-title="ULUSLARARASI",ARIRANG TV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV 4" tvg-logo="http://i.ibb.co/vPtL4YX/CCTV-4.png" group-title="ULUSLARARASI",CCTV-4
-http://117.148.187.37/PLTV/88888888/224/3221226171/index.m3u8
+http://nox101.com:8080/uQvKDTnHc2/05511794920/47035
 #EXTINF:-1 tvg-id="CGTN HD" tvg-logo="http://i.ibb.co/pwFZfMf/CGTN.png" group-title="ULUSLARARASI",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/WGfmMNX/RAI-NEWS-24.png" group-title="ULUSLARARASI",RAI NEWS 24
@@ -665,20 +665,18 @@ http://panelvip1.com:8080/uQvKDTnHc2/05511794920/40712
 http://panelvip1.com:8080/uQvKDTnHc2/05511794920/46334
 #EXTINF:-1 tvg-logo="http://i.ibb.co/9YvB1KY/ESKA-TV.png" group-title="YABANCI",ESKA TV
 http://v6.germanyservers.org:8000/yGWkOoeqHo/4114337aA/57050
-#EXTINF:-1 tvg-logo="http://i.ibb.co/pWH7Cgw/POLONIA-1.png" group-title="YABANCI",POLONIA 1
-http://87.207.71.147:4000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/mqKvx9Z/TELE-5.png" group-title="YABANCI",TELE 5
-http://87.207.71.147:4000/play/a078/index.m3u8
+http://nox101.com:8080/uQvKDTnHc2/05511794920/46882
 #EXTINF:-1 tvg-logo="http://i.ibb.co/QbYP19t/TVP-POLONIA.png" group-title="YABANCI",TVP POLONIA
-http://87.207.71.147:4000/play/a049/index.m3u8
+http://nox101.com:8080/uQvKDTnHc2/05511794920/46938
 #EXTINF:-1 tvg-logo="http://i.ibb.co/T4Mch1x/4-FUN-DANCE.png" group-title="YABANCI",4FUN DANCE
-http://87.207.71.147:4000/play/a03f/index.m3u8
+http://nox101.com:8080/uQvKDTnHc2/05511794920/46592
 #EXTINF:-1 tvg-logo="http://i.ibb.co/X26nLXP/4-FUN-KIDS.png" group-title="YABANCI",4FUN KIDS
 http://panelvip1.com:8080/uQvKDTnHc2/05511794920/46596
 #EXTINF:-1 tvg-logo="http://i.ibb.co/qYPxXdy/4FUN-TV.png" group-title="YABANCI",4FUN TV
-http://87.207.71.147:4000/play/a01g/index.m3u8
+http://nox101.com:8080/uQvKDTnHc2/05511794920/46599
 #EXTINF:-1 tvg-logo="http://i.ibb.co/tXKWctm/STARS-TV.png" group-title="YABANCI",STARS TV
-http://87.207.71.147:4000/play/a05r/index.m3u8
+http://nox101.com:8080/uQvKDTnHc2/05511794920/46876
 #EXTINF:-1 tvg-logo="http://i.ibb.co/4P1GPMt/TELEPACE.png" group-title="YABANCI",TELEPACE
 http://panelvip1.com:8080/uQvKDTnHc2/05511794920/46015
 #EXTINF:-1 tvg-logo="http://i.ibb.co/BZwzpbP/RUDAW.png" group-title="YABANCI",RUDAW TV
