@@ -143,6 +143,8 @@ https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/MBGdkNB/DOST-TV.png" group-title="ULUSAL",DOST TV
 http://pro.panelxui.com:8080/Khkn2233/FSKKB05cMz/63
+#EXTINF:-1 tvg-id="VAV TV" tvg-logo="http://i.ibb.co/YkBBTfn/VAV-TV.png" group-title="ULUSAL",VAV TV
+http://yayin2.tvizlehd.com/vavtv.m3u8
 #EXTINF:-1 tvg-id="ULUSAL KANAL" tvg-logo="http://i.ibb.co/X23sjfm/ULUSAL-KANAL.png" group-title="ULUSAL",ULUSAL KANAL
 http://iptvmasterlink.dyndns.org:5566/Entry/ulusalkanal_yeni.m3u8
 #EXTINF:-1 tvg-id="Halk TV" tvg-logo="http://i.ibb.co/Qntd9xv/HALK-TV.png" group-title="HABER",HALK TV
@@ -445,6 +447,8 @@ http://vip.germanyservers.org:8000/yGWkOoeqHo/sbsqkjfw/53544
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-id="RTG INT" tvg-logo="http://i.ibb.co/LNbnS0X/RTG-INT.png" group-title="BELGESEL",RTG INT
 https://strm.yandex.ru/kal/rtg/rtg0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="BBN Türk" tvg-logo="http://i.ibb.co/2hvx6zN/BBN-T-RK.png" group-title="YEREL",BBN TÜRK
+http://yayin2.tvizlehd.com/bbnturk.m3u8
 #EXTINF:-1 tvg-id="KON TV" tvg-logo="http://i.ibb.co/ZXjHWWV/KON-TV.png" group-title="YEREL",KON TV
 http://pro.panelxui.com:8080/Khkn2233/FSKKB05cMz/782
 #EXTINF:-1 tvg-id="TV4" tvg-logo="http://i.ibb.co/rvQRhc1/TV-4.png" group-title="YEREL",TV 4
