@@ -74,7 +74,7 @@ http://vip.germanyservers.org:8000/yGWkOoeqHo/sbsqkjfw/5930
 #EXTINF:-1 tvg-id="FilmBox" tvg-logo="http://i.ibb.co/kqMFxwB/FILMBOX.png" group-title="SİNEMA",FILMBOX
 http://pro.panelxui.com:8080/Khkn2233/FSKKB05cMz/61663
 #EXTINF:-1 tvg-id="FILMBOX ARTHOUSE" tvg-logo="http://i.ibb.co/B6hV1BK/FILMBOX-ARTHOUSE.png" group-title="SİNEMA",FILMBOX ARTHOUSE
-http://vip.germanyservers.org:8000/yGWkOoeqHo/sbsqkjfw/56967
+http://212.200.108.6:8005/play/a033/index.m3u8
 #EXTINF:-1 tvg-id="FILMBOX EXTRA" tvg-logo="http://i.ibb.co/m4XmJf6/FILMBOX-EXTRA.png" group-title="SİNEMA",FILMBOX EXTRA
 http://pro.panelxui.com:8080/Khkn2233/FSKKB05cMz/90468
 #EXTINF:-1 tvg-id="TRT 4K" tvg-logo="http://i.ibb.co/d5DZ7JM/TRT-4K.png" group-title="ULTRA HD",TRT 4K
@@ -366,7 +366,7 @@ http://pro.panelxui.com:8080/Khkn2233/FSKKB05cMz/79785
 #EXTINF:-1 tvg-id="ARIRANG" tvg-logo="http://i.ibb.co/vJHr4T8/ARIRANG-TV.png" group-title="ULUSLARARASI",ARIRANG TV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV 4" tvg-logo="http://i.ibb.co/vPtL4YX/CCTV-4.png" group-title="ULUSLARARASI",CCTV-4
-https://cctvakhwh5c-cntv.akamaized.net/live/cdrmcctv4_1/index.m3u8
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225781/index.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-logo="http://i.ibb.co/pwFZfMf/CGTN.png" group-title="ULUSLARARASI",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/WGfmMNX/RAI-NEWS-24.png" group-title="ULUSLARARASI",RAI NEWS 24
