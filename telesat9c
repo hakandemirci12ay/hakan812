@@ -331,6 +331,8 @@ http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/57669
 http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/57349
 #EXTINF:-1 tvg-id="A News" tvg-logo="http://i.ibb.co/R9MGFnz/A-NEWS.png" group-title="ULUSLARARASI",A NEWS
 http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/5951
+#EXTINF:-1 tvg-logo="http://i.ibb.co/3RBjKMm/SKY-NEWS.png" group-title="ULUSLARARASI",SKY NEWS
+http://pro.panelxui.com:8080/Khkn2233/FSKKB05cMz/88764
 #EXTINF:-1 tvg-id="NHK WORLD-JAPAN" tvg-logo="http://i.ibb.co/93CVNGd/NHK-WORLD-JPN.png" group-title="ULUSLARARASI",NHK WORLD-JPN
 http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 #EXTINF:-1 tvg-id="KBS TV" tvg-logo="http://i.ibb.co/7V8pKV3/KBS-WORLD.png" group-title="ULUSLARARASI",KBS WORLD
@@ -591,6 +593,8 @@ http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/17156
 http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/17187
 #EXTINF:-1 tvg-id="Da Vinci" tvg-logo="http://i.ibb.co/Mf3kMnc/DA-VINCI-LEARNING.png" group-title="COCUK",DA VINCI LEARNING
 http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/55818
+#EXTINF:-1 tvg-id="ENGLISH CLUB TV" tvg-logo="http://i.ibb.co/hf4j7hB/ENGLISH-CLUB-TV.png" group-title="EGITIM",ENGLISH CLUB TV
+http://195.181.160.66:8000/udp/238.2.0.157:1234
 #EXTINF:-1 tvg-id="GAMETOON" tvg-logo="http://i.ibb.co/WzKz0dp/GAMETOON.png" group-title="COCUK",GAMETOON
 http://147.78.163.247:8000/play/a03t
 #EXTINF:-1 tvg-id="TRT EBATV İLKOKUL" tvg-logo="http://i.ibb.co/m4tLzkz/TRT-EBA-TV-ILKOKUL.png" group-title="EGITIM",TRT EBA TV ILKOKUL
@@ -633,6 +637,8 @@ http://pro.panelxui.com:8080/Khkn2233/FSKKB05cMz/88649
 http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/57050
 #EXTINF:-1 tvg-logo="http://i.ibb.co/0DYjQB7/THT-COMEDY.png" group-title="YABANCI",THT COMEDY
 http://195.181.160.66:8000/udp/238.2.0.6:1234
+#EXTINF:-1 tvg-logo="http://i.ibb.co/t23byM3/TBN-RUSSIA.png" group-title="YABANCI",TBN RUSSIA
+http://195.181.160.66:8000/udp/238.2.0.216:1234
 #EXTINF:-1 tvg-logo="http://i.ibb.co/T4Mch1x/4-FUN-DANCE.png" group-title="YABANCI",4FUN DANCE
 http://72.255.34.227:8000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/X26nLXP/4-FUN-KIDS.png" group-title="YABANCI",4FUN KIDS
