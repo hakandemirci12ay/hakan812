@@ -144,7 +144,7 @@ http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/5887
 #EXTINF:-1 tvg-logo="http://i.ibb.co/MBGdkNB/DOST-TV.png" group-title="ULUSAL",DOST TV
 http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/55768
 #EXTINF:-1 tvg-id="VAV TV" tvg-logo="http://i.ibb.co/YkBBTfn/VAV-TV.png" group-title="ULUSAL",VAV TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1623461375/ei/n7nDYOxf3Lf6BoDEpZgC/ip/78.174.252.47/id/4tsSi2cf6YA.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAN5PXPiRPspJvogHCe89JLCRw3Ciy1w6DLfExQ9ajgezAiB90olDeA9r2HJgHluQFjrgEUuY2zmxRBuQS2E7A1WjvA%3D%3D/file/index.m3u8
+https://trkvz-live.ercdn.net/vavtv/vavtv_480p.m3u8?st=Z-jApXjUJImUoVzablYxbQ&e=1623564450
 #EXTINF:-1 tvg-logo="http://i.ibb.co/GVTFfW6/UNIVERSITE-TV.png" group-title="ULUSAL",ÜNİVERSİTE TV
 https://5be5d840359c6.streamlock.net/unitv/unitv/chunklist.m3u8
 #EXTINF:-1 tvg-id="ULUSAL KANAL" tvg-logo="http://i.ibb.co/X23sjfm/ULUSAL-KANAL.png" group-title="ULUSAL",ULUSAL KANAL
@@ -301,6 +301,8 @@ http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/55808
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/py5grQQ/WORLD-FASHION.png" group-title="YAŞAM",WORLD FASHION
 http://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_sdmid.m3u8
+#EXTINF:-1 tvg-id="BBC Entertainment" tvg-logo="http://i.ibb.co/DV2RjdG/BBC-ENTERTAINMENT.png" group-title="ULUSLARARASI",BBC ENTERTAINMENT
+http://94.155.204.102:4000/play/a0fd
 #EXTINF:-1 tvg-logo="http://i.ibb.co/ZLd4M9z/ANT1.png" group-title="ULUSLARARASI",ANT 1
 http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/67699
 #EXTINF:-1 tvg-logo="http://i.ibb.co/RHt1CMc/PRO7.png" group-title="ULUSLARARASI",PRO7
@@ -645,6 +647,10 @@ http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/57545
 http://pro.panelxui.com:8080/Khkn2233/FSKKB05cMz/88649
 #EXTINF:-1 tvg-logo="http://i.ibb.co/9YvB1KY/ESKA-TV.png" group-title="YABANCI",ESKA TV
 http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/57050
+#EXTINF:-1 tvg-logo="http://i.ibb.co/K22kNj4/POLONIA-1.png" group-title="YABANCI",POLONIA 1
+http://91.218.60.3:8001/play/a04i
+#EXTINF:-1 tvg-logo="http://i.ibb.co/QbYP19t/TVP-POLONIA.png" group-title="YABANCI",TVP POLONIA
+http://91.218.60.3:8001/play/a083
 #EXTINF:-1 tvg-logo="http://i.ibb.co/T4Mch1x/4-FUN-DANCE.png" group-title="YABANCI",4FUN DANCE
 http://72.255.34.227:8000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/X26nLXP/4-FUN-KIDS.png" group-title="YABANCI",4FUN KIDS
