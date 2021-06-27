@@ -267,6 +267,12 @@ http://606tv.eu:8080/live/hdemirci15/24062021adg@/124519.ts
 http://79.124.14.198:8088/play/a09t
 #EXTINF:-1 tvg-id="NR1 Türk" tvg-logo="http://i.ibb.co/QjM93vG/NUMBER1-TURK.png" group-title="MÜZİK",NUMBER1 TÜRK
 http://606tv.eu:8080/live/hdemirci15/24062021adg@/777.ts
+#EXTINF:-1 tvg-id="NR1 DANCE" tvg-logo="http://i.ibb.co/QjM93vG/NUMBER1-TURK.png" group-title="MÜZİK",NUMBER1 DANCE
+https://stream-11.ix7.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDE6Zsatb_GY4BIbsMC421U0)/dm/3/x67chco/s/live-2.m3u8
+#EXTINF:-1 tvg-id="NR1 AŞK" tvg-logo="http://i.ibb.co/QjM93vG/NUMBER1-TURK.png" group-title="MÜZİK",NUMBER1 AŞK
+https://stream-02.ix7.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDJDK3qucE4T8zG41F1EvlJs)/dm/3/x67ch24/s/live-2.m3u8
+#EXTINF:-1 tvg-id="NR1 DAMAR" tvg-logo="http://i.ibb.co/QjM93vG/NUMBER1-TURK.png" group-title="MÜZİK",NUMBER1 DAMAR
+https://stream-06.dc3.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDMBvwrVdwsvNNABbrtRU18E)/dm/3/x67ch8g/s/live-2.m3u8
 #EXTINF:-1 tvg-id="Türkçe Müzik" tvg-logo="http://i.ibb.co/drJJQr7/RADYO-TURKCE-POP.png" group-title="RADYO",RADYO TÜRKÇE POP
 http://moondigitalmaster.radyotvonline.net/pophome/playlist.m3u8
 #EXTINF:-1 tvg-id="Türkish Silk" tvg-logo="http://i.ibb.co/tMmBLWW/RADYO-TURKCE-SLOW.png" group-title="RADYO",RADYO TÜRKÇE SLOW
@@ -305,6 +311,8 @@ http://vip2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/57342
 http://606tv.eu:8080/live/hdemirci15/24062021adg@/183758.ts
 #EXTINF:-1 tvg-logo="http://i.ibb.co/WVMQWXB/FTV-PARIS.png" group-title="YAŞAM",FTV PARİS
 http://606tv.eu:8080/live/hdemirci15/24062021adg@/183759.ts
+#EXTINF:-1 tvg-id="FASHION ONE TV" tvg-logo="http://i.ibb.co/PgNxJZ4/FASHION-ONE.png" group-title="YAŞAM",FASHION ONE
+https://stream-01.dc3.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDJ7kRYoAv1-CqjnG-_ozCUQ)/dm/3/x67chk3/s/live-2.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/py5grQQ/WORLD-FASHION.png" group-title="YAŞAM",WORLD FASHION
 http://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_sdmid.m3u8
 #EXTINF:-1 tvg-id="BBC Entertainment" tvg-logo="http://i.ibb.co/DV2RjdG/BBC-ENTERTAINMENT.png" group-title="ULUSLARARASI",BBC ENTERTAINMENT
@@ -455,6 +463,8 @@ http://vip2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/53544
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-id="RTG INT" tvg-logo="http://i.ibb.co/LNbnS0X/RTG-INT.png" group-title="BELGESEL",RUSSIAN TRAVEL GUIDE
 http://strm.yandex.ru/kal/rtg/rtg0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X4krkPh/WM-WOMAN-KADIN-TV.png" group-title="YAŞAM",WM TV WOMAN KADIN
+https://s01.vpis.io/wmtv/wmtv.m3u8
 #EXTINF:-1 tvg-id="BBN Türk" tvg-logo="http://i.ibb.co/2hvx6zN/BBN-T-RK.png" group-title="YEREL",BBN TÜRK
 http://606tv.eu:8080/live/hdemirci15/24062021adg@/183357.ts
 #EXTINF:-1 tvg-id="KON TV" tvg-logo="http://i.ibb.co/ZXjHWWV/KON-TV.png" group-title="YEREL",KON TV
@@ -501,6 +511,8 @@ https://waw2.artiyerelmedya.net/ciftcitv/bant1/playlist.m3u8
 https://yayin.haber100.com/P650841340/agrotv/chunklist_w2124640130.m3u8
 #EXTINF:-1 tvg-id="TARIM TV" tvg-logo="http://i.ibb.co/kSTYFF4/TARIM-TV.png" group-title="TARIM",TARIM TV
 http://usd.nocvp.com/asset/8gUsrzk8/chunklist.m3u8
+#EXTINF:-1 tvg-id="AKILLI TV" tvg-logo="http://i.ibb.co/vqj4vsx/AKILLI-TV.png" group-title="YEREL",AKILLI TV
+http://213.115.248.46:9000/TR_-_AKILLI_TV/video.m3u8
 #EXTINF:-1 tvg-id="Kanal 42" tvg-logo="http://i.ibb.co/60Z5WpV/KANAL-42.png" group-title="YEREL",KANAL 42
 http://606tv.eu:8080/live/hdemirci15/24062021adg@/88501.ts
 #EXTINF:-1 tvg-logo="http://i.ibb.co/p0WbZx4/YILDIZ-TV-EN.png" group-title="YEREL",YILDIZ EN TV
@@ -541,14 +553,16 @@ http://vip2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/55775
 https://waw1.artiyerelmedya.net/estv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="Ege TV" tvg-logo="http://i.ibb.co/zVktfvq/EGE-TV.png" group-title="YEREL",EGE TV
 http://waw2.artiyerelmedya.net/egetv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="KIBRIS GENÇ TV" tvg-logo="http://i.ibb.co/mR2NgXL/KIBRIS-GEN-TV.png" group-title="YEREL",KIBRIS GENÇ TV
+#EXTINF:-1 tvg-id="KIBRIS GENÇ TV" tvg-logo="http://i.ibb.co/mR2NgXL/KIBRIS-GEN-TV.png" group-title="KKTC YEREL",KIBRIS GENÇ TV
 http://kuzeykibris.tv/m3u8/tv_genc.m3u8
-#EXTINF:-1 tvg-id="KANAL T" tvg-logo="http://i.ibb.co/rc820gH/KANAL-T-KIBRIS.png" group-title="YEREL",KANAL T KIBRIS
+#EXTINF:-1 tvg-id="KANAL T" tvg-logo="http://i.ibb.co/rc820gH/KANAL-T-KIBRIS.png" group-title="KKTC YEREL",KANAL T KIBRIS
 http://kuzeykibris.tv/m3u8/tv_kanalt.m3u8
 #EXTINF:-1 tvg-id="Yeni Kocaeli TV" tvg-logo="http://i.ibb.co/MhW9H5j/YEN-KOCAEL-TV.png" group-title="YEREL",YENİ KOCAELİ TV
 http://606tv.eu:8080/live/hdemirci15/24062021adg@/124531.ts
-#EXTINF:-1 tvg-id="BRT 1 HD" tvg-logo="http://i.ibb.co/q0QhBTF/BRT-1.png" group-title="YEREL",BRT 1
+#EXTINF:-1 tvg-id="BRT 1 HD" tvg-logo="http://i.ibb.co/q0QhBTF/BRT-1.png" group-title="KKTC YEREL",BRT 1
 http://kuzeykibris.tv/m3u8/tv_brt1.m3u8
+#EXTINF:-1 tvg-id="FM TV" tvg-logo="http://i.ibb.co/8sKNxx0/FM-TV.png" group-title="YEREL",FM TV
+http://yayin2.tvizlehd.com/fmtv.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/TBMDMJ3/KENT-DEHA.png" group-title="YEREL",KENT DEHA
 https://waw2.artiyerelmedya.net/dehatv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/GVn04bm/ETV-MAN-SA.jpg" group-title="YEREL",ETV MANİSA
@@ -573,8 +587,18 @@ https://waw2.artiyerelmedya.net/kanalz/bant1/playlist.m3u8
 https://broadcasttr.com:446/tv1/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/yyT4nP8/olay-turk.png" group-title="YEREL",OLAY TÜRK
 https://waw2.artiyerelmedya.net/olayturk/bant1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.ibb.co/ZXKSVjt/BRT-3.png" group-title="YEREL",BRT 3
+#EXTINF:-1 tvg-logo="http://i.ibb.co/ZXKSVjt/BRT-3.png" group-title="KKTC YEREL",BRT 3
 http://yayin2.tvizlehd.com/brt3.m3u8
+#EXTINF:-1 tvg-id="KIBRIS ADA TV" tvg-logo="http://i.ibb.co/zRRr63z/KIBRIS-ADA-TV.png" group-title="KKTC YEREL",KIBRIS ADA TV
+http://kuzeykibris.tv/m3u8/tv_ada.m3u8
+#EXTINF:-1 tvg-id="BRT 2" tvg-logo="http://i.ibb.co/0qssBhF/BRT-2.png" group-title="KKTC YEREL",BRT 2
+http://kuzeykibris.tv/m3u8/tv_brt2.m3u8
+#EXTINF:-1 tvg-id="KIBRIS TV" tvg-logo="http://i.ibb.co/QNjLHDY/KIBRIS-TV.png" group-title="KKTC YEREL",KIBRIS TV
+http://213.115.248.46:9000/TR_-_KIBRIS_TV/video.m3u8
+#EXTINF:-1 tvg-id="SİM TV" tvg-logo="http://i.ibb.co/ftkPS19/KIBRIS-S-M-TV.png" group-title="KKTC YEREL",KIBRIS SİM TV
+http://kuzeykibris.tv/m3u8/tv_sim.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/1rDQ5GS/TV-2020.png" group-title="KKTC YEREL",TV 2020
+http://kuzeykibris.tv/m3u8/tv_dialog.m3u8
 #EXTINF:-1 tvg-id="TGRT EU" tvg-logo="http://i.ibb.co/8NqZMWT/TGRT-EU.png" group-title="YEREL",TGRT EU
 http://vip2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/55774
 #EXTINF:-1 tvg-logo="http://i.ibb.co/PF0ThbT/SHOW-T-RK.png" group-title="YEREL",SHOW TÜRK
