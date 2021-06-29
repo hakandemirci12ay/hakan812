@@ -313,6 +313,8 @@ http://606tv.eu:8080/live/hdemirci15/24062021adg@/183758.ts
 http://606tv.eu:8080/live/hdemirci15/24062021adg@/183759.ts
 #EXTINF:-1 tvg-id="FASHION ONE TV" tvg-logo="http://i.ibb.co/PgNxJZ4/FASHION-ONE.png" group-title="YAŞAM",FASHION ONE
 https://stream-01.dc3.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDJ7kRYoAv1-CqjnG-_ozCUQ)/dm/3/x67chk3/s/live-2.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/wsVnqp9/FASHIONBOX.png" group-title="YAŞAM",FASHIONBOX
+http://606tv.eu:8080/live/hdemirci15/24062021adg@/183757.ts
 #EXTINF:-1 tvg-logo="http://i.ibb.co/py5grQQ/WORLD-FASHION.png" group-title="YAŞAM",WORLD FASHION
 http://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_sdmid.m3u8
 #EXTINF:-1 tvg-id="BBC Entertainment" tvg-logo="http://i.ibb.co/DV2RjdG/BBC-ENTERTAINMENT.png" group-title="ULUSLARARASI",BBC ENTERTAINMENT
