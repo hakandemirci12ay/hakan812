@@ -77,7 +77,7 @@ http://pro.panelxui.com:8080/Khkn2233/FSKKB05cMz/61663
 http://606tv.eu:8080/live/hdemirci15/24062021adg@/175400.ts
 #EXTINF:-1 tvg-id="FILMBOX EXTRA" tvg-logo="http://i.ibb.co/m4XmJf6/FILMBOX-EXTRA.png" group-title="SİNEMA",FILMBOX EXTRA
 http://606tv.eu:8080/live/hdemirci15/24062021adg@/179331.ts
-#EXTINF:-1 tvg-id="TRT 4K" tvg-logo="http://i.ibb.co/d5DZ7JM/TRT-4K.png" group-title="ULTRA HD",TRT 4K
+#EXTINF:-1 tvg-id="TRT 4K" tvg-logo="http://i.ibb.co/hHmMBP7/TRT-4K.png" group-title="ULTRA HD",TRT 4K
 http://vip2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/35082
 #EXTINF:-1 tvg-id="SHOW Max" tvg-logo="http://i.ibb.co/6XKxxRB/SHOW-MAX.png" group-title="ULUSAL",SHOW MAX
 http://vip2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/5921
@@ -143,9 +143,9 @@ http://vip2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/5981
 http://vip2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/5887
 #EXTINF:-1 tvg-logo="http://i.ibb.co/MBGdkNB/DOST-TV.png" group-title="ULUSAL",DOST TV
 http://vip2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/71433
-#EXTINF:-1 tvg-id="VAV TV" tvg-logo="http://i.ibb.co/YkBBTfn/VAV-TV.png" group-title="ULUSAL",VAV TV
+#EXTINF:-1 tvg-id="VAV TV" tvg-logo="http://i.ibb.co/j80wMy3/VAV-TV.png" group-title="ULUSAL",VAV TV
 http://606tv.eu:8080/live/hdemirci15/24062021adg@/169852.ts
-#EXTINF:-1 tvg-logo="http://i.ibb.co/GVTFfW6/UNIVERSITE-TV.png" group-title="ULUSAL",ÜNİVERSİTE TV
+#EXTINF:-1 tvg-logo="http://i.ibb.co/10V8vck/UNIVERSITE-TV.png" group-title="ULUSAL",ÜNİVERSİTE TV
 https://5be5d840359c6.streamlock.net/unitv/unitv/chunklist.m3u8
 #EXTINF:-1 tvg-id="ULUSAL KANAL" tvg-logo="http://i.ibb.co/X23sjfm/ULUSAL-KANAL.png" group-title="ULUSAL",ULUSAL KANAL
 http://vip2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/7576
@@ -223,9 +223,9 @@ http://vip2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/5974
 http://vip2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/5973
 #EXTINF:-1 tvg-id="Tivibu Spor 4" tvg-logo="http://i.ibb.co/FHrWZK3/TIVIBU-SPOR-4.png" group-title="SPOR",TİVİBU SPOR 4
 http://vip2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/67992
-#EXTINF:-1 tvg-id="TRT SPOR" tvg-logo="http://i.ibb.co/RhC7cBL/TRT-SPOR.png" group-title="SPOR",TRT SPOR
+#EXTINF:-1 tvg-id="TRT SPOR" tvg-logo="http://i.ibb.co/j8Tcj5X/TRT-SPOR.png" group-title="SPOR",TRT SPOR
 http://tv-trtspor1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRT Spor 2" tvg-logo="http://i.ibb.co/nM7KWpm/TRT-SPOR-YILDIZ.png" group-title="SPOR",TRT SPOR YILDIZ
+#EXTINF:-1 tvg-id="TRT Spor 2" tvg-logo="http://i.ibb.co/qBjjLFx/TRT-SPOR-YILDIZ.png" group-title="SPOR",TRT SPOR YILDIZ
 http://tv-trtspor2.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="A Spor" tvg-logo="http://i.ibb.co/0FFR37P/A-SPOR.png" group-title="SPOR",A SPOR
 http://vip2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/5987
@@ -612,10 +612,20 @@ https://waw2.artiyerelmedya.net/kaytv/bant1/playlist.m3u8
 https://tr.socialsmart.tv/suntv/bant1/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/5GxMZRm/KANAL-Z.png" group-title="YEREL",KANAL Z
 https://waw2.artiyerelmedya.net/kanalz/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/nkH60z0/TV-KAYSERI.png" group-title="YEREL",TV KAYSERİ
+http://213.115.248.46:9000/TR_-_TV_KAYSERI/video.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/6FJbnTP/tv1.png" group-title="YEREL",TV1
 https://broadcasttr.com:446/tv1/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/yyT4nP8/olay-turk.png" group-title="YEREL",OLAY TÜRK
 https://waw2.artiyerelmedya.net/olayturk/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/f90Frn1/KANAL-32.png" group-title="YEREL",KANAL 32
+https://edge1.socialsmart.tv/kanal32/bant1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/prK5zTr/V-ZYON-58.png" group-title="YEREL",VİZYON 58
+https://waw2.artiyerelmedya.net/vizyon58/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/wM7MsLr/AKSU-TV.png" group-title="YEREL",AKSU TV
+https://waw2.artiyerelmedya.net/aksutv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.ibb.co/gRTWF8W/MERKEZ-TV.png" group-title="YEREL",MERKEZ TV
+http://broadcasttr.com:1935/merkeztv/smil:merkeztv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/ZXKSVjt/BRT-3.png" group-title="KKTC YEREL",BRT 3
 http://yayin2.tvizlehd.com/brt3.m3u8
 #EXTINF:-1 tvg-id="KIBRIS ADA TV" tvg-logo="http://i.ibb.co/zRRr63z/KIBRIS-ADA-TV.png" group-title="KKTC YEREL",KIBRIS ADA TV
