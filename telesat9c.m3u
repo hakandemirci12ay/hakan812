@@ -34,21 +34,21 @@ http://606tv.eu:8080/live/hdemirci15/24062021adg@/1693.ts
 #EXTINF:-1 tvg-id="beIN MOVIES TURK" tvg-logo="http://i.ibb.co/CW8n20C/be-IN-MOVIES-T-RK.png" group-title="SİNEMA",beIN MOVIES TURK
 http://vip2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/37414
 #EXTINF:-1 tvg-id="MovieSmart Premium" tvg-logo="http://i.ibb.co/gSbRLZ5/MOVIESMART-PREMIUM.png" group-title="SİNEMA",MOVIESMART PREMIUM
-http://606tv.eu:8080/live/hdemirci15/24062021adg@/757.ts
+http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/73688
 #EXTINF:-1 tvg-id="MovieSmart Premium 2" tvg-logo="http://i.ibb.co/pXCkgG7/MOVIESMART-PREMIUM-2.png" group-title="SİNEMA",MOVIESMART PREMIUM 2
-http://606tv.eu:8080/live/hdemirci15/24062021adg@/774.ts
+http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/73689
 #EXTINF:-1 tvg-id="MovieSmart Classic" tvg-logo="http://i.ibb.co/Lx0q8vq/MOVIESMART-CLASSIC.png" group-title="SİNEMA",MOVIESMART CLASSIC
-http://pro.panelxui.com:8080/Khkn2233/FSKKB05cMz/80913
+http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/73714
 #EXTINF:-1 tvg-id="MovieSmart Türk" tvg-logo="http://i.ibb.co/K7dZWgk/MOVIESMART-T-RK.png" group-title="SİNEMA",MOVIESMART TÜRK
-http://606tv.eu:8080/live/hdemirci15/24062021adg@/775.ts
+http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/73715
 #EXTINF:-1 tvg-id="SinemaTV" tvg-logo="http://i.ibb.co/4fpNT2V/SINEMA-TV.png" group-title="SİNEMA",SİNEMA TV
 http://vip2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/46062
 #EXTINF:-1 tvg-id="Sinema Tv 2" tvg-logo="http://i.ibb.co/QnsHgS5/SINEMA-2.png" group-title="SİNEMA",SİNEMA 2
-http://606tv.eu:8080/live/hdemirci15/24062021adg@/28875.ts
+http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/73692
 #EXTINF:-1 tvg-id="Sinema Tv Aksiyon" tvg-logo="http://i.ibb.co/y0Z79vj/SINEMA-AKSIYON.png" group-title="SİNEMA",SİNEMA AKSİYON
 http://vip2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/55824
 #EXTINF:-1 tvg-id="Sinema Tv Aksiyon 2" tvg-logo="http://i.ibb.co/t3W8z9Q/SINEMA-AKSIYON-2.png" group-title="SİNEMA",SİNEMA AKSİYON 2
-http://606tv.eu:8080/live/hdemirci15/24062021adg@/52908.ts
+http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/73694
 #EXTINF:-1 tvg-id="Sinema Tv Yerli" tvg-logo="http://i.ibb.co/KmQQR9d/SINEMA-YERLI.png" group-title="SİNEMA",SİNEMA YERLİ
 http://vip2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/46070
 #EXTINF:-1 tvg-id="Sinema Tv Yerli 2" tvg-logo="http://i.ibb.co/JCWW1Zj/SINEMA-YERLI-2.png" group-title="SİNEMA",SİNEMA YERLİ 2
@@ -64,7 +64,7 @@ http://vip2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/46065
 #EXTINF:-1 tvg-id="Sinema Tv 1001" tvg-logo="http://i.ibb.co/2hSbfLs/SINEMA-1001.png" group-title="SİNEMA",SİNEMA 1001
 http://vip2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/46072
 #EXTINF:-1 tvg-id="Sinema Tv 1002" tvg-logo="http://i.ibb.co/vdZFRRM/SINEMA-1002.png" group-title="SİNEMA",SİNEMA 1002
-http://606tv.eu:8080/live/hdemirci15/24062021adg@/28587.ts
+http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/73691
 #EXTINF:-1 tvg-id="beIN İZ" tvg-logo="http://i.ibb.co/NCr2Y5D/beIN-Z.png" group-title="BELGESEL",beIN İZ
 http://vip2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/6010
 #EXTINF:-1 tvg-id="beIN HOME ENTERTAINMENT" tvg-logo="http://i.ibb.co/hyGPsbS/beIN-H-E.png" group-title="YAŞAM",beIN HOME ENTERTAINMENT
@@ -77,6 +77,8 @@ http://pro.panelxui.com:8080/Khkn2233/FSKKB05cMz/61663
 http://606tv.eu:8080/live/hdemirci15/24062021adg@/177575.ts
 #EXTINF:-1 tvg-id="FILMBOX EXTRA" tvg-logo="http://i.ibb.co/m4XmJf6/FILMBOX-EXTRA.png" group-title="SİNEMA",FILMBOX EXTRA
 http://606tv.eu:8080/live/hdemirci15/24062021adg@/179331.ts
+#EXTINF:-1 tvg-id="Nature Escape" tvg-logo="http://i.ibb.co/02qbdrB/STINGRAY-NATURESCAPE.png" group-title="SİNEMA",STINGRAY NATURESCAPE
+http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/73718
 #EXTINF:-1 tvg-id="TRT 4K" tvg-logo="http://i.ibb.co/hHmMBP7/TRT-4K.png" group-title="ULTRA HD",TRT 4K
 http://vip2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/35082
 #EXTINF:-1 tvg-id="SHOW Max" tvg-logo="http://i.ibb.co/6XKxxRB/SHOW-MAX.png" group-title="ULUSAL",SHOW MAX
@@ -104,7 +106,7 @@ http://vip2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/5864
 #EXTINF:-1 tvg-id="A Haber" tvg-logo="http://i.ibb.co/sKLmFy2/A-HABER.png" group-title="HABER",A HABER
 http://vip2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/5876
 #EXTINF:-1 tvg-id="TRT Haber" tvg-logo="http://i.ibb.co/Wz67V7T/TRT-HABER.png" group-title="HABER",TRT HABER
-http://tv-trthaber.live.trt.com.tr/master.m3u8
+http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/5870
 #EXTINF:-1 tvg-id="KANAL 7" tvg-logo="http://i.ibb.co/qxrJRK9/KANAL-7.png" group-title="ULUSAL",KANAL 7
 http://vip2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/5935
 #EXTINF:-1 tvg-logo="http://i.ibb.co/z7pPmww/CINE5-TV.png" group-title="ULUSAL",CINE5 TV
@@ -164,17 +166,17 @@ https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-id="Uçan Kuş TV" tvg-logo="http://i.ibb.co/2gHKxnZ/UCANKU-TV.png" group-title="ULUSAL",UÇANKUŞ TV
 http://vip2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/27474
 #EXTINF:-1 tvg-id="TRT 3 Spor" tvg-logo="http://i.ibb.co/c6FZhrm/TRT-3.png" group-title="HABER",TRT 3
-http://tv-trt3.live.trt.com.tr/master.m3u8
+http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/73605
 #EXTINF:-1 tvg-id="TRT AVAZ" tvg-logo="http://i.ibb.co/8ssHtDC/TRT-AVAZ.png" group-title="ULUSAL",TRT AVAZ
-http://tv-trtavaz.medya.trt.com.tr/master.m3u8
+http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/73602
 #EXTINF:-1 tvg-id="TRT Kurdi" tvg-logo="http://i.ibb.co/YBxDczk/TRT-KURDI.png" group-title="ULUSLARARASI",TRT KURDİ
-http://tv-trtkurdi.live.trt.com.tr/master.m3u8
+http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/73669
 #EXTINF:-1 tvg-id="TRT TURK" tvg-logo="http://i.ibb.co/H7m7MRf/TRT-TURK.png" group-title="ULUSAL",TRT TÜRK
-http://tv-trtturk.live.trt.com.tr/master.m3u8
+http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/73667
 #EXTINF:-1 tvg-id="KRT TV" tvg-logo="http://i.ibb.co/wLtwCrt/KRT-TV.png" group-title="ULUSAL",KRT TV
 http://vip2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/18717
 #EXTINF:-1 tvg-id="TRT 2" tvg-logo="http://i.ibb.co/3CyfTFR/TRT-2.png" group-title="ULUSAL",TRT 2
-http://tv-trt2.live.trt.com.tr/master.m3u8
+http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/34210
 #EXTINF:-1 tvg-id="Diyanet TV" tvg-logo="http://i.ibb.co/dM1dBzS/DIYANET-TV.png" group-title="ULUSAL",DİYANET TV
 http://vip2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/5886
 #EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="http://i.ibb.co/H465dxG/EUROSPORT-1.png" group-title="SPOR",EUROSPORT 1
@@ -184,7 +186,7 @@ http://vip2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/5976
 #EXTINF:-1 tvg-id="EDGE SPORT" tvg-logo="http://i.ibb.co/xhZQCWt/EDGE-SPORT.png" group-title="SPOR",EDGE SPORT
 http://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/2jXjzdM/EXTREME-SPORTS.png" group-title="SPOR",EXTREME SPORTS
-http://606tv.eu:8080/live/hdemirci15/24062021adg@/173074.ts
+http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/56360
 #EXTINF:-1 tvg-logo="http://i.ibb.co/0frfgzd/GINX-ESPORTS-TV.png" group-title="SPOR",GINX ESPORTS TV
 http://606tv.eu:8080/live/hdemirci15/24062021adg@/173942.ts
 #EXTINF:-1 tvg-id="FB TV" tvg-logo="http://i.ibb.co/x3DSyyJ/FB-TV.png" group-title="SPOR",FB TV
@@ -214,7 +216,7 @@ http://vip2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/5982
 #EXTINF:-1 tvg-id="S Sport 2" tvg-logo="http://i.ibb.co/BCPmHZC/S-SPORT-2.png" group-title="SPOR",S SPORT 2
 http://vip2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/36884
 #EXTINF:-1 tvg-id="NBA TV" tvg-logo="http://i.ibb.co/dG3YrL8/NBA-TV.png" group-title="SPOR",NBA TV
-http://606tv.eu:8080/live/hdemirci15/24062021adg@/817.ts
+http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/5984
 #EXTINF:-1 tvg-id="Tivibu Spor" tvg-logo="http://i.ibb.co/84Z9ZBH/TIVIBU-SPOR.png" group-title="SPOR",TİVİBU SPOR
 http://vip2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/5975
 #EXTINF:-1 tvg-id="Tivibu Spor 2" tvg-logo="http://i.ibb.co/PYTSkMd/TIVIBU-SPOR-2.png" group-title="SPOR",TİVİBU SPOR 2
@@ -224,9 +226,9 @@ http://vip2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/5973
 #EXTINF:-1 tvg-id="Tivibu Spor 4" tvg-logo="http://i.ibb.co/FHrWZK3/TIVIBU-SPOR-4.png" group-title="SPOR",TİVİBU SPOR 4
 http://vip2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/67992
 #EXTINF:-1 tvg-id="TRT SPOR" tvg-logo="http://i.ibb.co/j8Tcj5X/TRT-SPOR.png" group-title="SPOR",TRT SPOR
-http://tv-trtspor1.medya.trt.com.tr/master.m3u8
+http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/5979
 #EXTINF:-1 tvg-id="TRT Spor 2" tvg-logo="http://i.ibb.co/qBjjLFx/TRT-SPOR-YILDIZ.png" group-title="SPOR",TRT SPOR YILDIZ
-http://tv-trtspor2.live.trt.com.tr/master.m3u8
+http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/39003
 #EXTINF:-1 tvg-id="A Spor" tvg-logo="http://i.ibb.co/0FFR37P/A-SPOR.png" group-title="SPOR",A SPOR
 http://vip2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/5987
 #EXTINF:-1 tvg-id="TAY TV" tvg-logo="http://i.ibb.co/QjbyNmJ/T-A-Y-TV.png" group-title="SPOR",T.A.Y TV
@@ -250,7 +252,7 @@ http://606tv.eu:8080/live/hdemirci15/24062021adg@/181152.ts
 #EXTINF:-1 tvg-id="MCM Top" tvg-logo="http://i.ibb.co/t4YJM5B/MCM-TOP.png" group-title="MÜZİK",MCM TOP
 http://606tv.eu:8080/live/hdemirci15/24062021adg@/173599.ts
 #EXTINF:-1 tvg-id="Mezzo" tvg-logo="http://i.ibb.co/QdwLQJm/MEZZO.png" group-title="MÜZİK",MEZZO
-http://vip2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/56345
+http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/56345
 #EXTINF:-1 tvg-id="VH1" tvg-logo="http://i.ibb.co/fFTfGbB/VH1.png" group-title="MÜZİK",VH-1
 http://606tv.eu:8080/live/hdemirci15/24062021adg@/175580.ts
 #EXTINF:-1 tvg-id="TRT Müzik" tvg-logo="http://i.ibb.co/sJkRZSq/TRT-MUZIK.png" group-title="MÜZİK",TRT MÜZİK
@@ -268,11 +270,11 @@ http://79.124.14.198:8088/play/a09t
 #EXTINF:-1 tvg-id="NR1 Türk" tvg-logo="http://i.ibb.co/QjM93vG/NUMBER1-TURK.png" group-title="MÜZİK",NUMBER1 TÜRK
 http://606tv.eu:8080/live/hdemirci15/24062021adg@/777.ts
 #EXTINF:-1 tvg-id="NR1 DANCE" tvg-logo="http://i.ibb.co/QjM93vG/NUMBER1-TURK.png" group-title="MÜZİK",NUMBER1 DANCE
-https://stream-03.dc3.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDOBzCk-Xuzr0VGJpIVkegxc)/dm/3/x67chco/s/live-0.m3u8
+https://stream-03.dc3.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDGmUOVVOx1Hvn9o4WZlztno)/dm/3/x67chco/s/live-0.m3u8
 #EXTINF:-1 tvg-id="NR1 AŞK" tvg-logo="http://i.ibb.co/QjM93vG/NUMBER1-TURK.png" group-title="MÜZİK",NUMBER1 AŞK
-https://stream-05.dc3.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDKeybacsH3qNeMI369g2Bc4)/dm/3/x67ch24/s/live-2.m3u8
+https://stream-07.ix7.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDHsuR5eX9dV3Obr2xKtMyRg)/dm/3/x67ch24/s/live-0.m3u8
 #EXTINF:-1 tvg-id="NR1 DAMAR" tvg-logo="http://i.ibb.co/QjM93vG/NUMBER1-TURK.png" group-title="MÜZİK",NUMBER1 DAMAR
-https://stream-04.ix7.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDOaZltMBFNm0K15kg0GXtzk)/dm/3/x67ch8g/s/live-0.m3u8
+https://stream-05.dc3.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDGwRtwUN7nM8CDVDzPJw25A)/dm/3/x67ch8g/s/live-0.m3u8
 #EXTINF:-1 tvg-id="Türkçe Müzik" tvg-logo="http://i.ibb.co/drJJQr7/RADYO-TURKCE-POP.png" group-title="RADYO",RADYO TÜRKÇE POP
 http://moondigitalmaster.radyotvonline.net/pophome/playlist.m3u8
 #EXTINF:-1 tvg-id="Türkish Silk" tvg-logo="http://i.ibb.co/tMmBLWW/RADYO-TURKCE-SLOW.png" group-title="RADYO",RADYO TÜRKÇE SLOW
@@ -288,7 +290,7 @@ http://milyontv-live.ercdn.net/milyontv/milyontv_720p.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/vQ4hRyX/STINGRAY-ICONCERTS.png" group-title="MÜZİK",STINGRAY ICONCERTS
 http://606tv.eu:8080/live/hdemirci15/24062021adg@/173955.ts
 #EXTINF:-1 tvg-logo="http://i.ibb.co/mqzB9D1/STINGRAY-CLASSICA.png" group-title="MÜZİK",STINGRAY CLASSICA
-http://606tv.eu:8080/live/hdemirci15/24062021adg@/180755.ts
+http://606tv.eu:8080/live/hdemirci15/24062021adg@/174218.ts
 #EXTINF:-1 tvg-logo="http://i.ibb.co/vwqPLTr/STINGRAY-CMUSIC.png" group-title="MÜZİK",STINGRAY CMUSIC
 http://606tv.eu:8080/live/hdemirci15/24062021adg@/173444.ts
 #EXTINF:-1 tvg-id="360 TUNE BOX" tvg-logo="http://i.ibb.co/f82RTSh/360-TUNE-BOX.png" group-title="MÜZİK",360 TUNE BOX
@@ -306,13 +308,13 @@ http://606tv.eu:8080/live/hdemirci15/24062021adg@/173269.ts
 #EXTINF:-1 tvg-id="Insight TV" tvg-logo="http://i.ibb.co/cvdWrR9/INSIGHT-TV.png" group-title="YAŞAM",INSIGHT TV
 http://vip2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/56126
 #EXTINF:-1 tvg-logo="http://i.ibb.co/4pyLV10/E-ENTERTAINMENT.png" group-title="YAŞAM",E! ENTERTAINMENT
-http://606tv.eu:8080/live/hdemirci15/24062021adg@/176009.ts
+http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/73858
 #EXTINF:-1 tvg-id="Fashion TV" tvg-logo="http://i.ibb.co/pwnpr9b/FASHION-TV.png" group-title="YAŞAM",FASHION TV
-http://606tv.eu:8080/live/hdemirci15/24062021adg@/183758.ts
+http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/55808
 #EXTINF:-1 tvg-logo="http://i.ibb.co/WVMQWXB/FTV-PARIS.png" group-title="YAŞAM",FTV PARİS
 http://606tv.eu:8080/live/hdemirci15/24062021adg@/183759.ts
 #EXTINF:-1 tvg-id="FASHION ONE TV" tvg-logo="http://i.ibb.co/FwtV0KS/FASHION-ONE.png" group-title="YAŞAM",FASHION ONE
-https://stream-09.ix7.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDLQAFYpgCIBlaiRxES4LH80)/dm/3/x67chk3/s/live-0.m3u8
+https://stream-10.ix7.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDLReKTmiO9zJImoLDiUjE_s)/dm/3/x67chk3/s/live-0.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/wsVnqp9/FASHIONBOX.png" group-title="YAŞAM",FASHIONBOX
 http://606tv.eu:8080/live/hdemirci15/24062021adg@/183757.ts
 #EXTINF:-1 tvg-logo="http://i.ibb.co/py5grQQ/WORLD-FASHION.png" group-title="YAŞAM",WORLD FASHION
@@ -429,14 +431,12 @@ http://vip2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/53543
 http://606tv.eu:8080/live/hdemirci15/24062021adg@/178644.ts
 #EXTINF:-1 tvg-logo="http://i.ibb.co/QDdZwz6/TRAVEL-CHANNEL.png" group-title="BELGESEL",TRAVEL CHANNEL
 http://606tv.eu:8080/live/hdemirci15/24062021adg@/173291.ts
-#EXTINF:-1 tvg-id="AV TV" tvg-logo="http://i.ibb.co/2qfk0d1/AV-TV.png" group-title="BELGESEL",AV TV
-http://195.142.1.213:1935/avtv/avtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="Yaban TV" tvg-logo="http://i.ibb.co/bQHRsN7/YABAN-TV.png" group-title="BELGESEL",YABAN TV
 http://yayin3.sanaltv.com:1935/live1/yabantv/playlist.m3u8
 #EXTINF:-1 tvg-id="HABİTAT TV" tvg-logo="http://i.ibb.co/NySJ4Lj/HABITAT-TV.png" group-title="BELGESEL",HABİTAT TV
-http://606tv.eu:8080/live/hdemirci15/24062021adg@/154059.ts
+http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/73777
 #EXTINF:-1 tvg-id="TRT Belgesel" tvg-logo="http://i.ibb.co/G2P4sKP/TRT-BELGESEL.png" group-title="BELGESEL",TRT BELGESEL
-http://tv-trtbelgesel.live.trt.com.tr/master.m3u8
+http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/6007
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="http://i.ibb.co/rGkK2FD/DISCOVERY-CHANNEL.png" group-title="BELGESEL",DISCOVERY CHANNEL
 http://vip2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/5997
 #EXTINF:-1 tvg-id="Discovery Science" tvg-logo="http://i.ibb.co/2W5pXLX/DISCOVERY-SCIENCE.png" group-title="BELGESEL",DISCOVERY SCIENCE
@@ -456,39 +456,37 @@ http://vip2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/46532
 #EXTINF:-1 tvg-id="VIASAT NATURE" tvg-logo="http://i.ibb.co/1bKpF8Q/VIASAT-NATURE.png" group-title="BELGESEL",VIASAT NATURE
 http://606tv.eu:8080/live/hdemirci15/24062021adg@/129751.ts
 #EXTINF:-1 tvg-id="Viasat History" tvg-logo="http://i.ibb.co/0JCKHmm/VIASAT-HISTORY.png"  group-title="BELGESEL",VIASAT HISTORY
-http://606tv.eu:8080/live/hdemirci15/24062021adg@/784.ts
+http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/35719
 #EXTINF:-1 tvg-id="DocuBox" tvg-logo="http://i.ibb.co/hZPf83f/DOCUBOX.png" group-title="BELGESEL",DOCUBOX
-http://606tv.eu:8080/live/hdemirci15/24062021adg@/183770.ts
+http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/46529
 #EXTINF:-1 tvg-id="Love Nature" tvg-logo="http://i.ibb.co/4mdv588/LOVE-NATURE.png" group-title="BELGESEL",LOVE NATURE
 http://vip2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/53544
 #EXTINF:-1 tvg-id="CGTN DOCUMENTARY" tvg-logo="http://i.ibb.co/7JvG5WX/CGTN-DOCUMENTARY.png" group-title="BELGESEL",CGTN DOCUMENTARY
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-id="RTG INT" tvg-logo="http://i.ibb.co/LNbnS0X/RTG-INT.png" group-title="BELGESEL",RUSSIAN TRAVEL GUIDE
 http://strm.yandex.ru/kal/rtg/rtg0_169_480p.json/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="http://i.ibb.co/X4krkPh/WM-WOMAN-KADIN-TV.png" group-title="YAŞAM",WM TV WOMAN KADIN
-https://s01.vpis.io/wmtv/wmtv.m3u8
 #EXTINF:-1 tvg-id="BBN Türk" tvg-logo="http://i.ibb.co/2hvx6zN/BBN-T-RK.png" group-title="YEREL",BBN TÜRK
-http://606tv.eu:8080/live/hdemirci15/24062021adg@/183357.ts
+http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/73783
 #EXTINF:-1 tvg-id="KON TV" tvg-logo="http://i.ibb.co/ZXjHWWV/KON-TV.png" group-title="YEREL",KON TV
-http://606tv.eu:8080/live/hdemirci15/24062021adg@/4938.ts
+http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/73766
 #EXTINF:-1 tvg-id="TV4" tvg-logo="http://i.ibb.co/rvQRhc1/TV-4.png" group-title="YEREL",TV4
-http://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/73603
 #EXTINF:-1 tvg-id="KANAL B" tvg-logo="http://i.ibb.co/CwTbwWR/KANAL-B.png" group-title="YEREL",KANAL B
 http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
 #EXTINF:-1 tvg-id="MELTEM TV" tvg-logo="http://i.ibb.co/4Kg7bhM/MELTEM-TV.png" group-title="ULUSAL",MELTEM TV
 http://vip2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/55770
 #EXTINF:-1 tvg-logo="http://i.ibb.co/W6y9PnL/MESAJ-TV.png" group-title="ULUSAL",MESAJ TV
-https://waw2.artiyerelmedya.net/mesajtv/bant1/playlist.m3u8
+http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/71432
 #EXTINF:-1 tvg-id="Akit TV" tvg-logo="http://i.ibb.co/yWrNSxB/AKIT-TV.png" group-title="HABER",AKİT TV
 http://akittv-live.ercdn.net/akittv/akittv_360p.m3u8
 #EXTINF:-1 tvg-id="Tv 5" tvg-logo="http://i.ibb.co/bNJZFGz/TV5.png" group-title="YEREL",TV5
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/113
+http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/73125
 #EXTINF:-1 tvg-id="Kanal 3" tvg-logo="http://i.ibb.co/sbq7jpk/KANAL-3.png" group-title="YEREL",KANAL 3
-http://waw2.artiyerelmedya.net/kanal3/bant1/playlist.m3u8
+http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/5926
 #EXTINF:-1 tvg-logo="http://i.ibb.co/S5ccsDQ/TEK-RUMELI-TV.png" group-title="YEREL",TEK RUMELİ TV
 https://edge1.socialsmart.tv/tekrumelitv/bant1/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/Q8ddtt7/EGETURK-TV.png" group-title="YEREL",EGETÜRK TV
-https://iptv.egeturk.tv/iptv/canliyayin/chunklist_w1989788996.m3u8
+http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/73757
 #EXTINF:-1 tvg-id="TGRT Belgesel" tvg-logo="http://i.ibb.co/0qgCj5n/TGRT-BELGESEL.png" group-title="ULUSAL",TGRT BELGESEL
 http://vip2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/55805
 #EXTINF:-1 tvg-id="KADIRGA TV" tvg-logo="http://i.ibb.co/LdcTQDK/KADIRGA-TV.png" group-title="YEREL",KADIRGA TV
@@ -496,19 +494,19 @@ http://606tv.eu:8080/live/hdemirci15/24062021adg@/167571.ts
 #EXTINF:-1 tvg-id="BENGÜTÜRK" tvg-logo="http://i.ibb.co/xzL6drV/BENGUTURK.png" group-title="YEREL",BENGÜTÜRK
 http://vip2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/5865
 #EXTINF:-1 tvg-id="Line TV" tvg-logo="http://i.ibb.co/3YyQmK9/LINE-TV.png" group-title="YEREL",LİNE TV
-https://broadcasttr.com:446/linetv/bant1/playlist.m3u8
+http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/73750
 #EXTINF:-1 tvg-id="KANAL 23" tvg-logo="http://i.ibb.co/wSRfmHP/KANAL-23.png" group-title="YEREL",KANAL 23
-http://yerelmedya.tv:1935/kanal23/_definst_/bant1/playlist.m3u8
+http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/73121
 #EXTINF:-1 tvg-id="Sat 7 Türk" tvg-logo="http://i.ibb.co/v1hPWTz/SAT-7-TURK.png" group-title="YEREL",SAT7 TÜRK
-http://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8
+http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/55771
 #EXTINF:-1 tvg-id="Kanal Fırat" tvg-logo="http://i.ibb.co/9474891/KANAL-FIRAT.png" group-title="YEREL",KANAL FIRAT
-http://waw2.artiyerelmedya.net/kanalfirat/bant1/playlist.m3u8
+http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/73117
 #EXTINF:-1 tvg-id="Bahartürk" tvg-logo="http://i.ibb.co/FWw556K/BAHARTURK.jpg" group-title="YEREL",BAHARTÜRK
 http://baharturktv.radyotvyayini.com:1935/baharturktv/baharturktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/8X240B2/GUNEYDOGU-TV.png" group-title="YEREL",GÜNEYDOĞU TV
-https://broadcasttr.com:446/gtv/bant1/chunklist_w720610048.m3u8
+http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/73771
 #EXTINF:-1 tvg-logo="http://i.ibb.co/DfJFm89/CAY-TV.png" group-title="YEREL",ÇAY TV
-http://606tv.eu:8080/live/hdemirci15/24062021adg@/801.ts
+http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjgg/73774
 #EXTINF:-1 tvg-logo="http://i.ibb.co/yFqch5F/BERAT-TV.png" group-title="YEREL",BERAT TV
 http://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8
 #EXTINF:-1 tvg-id="Kardelen Tv" tvg-logo="http://i.ibb.co/KGRm542/KARDELEN-TV.png" group-title="YEREL",KARDELEN TV
