@@ -294,7 +294,7 @@ http://606tv.eu:8080/live/hdemirci15/24062021adg@/173444.ts
 #EXTINF:-1 tvg-id="360 TUNE BOX" tvg-logo="http://i.ibb.co/f82RTSh/360-TUNE-BOX.png" group-title="MÜZİK",360 TUNE BOX
 http://606tv.eu:8080/live/hdemirci15/24062021adg@/88777.ts
 #EXTINF:-1 tvg-id="Trace Urban" tvg-logo="http://i.ibb.co/ggXYS5R/TRACE-URBAN.png" group-title="MÜZİK",TRACE URBAN
-http://606tv.eu:8080/live/hdemirci15/24062021adg@/183359.ts
+http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjggg/18734
 #EXTINF:-1 tvg-logo="http://i.ibb.co/mN32t2Q/MTV.png" group-title="YAŞAM",MTV
 http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjggg/48941
 #EXTINF:-1 tvg-id="MTV Live" tvg-logo="http://i.ibb.co/hdMMZmG/MTV-LIVE-HD.png" group-title="MÜZİK",MTV LIVE
@@ -360,7 +360,7 @@ http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjggg/73865
 #EXTINF:-1 tvg-id="NHK WORLD-JAPAN" tvg-logo="http://i.ibb.co/93CVNGd/NHK-WORLD-JPN.png" group-title="ULUSLARARASI",NHK WORLD-JPN
 http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 #EXTINF:-1 tvg-id="KBS TV" tvg-logo="http://i.ibb.co/7V8pKV3/KBS-WORLD.png" group-title="ULUSLARARASI",KBS WORLD
-http://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
+http://45.92.69.66:8000/play/a01a
 #EXTINF:-1 tvg-id="UA TV" tvg-logo="http://i.ibb.co/jHvJnPg/UA-TV.png" group-title="ULUSLARARASI",UA TV
 http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
 #EXTINF:-1 tvg-id="ALA TOO 24" tvg-logo="http://i.ibb.co/fr1nVMH/ALA-TOO-24.png" group-title="ULUSLARARASI",ALA TOO 24
@@ -672,7 +672,7 @@ http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjggg/55818
 #EXTINF:-1 tvg-id="ENGLISH CLUB TV" tvg-logo="http://i.ibb.co/hf4j7hB/ENGLISH-CLUB-TV.png" group-title="EGITIM",ENGLISH CLUB TV
 http://606tv.eu:8080/live/hdemirci15/24062021adg@/179515.ts
 #EXTINF:-1 tvg-id="GAMETOON" tvg-logo="http://i.ibb.co/WzKz0dp/GAMETOON.png" group-title="COCUK",GAMETOON
-http://606tv.eu:8080/live/hdemirci15/24062021adg@/181126.ts
+http://46.19.226.150:4000/play/a06e
 #EXTINF:-1 tvg-id="TRT EBATV İLKOKUL" tvg-logo="http://i.ibb.co/m4tLzkz/TRT-EBA-TV-ILKOKUL.png" group-title="EGITIM",TRT EBA TV ILKOKUL
 http://tv-e-okul00.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT EBATV ORTAOKUL" tvg-logo="http://i.ibb.co/KKpL0NG/TRT-EBA-TV-ORTAOKUL.png" group-title="EGITIM",TRT EBA TV ORTAOKUL
