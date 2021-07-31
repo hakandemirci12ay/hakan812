@@ -77,7 +77,7 @@ http://pro.panelxui.com:8080/Khkn2233/FSKKB05cMz/61663
 http://606tv.eu:8080/live/hdemirci15/24062021adg@/177575.ts
 #EXTINF:-1 tvg-id="FILMBOX EXTRA" tvg-logo="http://i.ibb.co/m4XmJf6/FILMBOX-EXTRA.png" group-title="SİNEMA",FILMBOX EXTRA
 http://606tv.eu:8080/live/hdemirci15/24062021adg@/179331.ts
-#EXTINF:-1 tvg-id="Nature Escape" tvg-logo="http://i.ibb.co/02qbdrB/STINGRAY-NATURESCAPE.png" group-title="SİNEMA",STINGRAY NATURESCAPE
+#EXTINF:-1 tvg-id="Nature Escape" tvg-logo="http://i.ibb.co/02qbdrB/STINGRAY-NATURESCAPE.png" group-title="YAŞAM",STINGRAY NATURESCAPE
 http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjggg/73718
 #EXTINF:-1 tvg-id="TRT 4K" tvg-logo="http://i.ibb.co/hHmMBP7/TRT-4K.png" group-title="ULTRA HD",TRT 4K
 http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjggg/35082
@@ -643,42 +643,48 @@ http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjggg/5924
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/7rB9S5t/TV8-INT.png" group-title="YEREL",TV8 INT
 http://606tv.eu:8080/live/hdemirci15/24062021adg@/154057.ts
-#EXTINF:-1 tvg-id="TRT Çocuk" tvg-logo="http://i.ibb.co/dLfdB6j/TRT-COCUK.png" group-title="COCUK",TRT ÇOCUK
+#EXTINF:-1 tvg-id="TRT Çocuk" tvg-logo="http://i.ibb.co/dLfdB6j/TRT-COCUK.png" group-title="ÇOCUK",TRT ÇOCUK
 http://tv-trtcocuk.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="Çocuk Smart" tvg-logo="http://i.ibb.co/xCWHHpP/COCUK-SMART.png" group-title="COCUK",ÇOCUK SMART
+#EXTINF:-1 tvg-id="Çocuk Smart" tvg-logo="http://i.ibb.co/xCWHHpP/COCUK-SMART.png" group-title="ÇOCUK",ÇOCUK SMART
 http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjggg/53747
-#EXTINF:-1 tvg-id="BOOMERANG" tvg-logo="http://i.ibb.co/dDz0cjy/BOOMERANG-TV.png" group-title="COCUK",BOOMERANG TV
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-logo="http://i.ibb.co/dDz0cjy/BOOMERANG-TV.png" group-title="ÇOCUK",BOOMERANG TV
 http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjggg/37534
-#EXTINF:-1 tvg-id="CBEEBIES" tvg-logo="http://i.ibb.co/48qhP00/BBC-CBEEBIES.png" group-title="COCUK",BBC CBEEBIES
+#EXTINF:-1 tvg-id="CBEEBIES" tvg-logo="http://i.ibb.co/48qhP00/BBC-CBEEBIES.png" group-title="ÇOCUK",BBC CBEEBIES
 http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjggg/20997
-#EXTINF:-1 tvg-id="Baby TV" tvg-logo="http://i.ibb.co/5rtXGHR/BABY-TV.png"group-title="COCUK",BABY TV
+#EXTINF:-1 tvg-id="Baby TV" tvg-logo="http://i.ibb.co/5rtXGHR/BABY-TV.png"group-title="ÇOCUK",BABY TV
 http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjggg/17188
-#EXTINF:-1 tvg-id="Disney Junior" tvg-logo="http://i.ibb.co/4JywHc0/DISNEY-JUNIOR.png" group-title="COCUK",DISNEY JUNIOR
+#EXTINF:-1 tvg-id="Disney Junior" tvg-logo="http://i.ibb.co/4JywHc0/DISNEY-JUNIOR.png" group-title="ÇOCUK",DISNEY JUNIOR
 http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjggg/17162
-#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="http://i.ibb.co/S0kP9jq/DISNEY-CHANNEL.png" group-title="COCUK",DISNEY CHANNEL
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="http://i.ibb.co/S0kP9jq/DISNEY-CHANNEL.png" group-title="ÇOCUK",DISNEY CHANNEL
 http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjggg/17181
-#EXTINF:-1 tvg-id="DUCKTV" tvg-logo="http://i.ibb.co/GVsRzb8/DUCK-TV.png" group-title="COCUK",DUCK TV
+#EXTINF:-1 tvg-id="DUCKTV" tvg-logo="http://i.ibb.co/GVsRzb8/DUCK-TV.png" group-title="ÇOCUK",DUCK TV
 http://606tv.eu:8080/live/hdemirci15/24062021adg@/88770.ts
-#EXTINF:-1 tvg-id="MinikaGO" tvg-logo="http://i.ibb.co/GPPJPxs/MINIKA-GO.png" group-title="COCUK",MİNİKA GO
+#EXTINF:-1 tvg-id="MinikaGO" tvg-logo="http://i.ibb.co/GPPJPxs/MINIKA-GO.png" group-title="ÇOCUK",MİNİKA GO
 http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjggg/17186
-#EXTINF:-1 tvg-id="Minika Çocuk" tvg-logo="http://i.ibb.co/Yf71Rcy/MINIKA-COCUK.png" group-title="COCUK",MİNİKA ÇOCUK
+#EXTINF:-1 tvg-id="Minika Çocuk" tvg-logo="http://i.ibb.co/Yf71Rcy/MINIKA-COCUK.png" group-title="ÇOCUK",MİNİKA ÇOCUK
 http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjggg/17159
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="http://i.ibb.co/Z1rvnkJ/NICKELODEON.png" group-title="COCUK",NICKELODEON
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="http://i.ibb.co/Z1rvnkJ/NICKELODEON.png" group-title="ÇOCUK",NICKELODEON
 http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjggg/17156
-#EXTINF:-1 tvg-id="Nick Jr." tvg-logo="http://i.ibb.co/RCpFQsQ/NICK-JR.png" group-title="COCUK",NICK JR.
+#EXTINF:-1 tvg-id="Nick Jr." tvg-logo="http://i.ibb.co/RCpFQsQ/NICK-JR.png" group-title="ÇOCUK",NICK JR.
 http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjggg/17187
-#EXTINF:-1 tvg-id="Da Vinci" tvg-logo="http://i.ibb.co/Mf3kMnc/DA-VINCI-LEARNING.png" group-title="COCUK",DA VINCI LEARNING
+#EXTINF:-1 tvg-id="Da Vinci" tvg-logo="http://i.ibb.co/Mf3kMnc/DA-VINCI-LEARNING.png" group-title="ÇOCUK",DA VINCI LEARNING
 http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjggg/55818
-#EXTINF:-1 tvg-id="ENGLISH CLUB TV" tvg-logo="http://i.ibb.co/hf4j7hB/ENGLISH-CLUB-TV.png" group-title="EGITIM",ENGLISH CLUB TV
+#EXTINF:-1 tvg-id="ENGLISH CLUB TV" tvg-logo="http://i.ibb.co/hf4j7hB/ENGLISH-CLUB-TV.png" group-title="EĞİTİM",ENGLISH CLUB TV
 http://606tv.eu:8080/live/hdemirci15/24062021adg@/179515.ts
-#EXTINF:-1 tvg-id="GAMETOON" tvg-logo="http://i.ibb.co/WzKz0dp/GAMETOON.png" group-title="COCUK",GAMETOON
+#EXTINF:-1 tvg-id="GAMETOON" tvg-logo="http://i.ibb.co/WzKz0dp/GAMETOON.png" group-title="ÇOCUK",GAMETOON
 http://46.19.226.150:4000/play/a06e
-#EXTINF:-1 tvg-id="TRT EBATV İLKOKUL" tvg-logo="http://i.ibb.co/m4tLzkz/TRT-EBA-TV-ILKOKUL.png" group-title="EGITIM",TRT EBA TV ILKOKUL
+#EXTINF:-1 tvg-id="TRT EBATV İLKOKUL" tvg-logo="http://i.ibb.co/m4tLzkz/TRT-EBA-TV-ILKOKUL.png" group-title="EĞİTİM",TRT EBA TV ILKOKUL
 http://tv-e-okul00.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRT EBATV ORTAOKUL" tvg-logo="http://i.ibb.co/KKpL0NG/TRT-EBA-TV-ORTAOKUL.png" group-title="EGITIM",TRT EBA TV ORTAOKUL
+#EXTINF:-1 tvg-id="TRT EBATV ORTAOKUL" tvg-logo="http://i.ibb.co/KKpL0NG/TRT-EBA-TV-ORTAOKUL.png" group-title="EĞİTİM",TRT EBA TV ORTAOKUL
 http://tv-e-okul01.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRT EBATV LİSE" tvg-logo="http://i.ibb.co/zSWHS4h/TRT-EBA-TV-LISE.png" group-title="EGITIM",TRT EBA TV LISE
+#EXTINF:-1 tvg-id="TRT EBATV LİSE" tvg-logo="http://i.ibb.co/zSWHS4h/TRT-EBA-TV-LISE.png" group-title="EĞİTİM",TRT EBA TV LISE
 http://tv-e-okul02.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="beIN BOX OFFICE 1" tvg-logo="http://i.ibb.co/VB4jFys/be-in-tr-box-office-01-hd.png" group-title="SALON",beIN BOX OFFICE 1
+http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjggg/37389
+#EXTINF:-1 tvg-id="beIN BOX OFFICE 2" tvg-logo="http://i.ibb.co/Y8DFrGT/be-in-tr-box-office-02-hd.png" group-title="SALON",beIN BOX OFFICE 2
+http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjggg/37390
+#EXTINF:-1 tvg-id="beIN BOX OFFICE 3" tvg-logo="http://i.ibb.co/CnxfQhR/be-in-tr-box-office-03-hd.png" group-title="SALON",beIN BOX OFFICE 3
+http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjggg/37391
 #EXTINF:-1 tvg-logo="http://i.ibb.co/LYQ7dKJ/PRESS-TV.png" group-title="YABANCI",PRESS TV
 http://premium2.germanyservers.org:8000/yGWkOoeqHo/ydetbjggg/74307
 #EXTINF:-1 tvg-logo="http://i.ibb.co/z83Kt2J/I24-NEWS-ENGLISH.png" group-title="YABANCI",I24 NEWS
