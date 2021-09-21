@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="Dizi Smart Max" tvg-logo="http://i.ibb.co/W3jQJXS/DIZISMART-MAX.png" group-title="DİZİ",DİZİSMART MAX
 http://606tv1.com:8080/live/hdemirci15/24062021adg@/722.ts
 #EXTINF:-1 tvg-id="beIN İZ" tvg-logo="http://i.ibb.co/NCr2Y5D/beIN-Z.png" group-title="BELGESEL",beIN İZ
