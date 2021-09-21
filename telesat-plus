@@ -1,0 +1,50 @@
+#EXTINF:-1 tvg-id="Dizi Smart Max" tvg-logo="http://i.ibb.co/W3jQJXS/DIZISMART-MAX.png" group-title="DİZİ",DİZİSMART MAX
+http://606tv1.com:8080/live/hdemirci15/24062021adg@/722.ts
+#EXTINF:-1 tvg-id="beIN İZ" tvg-logo="http://i.ibb.co/NCr2Y5D/beIN-Z.png" group-title="BELGESEL",beIN İZ
+http://606tv1.com:8080/live/hdemirci15/24062021adg@/20838.ts
+#EXTINF:-1 tvg-id="beIN HOME ENTERTAINMENT" tvg-logo="http://i.ibb.co/hyGPsbS/beIN-H-E.png" group-title="YAŞAM",beIN HOME ENTERTAINMENT
+http://606tv1.com:8080/live/hdemirci15/24062021adg@/187121.ts
+#EXTINF:-1 tvg-id="beIN GURME" tvg-logo="http://i.ibb.co/k5Lr29h/be-IN-GURME.png" group-title="YAŞAM",beIN GURME
+http://606tv1.com:8080/live/hdemirci15/24062021adg@/21749.ts
+#EXTINF:-1 tvg-id="Show TV" tvg-logo="http://i.ibb.co/d6TDsHY/SHOW-TV.png" group-title="ULUSAL",SHOW TV
+https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
+#EXTINF:-1 tvg-id="TRT 1" tvg-logo="http://i.ibb.co/gMVLBX3/TRT-1.png" group-title="ULUSAL",TRT 1
+http://tv-trt1.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="Kanal D" tvg-logo="http://i.ibb.co/FgsJ0WS/KANAL-D.png" group-title="ULUSAL",KANAL D
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/66
+#EXTINF:-1 tvg-id="ATV" tvg-logo="http://i.ibb.co/Nr6W1RL/ATV.png" group-title="ULUSAL",ATV
+http://yayin2.tvizlehd.com/atv720.m3u8
+#EXTINF:-1 tvg-id="FOX" tvg-logo="http://i.ibb.co/V9KxPmd/FOX-TV.png" group-title="ULUSAL",FOX TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/72
+#EXTINF:-1 tvg-id="Star TV" tvg-logo="http://i.ibb.co/ygz2wMx/STAR-TV.png" group-title="ULUSAL",STAR TV
+https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
+#EXTINF:-1 tvg-id="TV8" tvg-logo="http://i.ibb.co/3pgFKnp/TV8.png" group-title="ULUSAL",TV8
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/74
+#EXTINF:-1 tvg-id="TLC" tvg-logo="http://i.ibb.co/hDx2mWx/TLC.png" group-title="ULUSAL",TLC
+https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8
+#EXTINF:-1 tvg-id="KANAL 7" tvg-logo="http://i.ibb.co/qxrJRK9/KANAL-7.png" group-title="ULUSAL",KANAL 7
+https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
+#EXTINF:-1 tvg-id="BEYAZ TV" tvg-logo="http://i.ibb.co/JFjLFcD/BEYAZ-TV.png" group-title="ULUSAL",BEYAZ TV
+https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
+#EXTINF:-1 tvg-id="KANAL 24" tvg-logo="http://i.ibb.co/Tm59DQJ/24.png" group-title="HABER",24 TV
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+#EXTINF:-1 tvg-id="NTV" tvg-logo="http://i.ibb.co/br8vg2m/NTV.png" group-title="HABER",NTV
+https://tv.ensonhaber.com/tv/tr/ntv/index.m3u8
+#EXTINF:-1 tvg-id="CNN TÜRK" tvg-logo="http://i.ibb.co/dbKGBz8/CNN-TURK.png" group-title="HABER",CNN TÜRK
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/129
+#EXTINF:-1 tvg-id="HABERTURK" tvg-logo="http://i.ibb.co/5kPw9Rh/HABERTURK.png" group-title="HABER",HABERTÜRK TV
+https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
+#EXTINF:-1 tvg-id="HABER GLOBAL" tvg-logo="http://i.ibb.co/3hjFNFQ/HABER-GLOBAL.png" group-title="HABER",HABER GLOBAL
+https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
+#EXTINF:-1 tvg-id="DMAX" tvg-logo="http://i.ibb.co/GCRC9b9/DMAX.png" group-title="ULUSAL",DMAX
+https://tv.ensonhaber.com/tv/tr/dmax/index.m3u8
+#EXTINF:-1 tvg-id="SEMERKAND TV" tvg-logo="http://i.ibb.co/pZ6D4PH/SEMERKAND-TV.png" group-title="ULUSAL",SEMERKAND TV
+http://213.115.248.46:9000/TR_-_SEMERKAND_TV_HD+/video.m3u8
+#EXTINF:-1 tvg-id="Halk TV" tvg-logo="http://i.ibb.co/Qntd9xv/HALK-TV.png" group-title="HABER",HALK TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/141
+#EXTINF:-1 tvg-id="Teve2" tvg-logo="http://i.ibb.co/JRkbS6X/TEVE2.png" group-title="ULUSAL",TEVE2
+https://2122248074.duhnet.tv/S2/HLS_LIVE/teve2np/track_3_750/playlist.m3u8
+#EXTINF:-1 tvg-id="TRT 2" tvg-logo="http://i.ibb.co/3CyfTFR/TRT-2.png" group-title="ULUSAL",TRT 2
+https://tv-trt2.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="Diyanet TV" tvg-logo="http://i.ibb.co/dM1dBzS/DIYANET-TV.png" group-title="ULUSAL",DİYANET TV
+http://213.115.248.46:9000/TR_-_DIYANET_TV_HD+/video.m3u8
