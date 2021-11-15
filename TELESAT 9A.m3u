@@ -231,7 +231,7 @@ http://livedoc.cgtn.com/1000d/prog_index.m3u8
 http://606tv1.com:8080/hdemirci15/24062021adg@/150458
 #EXTINF:140 tvg-id="Aztv" tvg-logo="http://i.ibb.co/Fm25fFj/AZ-TV.png" group-title="ULUSLARARASI",AZTV
 http://185.129.1.242:80/aztvhd/mpegts
-#EXTINF:141 tvg-id="TÜRKMENELİ TV" tvg-logo="http://i.ibb.co/xm7rb99/TURKMENELI-TV.png" group-title="ULUSLARARASI",TÜRKEMENELİ TV
+#EXTINF:141 tvg-id="TÜRKMENELİ TV" tvg-logo="http://i.ibb.co/xm7rb99/TURKMENELI-TV.png" group-title="ULUSLARARASI",TÜRKMENELİ TV
 https://137840.global.ssl.fastly.net/edge/live_6b7c6e205afb11ebb010f5a331abaf98/tracks-v1a1/playlist.m3u8
 #EXTINF:142 tvg-id="BBC Entertainment" tvg-logo="http://i.ibb.co/DV2RjdG/BBC-ENTERTAINMENT.png" group-title="ULUSLARARASI",BBC ENTERTAINMENT
 http://606tv1.com:8080/hdemirci15/24062021adg@/192180
@@ -372,7 +372,7 @@ http://606tv1.com:8080/hdemirci15/24062021adg@/21749
 #EXTINF:355 tvg-id="24Kitchen" tvg-logo="http://i.ibb.co/TbTRT1b/24-KITCHEN.png" group-title="YAŞAM",24 KITCHEN
 http://606tv1.com:8080/hdemirci15/24062021adg@/19999
 #EXTINF:356 tvg-id="MY ZEN TV" tvg-logo="http://i.ibb.co/vsVPPMm/MYZEN-TV.png" group-title="YAŞAM",MYZEN TV
-http://king-tv.online:80/wctinney/aRaD1Pq2Rg/149230
+http://31.211.77.158:8000/play/a186/index.m3u8
 #EXTINF:365 tvg-id="TRT 4K" tvg-logo="http://i.ibb.co/hHmMBP7/TRT-4K.png" group-title="ULTRA HD",TRT 4K
 http://606tv1.com:8080/hdemirci15/24062021adg@/21769
 #EXTINF:367 tvg-id="GAMETOON" tvg-logo="http://i.ibb.co/WzKz0dp/GAMETOON.png" group-title="ÇOCUK",GAMETOON
@@ -428,7 +428,7 @@ http://606tv1.com:8080/hdemirci15/24062021adg@/192540
 #EXTINF:661 tvg-id="Mezzo" tvg-logo="http://i.ibb.co/QdwLQJm/MEZZO.png" group-title="MÜZİK",MEZZO
 http://606tv1.com:8080/hdemirci15/24062021adg@/183360
 #EXTINF:662 tvg-id="VH1" tvg-logo="http://i.ibb.co/HqDZpYJ/MTV-00S.png" group-title="MÜZİK",MTV 00S
-http://606tv1.com:8080/hdemirci15/24062021adg@/197285
+http://31.211.77.158:8000/play/a146/index.m3u8
 #EXTINF:663 tvg-logo="http://i.ibb.co/pPW5wyn/TATLISES-TV.png" group-title="MÜZİK",TATLISES TV
 http://606tv1.com:8080/hdemirci15/24062021adg@/685
 #EXTINF:664 tvg-id="Kral Pop" tvg-logo="http://i.ibb.co/pKm12rc/KRAL-POP-TV.png" group-title="MÜZİK",KRAL POP TV
@@ -454,7 +454,7 @@ http://606tv1.com:8080/hdemirci15/24062021adg@/88777
 #EXTINF:674 tvg-id="Trace Urban" tvg-logo="http://i.ibb.co/ggXYS5R/TRACE-URBAN.png" group-title="MÜZİK",TRACE URBAN
 http://606tv1.com:8080/hdemirci15/24062021adg@/183359
 #EXTINF:675 tvg-id="MTV Live" tvg-logo="http://i.ibb.co/8zs83sv/MTV-LIVE.png" group-title="MÜZİK",MTV LIVE
-http://606tv1.com:8080/hdemirci15/24062021adg@/192242
+http://606tv1.com:8080/hdemirci15/24062021adg@/192783
 #EXTINF:676 tvg-id="MTV Hits" tvg-logo="http://i.ibb.co/SJCQDRD/MTV-HITS.png" group-title="MÜZİK",MTV HITS
 http://606tv1.com:8080/hdemirci15/24062021adg@/195399
 #EXTINF:888 tvg-id="BİZİMEV TV" tvg-logo="http://i.ibb.co/wsmgWWJ/BIZIMEV-TV.png" group-title="YAŞAM",BİZİMEV TV
