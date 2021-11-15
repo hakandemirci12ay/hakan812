@@ -372,7 +372,7 @@ http://606tv1.com:8080/hdemirci15/24062021adg@/21749
 #EXTINF:355 tvg-id="24Kitchen" tvg-logo="http://i.ibb.co/TbTRT1b/24-KITCHEN.png" group-title="YAŞAM",24 KITCHEN
 http://606tv1.com:8080/hdemirci15/24062021adg@/19999
 #EXTINF:356 tvg-id="MY ZEN TV" tvg-logo="http://i.ibb.co/vsVPPMm/MYZEN-TV.png" group-title="YAŞAM",MYZEN TV
-http://31.211.77.158:8000/play/a186/index.m3u8
+https://tv.dansk.live:8443/enba/enba/116
 #EXTINF:365 tvg-id="TRT 4K" tvg-logo="http://i.ibb.co/hHmMBP7/TRT-4K.png" group-title="ULTRA HD",TRT 4K
 http://606tv1.com:8080/hdemirci15/24062021adg@/21769
 #EXTINF:367 tvg-id="GAMETOON" tvg-logo="http://i.ibb.co/WzKz0dp/GAMETOON.png" group-title="ÇOCUK",GAMETOON
@@ -426,7 +426,7 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_
 #EXTINF:660 tvg-id="MCM Top" tvg-logo="http://i.ibb.co/t4YJM5B/MCM-TOP.png" group-title="MÜZİK",MCM TOP
 http://606tv1.com:8080/hdemirci15/24062021adg@/192540
 #EXTINF:661 tvg-id="Mezzo" tvg-logo="http://i.ibb.co/QdwLQJm/MEZZO.png" group-title="MÜZİK",MEZZO
-http://606tv1.com:8080/hdemirci15/24062021adg@/183360
+http://606tv1.com:8080/hdemirci15/24062021adg@/197124
 #EXTINF:662 tvg-id="VH1" tvg-logo="http://i.ibb.co/HqDZpYJ/MTV-00S.png" group-title="MÜZİK",MTV 00S
 http://31.211.77.158:8000/play/a146/index.m3u8
 #EXTINF:663 tvg-logo="http://i.ibb.co/pPW5wyn/TATLISES-TV.png" group-title="MÜZİK",TATLISES TV
