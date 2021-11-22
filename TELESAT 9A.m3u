@@ -50,7 +50,7 @@ http://606tv1.com:8080/hdemirci15/24062021adg@/791
 #EXTINF:26 tvg-id="Star TV" tvg-logo="http://i.ibb.co/ygz2wMx/STAR-TV.png" group-title="ULUSAL",STAR TV
 http://606tv1.com:8080/hdemirci15/24062021adg@/796
 #EXTINF:27 tvg-id="KANAL 7" tvg-logo="http://i.ibb.co/qxrJRK9/KANAL-7.png" group-title="ULUSAL",KANAL 7
-http://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
+http://606tv1.com:8080/hdemirci15/24062021adg@/674
 #EXTINF:28 tvg-id="FOX" tvg-logo="http://i.ibb.co/V9KxPmd/FOX-TV.png" group-title="ULUSAL",FOX TV
 http://606tv1.com:8080/hdemirci15/24062021adg@/794
 #EXTINF:29 tvg-id="TV8" tvg-logo="http://i.ibb.co/3pgFKnp/TV8.png" group-title="ULUSAL",TV 8
@@ -152,7 +152,7 @@ http://606tv1.com:8080/hdemirci15/24062021adg@/12775
 #EXTINF:89 tvg-id="A News" tvg-logo="http://i.ibb.co/R9MGFnz/A-NEWS.png" group-title="ULUSLARARASI",A NEWS
 http://606tv1.com:8080/hdemirci15/24062021adg@/150459
 #EXTINF:90 tvg-id="CNN INTERNATIONAL" tvg-logo="http://i.ibb.co/yXwYDT2/CNN-INTERNATIONAL.png" group-title="ULUSLARARASI",CNN INTERNATIONAL
-https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+http://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:91 tvg-id="BBC World News" tvg-logo="http://i.ibb.co/BcZYgTw/BBC-WORLD-NEWS.png" group-title="ULUSLARARASI",BBC WORLD NEWS
 http://606tv1.com:8080/hdemirci15/24062021adg@/193420
 #EXTINF:92 tvg-id="BLOOMBERG HD" tvg-logo="http://i.ibb.co/31XcQdt/BLOOMBERG-TV.png" group-title="ULUSLARARASI",BLOOMBERG TV
@@ -170,11 +170,11 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_chunks.m3u8
 #EXTINF:99 tvg-id="TRT Arabi" tvg-logo="http://i.ibb.co/k5SxQYS/TRT-ARABI.png" group-title="ULUSLARARASI",TRT ARABİ
 http://606tv1.com:8080/hdemirci15/24062021adg@/167562
 #EXTINF:102 tvg-id="DEUTSCHE WELLE" tvg-logo="http://i.ibb.co/4Z8wMr0/DW-TV-ENGLISH.png" group-title="ULUSLARARASI",DW TV ENGLISH
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
+http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
 #EXTINF:103 tvg-id="DEUTSCHE WELLE (DE)" tvg-logo="http://i.ibb.co/4Z8wMr0/DW-TV-ENGLISH.png" group-title="ULUSLARARASI",DW TV GERMAN
-https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream03/streamPlaylist.m3u8
+http://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream03/streamPlaylist.m3u8
 #EXTINF:104 tvg-id="EURONEWS" tvg-logo="http://i.ibb.co/20zB3bB/EURONEWS.png" group-title="ULUSLARARASI",EURONEWS
-https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+http://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:105 tvg-id="France 24" tvg-logo="http://i.ibb.co/0J5MRfR/FRANCE-24-ENGLISH.png" group-title="ULUSLARARASI",FRANCE 24 ENGLISH
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:106 tvg-logo="http://i.ibb.co/0J5MRfR/FRANCE-24-ENGLISH.png" group-title="ULUSLARARASI",FRANCE 24 FRANÇAİS
@@ -224,7 +224,7 @@ http://606tv1.com:8080/hdemirci15/24062021adg@/150367
 #EXTINF:131 tvg-id="ANIMAUX" tvg-logo="http://i.ibb.co/R74PrGL/ANIMAUX.png" group-title="BELGESEL",ANIMAUX
 http://606tv1.com:8080/hdemirci15/24062021adg@/31668
 #EXTINF:132 tvg-id="RTG INT" tvg-logo="http://i.ibb.co/LNbnS0X/RTG-INT.png" group-title="BELGESEL",RUSSIAN TRAVEL GUIDE
-http://195.142.153.122:7777/play/a099
+https://strm.yandex.ru/kal/rtg/rtg0_169_480p.json/index-v1-a1.m3u8
 #EXTINF:133 tvg-id="CGTN DOCUMENTARY" tvg-logo="http://i.ibb.co/7JvG5WX/CGTN-DOCUMENTARY.png" group-title="BELGESEL",CGTN DOCUMENTARY
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:134 tvg-id="CHASSE ET PECHE" tvg-logo="http://i.ibb.co/W2zn1yc/CHASSE-ET-PECHE.png" group-title="BELGESEL",CHASSE & PECHE
