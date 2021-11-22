@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:1 tvg-id="beIN MOVIES PREMIERE" tvg-logo="http://i.ibb.co/3mRRxxM/be-IN-MOVIES-PREMIERE.png" group-title="SİNEMA",beIN MOVIES PREMIERE
 http://606tv1.com:8080/hdemirci15/24062021adg@/1695
 #EXTINF:2 tvg-id="beIN MOVIES PREMIERE 2" tvg-logo="http://i.ibb.co/hXZLW2R/be-IN-MOVIES-PREMIERE-2.png" group-title="SİNEMA",beIN MOVIES PREMIERE 2
@@ -467,19 +467,19 @@ http://606tv1.com:8080/hdemirci15/24062021adg@/124527
 https://edge1.socialsmart.tv/tv1/bant1/chunks.m3u8
 #EXTINF:892 tvg-logo="http://i.ibb.co/yyT4nP8/olay-turk.png" group-title="YEREL",OLAY TÜRK
 https://waw2.artiyerelmedya.net/olayturk/bant1/playlist.m3u8
-#EXTINF:1000 tvg-logo="http://i.ibb.co/8YK5QpD/TRT-FM.png" group-title="RADYO",TRT FM
+#EXTINF:1000 tvg-logo="http://i.ibb.co/StYqytR/TRT-FM.png" group-title="RADYO",TRT FM
 http://radio-trtfm.live.trt.com.tr/master.m3u8
-#EXTINF:1001 tvg-logo="http://i.ibb.co/VC73sv4/TRT-WORLD.png" group-title="RADYO",TRT WORLD RADIO
+#EXTINF:1001 tvg-logo="http://i.ibb.co/b2L2Ynf/TRT-WORLD-RADIO.png" group-title="RADYO",TRT WORLD RADIO
 https://radio-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:1002 tvg-logo="http://i.ibb.co/pb1dGP3/TRT-RADYO-1.png"  group-title="RADYO",TRT RADYO 1
+#EXTINF:1002 tvg-logo="http://i.ibb.co/JvLSpZz/TRT-RADYO-1.png"  group-title="RADYO",TRT RADYO 1
 http://radio-trtradyo1.live.trt.com.tr/master.m3u8
-#EXTINF:1003 tvg-logo="http://i.ibb.co/cFCgK42/TRT-RADYO-3.png" group-title="RADYO",TRT RADYO 3
+#EXTINF:1003 tvg-logo="http://i.ibb.co/s2Vz8RY/TRT-RADYO-3.png" group-title="RADYO",TRT RADYO 3
 http://radio-trtradyo3.live.trt.com.tr/master.m3u8
 #EXTINF:1004 tvg-logo="http://i.ibb.co/7kXPNf3/RADYO-D.png" group-title="RADYO",RADYO D
 https://radyo.duhnet.tv/radyod
-#EXTINF:1005 tvg-logo="http://i.ibb.co/KGhLxgz/TRT-NAGME.png" group-title="RADYO",TRT NAĞME
+#EXTINF:1005 tvg-logo="http://i.ibb.co/JrPwnwq/TRT-NAGME.png" group-title="RADYO",TRT NAĞME
 http://radio-trtnagme.live.trt.com.tr/master.m3u8
-#EXTINF:1006 tvg-logo="http://i.ibb.co/WDp1YKx/TRT-TURKU.png" group-title="RADYO",TRT TÜRKÜ
+#EXTINF:1006 tvg-logo="http://i.ibb.co/3pMyG0g/TRT-TURKU.png" group-title="RADYO",TRT TÜRKÜ
 http://radio-trtturku.live.trt.com.tr/master.m3u8
 #EXTINF:1007 tvg-logo="http://i.ibb.co/z77Kt3x/POL-S-RADYOSU.png" group-title="RADYO",POLİS RADYOSU
 https://m.egm.gov.tr:8093/;
