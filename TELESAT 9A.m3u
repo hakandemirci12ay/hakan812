@@ -168,7 +168,7 @@ https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 #EXTINF:98 tvg-logo="http://i.ibb.co/qC46VwC/SYRIA-TV.png" group-title="ULUSLARARASI",SYRIA TV
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_chunks.m3u8
 #EXTINF:99 tvg-id="TRT Arabi" tvg-logo="http://i.ibb.co/k5SxQYS/TRT-ARABI.png" group-title="ULUSLARARASI",TRT ARABİ
-http://606tv1.com:8080/hdemirci15/24062021adg@/167562
+http://tv-trtarabi.live.trt.com.tr/master_720.m3u8
 #EXTINF:102 tvg-id="DEUTSCHE WELLE" tvg-logo="http://i.ibb.co/4Z8wMr0/DW-TV-ENGLISH.png" group-title="ULUSLARARASI",DW TV ENGLISH
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
 #EXTINF:103 tvg-id="DEUTSCHE WELLE (DE)" tvg-logo="http://i.ibb.co/4Z8wMr0/DW-TV-ENGLISH.png" group-title="ULUSLARARASI",DW TV GERMAN
