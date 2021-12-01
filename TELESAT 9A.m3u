@@ -72,7 +72,7 @@ http://606tv1.com:8080/hdemirci15/24062021adg@/4938
 #EXTINF:37 tvg-id="TV 100" tvg-logo="http://i.ibb.co/rGfsnNt/TV-100.png" group-title="HABER",TV 100
 http://606tv1.com:8080/hdemirci15/24062021adg@/35531
 #EXTINF:38 tvg-id="Uçan Kuş TV" tvg-logo="http://i.ibb.co/2gHKxnZ/UCANKU-TV.png" group-title="ULUSAL",UÇANKUŞ TV
-http://lively.vip:8080/Khkn2233/FSKKB05cMz/63249
+https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
 #EXTINF:39 tvg-id="ULUSAL KANAL" tvg-logo="http://i.ibb.co/7n3t6f7/ULUSAL-KANAL.png" group-title="ULUSAL",ULUSAL KANAL
 http://606tv1.com:8080/hdemirci15/24062021adg@/20927
 #EXTINF:40 tvg-logo="http://i.ibb.co/pjy6thn/TIVI6.png" group-title="ULUSAL",TİVİ6
@@ -146,7 +146,7 @@ http://606tv1.com:8080/hdemirci15/24062021adg@/55087
 #EXTINF:78 tvg-id="EKOTÜRK" tvg-logo="http://i.ibb.co/3BWMjks/EKOTURK.png" group-title="HABER",EKOTÜRK
 http://606tv1.com:8080/hdemirci15/24062021adg@/691
 #EXTINF:87 tvg-id="CNBC" tvg-logo="http://i.ibb.co/mSr7HSf/CNBC.png" group-title="ULUSLARARASI",CNBC
-http://vi3.platplus435.ga:80/MB7EqNw7UQX6/xNYFACJfyUxQ/198245
+http://606tv1.com:8080/hdemirci15/24062021adg@/197163
 #EXTINF:88 tvg-id="TRT World" tvg-logo="http://i.ibb.co/VC73sv4/TRT-WORLD.png" group-title="ULUSLARARASI",TRT WORLD
 http://606tv1.com:8080/hdemirci15/24062021adg@/12775
 #EXTINF:89 tvg-id="A News" tvg-logo="http://i.ibb.co/R9MGFnz/A-NEWS.png" group-title="ULUSLARARASI",A NEWS
@@ -154,11 +154,11 @@ http://606tv1.com:8080/hdemirci15/24062021adg@/150459
 #EXTINF:90 tvg-id="CNN INTERNATIONAL" tvg-logo="http://i.ibb.co/yXwYDT2/CNN-INTERNATIONAL.png" group-title="ULUSLARARASI",CNN INTERNATIONAL
 http://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:91 tvg-id="BBC World News" tvg-logo="http://i.ibb.co/BcZYgTw/BBC-WORLD-NEWS.png" group-title="ULUSLARARASI",BBC WORLD NEWS
-http://vi3.platplus435.ga:80/MB7EqNw7UQX6/xNYFACJfyUxQ/202676
+http://606tv1.com:8080/hdemirci15/24062021adg@/197144
 #EXTINF:92 tvg-id="BLOOMBERG HD" tvg-logo="http://i.ibb.co/31XcQdt/BLOOMBERG-TV.png" group-title="ULUSLARARASI",BLOOMBERG TV
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:93 tvg-logo="http://i.ibb.co/yYW2MW0/FOX-NEWS-CHANNEL.png" group-title="ULUSLARARASI",FOX NEWS CHANNEL
-http://vi3.platplus435.ga:80/MB7EqNw7UQX6/xNYFACJfyUxQ/202746
+http://606tv1.com:8080/hdemirci15/24062021adg@/194307
 #EXTINF:95 tvg-id="AL JAZEERA ARABIC" tvg-logo="http://i.ibb.co/tc02MYv/ALJAZEERA-ARABIC.png" group-title="ULUSLARARASI",ALJAZEERA ARABIC
 http://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:96 tvg-id="AL JAZEERA ENGLISH" tvg-logo="http://i.ibb.co/nw18rxd/ALJAZEERA-ENGLISH.png" group-title="ULUSLARARASI",ALJAZEERA ENGLISH
@@ -190,19 +190,19 @@ http://606tv1.com:8080/hdemirci15/24062021adg@/20838
 #EXTINF:111 tvg-id="TRT Belgesel" tvg-logo="http://i.ibb.co/G2P4sKP/TRT-BELGESEL.png" group-title="BELGESEL",TRT BELGESEL
 https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 #EXTINF:112 tvg-id="National Geographic" tvg-logo="http://i.ibb.co/ww5J60c/NATIONAL-GEOGRAPHIC.png" group-title="BELGESEL",NATIONAL GEOGRAPHIC
-http://vi3.platplus435.ga:80/MB7EqNw7UQX6/xNYFACJfyUxQ/64449
+http://606tv1.com:8080/hdemirci15/24062021adg@/758
 #EXTINF:113 tvg-id="Nat Geo Wild" tvg-logo="http://i.ibb.co/qRbX1ds/NATIONAL-GEOGRAPHIC-WILD.png" group-title="BELGESEL",NAT GEO WILD
 http://606tv1.com:8080/hdemirci15/24062021adg@/711
 #EXTINF:114 tvg-id="VIASAT NATURE" tvg-logo="http://i.ibb.co/1bKpF8Q/VIASAT-NATURE.png" group-title="BELGESEL",VIASAT NATURE
 http://606tv1.com:8080/hdemirci15/24062021adg@/129751
 #EXTINF:115 tvg-id="Discovery Channel" tvg-logo="http://i.ibb.co/rGkK2FD/DISCOVERY-CHANNEL.png" group-title="BELGESEL",DISCOVERY CHANNEL
-http://vi3.platplus435.ga:80/MB7EqNw7UQX6/xNYFACJfyUxQ/64453
+http://606tv1.com:8080/hdemirci15/24062021adg@/766
 #EXTINF:116 tvg-id="Discovery Science" tvg-logo="http://i.ibb.co/2W5pXLX/DISCOVERY-SCIENCE.png" group-title="BELGESEL",DISCOVERY SCIENCE
-http://vi3.platplus435.ga:80/MB7EqNw7UQX6/xNYFACJfyUxQ/64454
+http://606tv1.com:8080/hdemirci15/24062021adg@/21118
 #EXTINF:117 tvg-id="ID" tvg-logo="http://i.ibb.co/bdmZNYX/ID.png" group-title="BELGESEL",ID
 http://vi3.platplus435.ga:80/MB7EqNw7UQX6/xNYFACJfyUxQ/64456
 #EXTINF:118 tvg-id="History" tvg-logo="http://i.ibb.co/fH5Rb2W/HISTORY-CHANNEL.png" group-title="BELGESEL",HISTORY CHANNEL
-http://vi3.platplus435.ga:80/MB7EqNw7UQX6/xNYFACJfyUxQ/57555
+http://606tv1.com:8080/hdemirci15/24062021adg@/73348
 #EXTINF:119 tvg-id="Viasat History" tvg-logo="http://i.ibb.co/0JCKHmm/VIASAT-HISTORY.png"  group-title="BELGESEL",VIASAT HISTORY
 http://606tv1.com:8080/hdemirci15/24062021adg@/784
 #EXTINF:120 tvg-id="TREK" tvg-logo="httP://i.ibb.co/n3wHbQC/TREK.png" group-title="BELGESEL",TREK
@@ -234,13 +234,13 @@ http://185.129.1.242:80/aztvhd/mpegts
 #EXTINF:141 tvg-id="TÜRKMENELİ TV" tvg-logo="http://i.ibb.co/xm7rb99/TURKMENELI-TV.png" group-title="ULUSLARARASI",TÜRKMENELİ TV
 https://137840.global.ssl.fastly.net/edge/6007ebae6349fb1839321e09/live_6b7c6e205afb11ebb010f5a331abaf98/index.m3u8
 #EXTINF:142 tvg-id="BBC Entertainment" tvg-logo="http://i.ibb.co/DV2RjdG/BBC-ENTERTAINMENT.png" group-title="ULUSLARARASI",BBC ENTERTAINMENT
-http://vi3.platplus435.ga:80/MB7EqNw7UQX6/xNYFACJfyUxQ/202711
+http://606tv1.com:8080/hdemirci15/24062021adg@/197143
 #EXTINF:143 tvg-id="TV5 Monde Europe" tvg-logo="http://i.ibb.co/6g3KLfP/TV5MONDE.png" group-title="ULUSLARARASI",TV5MONDE
-https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
+http://606tv1.com:8080/hdemirci15/24062021adg@/197276
 #EXTINF:144 tvg-id="CCTV 4" tvg-logo="http://i.ibb.co/vPtL4YX/CCTV-4.png" group-title="ULUSLARARASI",CCTV 4
 https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8
 #EXTINF:145 tvg-id="SAUDI TV" tvg-logo="http://i.ibb.co/CmrnwtY/SAUDI-TV.png" group-title="ULUSLARARASI",SAUDI TV
-http://vi3.platplus435.ga:80/MB7EqNw7UQX6/xNYFACJfyUxQ/194579
+http://606tv1.com:8080/hdemirci15/24062021adg@/196211
 #EXTINF:146 tvg-id="KAZAKH TV" tvg-logo="http://i.ibb.co/fxgdFv4/QAZAQ-TV.png" group-title="ULUSLARARASI",QAZAQ TV
 http://kazakhtv.ultraiptv.com/kazakhtv/playlist.m3u8
 #EXTINF:147 tvg-logo="http://i.ibb.co/KzSGK2t/HAYAT-PLUS.png" group-title="ULUSLARARASI",HAYAT PLUS
@@ -258,7 +258,7 @@ http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
 #EXTINF:153 tvg-id="RAI UNO" tvg-logo="http://i.ibb.co/XyV7nY0/RAI-UNO.png" group-title="ULUSLARARASI",RAI UNO
 http://lively.vip:8080/Khkn2233/FSKKB05cMz/81639
 #EXTINF:154 tvg-id="CHANNEL ONE RUSSIA" tvg-logo="http://i.ibb.co/ZTc1jVy/CHANNEL-ONE-RUSSIA.png" group-title="ULUSLARARASI",CHANNEL ONE RUSSIA
-https://cdn10.1internet.tv/dash-live11/streams/1tv/1tvdash.mpd
+http://606tv1.com:8080/hdemirci15/24062021adg@/195751
 #EXTINF:155 tvg-logo="http://i.ibb.co/RHt1CMc/PRO7.png" group-title="ULUSLARARASI",PRO7
 http://606tv1.com:8080/hdemirci15/24062021adg@/201609
 #EXTINF:156 tvg-logo="http://i.ibb.co/vhc3yrD/RTL.png" group-title="ULUSLARARASI",RTL
@@ -272,7 +272,7 @@ http://606tv1.com:8080/hdemirci15/24062021adg@/697
 #EXTINF:225 tvg-id="Eurosport 1" tvg-logo="http://i.ibb.co/H465dxG/EUROSPORT-1.png" group-title="SPOR",EUROSPORT 1
 http://606tv1.com:8080/hdemirci15/24062021adg@/806
 #EXTINF:226 tvg-id="Eurosport 2" tvg-logo="http://i.ibb.co/QJCMB9b/EUROSPORT-2.png" group-title="SPOR",EUROSPORT 2
-http://lively.vip:8080/Khkn2233/FSKKB05cMz/218
+http://606tv1.com:8080/hdemirci15/24062021adg@/805
 #EXTINF:228 tvg-id="TRACE SPORT STARS" tvg-logo="http://i.ibb.co/4RGGPPV/TRACE-SPORTS-STARS.png" group-title="SPOR",TRACE SPORTS STARS
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:229 tvg-id="AUTOMOTO" tvg-logo="http://i.ibb.co/ZzQkNjv/AUTOMOTO.png" group-title="SPOR",AUTOMOTO
@@ -330,7 +330,7 @@ http://606tv1.com:8080/hdemirci15/24062021adg@/810
 #EXTINF:255 tvg-id="Tivibu Spor 4" tvg-logo="http://i.ibb.co/FHrWZK3/TIVIBU-SPOR-4.png" group-title="SPOR",TİVİBU SPOR 4
 http://606tv1.com:8080/hdemirci15/24062021adg@/129749
 #EXTINF:257 tvg-id="Exxen Sport" tvg-logo="http://resim.yayins.com/exxen.png" group-title="SPOR",EXXEN SPOR
-http://606tv1.com:8080/hdemirci15/24062021adg@/201309
+http://606tv1.com:8080/hdemirci15/24062021adg@/187629
 #EXTINF:326 tvg-id="beIN SERIES SCI-FI" tvg-logo="http://i.ibb.co/d4QMgwf/be-IN-SERIES-SCI-FI.png" group-title="DİZİ",beIN SERIES SCI-FI
 http://606tv1.com:8080/hdemirci15/24062021adg@/768
 #EXTINF:327 tvg-id="beIN SERIES COMEDY" tvg-logo="http://i.ibb.co/bz09Sjg/be-IN-SERIES-COMEDY.png" group-title="DİZİ",beIN SERIES COMEDY
