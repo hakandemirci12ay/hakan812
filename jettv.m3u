@@ -15,31 +15,31 @@ https://metvmetvmetv7.serv00.net/vavame.php?id=3719397522&e=.m3u8
 https://metvmetvmetv7.serv00.net/vavame.php?id=1617719941&e=.m3u8
 #EXTINF:7,SINEMA AKSIYON
 https://metvmetvmetv7.serv00.net/vavame.php?id=1293127897&e=.m3u8
-#EXTINF:7,SINEMA YERLİ
+#EXTINF:8,SINEMA YERLİ
 https://metvmetvmetv7.serv00.net/vavame.php?id=2484805699&e=.m3u8
-#EXTINF:8,SINEMA KOMEDİ
+#EXTINF:9,SINEMA KOMEDİ
 http://31.222.206.98/8855/tracks-v1a1/mono.ts.m3u8?token=test
-#EXTINF:9,SINEMA AİLE
+#EXTINF:10,SINEMA AİLE
 http://31.222.206.98/8847/tracks-v1a1/mono.ts.m3u8?token=test
-#EXTINF:10,SINEMA 1001
+#EXTINF:11,SINEMA 1001
 http://31.222.206.98/8848/tracks-v1a1/mono.ts.m3u8?token=test
-#EXTINF:11,BLUTV PLAY 1
+#EXTINF:12,BLUTV PLAY 1
 https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/playlist.m3u8
-#EXTINF:12,BLUTV PLAY 2
+#EXTINF:13,BLUTV PLAY 2
 https://play2.blutv.com/blutv_play2/smil:blutv_play2.smil/playlist.m3u8
-#EXTINF:13,TABİİ TV
+#EXTINF:14,TABİİ TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
-#EXTINF:14,FX
+#EXTINF:15,FX
 https://metvmetvmetv7.serv00.net/vavame.php?id=2851147991&e=.m3u8
-#EXTINF:15,BBC FIRST
+#EXTINF:16,BBC FIRST
 http://spy17.eu:80/live/ozkanshmx/06.02.22/310888.ts
-#EXTINF:16,EPIC DRAMA
+#EXTINF:17,EPIC DRAMA
 http://spy17.eu:80/live/ozkanshmx/06.02.22/292011.ts
-#EXTINF:17,FILMSCREEN
+#EXTINF:18,FILMSCREEN
 http://lb.wisp.cat/lb0/TR_FILMBOX/video.m3u8?token=9bmCmR7
-#EXTINF:18,CINE6
+#EXTINF:19,CINE6
 https://tivi44.ozelip.com:3614/stream/play.m3u8
-#EXTINF:19,TRT NOSTALJİ
+#EXTINF:20,TRT NOSTALJİ
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 #EXTINF:21,TRT 1
 https://x.canlitvapp.com/trt1/index.m3u8
@@ -110,7 +110,7 @@ http://stream.tvcdn.net/eglence/dmax.m3u8
 #EXTINF:56,TRT 2
 http://stream.tvcdn.net/eglence/trt-2.m3u8
 #EXTINF:57,VAV TV
-http://bit.ly/3Bk64fu
+http://185.234.111.229:8000/play/a01n
 #EXTINF:58,TH TÜRKHABER
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 #EXTINF:59,TV4
@@ -137,6 +137,8 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d91
 http://stream.tvcdn.net/haber/halk-tv.m3u8
 #EXTINF:69,SZC
 http://stream.tvcdn.net/haber/sozcu-tv.m3u8
+#EXTINF:70,GZT
+https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 #EXTINF:71,EUROSPORT 1
 https://metvmetvmetv7.serv00.net/vavame.php?id=2078862937&e=.m3u8
 #EXTINF:72,EUROSPORT 2
@@ -185,8 +187,10 @@ http://lb.wisp.cat/lb0/TR_SPORSMART/video.m3u8?token=9bmCmR7
 http://lb.wisp.cat/lb0/TR_SPORSMART2/video.m3u8?token=9bmCmR7
 #EXTINF:94,SPORTS TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:95,TRACE SPORT STARS
+http://spy17.eu:80/live/ozkanshmx/06.02.22/329193.ts
 #EXTINF:97,TRT 3 SPOR
-http://bit.ly/3AQvd05
+http://stream.tvcdn.net/spor/trt-3-spor.m3u8
 #EXTINF:98,HISTORY CHANNEL
 http://bit.ly/3t5gR8S
 #EXTINF:99,TRT BELGESEL
