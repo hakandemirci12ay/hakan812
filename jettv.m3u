@@ -1,146 +1,180 @@
 #EXTM3U
-#EXTINF:1,beIN MOVIES PREMIERE
+#EXTINF:0,ALMUS MOBESE
+rtsp://Admin:1954-1954@95.9.84.196:554/h264
+#EXTINF:1,TASKRÜT MOVIES PREMIERE
 https://metvmetvmetv7.serv00.net/vavame.php?id=942987224&e=.m3u8
-#EXTINF:2,beIN MOVIES PREMIERE 2
-https://metvmetvmetv7.serv00.net/vavame.php?id=2244069093&e=.m3u8
-#EXTINF:1,beIN MOVIES TÜRK
+#EXTINF:2,TASKRÜT MOVIES TÜRK
 https://metvmetvmetv7.serv00.net/vavame.php?id=3390575948&e=.m3u8
-#EXTINF:1,beIN MOVIES STARS
+#EXTINF:3,TASKRÜT MOVIES STARS
 https://metvmetvmetv7.serv00.net/vavame.php?id=2500913164&e=.m3u8
-#EXTINF:1,MOVIESMART CLASSIC
+#EXTINF:4,MOVIESMART CLASSIC
 https://metvmetvmetv7.serv00.net/vavame.php?id=1337239933&e=.m3u8
-#EXTINF:2,MOVIESMART TÜRK
+#EXTINF:5,MOVIESMART TÜRK
 https://metvmetvmetv7.serv00.net/vavame.php?id=3719397522&e=.m3u8
-#EXTINF:3,SINEMA TV
+#EXTINF:6,SINEMA TV
 https://metvmetvmetv7.serv00.net/vavame.php?id=1617719941&e=.m3u8
-#EXTINF:4,SINEMA 2
-http://bit.ly/3GwxVu7
-#EXTINF:5,SINEMA AKSIYON
-http://bit.ly/3a93XjP
-#EXTINF:6,SINEMA AKSIYON 2
-http://bit.ly/3wXhGTL
+#EXTINF:7,SINEMA AKSIYON
+https://metvmetvmetv7.serv00.net/vavame.php?id=1293127897&e=.m3u8
 #EXTINF:7,SINEMA YERLİ
-http://bit.ly/3N3z7Yk
-#EXTINF:8,SINEMA YERLİ 2
-http://bit.ly/3LXuptR
-#EXTINF:9,SINEMA KOMEDİ
-http://bit.ly/3N2PnbW
-#EXTINF:10,SINEMA KOMEDİ 2
-http://bit.ly/3PR0I0A
-#EXTINF:11,SINEMA AİLE
-http://bit.ly/3N1fKiq
-#EXTINF:12,SINEMA AİLE 2
-http://bit.ly/38uoJdb
-#EXTINF:13,SINEMA 1001
-http://bit.ly/3lWMTjI
-#EXTINF:14,SINEMA 1002
-http://bit.ly/3a7nIYL
-#EXTINF:22,TRT 1
-http://bit.ly/3KOXdWk
-#EXTINF:23,KANAL D
-http://bit.ly/3AZFnvA
-#EXTINF:24,ATV
-http://bit.ly/3evgssd
-#EXTINF:25,SHOW TV
-http://bit.ly/3RIMrDc
-#EXTINF:26,FOX TV
-http://bit.ly/3KUBgp8
-#EXTINF:27,STAR TV
-http://bit.ly/3RyN42w
-#EXTINF:28,KANAL 7
-http://bit.ly/3Qp80Yu
-#EXTINF:29,TV8
-http://bit.ly/3QhEFiF
-#EXTINF:30,360 TV
-http://bit.ly/3AGOv7U
-#EXTINF:31,BEYAZ TV
-http://bit.ly/3BkUpNP
+https://metvmetvmetv7.serv00.net/vavame.php?id=2484805699&e=.m3u8
+#EXTINF:8,SINEMA KOMEDİ
+http://31.222.206.98/8855/tracks-v1a1/mono.ts.m3u8?token=test
+#EXTINF:9,SINEMA AİLE
+http://31.222.206.98/8847/tracks-v1a1/mono.ts.m3u8?token=test
+#EXTINF:10,SINEMA 1001
+http://31.222.206.98/8848/tracks-v1a1/mono.ts.m3u8?token=test
+#EXTINF:11,BLUTV PLAY 1
+https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/playlist.m3u8
+#EXTINF:12,BLUTV PLAY 2
+https://play2.blutv.com/blutv_play2/smil:blutv_play2.smil/playlist.m3u8
+#EXTINF:13,TABİİ TV
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
+#EXTINF:14,FX
+https://metvmetvmetv7.serv00.net/vavame.php?id=2851147991&e=.m3u8
+#EXTINF:15,BBC FIRST
+http://spy17.eu:80/live/ozkanshmx/06.02.22/310888.ts
+#EXTINF:16,EPIC DRAMA
+http://spy17.eu:80/live/ozkanshmx/06.02.22/292011.ts
+#EXTINF:17,FILMSCREEN
+http://lb.wisp.cat/lb0/TR_FILMBOX/video.m3u8?token=9bmCmR7
+#EXTINF:18,CINE6
+https://tivi44.ozelip.com:3614/stream/play.m3u8
+#EXTINF:19,TRT NOSTALJİ
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
+#EXTINF:21,TRT 1
+https://x.canlitvapp.com/trt1/index.m3u8
+#EXTINF:22,KANAL D
+https://x.canlitvapp.com/kanald/index.m3u8
+#EXTINF:23,ATV
+https://x.canlitvapp.com/aytv/index.m3u8
+#EXTINF:24,SHOW TV
+http://stream.tvcdn.net/ulusal/show-tv.m3u8
+#EXTINF:25,NOW
+https://x.canlitvapp.com/fox/index.m3u8
+#EXTINF:26,STAR TV
+https://x.canlitvapp.com/star/index.m3u8
+#EXTINF:27,KANAL 7
+https://x.canlitvapp.com/kanal7/index.m3u8
+#EXTINF:28,TV8
+https://x.canlitvapp.com/kanal8/index.m3u8
+#EXTINF:29,360 TV
+https://tv.ensonhaber.com/tv360/tv360.m3u8
+#EXTINF:30,BEYAZ TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 #EXTINF:33,TRT HABER
-http://bit.ly/3AUDgsC
+http://stream.tvcdn.net/haber/trt-haber.m3u8
 #EXTINF:34,NTV
-http://bit.ly/3cMmK6d
+http://stream.tvcdn.net/haber/ntv.m3u8
 #EXTINF:35,A HABER
-http://bit.ly/3qgCFwt
+https://x.canlitvapp.com/ahaber/index.m3u8
 #EXTINF:36,24 TV
-http://bit.ly/3Qg1nrD
+http://stream.tvcdn.net/haber/24-tv.m3u8
 #EXTINF:37,CNN TÜRK
-http://bit.ly/3x2mWF4
+https://x.canlitvapp.com/cnn/index.m3u8
 #EXTINF:38,HABERTÜRK
-http://bit.ly/3QnF5UC
+http://stream.tvcdn.net/haber/haberturk.m3u8
 #EXTINF:39,BLOOMBERG HT
-http://bit.ly/3TMrEAI
+http://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8
 #EXTINF:40,ÜLKE TV
-http://bit.ly/3Bix0wd
+https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 #EXTINF:41,TVNET
-http://bit.ly/3qhpVWq
-#EXTINF:42,KON TV
-http://bit.ly/3Qm7kDd
+http://stream.tvcdn.net/haber/tvnet.m3u8
+#EXTINF:42,CNBC-e
+http://stream.tvcdn.net/ekonomi/cnbc-e.m3u8
 #EXTINF:43,TGRT HABER
-http://bit.ly/3TKH749
+http://stream.tvcdn.net/haber/tgrt-haber.m3u8
 #EXTINF:44,A PARA
-http://bit.ly/3escNLJ
+http://185.234.111.229:8000/play/a01l
 #EXTINF:45,AKİT TV
-http://bit.ly/3QAALln
+http://stream.tvcdn.net/haber/akit-tv.m3u8
 #EXTINF:46,HABER GLOBAL
-http://bit.ly/3RKUNul
+http://stream.tvcdn.net/haber/haber-global.m3u8
 #EXTINF:47,TV 100
-http://bit.ly/3KSsWpN
+http://stream.tvcdn.net/ulusal/tv-100.m3u8
 #EXTINF:48,BENGÜTÜRK
-http://bit.ly/3CYKkqP
+http://stream.tvcdn.net/haber/benguturk-tv.m3u8
 #EXTINF:49,DİYANET TV
-http://bit.ly/3RCHhbS
-#EXTINF:50,A2
-http://bit.ly/3KRZDDB
-#EXTINF:51,TEVE2
-http://bit.ly/3x0slfS
-#EXTINF:52,TV8.5
-http://bit.ly/3eu3Ukv
-#EXTINF:53,TLC
-http://bit.ly/3cKfiZ0
-#EXTINF:54,DMAX
-http://bit.ly/3x1ronx
-#EXTINF:55,TRT 2
-http://bit.ly/3KUHIwm
-#EXTINF:56,VAV TV
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:50,SHOWMAX
+https://metvmetvmetv7.serv00.net/vavame.php?id=1197572527&e=.m3u8
+#EXTINF:51,A2
+http://185.234.111.229:8000/play/a01m
+#EXTINF:52,TEVE2
+http://stream.tvcdn.net/eglence/teve2.m3u8
+#EXTINF:53,TV8.5
+http://stream.tvcdn.net/eglence/tv8-5.m3u8
+#EXTINF:54,TLC
+http://stream.tvcdn.net/eglence/tlc.m3u8
+#EXTINF:55,DMAX
+http://stream.tvcdn.net/eglence/dmax.m3u8
+#EXTINF:56,TRT 2
+http://stream.tvcdn.net/eglence/trt-2.m3u8
+#EXTINF:57,VAV TV
 http://bit.ly/3Bk64fu
-#EXTINF:57,24KITCHEN
-http://bit.ly/3LYkGDD
-#EXTINF:58,TV4
-http://bit.ly/3cQFlxP
-#EXTINF:59,UÇANKUŞ TV
-http://bit.ly/3x0b32E
-#EXTINF:60,BBN TÜRK
-http://bit.ly/3BhFWBX
-#EXTINF:61,ULUSAL KANAL
-http://bit.ly/3qhgk1Q
-#EXTINF:62,EKOTÜRK
-http://bit.ly/3BkvXw2
-#EXTINF:63,TRT TÜRK
-http://bit.ly/3TKlhxL
+#EXTINF:58,TH TÜRKHABER
+https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
+#EXTINF:59,TV4
+http://stream.tvcdn.net/eglence/tv-4.m3u8
+#EXTINF:60,KON TV
+http://185.234.111.229:8000/play/a05o
+#EXTINF:61,EKOL TV
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
+#EXTINF:62,ULUSAL KANAL
+https://internettv.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
+#EXTINF:63,EKOTÜRK
+http://stream.tvcdn.net/ekonomi/ekoturk.m3u8
+#EXTINF:64,TRT TÜRK
+http://stream.tvcdn.net/ulusal-yurt-disi/trt-turk.m3u8
 #EXTINF:64,TRT AVAZ
-http://bit.ly/3euEYJX
+http://stream.tvcdn.net/ulusal-yurt-disi/trt-avaz.m3u8
 #EXTINF:65,TRT KURDİ
-http://bit.ly/3qeH570
+http://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
+#EXTINF:66,TV5
+https://tv5-live.ercdn.net/tv5/tv5.m3u8
 #EXTINF:67,SEMERKAND TV
-http://bit.ly/3CZB06d
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
 #EXTINF:68,HALK TV
-http://bit.ly/3D0Q2IK
+http://stream.tvcdn.net/haber/halk-tv.m3u8
+#EXTINF:69,SZC
+http://stream.tvcdn.net/haber/sozcu-tv.m3u8
 #EXTINF:71,EUROSPORT 1
-http://bit.ly/3x0TdMI
+https://metvmetvmetv7.serv00.net/vavame.php?id=2078862937&e=.m3u8
 #EXTINF:72,EUROSPORT 2
-http://bit.ly/3AXCPh9
-#EXTINF:77,TİVİBU SPOR
-http://bit.ly/390fly1
+https://metvmetvmetv7.serv00.net/vavame.php?id=4117227962&e=.m3u8
+#EXTINF:73,S SPORT
+https://metvmetvmetv7.serv00.net/vavame.php?id=3346549722&e=.m3u8
+#EXTINF:74,S SPORT 2
+https://metvmetvmetv7.serv00.net/vavame.php?id=1234604880&e=.m3u8
+#EXTINF:75,NBA TV
+https://metvmetvmetv7.serv00.net/vavame.php?id=2462143546&e=.m3u8
+#EXTINF:76,W-SPORT
+http://spy17.eu:80/live/selentv/17.01.2022/319406.ts
+#EXTINF:77,TASKRUT SPORTS 1
+https://metvmetvmetv7.serv00.net/vavame.php?id=143239535&e=.m3u8
+#EXTINF:78,TASKRUT SPORTS 2
+https://metvmetvmetv7.serv00.net/vavame.php?id=3236362911&e=.m3u8
+#EXTINF:79,TASKRUT SPORTS 3
+https://metvmetvmetv7.serv00.net/vavame.php?id=206371329&e=.m3u8
+#EXTINF:80,TASKRUT SPORTS 4
+https://metvmetvmetv7.serv00.net/vavame.php?id=3640906370&e=.m3u8
+#EXTINF:81,TASKRUT SPORTS 5
+https://metvmetvmetv7.serv00.net/vavame.php?id=3831757618&e=.m3u8
+#EXTINF:82,TİVİBU SPOR
+https://metvmetvmetv7.serv00.net/vavame.php?id=1406262118&e=.m3u8
 #EXTINF:83,A SPOR
-http://bit.ly/3cYHUxP
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 #EXTINF:84,TRT SPOR
-http://bit.ly/3x6g5un
+http://stream.tvcdn.net/spor/trt-spor.m3u8
 #EXTINF:85,TRT SPOR YILDIZ
-http://bit.ly/3Qpd3rQ
+http://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:86,FB TV
-http://bit.ly/3Bj2QJd
+http://stream.tvcdn.net/spor/fb-tv.m3u8
 #EXTINF:87,GS TV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+#EXTINF:88,HT SPOR
+https://ciner-live.ercdn.net/htspor/htspor.m3u8
+#EXTINF:89,TABİİ SPOR
+https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
 #EXTINF:90,FIGHT NETWORK
 http://bit.ly/3a5RZHn
 #EXTINF:94,SPORTS TV
@@ -187,8 +221,7 @@ http://bit.ly/3RtnOdS
 http://bit.ly/3lRQ2B9
 #EXTINF:126,DA VINCI
 http://bit.ly/3MV7FvM
-#EXTINF:141,FX
-http://bit.ly/38XSbZ5
+
 #EXTINF:142,FOXCRIME
 http://bit.ly/3wZPHTv
 #EXTINF:143,BBC FIRST
