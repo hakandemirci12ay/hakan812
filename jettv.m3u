@@ -1,10 +1,18 @@
 #EXTM3U
+#EXTINF:1,beIN MOVIES PREMIERE
+https://metvmetvmetv7.serv00.net/vavame.php?id=942987224&e=.m3u8
+#EXTINF:2,beIN MOVIES PREMIERE 2
+https://metvmetvmetv7.serv00.net/vavame.php?id=2244069093&e=.m3u8
+#EXTINF:1,beIN MOVIES TÜRK
+https://metvmetvmetv7.serv00.net/vavame.php?id=3390575948&e=.m3u8
+#EXTINF:1,beIN MOVIES STARS
+https://metvmetvmetv7.serv00.net/vavame.php?id=2500913164&e=.m3u8
 #EXTINF:1,MOVIESMART CLASSIC
-http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/139527
+https://metvmetvmetv7.serv00.net/vavame.php?id=1337239933&e=.m3u8
 #EXTINF:2,MOVIESMART TÜRK
-http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/132718
+https://metvmetvmetv7.serv00.net/vavame.php?id=3719397522&e=.m3u8
 #EXTINF:3,SINEMA TV
-http://bit.ly/3GytGyk
+https://metvmetvmetv7.serv00.net/vavame.php?id=1617719941&e=.m3u8
 #EXTINF:4,SINEMA 2
 http://bit.ly/3GwxVu7
 #EXTINF:5,SINEMA AKSIYON
