@@ -175,8 +175,14 @@ https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 https://ciner-live.ercdn.net/htspor/htspor.m3u8
 #EXTINF:89,TABİİ SPOR
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
-#EXTINF:90,FIGHT NETWORK
-http://bit.ly/3a5RZHn
+#EXTINF:90,COSMO SPORTS
+http://spy17.eu:80/live/ozkanshmx/06.02.22/312667.ts
+#EXTINF:91,TJK TV
+http://tjktv-live.tjk.org/tjktv.m3u8
+#EXTINF:92,SPORSMART
+http://lb.wisp.cat/lb0/TR_SPORSMART/video.m3u8?token=9bmCmR7
+#EXTINF:93,SPORSMART 2
+http://lb.wisp.cat/lb0/TR_SPORSMART2/video.m3u8?token=9bmCmR7
 #EXTINF:94,SPORTS TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:97,TRT 3 SPOR
