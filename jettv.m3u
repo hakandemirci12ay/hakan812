@@ -190,7 +190,7 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:95,TRACE SPORT STARS
 http://spy17.eu:80/live/ozkanshmx/06.02.22/329193.ts
 #EXTINF:97,TRT 3 SPOR
-http://stream.tvcdn.net/spor/trt-3-spor.m3u8
+https://tv-trt3.live.trt.com.tr/master.m3u8
 #EXTINF:98,HISTORY CHANNEL
 http://bit.ly/3t5gR8S
 #EXTINF:99,TRT BELGESEL
