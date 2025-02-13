@@ -152,15 +152,15 @@ https://metvmetvmetv7.serv00.net/vavame.php?id=2462143546&e=.m3u8
 #EXTINF:76,W-SPORT
 http://spy17.eu:80/live/selentv/17.01.2022/319406.ts
 #EXTINF:77,TASKRUT SPORTS 1
-https://metvmetvmetv7.serv00.net/vavame.php?id=143239535&e=.m3u8
+https://t55.1ff05699778444598.workers.dev/static/bs1.m3u8
 #EXTINF:78,TASKRUT SPORTS 2
-https://metvmetvmetv7.serv00.net/vavame.php?id=3236362911&e=.m3u8
+https://t55.1ff05699778444598.workers.dev/static/bs2.m3u8
 #EXTINF:79,TASKRUT SPORTS 3
-https://metvmetvmetv7.serv00.net/vavame.php?id=206371329&e=.m3u8
+https://t55.1ff05699778444598.workers.dev/static/bs3.m3u8
 #EXTINF:80,TASKRUT SPORTS 4
-https://metvmetvmetv7.serv00.net/vavame.php?id=3640906370&e=.m3u8
+https://t55.1ff05699778444598.workers.dev/static/bs4.m3u8
 #EXTINF:81,TASKRUT SPORTS 5
-https://metvmetvmetv7.serv00.net/vavame.php?id=3831757618&e=.m3u8
+https://t55.1ff05699778444598.workers.dev/static/bs5.m3u8
 #EXTINF:82,TİVİBU SPOR
 https://metvmetvmetv7.serv00.net/vavame.php?id=1406262118&e=.m3u8
 #EXTINF:83,A SPOR
@@ -189,6 +189,8 @@ http://lb.wisp.cat/lb0/TR_SPORSMART2/video.m3u8?token=9bmCmR7
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:95,TRACE SPORT STARS
 http://spy17.eu:80/live/ozkanshmx/06.02.22/329193.ts
+#EXTINF:96,TASKRÜT SPORTS HABER
+https://ythls.armelin.one/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
 #EXTINF:97,TRT 3 SPOR
 https://tv-trt3.live.trt.com.tr/master.m3u8
 #EXTINF:98,HISTORY CHANNEL
