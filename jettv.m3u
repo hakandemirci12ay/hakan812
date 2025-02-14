@@ -140,9 +140,9 @@ http://stream.tvcdn.net/haber/sozcu-tv.m3u8
 #EXTINF:70,GZT
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 #EXTINF:71,EUROSPORT 1
-https://metvmetvmetv7.serv00.net/vavame.php?id=2078862937&e=.m3u8
+https://eurosport1.blutv.com/blutv_eurosport1/smil:eurosport1.smil/playlist.m3u8
 #EXTINF:72,EUROSPORT 2
-https://metvmetvmetv7.serv00.net/vavame.php?id=4117227962&e=.m3u8
+https://eurosport2.blutv.com/blutv_eurosport2/smil:eurosport2.smil/playlist.m3u8
 #EXTINF:73,S SPORT
 https://metvmetvmetv7.serv00.net/vavame.php?id=3346549722&e=.m3u8
 #EXTINF:74,S SPORT 2
